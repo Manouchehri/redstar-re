@@ -1,0 +1,392 @@
+ELF Header:
+  Magic:   7f 45 4c 46 01 01 01 00 00 00 00 00 00 00 00 00 
+  Class:                             ELF32
+  Data:                              2's complement, little endian
+  Version:                           1 (current)
+  OS/ABI:                            UNIX - System V
+  ABI Version:                       0
+  Type:                              REL (Relocatable file)
+  Machine:                           Intel 80386
+  Version:                           0x1
+  Entry point address:               0x0
+  Start of program headers:          0 (bytes into file)
+  Start of section headers:          23920 (bytes into file)
+  Flags:                             0x0
+  Size of this header:               52 (bytes)
+  Size of program headers:           0 (bytes)
+  Number of program headers:         0
+  Size of section headers:           40 (bytes)
+  Number of section headers:         23
+  Section header string table index: 20
+
+Section Headers:
+  [Nr] Name              Type            Addr     Off    Size   ES Flg Lk Inf Al
+  [ 0]                   NULL            00000000 000000 000000 00      0   0  0
+  [ 1] .note.gnu.build-i NOTE            00000000 000034 000024 00   A  0   0  4
+  [ 2] .text             PROGBITS        00000000 000058 003180 00  AX  0   0  4
+  [ 3] .rel.text         REL             00000000 006970 0004b8 08     21   2  4
+  [ 4] .exit.text        PROGBITS        00000000 0031d8 000014 00  AX  0   0  1
+  [ 5] .rel.exit.text    REL             00000000 006e28 000018 08     21   4  4
+  [ 6] .init.text        PROGBITS        00000000 0031ec 00000f 00  AX  0   0  1
+  [ 7] .rel.init.text    REL             00000000 006e40 000010 08     21   6  4
+  [ 8] .modinfo          PROGBITS        00000000 0031fc 0000b9 00   A  0   0  4
+  [ 9] .eh_frame         PROGBITS        00000000 0032b8 0003f4 00   A  0   0  4
+  [10] .rel.eh_frame     REL             00000000 006e50 000100 08     21   9  4
+  [11] __mcount_loc      PROGBITS        00000000 0036ac 000078 00   A  0   0  4
+  [12] .rel__mcount_loc  REL             00000000 006f50 0000f0 08     21  11  4
+  [13] .data             PROGBITS        00000000 003724 0023b0 00  WA  0   0  4
+  [14] .rel.data         REL             00000000 007040 000030 08     21  13  4
+  [15] .gnu.linkonce.thi PROGBITS        00000000 005ad4 00017c 00  WA  0   0  4
+  [16] .rel.gnu.linkonce REL             00000000 007070 000010 08     21  15  4
+  [17] .bss              NOBITS          00000000 005c50 000000 00  WA  0   0  4
+  [18] .comment          PROGBITS        00000000 005c50 00005a 00      0   0  1
+  [19] .note.GNU-stack   PROGBITS        00000000 005caa 000000 00      0   0  1
+  [20] .shstrtab         STRTAB          00000000 005caa 0000c4 00      0   0  1
+  [21] .symtab           SYMTAB          00000000 006108 0004f0 10     22  24  4
+  [22] .strtab           STRTAB          00000000 0065f8 000375 00      0   0  1
+Key to Flags:
+  W (write), A (alloc), X (execute), M (merge), S (strings)
+  I (info), L (link order), G (group), T (TLS), E (exclude), x (unknown)
+  O (extra OS processing required) o (OS specific), p (processor specific)
+
+There are no section groups in this file.
+
+There are no program headers in this file.
+
+Relocation section '.rel.text' at offset 0x6970 contains 151 entries:
+ Offset     Info    Type            Sym.Value  Sym. Name
+00000004  00003702 R_386_PC32        00000000   mcount
+00000043  00003702 R_386_PC32        00000000   mcount
+0000007a  00003702 R_386_PC32        00000000   mcount
+000000a8  00002b01 R_386_32          000001c8   ISbox
+000000bb  00003702 R_386_PC32        00000000   mcount
+000012b2  00003702 R_386_PC32        00000000   mcount
+000012d5  00003702 R_386_PC32        00000000   mcount
+00001388  00004601 R_386_32          000000c8   Sbox
+000013a6  00004601 R_386_32          000000c8   Sbox
+000013b7  00004601 R_386_32          000000c8   Sbox
+000013c8  00004601 R_386_32          000000c8   Sbox
+000013da  00003b01 R_386_32          00000050   rcon
+00001426  00004601 R_386_32          000000c8   Sbox
+00001436  00004601 R_386_32          000000c8   Sbox
+00001446  00004601 R_386_32          000000c8   Sbox
+00001456  00004601 R_386_32          000000c8   Sbox
+000014cf  00003702 R_386_PC32        00000000   mcount
+000016e9  00004d01 R_386_32          000002c8   TT0
+00001719  00001e01 R_386_32          000006c8   TT1
+00001730  00004a01 R_386_32          00000ac8   TT2
+0000173b  00003301 R_386_32          00000ec8   TT3
+0000174d  00004d01 R_386_32          000002c8   TT0
+00001754  00001e01 R_386_32          000006c8   TT1
+00001762  00004a01 R_386_32          00000ac8   TT2
+0000176d  00003301 R_386_32          00000ec8   TT3
+0000177f  00004d01 R_386_32          000002c8   TT0
+00001786  00001e01 R_386_32          000006c8   TT1
+00001794  00004a01 R_386_32          00000ac8   TT2
+0000179f  00003301 R_386_32          00000ec8   TT3
+000017b1  00004d01 R_386_32          000002c8   TT0
+000017b8  00001e01 R_386_32          000006c8   TT1
+000017cc  00004a01 R_386_32          00000ac8   TT2
+000017da  00003301 R_386_32          00000ec8   TT3
+000019ea  00002e02 R_386_PC32        00000000   __stack_chk_fail
+00001a00  00003702 R_386_PC32        00000000   mcount
+00001c47  00003601 R_386_32          000016c8   InvTT1
+00001c4e  00002001 R_386_32          000012c8   InvTT0
+00001c59  00002701 R_386_32          00001ac8   InvTT2
+00001c64  00004901 R_386_32          00001ec8   InvTT3
+00001c76  00003601 R_386_32          000016c8   InvTT1
+00001c7d  00002001 R_386_32          000012c8   InvTT0
+00001c88  00002701 R_386_32          00001ac8   InvTT2
+00001c93  00004901 R_386_32          00001ec8   InvTT3
+00001ca5  00003601 R_386_32          000016c8   InvTT1
+00001cac  00002001 R_386_32          000012c8   InvTT0
+00001cb7  00002701 R_386_32          00001ac8   InvTT2
+00001cc2  00004901 R_386_32          00001ec8   InvTT3
+00001cd4  00003601 R_386_32          000016c8   InvTT1
+00001cdb  00002001 R_386_32          000012c8   InvTT0
+00001ce6  00002701 R_386_32          00001ac8   InvTT2
+00001cf1  00004901 R_386_32          00001ec8   InvTT3
+00001f09  00002e02 R_386_PC32        00000000   __stack_chk_fail
+00001f1d  00003702 R_386_PC32        00000000   mcount
+00001f2d  00003802 R_386_PC32        000014c5   _pilsung_encrypt_one_b
+00001f3d  00003702 R_386_PC32        00000000   mcount
+00001f4d  00003d02 R_386_PC32        000019f6   _pilsung_decrypt_one_b
+00001f5a  00003702 R_386_PC32        00000000   mcount
+00001f66  00003102 R_386_PC32        00001f15   pilsung_encrypt_one_bl
+00001f72  00003702 R_386_PC32        00000000   mcount
+00001f81  00003f02 R_386_PC32        00001f35   pilsung_decrypt_one_bl
+00001f8f  00003702 R_386_PC32        00000000   mcount
+00001ffb  00002d02 R_386_PC32        000000b1   TransformSHA
+00002069  00002d02 R_386_PC32        000000b1   TransformSHA
+000020b0  00003702 R_386_PC32        00000000   mcount
+00002152  00002d02 R_386_PC32        000000b1   TransformSHA
+000021c1  00002d02 R_386_PC32        000000b1   TransformSHA
+000021f1  00003702 R_386_PC32        00000000   mcount
+00002250  00003702 R_386_PC32        00000000   mcount
+000022aa  00003702 R_386_PC32        00000000   mcount
+000022b7  00004c01 R_386_32          00000000   kmalloc_caches
+000022cc  00002502 R_386_PC32        00000000   kmem_cache_alloc_trace
+000022d3  00004c01 R_386_32          00000000   kmalloc_caches
+000022ed  00002502 R_386_PC32        00000000   kmem_cache_alloc_trace
+00002313  00001901 R_386_32          00000000   Tree_Integer8
+00002358  00004401 R_386_32          00000048   Tree_Integer4
+00002369  00004401 R_386_32          00000048   Tree_Integer4
+00002442  00004502 R_386_PC32        000021e7   Get_Two
+0000246a  00002302 R_386_PC32        00000000   kfree
+00002472  00002302 R_386_PC32        00000000   kfree
+00002488  00003702 R_386_PC32        00000000   mcount
+000024b4  00004802 R_386_PC32        000022a0   Get_P8forSDec
+00002512  00002b01 R_386_32          000001c8   ISbox
+00002554  00004e01 R_386_32          000022cc   g_round_cnt
+00002570  00003702 R_386_PC32        00000000   mcount
+0000257d  00004c01 R_386_32          00000000   kmalloc_caches
+00002592  00002502 R_386_PC32        00000000   kmem_cache_alloc_trace
+000025b7  00001901 R_386_32          00000000   Tree_Integer8
+000025fc  00004401 R_386_32          00000048   Tree_Integer4
+0000260d  00004401 R_386_32          00000048   Tree_Integer4
+000026c1  00004202 R_386_PC32        00002246   Get_One
+000026ec  00002302 R_386_PC32        00000000   kfree
+00002702  00003702 R_386_PC32        00000000   mcount
+0000272e  00002402 R_386_PC32        00002566   Get_P8forSEnc
+0000275f  00004601 R_386_32          000000c8   Sbox
+000027c8  00004e01 R_386_32          000022cc   g_round_cnt
+000027e4  00003702 R_386_PC32        00000000   mcount
+000027eb  00004c01 R_386_32          00000000   kmalloc_caches
+0000280b  00002502 R_386_PC32        00000000   kmem_cache_alloc_trace
+00002843  00004401 R_386_32          00000048   Tree_Integer4
+000028cd  00004401 R_386_32          00000048   Tree_Integer4
+00002924  00004c01 R_386_32          00000000   kmalloc_caches
+0000293b  00002502 R_386_PC32        00000000   kmem_cache_alloc_trace
+000029c5  00004502 R_386_PC32        000021e7   Get_Two
+000029e9  00002302 R_386_PC32        00000000   kfree
+000029f1  00002302 R_386_PC32        00000000   kfree
+00002a04  00003702 R_386_PC32        00000000   mcount
+00002a30  00002802 R_386_PC32        000027da   Get_P16Dec
+00002a3c  00004e01 R_386_32          000022cc   g_round_cnt
+00002a4c  00003702 R_386_PC32        00000000   mcount
+00002a87  00004002 R_386_PC32        0000247e   Get_InvVSboxAll
+00002a8e  00001a02 R_386_PC32        000029fd   Get_InvVPboxAll
+00002a9f  00003702 R_386_PC32        00000000   mcount
+00002aa6  00004c01 R_386_32          00000000   kmalloc_caches
+00002ac5  00002502 R_386_PC32        00000000   kmem_cache_alloc_trace
+00002afd  00004401 R_386_32          00000048   Tree_Integer4
+00002b84  00004401 R_386_32          00000048   Tree_Integer4
+00002c2e  00004202 R_386_PC32        00002246   Get_One
+00002c57  00002302 R_386_PC32        00000000   kfree
+00002c6a  00003702 R_386_PC32        00000000   mcount
+00002c96  00004102 R_386_PC32        00002a95   Get_P16Enc
+00002ca2  00004e01 R_386_32          000022cc   g_round_cnt
+00002cb2  00003702 R_386_PC32        00000000   mcount
+00002ced  00003002 R_386_PC32        000026f8   Get_VSboxAll
+00002cf4  00003e02 R_386_PC32        00002c63   Get_VPboxAll
+00002d05  00003702 R_386_PC32        00000000   mcount
+00002e75  00003502 R_386_PC32        00000000   strncmp
+00002e9c  00003702 R_386_PC32        00000000   mcount
+00002eb3  00004b02 R_386_PC32        00000000   __kmalloc
+00002ec4  00004b02 R_386_PC32        00000000   __kmalloc
+00002ecd  00004c01 R_386_32          00000000   kmalloc_caches
+00002ee8  00002502 R_386_PC32        00000000   kmem_cache_alloc_trace
+00002ef1  00004c01 R_386_32          00000000   kmalloc_caches
+00002f0c  00002502 R_386_PC32        00000000   kmem_cache_alloc_trace
+00002f54  00003a02 R_386_PC32        00002cfb   cfShaSign
+00002ff4  00003a02 R_386_PC32        00002cfb   cfShaSign
+00003053  00003a02 R_386_PC32        00002cfb   cfShaSign
+00003084  00002302 R_386_PC32        00000000   kfree
+0000308d  00002302 R_386_PC32        00000000   kfree
+00003094  00002302 R_386_PC32        00000000   kfree
+0000309d  00002302 R_386_PC32        00000000   kfree
+000030b2  00003702 R_386_PC32        00000000   mcount
+000030c7  00001c01 R_386_32          000022c8   g_CryptoKeyLen
+000030d9  00001f02 R_386_PC32        00002e92   pilsung_shakey
+000030f3  00004e01 R_386_32          000022cc   g_round_cnt
+000030fe  00004702 R_386_PC32        000012cb   pilsung_expand_roundke
+00003110  00002e02 R_386_PC32        00000000   __stack_chk_fail
+00003125  00003702 R_386_PC32        00000000   mcount
+00003156  00002c02 R_386_PC32        000030a9   pilsung_expand_key
+00003164  00002c02 R_386_PC32        000030a9   pilsung_expand_key
+0000316b  00003202 R_386_PC32        00002cad   gen_enc_perm
+00003172  00002202 R_386_PC32        00002a47   gen_dec_perm
+
+Relocation section '.rel.exit.text' at offset 0x6e28 contains 3 entries:
+ Offset     Info    Type            Sym.Value  Sym. Name
+00000004  00003702 R_386_PC32        00000000   mcount
+00000009  00000401 R_386_32          00000000   .data
+0000000e  00001b02 R_386_PC32        00000000   crypto_unregister_alg
+
+Relocation section '.rel.init.text' at offset 0x6e40 contains 2 entries:
+ Offset     Info    Type            Sym.Value  Sym. Name
+00000002  00000401 R_386_32          00000000   .data
+00000009  00002902 R_386_PC32        00000000   crypto_register_alg
+
+Relocation section '.rel.eh_frame' at offset 0x6e50 contains 32 entries:
+ Offset     Info    Type            Sym.Value  Sym. Name
+00000020  00000102 R_386_PC32        00000000   .text
+0000003c  00000102 R_386_PC32        00000000   .text
+0000005c  00000102 R_386_PC32        00000000   .text
+0000007c  00000102 R_386_PC32        00000000   .text
+0000009c  00000102 R_386_PC32        00000000   .text
+000000bc  00000102 R_386_PC32        00000000   .text
+000000dc  00000102 R_386_PC32        00000000   .text
+000000fc  00000102 R_386_PC32        00000000   .text
+0000011c  00000102 R_386_PC32        00000000   .text
+00000138  00000102 R_386_PC32        00000000   .text
+00000154  00000102 R_386_PC32        00000000   .text
+00000170  00000102 R_386_PC32        00000000   .text
+0000018c  00000202 R_386_PC32        00000000   .exit.text
+000001a8  00000302 R_386_PC32        00000000   .init.text
+000001c4  00000102 R_386_PC32        00000000   .text
+000001e4  00000102 R_386_PC32        00000000   .text
+00000204  00000102 R_386_PC32        00000000   .text
+00000224  00000102 R_386_PC32        00000000   .text
+00000244  00000102 R_386_PC32        00000000   .text
+00000264  00000102 R_386_PC32        00000000   .text
+00000284  00000102 R_386_PC32        00000000   .text
+000002a4  00000102 R_386_PC32        00000000   .text
+000002c4  00000102 R_386_PC32        00000000   .text
+000002e4  00000102 R_386_PC32        00000000   .text
+00000304  00000102 R_386_PC32        00000000   .text
+00000320  00000102 R_386_PC32        00000000   .text
+00000340  00000102 R_386_PC32        00000000   .text
+00000360  00000102 R_386_PC32        00000000   .text
+0000037c  00000102 R_386_PC32        00000000   .text
+0000039c  00000102 R_386_PC32        00000000   .text
+000003bc  00000102 R_386_PC32        00000000   .text
+000003dc  00000102 R_386_PC32        00000000   .text
+
+Relocation section '.rel__mcount_loc' at offset 0x6f50 contains 30 entries:
+ Offset     Info    Type            Sym.Value  Sym. Name
+00000000  00000101 R_386_32          00000000   .text
+00000004  00000101 R_386_32          00000000   .text
+00000008  00000101 R_386_32          00000000   .text
+0000000c  00000101 R_386_32          00000000   .text
+00000010  00000101 R_386_32          00000000   .text
+00000014  00000101 R_386_32          00000000   .text
+00000018  00000101 R_386_32          00000000   .text
+0000001c  00000101 R_386_32          00000000   .text
+00000020  00000101 R_386_32          00000000   .text
+00000024  00000101 R_386_32          00000000   .text
+00000028  00000101 R_386_32          00000000   .text
+0000002c  00000101 R_386_32          00000000   .text
+00000030  00000101 R_386_32          00000000   .text
+00000034  00000101 R_386_32          00000000   .text
+00000038  00000101 R_386_32          00000000   .text
+0000003c  00000101 R_386_32          00000000   .text
+00000040  00000101 R_386_32          00000000   .text
+00000044  00000101 R_386_32          00000000   .text
+00000048  00000101 R_386_32          00000000   .text
+0000004c  00000101 R_386_32          00000000   .text
+00000050  00000101 R_386_32          00000000   .text
+00000054  00000101 R_386_32          00000000   .text
+00000058  00000101 R_386_32          00000000   .text
+0000005c  00000101 R_386_32          00000000   .text
+00000060  00000101 R_386_32          00000000   .text
+00000064  00000101 R_386_32          00000000   .text
+00000068  00000101 R_386_32          00000000   .text
+0000006c  00000101 R_386_32          00000000   .text
+00000070  00000101 R_386_32          00000000   .text
+00000074  00000101 R_386_32          00000000   .text
+
+Relocation section '.rel.data' at offset 0x7040 contains 6 entries:
+ Offset     Info    Type            Sym.Value  Sym. Name
+000022d0  00000401 R_386_32          00000000   .data
+000022d4  00000401 R_386_32          00000000   .data
+00002384  00003901 R_386_32          0000311b   crypto_pilsung_set_key
+00002388  00001801 R_386_32          00001f55   crypto_pilsung_encrypt
+0000238c  00002f01 R_386_32          00001f6d   crypto_pilsung_decrypt
+000023ac  00001d01 R_386_32          00000000   __this_module
+
+Relocation section '.rel.gnu.linkonce.this_module' at offset 0x7070 contains 2 entries:
+ Offset     Info    Type            Sym.Value  Sym. Name
+000000d4  00002601 R_386_32          00000000   init_module
+0000016c  00002101 R_386_32          00000000   cleanup_module
+
+The decoding of unwind sections for machine type Intel 80386 is not currently supported.
+
+Symbol table '.symtab' contains 79 entries:
+   Num:    Value  Size Type    Bind   Vis      Ndx Name
+     0: 00000000     0 NOTYPE  LOCAL  DEFAULT  UND 
+     1: 00000000     0 SECTION LOCAL  DEFAULT    2 
+     2: 00000000     0 SECTION LOCAL  DEFAULT    4 
+     3: 00000000     0 SECTION LOCAL  DEFAULT    6 
+     4: 00000000     0 SECTION LOCAL  DEFAULT   13 
+     5: 00000000    20 FUNC    LOCAL  DEFAULT    4 pilsung_fini
+     6: 000022d0   224 OBJECT  LOCAL  DEFAULT   13 pilsung_alg
+     7: 00000000    15 FUNC    LOCAL  DEFAULT    6 pilsung_init
+     8: 00001f88   286 FUNC    LOCAL  DEFAULT    2 FinalSHA
+     9: 000020a6   321 FUNC    LOCAL  DEFAULT    2 UpdateSHA
+    10: 00000000    19 OBJECT  LOCAL  DEFAULT    8 __mod_alias1702
+    11: 00000013    21 OBJECT  LOCAL  DEFAULT    8 __mod_license1701
+    12: 00000028    48 OBJECT  LOCAL  DEFAULT    8 __mod_description1700
+    13: 00000058    35 OBJECT  LOCAL  DEFAULT    8 __mod_srcversion23
+    14: 0000007c     9 OBJECT  LOCAL  DEFAULT    8 __module_depends
+    15: 00000085    52 OBJECT  LOCAL  DEFAULT    8 __mod_vermagic5
+    16: 00000000     0 SECTION LOCAL  DEFAULT    1 
+    17: 00000000     0 SECTION LOCAL  DEFAULT    8 
+    18: 00000000     0 SECTION LOCAL  DEFAULT    9 
+    19: 00000000     0 SECTION LOCAL  DEFAULT   11 
+    20: 00000000     0 SECTION LOCAL  DEFAULT   15 
+    21: 00000000     0 SECTION LOCAL  DEFAULT   17 
+    22: 00000000     0 SECTION LOCAL  DEFAULT   18 
+    23: 00000000     0 SECTION LOCAL  DEFAULT   19 
+    24: 00001f55    24 FUNC    GLOBAL DEFAULT    2 crypto_pilsung_encrypt
+    25: 00000000    70 OBJECT  GLOBAL DEFAULT   13 Tree_Integer8
+    26: 000029fd    74 FUNC    GLOBAL DEFAULT    2 Get_InvVPboxAll
+    27: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND crypto_unregister_alg
+    28: 000022c8     4 OBJECT  GLOBAL DEFAULT   13 g_CryptoKeyLen
+    29: 00000000   380 OBJECT  GLOBAL DEFAULT   15 __this_module
+    30: 000006c8  1024 OBJECT  GLOBAL DEFAULT   13 TT1
+    31: 00002e92   535 FUNC    GLOBAL DEFAULT    2 pilsung_shakey
+    32: 000012c8  1024 OBJECT  GLOBAL DEFAULT   13 InvTT0
+    33: 00000000    20 FUNC    GLOBAL DEFAULT    4 cleanup_module
+    34: 00002a47    78 FUNC    GLOBAL DEFAULT    2 gen_dec_perm
+    35: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND kfree
+    36: 00002566   402 FUNC    GLOBAL DEFAULT    2 Get_P8forSEnc
+    37: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND kmem_cache_alloc_trace
+    38: 00000000    15 FUNC    GLOBAL DEFAULT    6 init_module
+    39: 00001ac8  1024 OBJECT  GLOBAL DEFAULT   13 InvTT2
+    40: 000027da   547 FUNC    GLOBAL DEFAULT    2 Get_P16Dec
+    41: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND crypto_register_alg
+    42: 00000073    62 FUNC    GLOBAL DEFAULT    2 Get_InvPeSb
+    43: 000001c8   256 OBJECT  GLOBAL DEFAULT   13 ISbox
+    44: 000030a9   114 FUNC    GLOBAL DEFAULT    2 pilsung_expand_key
+    45: 000000b1  4603 FUNC    GLOBAL DEFAULT    2 TransformSHA
+    46: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND __stack_chk_fail
+    47: 00001f6d    27 FUNC    GLOBAL DEFAULT    2 crypto_pilsung_decrypt
+    48: 000026f8   226 FUNC    GLOBAL DEFAULT    2 Get_VSboxAll
+    49: 00001f15    32 FUNC    GLOBAL DEFAULT    2 pilsung_encrypt_one_blk
+    50: 00002cad    78 FUNC    GLOBAL DEFAULT    2 gen_enc_perm
+    51: 00000ec8  1024 OBJECT  GLOBAL DEFAULT   13 TT3
+    52: 00000000    60 FUNC    GLOBAL DEFAULT    2 InitVar
+    53: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND strncmp
+    54: 000016c8  1024 OBJECT  GLOBAL DEFAULT   13 InvTT1
+    55: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND mcount
+    56: 000014c5  1329 FUNC    GLOBAL DEFAULT    2 _pilsung_encrypt_one_blk
+    57: 0000311b   100 FUNC    GLOBAL DEFAULT    2 crypto_pilsung_set_key
+    58: 00002cfb   407 FUNC    GLOBAL DEFAULT    2 cfShaSign
+    59: 00000050   120 OBJECT  GLOBAL DEFAULT   13 rcon
+    60: 0000003c    55 FUNC    GLOBAL DEFAULT    2 Get_PeSb
+    61: 000019f6  1311 FUNC    GLOBAL DEFAULT    2 _pilsung_decrypt_one_blk
+    62: 00002c63    74 FUNC    GLOBAL DEFAULT    2 Get_VPboxAll
+    63: 00001f35    32 FUNC    GLOBAL DEFAULT    2 pilsung_decrypt_one_blk
+    64: 0000247e   232 FUNC    GLOBAL DEFAULT    2 Get_InvVSboxAll
+    65: 00002a95   462 FUNC    GLOBAL DEFAULT    2 Get_P16Enc
+    66: 00002246    90 FUNC    GLOBAL DEFAULT    2 Get_One
+    67: 000012ac    31 FUNC    GLOBAL DEFAULT    2 mod_sum
+    68: 00000048     6 OBJECT  GLOBAL DEFAULT   13 Tree_Integer4
+    69: 000021e7    95 FUNC    GLOBAL DEFAULT    2 Get_Two
+    70: 000000c8   256 OBJECT  GLOBAL DEFAULT   13 Sbox
+    71: 000012cb   506 FUNC    GLOBAL DEFAULT    2 pilsung_expand_roundkey
+    72: 000022a0   478 FUNC    GLOBAL DEFAULT    2 Get_P8forSDec
+    73: 00001ec8  1024 OBJECT  GLOBAL DEFAULT   13 InvTT3
+    74: 00000ac8  1024 OBJECT  GLOBAL DEFAULT   13 TT2
+    75: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND __kmalloc
+    76: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND kmalloc_caches
+    77: 000002c8  1024 OBJECT  GLOBAL DEFAULT   13 TT0
+    78: 000022cc     4 OBJECT  GLOBAL DEFAULT   13 g_round_cnt
+
+No version information found in this file.
+
+Displaying notes found at file offset 0x00000034 with length 0x00000024:
+  Owner                 Data size	Description
+  GNU                  0x00000014	NT_GNU_BUILD_ID (unique build ID bitstring)
+    Build ID: a79bfd01ecc5da32a1ba14b66027c1dc32d80c59

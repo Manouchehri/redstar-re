@@ -1,0 +1,741 @@
+ELF Header:
+  Magic:   7f 45 4c 46 01 01 01 00 00 00 00 00 00 00 00 00 
+  Class:                             ELF32
+  Data:                              2's complement, little endian
+  Version:                           1 (current)
+  OS/ABI:                            UNIX - System V
+  ABI Version:                       0
+  Type:                              REL (Relocatable file)
+  Machine:                           Intel 80386
+  Version:                           0x1
+  Entry point address:               0x0
+  Start of program headers:          0 (bytes into file)
+  Start of section headers:          9756 (bytes into file)
+  Flags:                             0x0
+  Size of this header:               52 (bytes)
+  Size of program headers:           0 (bytes)
+  Number of program headers:         0
+  Size of section headers:           40 (bytes)
+  Number of section headers:         25
+  Section header string table index: 22
+
+Section Headers:
+  [Nr] Name              Type            Addr     Off    Size   ES Flg Lk Inf Al
+  [ 0]                   NULL            00000000 000000 000000 00      0   0  0
+  [ 1] .note.gnu.build-i NOTE            00000000 000034 000024 00   A  0   0  4
+  [ 2] .text             PROGBITS        00000000 000058 001964 00  AX  0   0  4
+  [ 3] .rel.text         REL             00000000 003af8 000b20 08     23   2  4
+  [ 4] .altinstr_replace PROGBITS        00000000 0019bc 000012 00  AX  0   0  1
+  [ 5] .rodata           PROGBITS        00000000 0019d0 000030 00   A  0   0  4
+  [ 6] .rel.rodata       REL             00000000 004618 000060 08     23   5  4
+  [ 7] .rodata.str1.1    PROGBITS        00000000 001a00 00010d 01 AMS  0   0  1
+  [ 8] .altinstructions  PROGBITS        00000000 001b10 000048 00   A  0   0  4
+  [ 9] .rel.altinstructi REL             00000000 004678 000060 08     23   8  4
+  [10] .modinfo          PROGBITS        00000000 001b58 0000c1 00   A  0   0  4
+  [11] __mcount_loc      PROGBITS        00000000 001c1c 0000b4 00   A  0   0  4
+  [12] .rel__mcount_loc  REL             00000000 0046d8 000168 08     23  11  4
+  [13] .eh_frame         PROGBITS        00000000 001cd0 00057c 00   A  0   0  4
+  [14] .rel.eh_frame     REL             00000000 004840 000168 08     23  13  4
+  [15] .data             PROGBITS        00000000 00224c 0000e0 00  WA  0   0  4
+  [16] .rel.data         REL             00000000 0049a8 0000f8 08     23  15  4
+  [17] .gnu.linkonce.thi PROGBITS        00000000 00232c 00017c 00  WA  0   0  4
+  [18] .rel.gnu.linkonce REL             00000000 004aa0 000010 08     23  17  4
+  [19] .bss              NOBITS          00000000 0024a8 00104c 00  WA  0   0  4
+  [20] .note.GNU-stack   PROGBITS        00000000 0024a8 000000 00      0   0  1
+  [21] .comment          PROGBITS        00000000 0024a8 000087 00      0   0  1
+  [22] .shstrtab         STRTAB          00000000 00252f 0000ec 00      0   0  1
+  [23] .symtab           SYMTAB          00000000 002a04 000950 10     24  62  4
+  [24] .strtab           STRTAB          00000000 003354 0007a4 00      0   0  1
+Key to Flags:
+  W (write), A (alloc), X (execute), M (merge), S (strings)
+  I (info), L (link order), G (group), T (TLS), E (exclude), x (unknown)
+  O (extra OS processing required) o (OS specific), p (processor specific)
+
+There are no section groups in this file.
+
+There are no program headers in this file.
+
+Relocation section '.rel.text' at offset 0x3af8 contains 356 entries:
+ Offset     Info    Type            Sym.Value  Sym. Name
+00000004  00007102 R_386_PC32        00000000   mcount
+0000000a  00005101 R_386_32          00000004   original_kill
+0000000f  00007301 R_386_32          00000000   sys_call_table
+0000001b  00006d01 R_386_32          00000008   original_open
+00000020  00007301 R_386_32          00000000   sys_call_table
+00000029  00008401 R_386_32          0000000c   original_close
+0000002e  00007301 R_386_32          00000000   sys_call_table
+00000037  00004201 R_386_32          00000010   original_rename
+0000003c  00007301 R_386_32          00000000   sys_call_table
+00000048  00006001 R_386_32          00000014   original_unlink
+0000004d  00007301 R_386_32          00000000   sys_call_table
+0000005d  00007102 R_386_PC32        00000000   mcount
+00000063  00005101 R_386_32          00000004   original_kill
+0000006d  00007301 R_386_32          00000000   sys_call_table
+00000079  00006d01 R_386_32          00000008   original_open
+0000007e  00007301 R_386_32          00000000   sys_call_table
+00000087  00008401 R_386_32          0000000c   original_close
+0000008c  00007301 R_386_32          00000000   sys_call_table
+00000095  00004201 R_386_32          00000010   original_rename
+0000009a  00007301 R_386_32          00000000   sys_call_table
+000000a6  00006001 R_386_32          00000014   original_unlink
+000000ab  00007301 R_386_32          00000000   sys_call_table
+000000b3  00000501 R_386_32          00000000   .data
+000000bc  00000401 R_386_32          00000000   .rodata.str1.1
+000000c1  00009402 R_386_PC32        00000000   __unregister_chrdev
+000000c7  00000501 R_386_32          00000000   .data
+000000cc  00000601 R_386_32          00000000   .bss
+000000d4  00008902 R_386_PC32        00000000   device_destroy
+000000d9  00000601 R_386_32          00000000   .bss
+000000de  00004c02 R_386_PC32        00000000   class_destroy
+000000e4  00000601 R_386_32          00000000   .bss
+000000ee  00000401 R_386_32          00000000   .rodata.str1.1
+000000f3  00008a02 R_386_PC32        00000000   remove_proc_entry
+000000f9  00000601 R_386_32          00000000   .bss
+00000104  00000401 R_386_32          00000000   .rodata.str1.1
+00000109  00007402 R_386_PC32        00000000   printk
+00000114  00007102 R_386_PC32        00000000   mcount
+00000121  00007c01 R_386_32          00000074   rts_send_available
+00000128  00003e02 R_386_PC32        00000d37   rts_open_list_empty
+00000141  00007102 R_386_PC32        00000000   mcount
+0000014a  00000601 R_386_32          00000000   .bss
+00000158  00006902 R_386_PC32        00001891   rts_send_files_ioctl
+00000169  00007102 R_386_PC32        00000000   mcount
+0000016f  00000601 R_386_32          00000000   .bss
+00000179  00000401 R_386_32          00000000   .rodata.str1.1
+0000017e  00000401 R_386_32          00000000   .rodata.str1.1
+00000194  00000401 R_386_32          00000000   .rodata.str1.1
+00000199  00008302 R_386_PC32        00000000   sprintf
+000001c2  00007102 R_386_PC32        00000000   mcount
+000001ca  00005302 R_386_PC32        00000000   lookup_address
+000001e3  00007102 R_386_PC32        00000000   mcount
+000001ee  00007301 R_386_32          00000000   sys_call_table
+000001f7  00005101 R_386_32          00000004   original_kill
+00000201  00006d01 R_386_32          00000008   original_open
+0000020b  00008401 R_386_32          0000000c   original_close
+00000215  00004201 R_386_32          00000010   original_rename
+0000021f  00006001 R_386_32          00000014   original_unlink
+00000229  00007e01 R_386_32          00000018   sys_getpgid
+00000233  00005702 R_386_PC32        000001bb   set_addr_rw
+00000238  00007301 R_386_32          00000000   sys_call_table
+00000242  00004801 R_386_32          0000039e   rtm_scan_kill
+00000247  00007301 R_386_32          00000000   sys_call_table
+0000024e  00004301 R_386_32          00000aa5   rtm_scan_open
+00000253  00007301 R_386_32          00000000   sys_call_table
+0000025a  00006101 R_386_32          00000a06   rtm_scan_close
+0000025f  00007301 R_386_32          00000000   sys_call_table
+00000266  00005601 R_386_32          00000661   rtm_scan_unlink
+0000026b  00007301 R_386_32          00000000   sys_call_table
+00000275  00007501 R_386_32          000007d5   rtm_scan_rename
+00000284  00007102 R_386_PC32        00000000   mcount
+00000289  00007a02 R_386_PC32        000001df   rts_syscall_init
+00000294  00000401 R_386_32          00000000   .rodata.str1.1
+00000299  00007402 R_386_PC32        00000000   printk
+000002b2  00000501 R_386_32          00000000   .data
+000002b9  00000401 R_386_32          00000000   .rodata.str1.1
+000002be  00008802 R_386_PC32        00000000   __register_chrdev
+000002c5  00000501 R_386_32          00000000   .data
+000002d2  00000401 R_386_32          00000000   .rodata.str1.1
+000002d7  00007402 R_386_PC32        00000000   printk
+000002dc  00000501 R_386_32          00000000   .data
+000002e3  00000601 R_386_32          00000000   .bss
+000002e8  00000401 R_386_32          00000000   .rodata.str1.1
+000002ed  00004901 R_386_32          00000000   __this_module
+000002f2  00004402 R_386_PC32        00000000   __class_create
+000002f8  00000501 R_386_32          00000000   .data
+00000304  00000601 R_386_32          00000000   .bss
+0000030c  00000401 R_386_32          00000000   .rodata.str1.1
+00000324  00006a02 R_386_PC32        00000000   device_create
+0000032d  00000401 R_386_32          00000000   .rodata.str1.1
+00000332  00005c02 R_386_PC32        00000000   create_proc_entry
+00000339  00000601 R_386_32          00000000   .bss
+00000342  00000101 R_386_32          00000000   .text
+00000349  00000401 R_386_32          00000000   .rodata.str1.1
+0000034e  00007402 R_386_PC32        00000000   printk
+0000035b  00007102 R_386_PC32        00000000   mcount
+00000362  00000601 R_386_32          00000000   .bss
+00000367  00005802 R_386_PC32        00000000   _raw_spin_lock
+0000036d  00000501 R_386_32          00000000   .data
+0000037d  00000601 R_386_32          00000000   .bss
+0000038d  00000501 R_386_32          00000000   .data
+00000395  00000601 R_386_32          00000000   .bss
+000003a7  00007102 R_386_PC32        00000000   mcount
+000003ad  00000601 R_386_32          00000000   .bss
+000003c9  00007e01 R_386_32          00000018   sys_getpgid
+000003df  00005101 R_386_32          00000004   original_kill
+000003f6  00007102 R_386_PC32        00000000   mcount
+0000040a  00000301 R_386_32          00000000   .rodata
+00000418  00000601 R_386_32          00000000   .bss
+00000423  00000601 R_386_32          00000000   .bss
+00000429  00000601 R_386_32          00000000   .bss
+00000436  00004f02 R_386_PC32        00000000   kfree
+0000043c  00000601 R_386_32          00000000   .bss
+0000044b  00007601 R_386_32          00000000   current_task
+00000465  00009201 R_386_32          00000000   kmalloc_caches
+0000047a  00005902 R_386_PC32        00000000   kmem_cache_alloc_trace
+0000048e  00000601 R_386_32          00000000   .bss
+00000499  00005802 R_386_PC32        00000000   _raw_spin_lock
+0000049f  00000501 R_386_32          00000000   .data
+000004a4  00000501 R_386_32          00000000   .data
+000004ab  00008002 R_386_PC32        00000000   __list_add
+000004b3  00007601 R_386_32          00000000   current_task
+000004cd  00000601 R_386_32          00000000   .bss
+000004d2  00005802 R_386_PC32        00000000   _raw_spin_lock
+000004dc  00009102 R_386_PC32        00000000   __list_del_entry
+000004e8  00000601 R_386_32          00000000   .bss
+000004f0  00000601 R_386_32          00000000   .bss
+000004f8  00004102 R_386_PC32        00001734   rts_receive_files_ioct
+00000500  00000601 R_386_32          00000000   .bss
+00000508  00008202 R_386_PC32        0000151b   rts_add_protect_file
+00000510  00000601 R_386_32          00000000   .bss
+00000518  00006c02 R_386_PC32        00001454   rts_remove_protect_fil
+00000520  00000601 R_386_32          00000000   .bss
+00000528  00006502 R_386_PC32        0000168b   rts_add_hidden_file
+00000530  00000601 R_386_32          00000000   .bss
+00000538  00007802 R_386_PC32        000015c4   rts_remove_hidden_file
+0000053f  00006602 R_386_PC32        00000ee3   rts_set_sign_exts
+00000546  00005f02 R_386_PC32        00000cf8   rts_get_sign_exts
+0000055c  00007102 R_386_PC32        00000000   mcount
+00000565  00007702 R_386_PC32        00000000   getname
+0000057c  00006402 R_386_PC32        00000000   path_lookup
+0000058c  00006802 R_386_PC32        00000000   putname
+000005a9  00007102 R_386_PC32        00000000   mcount
+000005da  00005402 R_386_PC32        00000000   d_lookup
+00000603  00008b02 R_386_PC32        00000000   dput
+0000060c  00008f02 R_386_PC32        00000000   d_invalidate
+00000617  00008b02 R_386_PC32        00000000   dput
+00000631  00006202 R_386_PC32        00000000   d_alloc
+00000654  00008b02 R_386_PC32        00000000   dput
+0000066b  00007102 R_386_PC32        00000000   mcount
+00000671  00000601 R_386_32          00000000   .bss
+00000681  00007601 R_386_32          00000000   current_task
+0000069d  00007601 R_386_32          00000000   current_task
+00000719  00006e02 R_386_PC32        00000000   mutex_lock
+0000075f  00004e02 R_386_PC32        00000000   ihold
+00000767  00006302 R_386_PC32        00000000   mnt_want_write
+0000077c  00008502 R_386_PC32        000011b7   rts_process_unlink
+00000787  00008102 R_386_PC32        00000000   mnt_drop_write
+0000078e  00008b02 R_386_PC32        00000000   dput
+0000079c  00008602 R_386_PC32        00000000   mutex_unlock
+000007a7  00005202 R_386_PC32        00000000   iput
+000007af  00005a02 R_386_PC32        00000000   path_put
+000007b7  00006802 R_386_PC32        00000000   putname
+000007c9  00006001 R_386_32          00000014   original_unlink
+000007e2  00007102 R_386_PC32        00000000   mcount
+000007e8  00000601 R_386_32          00000000   .bss
+000007f5  00007601 R_386_32          00000000   current_task
+00000811  00007601 R_386_32          00000000   current_task
+000008e8  00006f02 R_386_PC32        00000000   lock_rename
+0000097a  00006302 R_386_PC32        00000000   mnt_want_write
+0000098d  00007902 R_386_PC32        00001204   rts_process_rename
+0000099a  00008b02 R_386_PC32        00000000   dput
+000009a5  00008b02 R_386_PC32        00000000   dput
+000009b6  00007d02 R_386_PC32        00000000   unlock_rename
+000009c5  00005a02 R_386_PC32        00000000   path_put
+000009cd  00006802 R_386_PC32        00000000   putname
+000009d5  00005a02 R_386_PC32        00000000   path_put
+000009dd  00006802 R_386_PC32        00000000   putname
+000009f7  00004201 R_386_32          00000010   original_rename
+00000a0f  00007102 R_386_PC32        00000000   mcount
+00000a15  00000601 R_386_32          00000000   .bss
+00000a21  00007601 R_386_32          00000000   current_task
+00000a3d  00007601 R_386_32          00000000   current_task
+00000a80  00008401 R_386_32          0000000c   original_close
+00000a8d  00008401 R_386_32          0000000c   original_close
+00000a9a  00007b02 R_386_PC32        00000fa2   rts_process_file_close
+00000aaf  00007102 R_386_PC32        00000000   mcount
+00000ab5  00000601 R_386_32          00000000   .bss
+00000ac1  00007601 R_386_32          00000000   current_task
+00000add  00007601 R_386_32          00000000   current_task
+00000b3f  00007702 R_386_PC32        00000000   getname
+00000bcb  00006402 R_386_PC32        00000000   path_lookup
+00000c05  00004b02 R_386_PC32        000012d0   rts_process_file_open
+00000c17  00005a02 R_386_PC32        00000000   path_put
+00000c1f  00006802 R_386_PC32        00000000   putname
+00000c2e  00000601 R_386_32          00000000   .bss
+00000c34  00000601 R_386_32          00000000   .bss
+00000c41  00004f02 R_386_PC32        00000000   kfree
+00000c47  00000601 R_386_32          00000000   .bss
+00000c56  00008e02 R_386_PC32        00000000   strlen
+00000c63  00007202 R_386_PC32        00000000   copy_to_user
+00000c6b  00005a02 R_386_PC32        00000000   path_put
+00000c73  00006802 R_386_PC32        00000000   putname
+00000c87  00006d01 R_386_32          00000008   original_open
+00000c96  00008702 R_386_PC32        00001027   rts_process_temp_open
+00000c9d  00004f02 R_386_PC32        00000000   kfree
+00000ca7  00005a02 R_386_PC32        00000000   path_put
+00000caf  00006802 R_386_PC32        00000000   putname
+00000cc3  00006d01 R_386_32          00000008   original_open
+00000cd9  00007102 R_386_PC32        00000000   mcount
+00000cfc  00007102 R_386_PC32        00000000   mcount
+00000d08  00000601 R_386_32          00000000   .bss
+00000d1b  00004002 R_386_PC32        00000000   strcpy
+00000d2c  00007102 R_386_PC32        00000000   mcount
+00000d31  00005802 R_386_PC32        00000000   _raw_spin_lock
+00000d3b  00007102 R_386_PC32        00000000   mcount
+00000d40  00000601 R_386_32          00000000   .bss
+00000d4d  00000501 R_386_32          00000000   .data
+00000d51  00000501 R_386_32          00000000   .data
+00000d5a  00000601 R_386_32          00000000   .bss
+00000d64  00007102 R_386_PC32        00000000   mcount
+00000d6e  00009002 R_386_PC32        00000000   __kmalloc
+00000d7e  00007102 R_386_PC32        00000000   mcount
+00000da0  00007f02 R_386_PC32        00000000   strcmp
+00000dc3  00007102 R_386_PC32        00000000   mcount
+00000dd0  00000601 R_386_32          00000000   .bss
+00000ddc  00000501 R_386_32          00000000   .data
+00000de9  00000601 R_386_32          00000000   .bss
+00000df7  00000601 R_386_32          00000000   .bss
+00000e03  00000501 R_386_32          00000000   .data
+00000e0e  00000601 R_386_32          00000000   .bss
+00000e21  00007102 R_386_PC32        00000000   mcount
+00000e26  00004f02 R_386_PC32        00000000   kfree
+00000e36  00007102 R_386_PC32        00000000   mcount
+00000e3d  00000601 R_386_32          00000000   .bss
+00000e55  00008e02 R_386_PC32        00000000   strlen
+00000e70  00004002 R_386_PC32        00000000   strcpy
+00000ea5  00000601 R_386_32          00000000   .bss
+00000eac  00006b02 R_386_PC32        00000000   strstr
+00000eb8  00008e02 R_386_PC32        00000000   strlen
+00000ee8  00007102 R_386_PC32        00000000   mcount
+00000ef3  00000601 R_386_32          00000000   .bss
+00000f03  00008e02 R_386_PC32        00000000   strlen
+00000f16  00000601 R_386_32          00000000   .bss
+00000f1f  00004002 R_386_PC32        00000000   strcpy
+00000f34  00007102 R_386_PC32        00000000   mcount
+00000f3b  00009102 R_386_PC32        00000000   __list_del_entry
+00000f4b  00007102 R_386_PC32        00000000   mcount
+00000f52  00008002 R_386_PC32        00000000   __list_add
+00000f60  00007102 R_386_PC32        00000000   mcount
+00000f67  00000601 R_386_32          00000000   .bss
+00000f74  00000501 R_386_32          00000000   .data
+00000f7f  00000601 R_386_32          00000000   .bss
+00000f8e  00007c01 R_386_32          00000074   rts_send_available
+00000f9a  00005502 R_386_PC32        00000000   __wake_up
+00000fa8  00007102 R_386_PC32        00000000   mcount
+00000faf  00000601 R_386_32          00000000   .bss
+00000fba  00007601 R_386_32          00000000   current_task
+00000fcd  00000501 R_386_32          00000000   .data
+00000fe9  00000501 R_386_32          00000000   .data
+00001000  00000601 R_386_32          00000000   .bss
+00001019  00007102 R_386_PC32        00000000   mcount
+00001031  00007102 R_386_PC32        00000000   mcount
+0000103a  00008e02 R_386_PC32        00000000   strlen
+0000105c  00004002 R_386_PC32        00000000   strcpy
+00001065  00007601 R_386_32          00000000   current_task
+0000108c  00000601 R_386_32          00000000   .bss
+00001099  00000501 R_386_32          00000000   .data
+000010a6  00000601 R_386_32          00000000   .bss
+000010b6  00007102 R_386_PC32        00000000   mcount
+000010bb  00000401 R_386_32          00000000   .rodata.str1.1
+000010c4  00006b02 R_386_PC32        00000000   strstr
+000010cf  00008e02 R_386_PC32        00000000   strlen
+000010d6  00005001 R_386_32          00000080   excludedirpath
+000010df  00007002 R_386_PC32        00000000   strncmp
+000010eb  00005001 R_386_32          00000080   excludedirpath
+00001108  00007102 R_386_PC32        00000000   mcount
+0000110f  00000601 R_386_32          00000000   .bss
+00001121  00000601 R_386_32          00000000   .bss
+00001128  00009302 R_386_PC32        00000000   d_path
+00001136  00000401 R_386_32          00000000   .rodata.str1.1
+0000113b  00006b02 R_386_PC32        00000000   strstr
+00001146  00008d02 R_386_PC32        000010b0   rts_is_excludefile
+00001150  00000601 R_386_32          00000000   .bss
+0000115b  00008e02 R_386_PC32        00000000   strlen
+00001172  00000601 R_386_32          00000000   .bss
+0000117e  00004002 R_386_PC32        00000000   strcpy
+00001184  00000601 R_386_32          00000000   .bss
+0000118a  00007601 R_386_32          00000000   current_task
+000011c0  00007102 R_386_PC32        00000000   mcount
+0000120e  00007102 R_386_PC32        00000000   mcount
+000012da  00007102 R_386_PC32        00000000   mcount
+0000130e  00000601 R_386_32          00000000   .bss
+0000131a  00000501 R_386_32          00000000   .data
+00001329  00000601 R_386_32          00000000   .bss
+0000133e  00000601 R_386_32          00000000   .bss
+0000134b  00000401 R_386_32          00000000   .rodata.str1.1
+00001352  00007002 R_386_PC32        00000000   strncmp
+000013a5  00005d02 R_386_PC32        00000e2c   rts_encode_filter_file
+000013d4  00000101 R_386_32          00000000   .text
+000013d9  00008c02 R_386_PC32        00000000   schedule_work
+000013e3  00005e02 R_386_PC32        00000000   msecs_to_jiffies
+000013ed  00004602 R_386_PC32        00000000   wait_for_completion_ti
+000013f6  00000601 R_386_32          00000000   .bss
+00001409  00000601 R_386_32          00000000   .bss
+00001449  00007102 R_386_PC32        00000000   mcount
+0000144e  00004502 R_386_PC32        00000000   _copy_from_user
+0000145e  00007102 R_386_PC32        00000000   mcount
+0000146d  00008e02 R_386_PC32        00000000   strlen
+0000149c  00000601 R_386_32          00000000   .bss
+000014a9  00000501 R_386_32          00000000   .data
+000014b0  00007601 R_386_32          00000000   current_task
+000014c2  00007f02 R_386_PC32        00000000   strcmp
+000014e2  00000501 R_386_32          00000000   .data
+000014f6  00000601 R_386_32          00000000   .bss
+00001522  00007102 R_386_PC32        00000000   mcount
+00001531  00008e02 R_386_PC32        00000000   strlen
+00001566  00007601 R_386_32          00000000   current_task
+00001587  00000601 R_386_32          00000000   .bss
+00001599  00000501 R_386_32          00000000   .data
+000015a7  00000501 R_386_32          00000000   .data
+000015b4  00000601 R_386_32          00000000   .bss
+000015ce  00007102 R_386_PC32        00000000   mcount
+000015dd  00008e02 R_386_PC32        00000000   strlen
+0000160c  00000601 R_386_32          00000000   .bss
+00001619  00000501 R_386_32          00000000   .data
+00001620  00007601 R_386_32          00000000   current_task
+00001632  00007f02 R_386_PC32        00000000   strcmp
+00001652  00000501 R_386_32          00000000   .data
+00001666  00000601 R_386_32          00000000   .bss
+00001692  00007102 R_386_PC32        00000000   mcount
+000016a1  00008e02 R_386_PC32        00000000   strlen
+000016d6  00007601 R_386_32          00000000   current_task
+000016f7  00000601 R_386_32          00000000   .bss
+00001709  00000501 R_386_32          00000000   .data
+00001717  00000501 R_386_32          00000000   .data
+00001724  00000601 R_386_32          00000000   .bss
+0000173e  00007102 R_386_PC32        00000000   mcount
+000017ca  00000601 R_386_32          00000000   .bss
+000017d8  00000501 R_386_32          00000000   .data
+000017ea  00007f02 R_386_PC32        00000000   strcmp
+00001803  00000501 R_386_32          00000000   .data
+00001821  00000601 R_386_32          00000000   .bss
+0000183d  00008e02 R_386_PC32        00000000   strlen
+00001877  00004a02 R_386_PC32        00000000   complete
+0000189b  00007102 R_386_PC32        00000000   mcount
+000018a3  00000601 R_386_32          00000000   .bss
+000018b1  00000501 R_386_32          00000000   .data
+000018b7  00000501 R_386_32          00000000   .data
+000018bf  00000601 R_386_32          00000000   .bss
+000018d4  00000601 R_386_32          00000000   .bss
+000018ee  00007202 R_386_PC32        00000000   copy_to_user
+00001904  00007202 R_386_PC32        00000000   copy_to_user
+0000191c  00007202 R_386_PC32        00000000   copy_to_user
+0000192b  00000601 R_386_32          00000000   .bss
+00001935  00000501 R_386_32          00000000   .data
+00001942  00000601 R_386_32          00000000   .bss
+
+Relocation section '.rel.rodata' at offset 0x4618 contains 12 entries:
+ Offset     Info    Type            Sym.Value  Sym. Name
+00000000  00000101 R_386_32          00000000   .text
+00000004  00000101 R_386_32          00000000   .text
+00000008  00000101 R_386_32          00000000   .text
+0000000c  00000101 R_386_32          00000000   .text
+00000010  00000101 R_386_32          00000000   .text
+00000014  00000101 R_386_32          00000000   .text
+00000018  00000101 R_386_32          00000000   .text
+0000001c  00000101 R_386_32          00000000   .text
+00000020  00000101 R_386_32          00000000   .text
+00000024  00000101 R_386_32          00000000   .text
+00000028  00000101 R_386_32          00000000   .text
+0000002c  00000101 R_386_32          00000000   .text
+
+Relocation section '.rel.altinstructions' at offset 0x4678 contains 12 entries:
+ Offset     Info    Type            Sym.Value  Sym. Name
+00000000  00000101 R_386_32          00000000   .text
+00000004  00000201 R_386_32          00000000   .altinstr_replacement
+0000000c  00000101 R_386_32          00000000   .text
+00000010  00000201 R_386_32          00000000   .altinstr_replacement
+00000018  00000101 R_386_32          00000000   .text
+0000001c  00000201 R_386_32          00000000   .altinstr_replacement
+00000024  00000101 R_386_32          00000000   .text
+00000028  00000201 R_386_32          00000000   .altinstr_replacement
+00000030  00000101 R_386_32          00000000   .text
+00000034  00000201 R_386_32          00000000   .altinstr_replacement
+0000003c  00000101 R_386_32          00000000   .text
+00000040  00000201 R_386_32          00000000   .altinstr_replacement
+
+Relocation section '.rel__mcount_loc' at offset 0x46d8 contains 45 entries:
+ Offset     Info    Type            Sym.Value  Sym. Name
+00000000  00000101 R_386_32          00000000   .text
+00000004  00000101 R_386_32          00000000   .text
+00000008  00000101 R_386_32          00000000   .text
+0000000c  00000101 R_386_32          00000000   .text
+00000010  00000101 R_386_32          00000000   .text
+00000014  00000101 R_386_32          00000000   .text
+00000018  00000101 R_386_32          00000000   .text
+0000001c  00000101 R_386_32          00000000   .text
+00000020  00000101 R_386_32          00000000   .text
+00000024  00000101 R_386_32          00000000   .text
+00000028  00000101 R_386_32          00000000   .text
+0000002c  00000101 R_386_32          00000000   .text
+00000030  00000101 R_386_32          00000000   .text
+00000034  00000101 R_386_32          00000000   .text
+00000038  00000101 R_386_32          00000000   .text
+0000003c  00000101 R_386_32          00000000   .text
+00000040  00000101 R_386_32          00000000   .text
+00000044  00000101 R_386_32          00000000   .text
+00000048  00000101 R_386_32          00000000   .text
+0000004c  00000101 R_386_32          00000000   .text
+00000050  00000101 R_386_32          00000000   .text
+00000054  00000101 R_386_32          00000000   .text
+00000058  00000101 R_386_32          00000000   .text
+0000005c  00000101 R_386_32          00000000   .text
+00000060  00000101 R_386_32          00000000   .text
+00000064  00000101 R_386_32          00000000   .text
+00000068  00000101 R_386_32          00000000   .text
+0000006c  00000101 R_386_32          00000000   .text
+00000070  00000101 R_386_32          00000000   .text
+00000074  00000101 R_386_32          00000000   .text
+00000078  00000101 R_386_32          00000000   .text
+0000007c  00000101 R_386_32          00000000   .text
+00000080  00000101 R_386_32          00000000   .text
+00000084  00000101 R_386_32          00000000   .text
+00000088  00000101 R_386_32          00000000   .text
+0000008c  00000101 R_386_32          00000000   .text
+00000090  00000101 R_386_32          00000000   .text
+00000094  00000101 R_386_32          00000000   .text
+00000098  00000101 R_386_32          00000000   .text
+0000009c  00000101 R_386_32          00000000   .text
+000000a0  00000101 R_386_32          00000000   .text
+000000a4  00000101 R_386_32          00000000   .text
+000000a8  00000101 R_386_32          00000000   .text
+000000ac  00000101 R_386_32          00000000   .text
+000000b0  00000101 R_386_32          00000000   .text
+
+Relocation section '.rel.eh_frame' at offset 0x4840 contains 45 entries:
+ Offset     Info    Type            Sym.Value  Sym. Name
+00000020  00000102 R_386_PC32        00000000   .text
+0000003c  00000102 R_386_PC32        00000000   .text
+00000058  00000102 R_386_PC32        00000000   .text
+00000074  00000102 R_386_PC32        00000000   .text
+00000090  00000102 R_386_PC32        00000000   .text
+000000b0  00000102 R_386_PC32        00000000   .text
+000000cc  00000102 R_386_PC32        00000000   .text
+000000e8  00000102 R_386_PC32        00000000   .text
+00000104  00000102 R_386_PC32        00000000   .text
+00000120  00000102 R_386_PC32        00000000   .text
+00000140  00000102 R_386_PC32        00000000   .text
+00000160  00000102 R_386_PC32        00000000   .text
+00000180  00000102 R_386_PC32        00000000   .text
+000001a0  00000102 R_386_PC32        00000000   .text
+000001c0  00000102 R_386_PC32        00000000   .text
+000001e0  00000102 R_386_PC32        00000000   .text
+00000200  00000102 R_386_PC32        00000000   .text
+00000238  00000102 R_386_PC32        00000000   .text
+00000254  00000102 R_386_PC32        00000000   .text
+00000270  00000102 R_386_PC32        00000000   .text
+0000028c  00000102 R_386_PC32        00000000   .text
+000002a8  00000102 R_386_PC32        00000000   .text
+000002c4  00000102 R_386_PC32        00000000   .text
+000002e4  00000102 R_386_PC32        00000000   .text
+00000300  00000102 R_386_PC32        00000000   .text
+0000031c  00000102 R_386_PC32        00000000   .text
+0000033c  00000102 R_386_PC32        00000000   .text
+00000358  00000102 R_386_PC32        00000000   .text
+00000374  00000102 R_386_PC32        00000000   .text
+00000390  00000102 R_386_PC32        00000000   .text
+000003ac  00000102 R_386_PC32        00000000   .text
+000003cc  00000102 R_386_PC32        00000000   .text
+000003e8  00000102 R_386_PC32        00000000   .text
+00000408  00000102 R_386_PC32        00000000   .text
+00000428  00000102 R_386_PC32        00000000   .text
+00000448  00000102 R_386_PC32        00000000   .text
+00000468  00000102 R_386_PC32        00000000   .text
+00000488  00000102 R_386_PC32        00000000   .text
+000004a8  00000102 R_386_PC32        00000000   .text
+000004c4  00000102 R_386_PC32        00000000   .text
+000004e4  00000102 R_386_PC32        00000000   .text
+00000504  00000102 R_386_PC32        00000000   .text
+00000524  00000102 R_386_PC32        00000000   .text
+00000544  00000102 R_386_PC32        00000000   .text
+00000564  00000102 R_386_PC32        00000000   .text
+
+Relocation section '.rel.data' at offset 0x49a8 contains 31 entries:
+ Offset     Info    Type            Sym.Value  Sym. Name
+00000004  00004901 R_386_32          00000000   __this_module
+0000000c  00000101 R_386_32          00000000   .text
+00000020  00000101 R_386_32          00000000   .text
+00000024  00006701 R_386_32          000003f0   rts_device_ioctl
+0000006c  00000501 R_386_32          00000000   .data
+00000070  00000501 R_386_32          00000000   .data
+00000078  00007c01 R_386_32          00000074   rts_send_available
+0000007c  00007c01 R_386_32          00000074   rts_send_available
+00000080  00000401 R_386_32          00000000   .rodata.str1.1
+00000084  00000401 R_386_32          00000000   .rodata.str1.1
+00000088  00000401 R_386_32          00000000   .rodata.str1.1
+0000008c  00000401 R_386_32          00000000   .rodata.str1.1
+00000090  00000401 R_386_32          00000000   .rodata.str1.1
+00000094  00000401 R_386_32          00000000   .rodata.str1.1
+00000098  00000401 R_386_32          00000000   .rodata.str1.1
+0000009c  00000401 R_386_32          00000000   .rodata.str1.1
+000000a0  00000401 R_386_32          00000000   .rodata.str1.1
+000000a4  00000401 R_386_32          00000000   .rodata.str1.1
+000000a8  00000401 R_386_32          00000000   .rodata.str1.1
+000000ac  00000401 R_386_32          00000000   .rodata.str1.1
+000000b0  00000401 R_386_32          00000000   .rodata.str1.1
+000000b8  00000501 R_386_32          00000000   .data
+000000bc  00000501 R_386_32          00000000   .data
+000000c0  00000501 R_386_32          00000000   .data
+000000c4  00000501 R_386_32          00000000   .data
+000000c8  00000501 R_386_32          00000000   .data
+000000cc  00000501 R_386_32          00000000   .data
+000000d0  00000501 R_386_32          00000000   .data
+000000d4  00000501 R_386_32          00000000   .data
+000000d8  00000501 R_386_32          00000000   .data
+000000dc  00000501 R_386_32          00000000   .data
+
+Relocation section '.rel.gnu.linkonce.this_module' at offset 0x4aa0 contains 2 entries:
+ Offset     Info    Type            Sym.Value  Sym. Name
+000000d4  00005b01 R_386_32          0000027d   init_module
+0000016c  00004d01 R_386_32          00000056   cleanup_module
+
+There are no unwind sections in this file.
+
+Symbol table '.symtab' contains 149 entries:
+   Num:    Value  Size Type    Bind   Vis      Ndx Name
+     0: 00000000     0 NOTYPE  LOCAL  DEFAULT  UND 
+     1: 00000000     0 SECTION LOCAL  DEFAULT    2 
+     2: 00000000     0 SECTION LOCAL  DEFAULT    4 
+     3: 00000000     0 SECTION LOCAL  DEFAULT    5 
+     4: 00000000     0 SECTION LOCAL  DEFAULT    7 
+     5: 00000000     0 SECTION LOCAL  DEFAULT   15 
+     6: 00000000     0 SECTION LOCAL  DEFAULT   19 
+     7: 00000056   185 FUNC    LOCAL  DEFAULT    2 rts_exit_module
+     8: 00000000     4 OBJECT  LOCAL  DEFAULT   15 dev_major
+     9: 0000001c     4 OBJECT  LOCAL  DEFAULT   19 rts_class
+    10: 00000020     4 OBJECT  LOCAL  DEFAULT   19 rtm_entry
+    11: 0000010f    45 FUNC    LOCAL  DEFAULT    2 rts_device_poll
+    12: 0000013c    35 FUNC    LOCAL  DEFAULT    2 rts_device_read
+    13: 00000024     4 OBJECT  LOCAL  DEFAULT   19 rtm_scan_enable
+    14: 0000015f    92 FUNC    LOCAL  DEFAULT    2 rtm_read_proc
+    15: 0000027d   217 FUNC    LOCAL  DEFAULT    2 rts_init_module
+    16: 00000004   104 OBJECT  LOCAL  DEFAULT   15 fops
+    17: 00000024     0 OBJECT  LOCAL  DEFAULT   19 __key.25329
+    18: 00000356    72 FUNC    LOCAL  DEFAULT    2 rts_pid_already_exist
+    19: 00000028     4 OBJECT  LOCAL  DEFAULT   19 rts_pid_lock
+    20: 0000006c     8 OBJECT  LOCAL  DEFAULT   15 rts_pid_list
+    21: 0000002c     4 OBJECT  LOCAL  DEFAULT   19 rts_sign_exts
+    22: 00000552    77 FUNC    LOCAL  DEFAULT    2 user_path_parent
+    23: 0000059f   194 FUNC    LOCAL  DEFAULT    2 __lookup_hash
+    24: 00000000    12 OBJECT  LOCAL  DEFAULT   10 __mod_license59
+    25: 0000000c    43 OBJECT  LOCAL  DEFAULT   10 __mod_author58
+    26: 00000037    40 OBJECT  LOCAL  DEFAULT   10 __mod_description57
+    27: 00000048     4 OBJECT  LOCAL  DEFAULT   19 rts_sign_exts
+    28: 00000d28    15 FUNC    LOCAL  DEFAULT    2 spin_lock
+    29: 00000040     4 OBJECT  LOCAL  DEFAULT   19 rts_open_lock
+    30: 000000d0     8 OBJECT  LOCAL  DEFAULT   15 rts_open_list
+    31: 00000d60    20 FUNC    LOCAL  DEFAULT    2 rts_malloc
+    32: 00000d74    74 FUNC    LOCAL  DEFAULT    2 rts_find_file_only_name
+    33: 00000dbe    95 FUNC    LOCAL  DEFAULT    2 rts_check_protect_file
+    34: 00000034     4 OBJECT  LOCAL  DEFAULT   19 rts_protect_lock
+    35: 000000b8     8 OBJECT  LOCAL  DEFAULT   15 rts_protect_list
+    36: 00000038     4 OBJECT  LOCAL  DEFAULT   19 rts_hidden_lock
+    37: 000000c0     8 OBJECT  LOCAL  DEFAULT   15 rts_hidden_list
+    38: 00000e1d    15 FUNC    LOCAL  DEFAULT    2 rts_free
+    39: 00000f2f    24 FUNC    LOCAL  DEFAULT    2 list_del_init
+    40: 00000f47    17 FUNC    LOCAL  DEFAULT    2 list_add
+    41: 00000f58    74 FUNC    LOCAL  DEFAULT    2 rts_add_file_to_open_list
+    42: 0000003c     4 OBJECT  LOCAL  DEFAULT   19 rts_temp_lock
+    43: 000000c8     8 OBJECT  LOCAL  DEFAULT   15 rts_temp_list
+    44: 00001015    18 FUNC    LOCAL  DEFAULT    2 rts_add_file_to_open_list
+    45: 000010fe   185 FUNC    LOCAL  DEFAULT    2 rts_build_file_struct
+    46: 00000030     4 OBJECT  LOCAL  DEFAULT   19 rts_path_lock
+    47: 0000004c  4096 OBJECT  LOCAL  DEFAULT   19 max_path
+    48: 00000044     4 OBJECT  LOCAL  DEFAULT   19 rts_wait_lock
+    49: 00001445    15 FUNC    LOCAL  DEFAULT    2 copy_from_user
+    50: 000000d8     8 OBJECT  LOCAL  DEFAULT   15 rts_wait_list
+    51: 00000060    35 OBJECT  LOCAL  DEFAULT   10 __mod_srcversion23
+    52: 00000084     9 OBJECT  LOCAL  DEFAULT   10 __module_depends
+    53: 0000008d    52 OBJECT  LOCAL  DEFAULT   10 __mod_vermagic5
+    54: 00000000     0 SECTION LOCAL  DEFAULT    1 
+    55: 00000000     0 SECTION LOCAL  DEFAULT    8 
+    56: 00000000     0 SECTION LOCAL  DEFAULT   10 
+    57: 00000000     0 SECTION LOCAL  DEFAULT   11 
+    58: 00000000     0 SECTION LOCAL  DEFAULT   13 
+    59: 00000000     0 SECTION LOCAL  DEFAULT   17 
+    60: 00000000     0 SECTION LOCAL  DEFAULT   20 
+    61: 00000000     0 SECTION LOCAL  DEFAULT   21 
+    62: 00000d37    41 FUNC    GLOBAL DEFAULT    2 rts_open_list_empty
+    63: 00000000    86 FUNC    GLOBAL DEFAULT    2 rts_syscall_exit
+    64: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND strcpy
+    65: 00001734   349 FUNC    GLOBAL DEFAULT    2 rts_receive_files_ioctl
+    66: 00000010     4 OBJECT  GLOBAL DEFAULT   19 original_rename
+    67: 00000aa5   558 FUNC    GLOBAL DEFAULT    2 rtm_scan_open
+    68: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND __class_create
+    69: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND _copy_from_user
+    70: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND wait_for_completion_timeo
+    71: 00000cd4    36 FUNC    GLOBAL DEFAULT    2 strlwr
+    72: 0000039e    82 FUNC    GLOBAL DEFAULT    2 rtm_scan_kill
+    73: 00000000   380 OBJECT  GLOBAL DEFAULT   17 __this_module
+    74: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND complete
+    75: 000012d0   373 FUNC    GLOBAL DEFAULT    2 rts_process_file_open
+    76: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND class_destroy
+    77: 00000056   185 FUNC    GLOBAL DEFAULT    2 cleanup_module
+    78: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND ihold
+    79: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND kfree
+    80: 00000080    56 OBJECT  GLOBAL DEFAULT   15 excludedirpath
+    81: 00000004     4 OBJECT  GLOBAL DEFAULT   19 original_kill
+    82: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND iput
+    83: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND lookup_address
+    84: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND d_lookup
+    85: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND __wake_up
+    86: 00000661   372 FUNC    GLOBAL DEFAULT    2 rtm_scan_unlink
+    87: 000001bb    36 FUNC    GLOBAL DEFAULT    2 set_addr_rw
+    88: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND _raw_spin_lock
+    89: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND kmem_cache_alloc_trace
+    90: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND path_put
+    91: 0000027d   217 FUNC    GLOBAL DEFAULT    2 init_module
+    92: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND create_proc_entry
+    93: 00000e2c   183 FUNC    GLOBAL DEFAULT    2 rts_encode_filter_file
+    94: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND msecs_to_jiffies
+    95: 00000cf8    48 FUNC    GLOBAL DEFAULT    2 rts_get_sign_exts
+    96: 00000014     4 OBJECT  GLOBAL DEFAULT   19 original_unlink
+    97: 00000a06   159 FUNC    GLOBAL DEFAULT    2 rtm_scan_close
+    98: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND d_alloc
+    99: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND mnt_want_write
+   100: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND path_lookup
+   101: 0000168b   169 FUNC    GLOBAL DEFAULT    2 rts_add_hidden_file
+   102: 00000ee3    76 FUNC    GLOBAL DEFAULT    2 rts_set_sign_exts
+   103: 000003f0   354 FUNC    GLOBAL DEFAULT    2 rts_device_ioctl
+   104: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND putname
+   105: 00001891   208 FUNC    GLOBAL DEFAULT    2 rts_send_files_ioctl
+   106: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND device_create
+   107: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND strstr
+   108: 00001454   199 FUNC    GLOBAL DEFAULT    2 rts_remove_protect_file
+   109: 00000008     4 OBJECT  GLOBAL DEFAULT   19 original_open
+   110: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND mutex_lock
+   111: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND lock_rename
+   112: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND strncmp
+   113: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND mcount
+   114: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND copy_to_user
+   115: 00000000     4 OBJECT  GLOBAL DEFAULT   19 sys_call_table
+   116: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND printk
+   117: 000007d5   561 FUNC    GLOBAL DEFAULT    2 rtm_scan_rename
+   118: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND current_task
+   119: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND getname
+   120: 000015c4   199 FUNC    GLOBAL DEFAULT    2 rts_remove_hidden_file
+   121: 00001204   204 FUNC    GLOBAL DEFAULT    2 rts_process_rename
+   122: 000001df   158 FUNC    GLOBAL DEFAULT    2 rts_syscall_init
+   123: 00000fa2   115 FUNC    GLOBAL DEFAULT    2 rts_process_file_close
+   124: 00000074    12 OBJECT  GLOBAL DEFAULT   15 rts_send_available
+   125: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND unlock_rename
+   126: 00000018     4 OBJECT  GLOBAL DEFAULT   19 sys_getpgid
+   127: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND strcmp
+   128: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND __list_add
+   129: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND mnt_drop_write
+   130: 0000151b   169 FUNC    GLOBAL DEFAULT    2 rts_add_protect_file
+   131: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND sprintf
+   132: 0000000c     4 OBJECT  GLOBAL DEFAULT   19 original_close
+   133: 000011b7    77 FUNC    GLOBAL DEFAULT    2 rts_process_unlink
+   134: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND mutex_unlock
+   135: 00001027   137 FUNC    GLOBAL DEFAULT    2 rts_process_temp_open
+   136: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND __register_chrdev
+   137: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND device_destroy
+   138: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND remove_proc_entry
+   139: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND dput
+   140: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND schedule_work
+   141: 000010b0    78 FUNC    GLOBAL DEFAULT    2 rts_is_excludefile
+   142: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND strlen
+   143: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND d_invalidate
+   144: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND __kmalloc
+   145: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND __list_del_entry
+   146: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND kmalloc_caches
+   147: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND d_path
+   148: 00000000     0 NOTYPE  GLOBAL DEFAULT  UND __unregister_chrdev
+
+No version information found in this file.
+
+Notes at offset 0x00000034 with length 0x00000024:
+  Owner                 Data size	Description
+  GNU                  0x00000014	NT_GNU_BUILD_ID (unique build ID bitstring)
+    Build ID: 5131f58f3000b185a0ee0364db6995a03c859b64

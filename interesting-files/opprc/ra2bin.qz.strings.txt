@@ -1,0 +1,1573 @@
+0x807bc0c 14 13 dump_init.txt
+0x807bc1a 26 25 dictionary free success.\n
+0x807bc34 10 9 filep.dat
+0x807bc41 17 8 파일없음 %s\n
+0x807bc52 26 25 after LoadOrganSoft : %d\n
+0x807bc6c 8 7 /%Y%m%d
+0x807bc74 5 4 .log
+0x807bc79 17 16 cp --force %s %s
+0x807bc8a 10 9 rm -rf %s
+0x807bc94 7 6 reboot
+0x807bc9b 22 21 dictionary path = %s\n
+0x807bcb1 10 9 AnGae.dat
+0x807bcbb 13 12 Warnning.wav
+0x807bcc8 20 19 /usr/lib/syspat.dat
+0x807bcdc 15 14 /usr/lib/organ
+0x807bcec 71 54 ========================== 중복검사사전쓰기 =================\n
+0x807bd34 47 46 dictionary loading success : double engine %d\n
+0x807bdab 9 8 \b6QGList
+0x807bdbf 28 27 \b/usr/share/e-sig/e_sig.dic
+0x807bddb 18 17 backtrace_symbols
+0x807bded 26 13 암호화된 파일 : %s\n
+0x807be07 24 23 FileName %s, Device %s\n
+0x807be1f 30 21 \n불순파일 %s || PID = %d\n
+0x807be3d 19 18 check thread main\n
+0x807be50 9 8 /dev/dvd
+0x807be59 11 10 /dev/cdrom
+0x807be64 6 5 eject
+0x807be6a 5 4 /usr
+0x807be6f 9 8 /usr/bin
+0x807be78 9 8 /usr/lib
+0x807be81 5 4 /tmp
+0x807be86 15 14 /usr/bin/opprc
+0x807be95 16 15 /usr/bin/scnprc
+0x807bea5 25 24 /usr/lib/AudioSignal.dat
+0x807bebe 23 22 /etc/init/ctguard.conf
+0x807bed5 21 20 /usr/lib/libigl.so.0
+0x807beea 21 20 /usr/lib/libmgl.so.0
+0x807beff 9 8 /dev/res
+0x807bf08 17 16 /dev/res error!\n
+0x807bf19 30 29 scan pthread_join failed: %d\n
+0x807bf37 13 12 /proc/mounts
+0x807bf44 21 20 cannot open dir: %s\n
+0x807bf5c 10 9 not root\n
+0x807bf66 16 15 modprobe rtscan
+0x807bf76 16 15 opprcmain error
+0x807bf86 6 5 /proc
+0x807bf8c 11 10 /proc/self
+0x807bf97 14 13 /proc/%s/task
+0x807bfa5 13 12 /proc/%s/exe
+0x807bfb2 12 11 dir error \n
+0x807bfbe 18 17 scan thread main\n
+0x807bfd0 19 18 /root/debuglog.txt
+0x807bfe3 14 13 ./soffice.bin
+0x807bff1 20 19 program/soffice.bin
+0x807c005 19 18 /usr/lib/ksmserver
+0x807c018 8 7 /media/
+0x807c020 6 5 /tmp/
+0x807c028 32 31 /usr/share/e-sig/e_sig.dic.back
+0x807c048 36 35 /usr/share/e-sig/e_sig.dic.back.chk
+0x807c06c 31 30 /usr/share/e-sig/e_sig.dic.chk
+0x807c08c 49 48 signum = %d : backtrace() returned %d addresses\n
+0x807c0c0 56 33 실시간 검사리력을 남긴다. ================ \n
+0x807c0f8 54 21 체계파일들에 대한 보호를 해제합니다.\n
+0x807c130 54 21 체계파일들에 대한 보호를 시작합니다.\n
+0x807c168 36 35 /usr/share/autostart/scnprc.desktop
+0x807c18c 32 31 scan pthread_create failed: %d\n
+0x807c1ac 33 32 check pthread_create failed: %d\n
+0x807c1d0 31 30 check pthread_join failed: %d\n
+0x807c1f0 42 41 receive exit signal = %d. real time stop\n
+0x807c21c 31 30 read self process information\n
+0x807c23c 35 34 /root/.kde/share/config/kdeglobals
+0x807c260 51 50 /Applications/Preview.app/Contents/RedStar/preview
+0x807c294 56 55 /Applications/SGOffice.app/Contents/RedStar/soffice.bin
+0x807c2cc 55 54 /Applications/QuickTime.app/Contents/RedStar/quicktime
+0x807c304 57 56 /Applications/SimpleText.app/Contents/RedStar/simpletext
+0x807c340 47 46 /Applications/Naenara.app/Contents/lib/firefox
+0x807c370 56 55 /Applications/CHMViewer.app/Contents/RedStar/kchmviewer
+0x807c3a8 48 19 /opt/통합사무처리프로그람《우리》
+0x807c3d8 198 197 .mpg.dat.avi.vob.gif.doc.pdf.ppt.xls.mp3.wav.mpa.wma.asf.mp2..jpg.bmp.png.tif.jpeg.tiff.mov.wmv.mp4.rm.rmv.rmvb.swf.flv.3gp.chm..djuv.djv.caj.kdh.teb.nh.caa.docx.xlsx.pptx.txt.htm.html.mht.hwp.pdg.
+0x807c4a0 31 30 aplay -N /usr/lib/Warnning.wav
+0x807c4bf 18 17 /usr/lib/java-1.0
+0x807c4d4 9 8 eject %s
+0x807c4dd 12 11 eject -m %s
+0x807c4e9 12 11 %s/VIDEO_TS
+0x807c4f5 17 16 /proc/%d/cmdline
+0x807c506 8 7 /dev/sr
+0x807c50e 27 26 read CDROM toc header: %s\n
+0x807c529 16 15 ioctl dif2: %s\n
+0x807c539 16 15 ioctl dif1: %s\n
+0x807c549 26 25 read CDROM toc entry: %s\n
+0x807c563 23 22 Failed to open CD-ROM\n
+0x807c57a 22 21 Failed to get cd toc\n
+0x807c590 18 17 Can not open VCD\n
+0x807c5a2 7 6 MPEGAV
+0x807c5a9 26 25 Can not open out file %s\n
+0x807c5c3 30 29 Failed to read data of track\n
+0x807c5e1 27 26 Can not write out file %s\n
+0x807c5fc 36 35 hald-addon-storage: polling /dev/sr
+0x807c620 40 39 ps -e | grep ksmserver | wc -l > /1.txt
+0x807c648 34 33 process is already running %s %s\n
+0x807c66a 7 6 /1.txt
+0x807c671 5 4 HOME
+0x807c676 6 5 /root
+0x807c67c 23 22 process first running\n
+0x807c693 8 7 scandir
+0x807c6af 20 19 \b16CMultiPatternMgr
+0x807c6ca 12 11 \a\b%s : %s, 
+0x807c6d6 12 11 UnkFunc => 
+0x807c6e2 9 8 UnkTrgFN
+0x807c6eb 13 12 172.16.100.3
+0x807c6f8 14 13 192.168.9.245
+0x807c706 13 12 192.168.9.43
+0x807c713 13 12 192.168.9.49
+0x807c720 14 13 192.168.9.119
+0x807c740 43 16 자료기지를 갱신할수 없습니다.
+0x807c780 40 15 자료기지가 낡은 판본입니다.
+0x807c7c0 40 15 자료기지가 같은 판본입니다.
+0x807c800 55 20 자료기지갱신파일이 존재하지 않습니다.
+0x807c840 94 37 자료기지를 성과적으로 갱신하였습니다.<br>체계를 재기동하겠습니다.
+0x807c8a0 112 43 검사도중 기동된 응용프로그람들이<br>비정상동작할수 있으므로 완료시켜주십시오.
+0x807c920 32 11 서류철을 선택하십시오
+0x807c940 75 32 체계가 파괴되였으므로 \r\n<br>체계를 다시 설치하십시오.
+0x807c9a0 75 42 프로그람판본: %.1f\r\n자료기지갱신날자: 주체%d(%d)-%.2d-%.2d
+0x807ca00 105 60 프로그람판본: %.1f%s<br>자료기지갱신날자: 주체%d(%d)-%.2d-%.2d<br>하드계렬번호: %s
+0x807ca80 36 13 체계를 재기동하겠습니다.
+0x807cac0 66 25 일반사용자에서는 이 기능을 리용할수 없습니다.
+0x807cb09 19 6 프로그람정보
+0x807cb1c 19 6 자료기지갱신
+0x807cb30 17 16 /usr/share/magic
+0x807cb41 17 16 /usr/lib/magiccb
+0x807cb52 15 14 /usr/bin/opprc
+0x807cb61 8 7 /insert
+0x807cb69 6 5 /Year
+0x807cb6f 7 6 /Month
+0x807cb76 5 4 /Day
+0x807cb7b 7 6 /ptime
+0x807cb82 12 11 /updatetime
+0x807cb92 19 6 실시간감시부
+0x807cba5 15 14 /tmp/AnGae.dat
+0x807cbb4 16 15 /tmp/scnprc.ini
+0x807cbc4 15 14 /tmp/OSUpdate/
+0x807cbd3 21 20 /tmp/fdas_update.udb
+0x807cbe8 19 18 /usr/bin/runoncerf
+0x807cbfb 22 21 /etc/init.d/runoncerf
+0x807cc11 13 12 FileName.bin
+0x807cc1e 25 24 /program/fdas_update.udb
+0x807cc40 15 14 /tmp/AnGae.dat
+0x807cd44 16 15 /tmp/scnprc.ini
+0x807ce48 21 20 /usr/bin/redflag.bmp
+0x807cf4c 25 24 /usr/lib/AudioSignal.dat
+0x807d050 22 21 /usr/lib/Warnning.wav
+0x807d154 21 20 /usr/lib/libigl.so.0
+0x807d258 21 20 /usr/lib/libmgl.so.0
+0x807d35c 17 16 /usr/lib/magiccb
+0x807d460 45 44 /usr/share/locale/ko_KP/LC_MESSAGES/organ.mo
+0x807d564 46 45 /usr/share/locale/ko_KP/LC_MESSAGES/scnprc.mo
+0x807d668 19 18 /usr/bin/runoncerf
+0x807d870 20 19 /usr/lib/tmpsrc.tmp
+0x807d884 7 6 %H%M%S
+0x807d88b 15 14 %s%s%s_lnk%s%s
+0x807d89a 13 12 %s%s%s%s.lnk
+0x807d8b2 9 8 .profile
+0x807d8bb 6 5 EUCKP
+0x807d8c1 6 5 UTF-8
+0x807d8cb 5 4 %s%d
+0x807d8d0 7 6 WWWWWW
+0x807d8e0 6 5 WWWWW
+0x807d8eb 23 22 /usr/tmp/kdecache-1025
+0x807d932 6 5 des.c
+0x807d938 20 19 (pt != ((void *)0))
+0x807d94c 20 19 (ct != ((void *)0))
+0x807d960 21 20 (key != ((void *)0))
+0x807d975 22 21 (skey != ((void *)0))
+0x807d98b 20 19 Input DataLength = 
+0x807d99f 12 11 \nNo match!\n
+0x807d9ab 26 25 \nEncrypt and Decrypt OK!\n
+0x807d9c8 41 40 \nDataLength have to be a multiple of 4!\n
+0x807da00 16 15 des_ecb_decrypt
+0x807e3aa 12 5 \b\b\b\b\b
+0x807e3b6 12 5 \b\b\b\b\b
+0x807e3d0 22 10 \b\bࠀ\b\b\bࠈ\bࠀ\b
+0x807e3ec 10 4 \b\bࠈ\b
+0x807e3fc 38 18 \b\bࠀ\bࠀ\bࠀ\bࠈ\bࠈ\bࠀ\bࠈ\bࠈ\b
+0x807e485 16 7 \b\b\bࠀ\bࠈ\b
+0x807e4cc 6 5 \b\b\b\b\b
+0x807e4d5 5 4 \b\b\b\b
+0x807e4dc 5 4 \b\b\b\b
+0x807e4ee 5 4 \b\b\b\b
+0x807e4f6 5 4 \b\b\b\b
+0x807e50c 7 6 \b\b\b\b\b\b
+0x807e515 6 5 \b\b\b\b\b
+0x807e51c 5 4 \b\b\b\b
+0x807e52a 12 5 \b\bࠀ\b\b
+0x807e545 16 7 \b\bࠀࠀ\bࠈࠀ
+0x807e56f 5 4 \b\b\b\b
+0x807e577 5 4 \b\b\b\b
+0x807e585 16 7 \b\bࠈࠀ\bࠈࠈ
+0x807e597 5 4 \b\b\b\b
+0x807e5aa 12 5 \b\bࠈ\b\b
+0x807e5cc 6 5 \b\b\b\b\b
+0x807e5d5 5 4 \b\b\b\b
+0x807e5dc 5 4 \b\b\b\b
+0x807e5ee 6 5 \b\b\b\b\b
+0x807e5f6 6 5 \b\b\b\b\b
+0x807e60c 8 7 \b\b\b\b\b\b\b
+0x807e615 7 6 \b\b\b\b\b\b
+0x807e61c 5 4 \b\b\b\b
+0x807e693 14 6 \b\bࠀ\bࠈ\b
+0x807e6b6 12 5 \b\bࠀ\b\b
+0x807e6cb 5 4 \b\b\b\b
+0x807e6db 5 4 \b\b\b\b
+0x807e70b 5 4 \b\b\b\b
+0x807e71b 5 4 \b\b\b\b
+0x807e74a 5 4 \b\b\b\b
+0x807e75a 5 4 \b\b\b\b
+0x807e769 5 4 \b\b\b\b
+0x807e770 5 4 \b\b\b\b
+0x807e778 6 5 \b\b\b\b\b
+0x807e789 6 5 \b\b\b\b\b
+0x807e790 5 4 \b\b\b\b
+0x807e798 7 6 \b\b\b\b\b\b
+0x807e7b6 12 5 \b\bࠈ\b\b
+0x807e7ca 6 5 \b\b\b\b\b
+0x807e7da 6 5 \b\b\b\b\b
+0x807e7e9 5 4 \b\b\b\b
+0x807e7f0 5 4 \b\b\b\b
+0x807e7f8 6 5 \b\b\b\b\b
+0x807e809 7 6 \b\b\b\b\b\b
+0x807e810 5 4 \b\b\b\b
+0x807e818 8 7 \b\b\b\b\b\b\b
+0x807e87f 36 17 \b\b\b\b\b\bࠈ\bࠈ\b\b\bࠈ\bࠈ\b\b
+0x807e8cb 7 6 \b\b\b\b\b\b
+0x807e8d5 5 4 \b\b\b\b
+0x807e8db 6 5 \b\b\b\b\b
+0x807e8e1 70 34 \b\bࠀ\b\bࠈࠀࠈ\b\bࠀࠈ\bࠈࠀ\b\b\bࠈ\b\bࠈࠈࠈ\b\bࠈࠈ\bࠈࠈ\bࠀ\b
+0x807e945 34 16 \b\bࠀࠈ\bࠈࠀ\b\bࠈࠀࠈ\b\bࠈ\b
+0x807e969 5 4 \b\b\b\b
+0x807e96f 6 5 \b\b\b\b\b
+0x807e977 7 6 \b\b\b\b\b\b
+0x807e985 158 78 \b\bࠈࠈ\bࠈࠈ\b\bࠈࠈࠈ\b\bࠀ\bࠀ\bࠀࠈࠀࠈࠀ\bࠀࠈࠀࠈࠀ\bࠀ\bࠈ\bࠀࠈࠈࠈࠀ\bࠈࠈࠀࠈࠈ\bࠈ\bࠀ\bࠈࠈࠀࠈࠈ\bࠀࠈࠈࠈࠀ\bࠈ\bࠈ\bࠈࠈࠈࠈࠈ\bࠈࠈࠈࠈࠈ\b
+0x8080baa 12 5 @@@@@
+0x8080bb6 12 5 @@@@@
+0x8080bd0 22 10 @@䀀@@@䁀@䀀@
+0x8080bec 10 4 @@䁀@
+0x8080bfc 38 18 @@䀀@䀀@䀀@䁀@䁀@䀀@䁀@䁀@
+0x8080c85 16 7 @@@䀀@䁀@
+0x8080ccc 6 5 @@@@@
+0x8080cd5 5 4 @@@@
+0x8080cdc 5 4 @@@@
+0x8080cee 5 4 @@@@
+0x8080cf6 5 4 @@@@
+0x8080d0c 7 6 @@@@@@
+0x8080d15 6 5 @@@@@
+0x8080d1c 5 4 @@@@
+0x8080d2a 12 5 @@䀀@@
+0x8080d45 16 7 @@䀀䀀@䁀䀀
+0x8080d6f 5 4 @@@@
+0x8080d77 5 4 @@@@
+0x8080d85 16 7 @@䁀䀀@䁀䁀
+0x8080d97 5 4 @@@@
+0x8080daa 12 5 @@䁀@@
+0x8080dcc 6 5 @@@@@
+0x8080dd5 5 4 @@@@
+0x8080ddc 5 4 @@@@
+0x8080dee 6 5 @@@@@
+0x8080df6 6 5 @@@@@
+0x8080e0c 8 7 @@@@@@@
+0x8080e15 7 6 @@@@@@
+0x8080e1c 5 4 @@@@
+0x8080e93 14 6 @@䀀@䁀@
+0x8080eb6 12 5 @@䀀@@
+0x8080ecb 5 4 @@@@
+0x8080edb 5 4 @@@@
+0x8080f0b 5 4 @@@@
+0x8080f1b 5 4 @@@@
+0x8080f4a 5 4 @@@@
+0x8080f5a 5 4 @@@@
+0x8080f69 5 4 @@@@
+0x8080f70 5 4 @@@@
+0x8080f78 6 5 @@@@@
+0x8080f89 6 5 @@@@@
+0x8080f90 5 4 @@@@
+0x8080f98 7 6 @@@@@@
+0x8080fb6 12 5 @@䁀@@
+0x8080fca 6 5 @@@@@
+0x8080fda 6 5 @@@@@
+0x8080fe9 5 4 @@@@
+0x8080ff0 5 4 @@@@
+0x8080ff8 6 5 @@@@@
+0x8081009 7 6 @@@@@@
+0x8081010 5 4 @@@@
+0x8081018 8 7 @@@@@@@
+0x808107f 36 17 @@@@@@䁀@䁀@@@䁀@䁀@@
+0x80810cb 7 6 @@@@@@
+0x80810d5 5 4 @@@@
+0x80810db 6 5 @@@@@
+0x80810e1 70 34 @@䀀@@䁀䀀䁀@@䀀䁀@䁀䀀@@@䁀@@䁀䁀䁀@@䁀䁀@䁀䁀@䀀@
+0x8081145 34 16 @@䀀䁀@䁀䀀@@䁀䀀䁀@@䁀@
+0x8081169 5 4 @@@@
+0x808116f 6 5 @@@@@
+0x8081177 7 6 @@@@@@
+0x8081185 158 78 @@䁀䁀@䁀䁀@@䁀䁀䁀@@䀀@䀀@䀀䁀䀀䁀䀀@䀀䁀䀀䁀䀀@䀀@䁀@䀀䁀䁀䁀䀀@䁀䁀䀀䁀䁀@䁀@䀀@䁀䁀䀀䁀䁀@䀀䁀䁀䁀䀀@䁀@䁀@䁀䁀䁀䁀䁀@䁀䁀䁀䁀䁀@
+0x80813aa 12 5      
+0x80813b6 12 5      
+0x80813d0 22 10       †   
+0x80813ec 10 4   † 
+0x80813fc 38 18         † †   † † 
+0x8081485 16 7      † 
+0x80814cc 6 5      
+0x80814d5 5 4     
+0x80814dc 5 4     
+0x80814ee 5 4     
+0x80814f6 5 4     
+0x808150c 7 6       
+0x8081515 6 5      
+0x808151c 5 4     
+0x808152a 12 5      
+0x8081545 16 7      † 
+0x808156f 5 4     
+0x8081577 5 4     
+0x8081585 16 7   †  ††
+0x8081597 5 4     
+0x80815aa 12 5   †  
+0x80815cc 6 5      
+0x80815d5 5 4     
+0x80815dc 5 4     
+0x80815ee 6 5      
+0x80815f6 6 5      
+0x808160c 8 7        
+0x8081615 7 6       
+0x808161c 5 4     
+0x8081693 14 6     † 
+0x80816b6 12 5      
+0x80816cb 5 4     
+0x80816db 5 4     
+0x808170b 5 4     
+0x808171b 5 4     
+0x808174a 5 4     
+0x808175a 5 4     
+0x8081769 5 4     
+0x8081770 5 4     
+0x8081778 6 5      
+0x8081789 6 5      
+0x8081790 5 4     
+0x8081798 7 6       
+0x80817b6 12 5   †  
+0x80817ca 6 5      
+0x80817da 6 5      
+0x80817e9 5 4     
+0x80817f0 5 4     
+0x80817f8 6 5      
+0x8081809 7 6       
+0x8081810 5 4     
+0x8081818 8 7        
+0x808187f 36 17       † †   † †  
+0x80818cb 7 6       
+0x80818d5 5 4     
+0x80818db 6 5      
+0x80818e1 70 34      † †   † †    †  †††  †† ††   
+0x8081945 34 16    † †   † †  † 
+0x8081969 5 4     
+0x808196f 6 5      
+0x8081977 7 6       
+0x8081985 168 83   †† ††  †††       † †   † †    †  †††  †† †† †   †† ††  †††  † † ††††† †††††  Ȁ Ȅ\b
+0x8082b10 5 4 \b\b\b\b
+0x8082b18 5 4 \b\b\b\b
+0x8082bff 5 4 \b\b\b\b
+0x8082c07 5 4 \b\b\b\b
+0x8082c0f 6 5 \b\b\b\b\b
+0x8082c17 6 5 \b\b\b\b\b
+0x8082d10 5 4 \b\b\b\b
+0x8082d18 5 4 \b\b\b\b
+0x8082d71 20 9 \b\bࠀ\b\bȈࠀ\bࠈ
+0x8082dde 5 4 \b\b\b\b
+0x8082de6 5 4 \b\b\b\b
+0x8082dee 5 4 \b\b\b\b
+0x8082df6 5 4 \b\b\b\b
+0x8082dfe 6 5 \b\b\b\b\b
+0x8082e06 6 5 \b\b\b\b\b
+0x8082e0e 7 6 \b\b\b\b\b\b
+0x8082e16 7 6 \b\b\b\b\b\b
+0x8082ef3 18 8 \b\bࠀ\bȈ\bࠀࠈ
+0x8082f10 5 4 \b\b\b\b
+0x8082f18 5 4 \b\b\b\b
+0x8082f45 32 15 \b\bࠀȀ\b\bࠀ\b\b\bࠀȈ\b\b\b
+0x8082f65 32 15 \b\b\bȀ\b\b\b\b\b\b\bȈ\b\bࠈ
+0x8082f85 30 14 \b\bࠈȀ\b\bࠈ\b\b\bࠈȈ\bࠈ
+0x8082ff3 18 8 \b\bࠈ\bȈ\bࠈࠈ
+0x8083007 5 4 \b\b\b\b
+0x808300f 6 5 \b\b\b\b\b
+0x8083017 6 5 \b\b\b\b\b
+0x80830c0 36 17 \b\bࠀ\b\b\bࠂ\b\bࠈࠀ\b\bࠈࠂ\bࠈ
+0x8083110 5 4 \b\b\b\b
+0x8083118 5 4 \b\b\b\b
+0x8083171 20 9 \b\bࠈ\b\bȈࠈ\bࠈ
+0x808319d 5 4 \b\b\b\b
+0x80831a5 5 4 \b\b\b\b
+0x80831ad 5 4 \b\b\b\b
+0x80831b5 5 4 \b\b\b\b
+0x80831bd 5 4 \b\b\b\b
+0x80831c5 5 4 \b\b\b\b
+0x80831cd 5 4 \b\b\b\b
+0x80831d5 5 4 \b\b\b\b
+0x80831dd 6 5 \b\b\b\b\b
+0x80831e5 6 5 \b\b\b\b\b
+0x80831ed 6 5 \b\b\b\b\b
+0x80831f5 6 5 \b\b\b\b\b
+0x80831fd 7 6 \b\b\b\b\b\b
+0x8083205 7 6 \b\b\b\b\b\b
+0x808320d 8 7 \b\b\b\b\b\b\b
+0x8083215 8 7 \b\b\b\b\b\b\b
+0x8083299 5 4    \b
+0x8083310 5 4     
+0x8083318 6 5     \b
+0x8083399 5 4    \b
+0x80833ca 12 5  \b  †
+0x80833ff 5 4     
+0x8083407 5 4     
+0x808340f 6 5      
+0x8083417 7 6      \b
+0x808346c 10 4 \b   
+0x808348c 10 4 \b  †
+0x8083499 5 4    \b
+0x80834ac 10 4 \b   
+0x80834b6 16 7    \b   
+0x80834c6 16 7    \b  †
+0x80834d6 14 6   †\b †
+0x80834ec 10 4 \b † 
+0x808350c 10 4 \b ††
+0x8083518 6 5     \b
+0x8083571 20 9      ࠠ  †
+0x8083599 5 4    \b
+0x80835ca 12 5  \b† †
+0x80835de 5 4     
+0x80835e6 5 4     
+0x80835ee 5 4     
+0x80835f6 5 4     
+0x80835fe 6 5      
+0x8083606 6 5      
+0x808360e 7 6       
+0x8083616 8 7       \b
+0x808365a 5 4   \b 
+0x8083699 6 5    \b 
+0x80836da 5 4   \b 
+0x80836f3 18 8     ࠠ  †
+0x8083710 5 4     
+0x8083718 7 6     \b 
+0x8083745 32 15    ࠀ       ࠠ   
+0x8083765 32 15    ࠀ       ࠠ  †
+0x8083785 30 14   †ࠀ  †   †ࠠ †
+0x80837da 5 4   \b 
+0x80837f3 18 8   † ࠠ ††
+0x8083807 5 4     
+0x808380f 6 5      
+0x8083817 8 7      \b 
+0x808383b 5 4  \b  
+0x808385a 6 5   \b  
+0x808387b 5 4  \b  
+0x8083899 7 6    \b  
+0x80838bb 5 4  \b  
+0x80838c0 36 17          †   †  †
+0x80838fb 5 4  \b  
+0x8083910 5 4     
+0x8083918 8 7     \b  
+0x808392c 5 4 \b   
+0x808393b 6 5  \b   
+0x808394c 5 4 \b   
+0x808395a 7 6   \b   
+0x808396c 5 4 \b   
+0x8083971 20 9   †  ࠠ† †
+0x808398c 5 4 \b   
+0x8083999 9 8    \b    
+0x80839a5 5 4     
+0x80839ac 6 5 \b    
+0x80839b5 5 4     
+0x80839bb 7 6  \b    
+0x80839c5 5 4     
+0x80839cc 6 5 \b    
+0x80839d5 5 4     
+0x80839da 9 8   \b     
+0x80839e5 6 5      
+0x80839ec 7 6 \b     
+0x80839f5 6 5      
+0x80839fb 9 8  \b      
+0x8083a05 7 6       
+0x8083a0c 9 8 \b       
+0x8083a15 12 11        \b   
+0x8085b10 5 4 @@@@
+0x8085b18 5 4 @@@@
+0x8085bff 5 4 @@@@
+0x8085c07 5 4 @@@@
+0x8085c0f 6 5 @@@@@
+0x8085c17 6 5 @@@@@
+0x8085d10 5 4 @@@@
+0x8085d18 5 4 @@@@
+0x8085d71 20 9 @@䀀@@၀䀀@䁀
+0x8085dde 5 4 @@@@
+0x8085de6 5 4 @@@@
+0x8085dee 5 4 @@@@
+0x8085df6 5 4 @@@@
+0x8085dfe 6 5 @@@@@
+0x8085e06 6 5 @@@@@
+0x8085e0e 7 6 @@@@@@
+0x8085e16 7 6 @@@@@@
+0x8085ef3 18 8 @@䀀@၀@䀀䁀
+0x8085f10 5 4 @@@@
+0x8085f18 5 4 @@@@
+0x8085f45 32 15 @@䀀က@@䀀@@@䀀၀@@@
+0x8085f65 32 15 @@@က@@@@@@@၀@@䁀
+0x8085f85 30 14 @@䁀က@@䁀@@@䁀၀@䁀
+0x8085ff3 18 8 @@䁀@၀@䁀䁀
+0x8086007 5 4 @@@@
+0x808600f 6 5 @@@@@
+0x8086017 6 5 @@@@@
+0x80860c0 36 17 @@䀀@@@䀐@@䁀䀀@@䁀䀐@䁀
+0x8086110 5 4 @@@@
+0x8086118 5 4 @@@@
+0x8086171 20 9 @@䁀@@၀䁀@䁀
+0x808619d 5 4 @@@@
+0x80861a5 5 4 @@@@
+0x80861ad 5 4 @@@@
+0x80861b5 5 4 @@@@
+0x80861bd 5 4 @@@@
+0x80861c5 5 4 @@@@
+0x80861cd 5 4 @@@@
+0x80861d5 5 4 @@@@
+0x80861dd 6 5 @@@@@
+0x80861e5 6 5 @@@@@
+0x80861ed 6 5 @@@@@
+0x80861f5 6 5 @@@@@
+0x80861fd 7 6 @@@@@@
+0x8086205 7 6 @@@@@@
+0x808620d 8 7 @@@@@@@
+0x8086215 8 7 @@@@@@@
+0x808621d 19 18 @@@des_ecb_encrypt
+0x8086230 10 9 des_setup
+0x8086240 5 4 80( 
+0x8086248 5 4 91)!
+0x8086250 5 4 :2*"
+0x8086258 9 8 ;3+#>6.&
+0x8086264 5 4 =5-%
+0x808626c 5 4 <4,$
+0x80862df 16 15 '2, /+0&7!4-)1#
+0x8086360 12 11 /tmp/tmpdev
+0x808636c 20 19 hard disk s/n : %s\n
+0x8086380 5 4 WD-W
+0x8086385 13 12 %05.5X%08.8X
+0x8086392 24 23 get disk serial number\n
+0x80863aa 24 23 string length = %d, %s\n
+0x80863c2 19 18 get disk s/n fail\n
+0x80863d8 40 15 자료기지가 낡은 판본입니다.
+0x8086400 45 20 <%s>\r\n파일읽기가 실패하였습니다.
+0x8086430 108 41 자료기지파일이 파괴되였습니다.\r\n자료기지파일을 삭제하고 다시 구축하십시오.
+0x808649c 45 20 <%s>\r\n파일열기가 실패하였습니다.
+0x80864c9 25 24 src/UserPatternDBMgr.cpp
+0x80864e2 21 20 nPartLen < nBuffSize
+0x80864fb 14 13 nCmpFlag <= 0
+0x8086509 9 8 _001.tmp
+0x8086514 37 14 자료기지에 쓸수 없습니다.
+0x8086540 35 34 void repeatData(char*, int, int32)
+0x8086580 58 57 int32 CUserPatternDBMgr::loadDB(const TCHAR*, bool, bool)
+0x80865cf 9 8 \b6CDBMgr
+0x80865e5 5 4 e\b\b0
+0x80865ef 12 11 \b9CDBInxMgr
+0x8086601 10 9 e\b\bhash.c
+0x808660b 20 19 (md != ((void *)0))
+0x808661f 22 21 (hash != ((void *)0))
+0x8086635 21 20 (buf != ((void *)0))
+0x808664a 10 9 sha1_done
+0x8086654 14 13 sha1_compress
+0x8086662 10 9 sha1_init
+0x808666c 13 12 sha1_process
+0x8086679 22 21 PublicKey Filename = 
+0x808668f 21 20 \nMessage Filename = 
+0x80866a4 18 17 \nSign Filename = 
+0x80866b6 11 10 Error: %s\n
+0x80866c1 8 7 Out.dec
+0x80866c9 23 22 PrivateKey Filename = 
+0x80866e0 28 27 RSA signed hash: %lu bytes\n
+0x80866fc 8 7 Out.enc
+0x8086704 43 42 Took %.0f ms to make a %ld-byte RSA Sign.\n
+0x808673a 22 21 zDInvalid error code.
+0x8086750 6 5 rsa.c
+0x8086756 20 19 (in != ((void *)0))
+0x808676a 21 20 (out != ((void *)0))
+0x808677f 24 23 (outlen != ((void *)0))
+0x8086797 21 20 (dst != ((void *)0))
+0x80867ac 21 20 (src != ((void *)0))
+0x80867c1 21 20 (sig != ((void *)0))
+0x80867d6 22 21 (stat != ((void *)0))
+0x80867ec 9 8 CRYPT_OK
+0x80867f5 12 11 CRYPT_ERROR
+0x8086801 17 16 Buffer overflow.
+0x8086812 22 21 Invalid input packet.
+0x8086828 24 23 Error reading the PRNG.
+0x8086840 26 25 Invalid cipher specified.
+0x808685a 24 23 Invalid hash specified.
+0x8086872 24 23 Invalid PRNG specified.
+0x808688a 15 14 Out of memory.
+0x8086899 30 29 A private PK key is required.
+0x80868b7 27 26 Invalid argument provided.
+0x80868d2 15 14 File Not Found
+0x80868e1 17 16 Invalid PK type.
+0x80868f2 19 18 Invalid PK system.
+0x8086905 26 25 Key not found in keyring.
+0x808691f 25 24 Invalid sized parameter.
+0x8086938 24 23 Invalid size for prime.
+0x8086960 16 15 rsa_verify_hash
+0x8086970 14 13 rsa_sign_hash
+0x808697e 14 13 rsa_signdepad
+0x808698c 12 11 rsa_signpad
+0x8086998 11 10 rsa_import
+0x80869a3 12 11 rsa_exptmod
+0x80869af 9 8 rsa_free
+0x80869b8 20 19 packet_store_header
+0x80869cc 20 19 packet_valid_header
+0x8086a05 8 7 g\b\bhj\b\b
+0x8086a21 20 19 j\b\b(h\b\b@h\b\bZh\b\brh\b\b
+0x8086a35 8 7 h\b\b k\b\b
+0x8086a4d 8 7 h\b\bTk\b\b
+0x8086a59 15 14 i\b\b8i\b\bzeromem
+0x8086a68 36 35 Non-fatal 'no-operation' requested.
+0x8086a8c 34 33 Invalid keysize for block cipher.
+0x8086ab0 43 42 Invalid number of rounds for block cipher.
+0x8086adc 31 30 Algorithm failed test vectors.
+0x8086afc 35 34 Invalid number of bits for a PRNG.
+0x8086b20 51 50 Invalid PK key or key type specified for function.
+0x8086b54 35 34 Duplicate PK key found on keyring.
+0x8086b78 65 64 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz+/
+0x8087030 5 4 .jpg
+0x8087035 6 5 .jpeg
+0x808703b 5 4 .bmp
+0x8087040 5 4 .png
+0x8087045 5 4 .gif
+0x808704a 5 4 .tif
+0x808704f 6 5 .tiff
+0x8087055 5 4 .mp3
+0x808705a 5 4 .wma
+0x808705f 5 4 .asf
+0x8087064 5 4 .mpa
+0x8087069 5 4 .mp2
+0x808706e 5 4 .avi
+0x8087073 5 4 .swf
+0x8087078 5 4 .wmv
+0x808707d 5 4 .3gp
+0x8087082 6 5 .3gpp
+0x8087088 5 4 .mpg
+0x808708d 6 5 .mpeg
+0x8087093 5 4 .mp4
+0x8087098 5 4 .vob
+0x80870a1 5 4 .rmv
+0x80870a6 6 5 .rmvb
+0x80870ac 6 5 .html
+0x80870b2 5 4 .htm
+0x80870b7 5 4 .mht
+0x808712f 25 24 \bigl_handle = NULL : %s\n
+0x8087148 9 8 igl_open
+0x8087151 10 9 igl_close
+0x808715b 16 15 igl_get_rgbdata
+0x808716b 16 15 igl_put_rgbdata
+0x808717b 24 23 dlopen mgl_handle : %s\n
+0x8087193 9 8 mgl_init
+0x808719c 9 8 mgl_free
+0x80871a5 13 12 mgl_agp_open
+0x80871b2 26 25 mgl_agp_get_audio_pcmdata
+0x80871cc 26 25 mgl_agp_put_audio_pcmdata
+0x80871e6 14 13 mgl_agp_close
+0x80871f4 9 8 mgl_open
+0x80871fd 25 24 get mgl_open error : %s\n
+0x8087216 10 9 mgl_close
+0x8087220 22 21 mgl_get_audio_pcmdata
+0x8087236 22 21 mgl_put_audio_pcmdata
+0x808724c 32 31 get igl_open symbol error : %s\n
+0x808726c 33 32 get igl_close symbol error : %s\n
+0x8087290 39 38 get igl_get_rgbdata symbol error : %s\n
+0x80872b8 39 38 get igl_put_rgbdata symbol error : %s\n
+0x80872e0 32 31 get mgl_init symbol error : %s\n
+0x8087300 32 31 get mgl_free symbol error : %s\n
+0x8087320 36 35 get mgl_agp_open symbol error : %s\n
+0x8087344 34 33 mgl_agp_set_audio_samples_per_get
+0x8087368 57 56 get mgl_agp_set_audio_samples_per_get symbol error : %s\n
+0x80873a4 49 48 get mgl_agp_get_audio_pcmdata symbol error : %s\n
+0x80873d8 49 48 get mgl_agp_put_audio_pcmdata symbol error : %s\n
+0x808740c 37 36 get mgl_agp_close symbol error : %s\n
+0x8087434 33 32 get mgl_close symbol error : %s\n
+0x8087458 45 44 get mgl_get_audio_pcmdata symbol error : %s\n
+0x8087488 45 44 get mgl_put_audio_pcmdata symbol error : %s\n
+0x80874b5 5 4 WM%s
+0x80874c5 6 4 XH&J
+0x80874d0 5 4 \fNgU
+0x808750b 5 4 )8[g
+0x8087521 5 4 2K`S
+0x8087551 5 4 c"v(
+0x808756b 5 4 "WAJ
+0x8087579 6 4 Anzո
+0x808758c 5 4 =3yv
+0x8087598 7 6 abc000
+0x80875a8 7 6 333333
+0x80876c7 6 4 ?5ċ=
+0x8087767 8 5 ?R˛lڹ
+0x808776f 5 4 ?n\aW
+0x80877b1 5 4 \tx'J
+0x80877c0 5 4 z*3y
+0x8087899 5 4 *5E[
+0x8087922 9 6 .U?xￔx
+0x80879b7 6 5 ?yF}X
+0x80879ca 5 4 C.A:
+0x8087a37 5 4 ?nNf
+0x8087d09 6 5 43|'Q
+0x8087d17 5 4 ?u,h
+0x8087d2f 8 6 ?רx{Lp
+0x8087d3a 5 4 /Dvs
+0x8087d53 6 4 `\vײ?
+0x8087db2 16 7 nk_disk
+0x8087dc4 5 4 .nrg
+0x8087dc9 6 5 ddpms
+0x8087dcf 5 4 .ixa
+0x8087def 8 7 \broot\r\n
+0x8087df7 6 5 %s\t| 
+0x8087dfd 13 12 %s, %d, %d\r\n
+0x8087e0a 5 4 %s\r\n
+0x8087e0f 27 24 Dictionary Count = %d개\r\n
+0x8087e2a 14 13 tree empty.\r\n
+0x8087e3c 5 4 d~\b\b
+0x8087e46 27 26 \a\b22MCSuffixTreeDictionary
+0x8087e67 7 6 \bH~\b\br
+0x8087e6e 14 13 /USMain_A.std
+0x8087e7c 14 13 /USMain_A.dat
+0x8087e92 20 19 %Y-%m-%d===%H:%M:%S
+0x8087ea8 49 48 \r\n====================%s====================\r\n\r\n
+0x8087edc 62 61 \r\n======= Length = %3d ====================================\r\n
+0x8087f45 12 11 "\a\b`"\a\bH"\a\b
+0x8087f59 17 16 "\a\b0"\a\bx"\a\bWWWWW
+0x8087f80 1293 1292 .css.dun.ini.isp.obe.dll.exe.log.cpx.inf.rsp.txt.bin.sql.scf.cfg.rat.sys.ddb.bat.htm.htt.js.vbs.lgc.sam.mydocs.---.dat.bak.cb.inc.reg.cnt.ins.scp.icw.ver.cif.lko.001.002.003.004.005.tbl.asm.6a.faq.1st.h.c.cpp.xml.dsp.dsw.rc2.rc.lgd.doc.bas.cod.diz.env.frm.hhp.lid.lst.msg.nfo.product.rgs.vbw.joboptions.wpl.php.map.tem.dsk.c70.sts.err.def.lnk.dos.win.mkf.dlg.ctt.inl.fd.fi.mof.xsl.vxd.hxx.eng.enu.nld.sep.tha.nt.cmd.srg.asp.theme.xdr.kbd.klb.set.lck.liveupdate.acrodata.ps.tmp.htc.vps.cnf.dic.sln.pak.vtm.bbs.clw.stf.vsdir.col.vbp.cls.idl.vaf.vap.mnu.pty.tip.ctl.dsr.dsm.vbz.dob.odl.csv.rcv.mc.hh.mk.prf.s.sub.iqy.ecf.det.url.cxx.asa.pl.hpp.acf.uni.vpj.vpw.cs.csproj.pag.hm.md5.vbg.ara.cat.chs.cht.csy.dan.deu.ell.esn.eti.euq.fin.fra.heb.hrv.hun.ita.jpn.kor.lth.lvi.nor.plk.ptb.ptg.rom.rus.sky.slv.sve.trk.vit.ldt.html.dsn.java.vbr.tlh.tli.vsz.user.ida.idq.htx.smp.hpj.guid.asmx.lpk.gak.w16.vsh.x.vb.vbproj.h16.hxt.hid.ggx.rst.lng.stp.syx.std.cmp.thd.sequ.nsi.key.cws.grd.tag.tsk.pem.idc.idt.pat.exc.rh.mak.uns.ldf.src.sif.iss.ldi.nif.mif.scr.sdb.pdi.sp1.sp2.dep.adm.pkp.gpz.dbp.bad.plg.utf8.asd.ctx.pcp.pdm.lic.vip.dtd.am.in.py.selinux.fsdump.quick.plo.lai.magic.la.debian.core64.m4.notice.sh.man.file.isprint.64bit.corefile.conf.po.ld.menu.kdevelop.spec.gen.usbkey.filelist.tex.lis.old.org.
+0x8088492 7 6 \b\btext
+0x8088499 25 24 type is (null) >>>>> %s\n
+0x80884b2 11 10 very short
+0x80884bd 10 9 MPEG ADTS
+0x80884c7 11 10 WAVE audio
+0x80884d2 14 13 Microsoft ASF
+0x80884e4 26 25 RIFF (little-endian) data
+0x80884fe 14 13 MPEG sequence
+0x808850c 10 9 RealMedia
+0x8088516 16 15 QuickTime movie
+0x8088526 23 22 Macromedia Flash Video
+0x808853d 22 21 Macromedia Flash data
+0x8088553 10 9 ISO Media
+0x808855d 16 15 JPEG image data
+0x808856d 12 11 bitmap data
+0x8088579 16 15 TIFF image data
+0x8088589 15 14 GIF image data
+0x8088598 15 14 PNG image data
+0x80885ab 8 7 UNICODE
+0x80885b3 26 25 Microsoft Office Document
+0x80885cd 13 12 PDF document
+0x80885da 17 16 Windows HtmlHelp
+0x80885eb 11 10 DjVu Image
+0x80885f6 11 10 CAJ Viewer
+0x8088601 22 21 Microsoft Office 2007
+0x8088617 16 15 Hangul (Korean)
+0x8088627 11 10 PDG Viewer
+0x8088632 17 16 %3d:%d:%s => %s\n
+0x8088643 8 7 %s: %s\n
+0x808864b 17 16 /usr/lib/magiccb
+0x808865c 23 22 magic file load fail!\n
+0x8088673 26 25 magic file load success!\n
+0x808868d 12 11 binary data
+0x8088699 9 8 FtDetect
+0x80886a4 31 30 Microsoft Cabinet archive data
+0x80886c4 36 35 .caj.kdh.teb.nh.caa.docx.xlsx.pptx.
+0x80886e8 11 10 writable, 
+0x80886f3 13 12 executable, 
+0x8088700 15 14 regular file, 
+0x808870f 19 18 no read permission
+0x8088722 17 16 cannot read `%s'
+0x8088733 20 19 application/x-empty
+0x8088747 27 26 very short file (no magic)
+0x8088762 5 4 %.3o
+0x8088767 27 26 cannot happen: m->type=%d\n
+0x8088782 17 16 cannot stat `%s'
+0x8088793 23 22 file `%s' is too small
+0x80887aa 16 15 cannot map `%s'
+0x80887ba 18 17 bad magic in `%s'
+0x80887cc 24 23 invalid magic file name
+0x80887e4 28 27 cannot read magic file `%s'
+0x8088800 20 19 offset `%s' invalid
+0x8088814 5 4 char
+0x8088819 5 4 byte
+0x808881e 8 7 beshort
+0x8088826 7 6 belong
+0x808882d 7 6 bedate
+0x8088834 8 7 leshort
+0x808883c 7 6 lelong
+0x8088843 7 6 ledate
+0x808884a 8 7 pstring
+0x8088852 8 7 beldate
+0x808885a 8 7 leldate
+0x8088862 6 5 regex
+0x8088868 11 10 bestring16
+0x8088873 11 10 lestring16
+0x808887e 7 6 search
+0x8088885 18 17 type `%s' invalid
+0x8088897 30 29 string extension `%c' invalid
+0x80888b5 22 21 string too long: `%s'
+0x80888cb 28 27 cannot get string from `%s'
+0x80888e7 6 5 MAGIC
+0x80888ed 11 10 /etc/magic
+0x80888f8 30 29 using regular magic file `%s'
+0x8088916 9 8 &|^+-*/%
+0x808891f 10 9 invalid 0
+0x8088929 10 9 invalid 3
+0x8088933 7 6 cduxXi
+0x8088940 9 8  :\a\b\b:\a\b
+0x8088951 8 7 9\a\b8:\a\b
+0x8088a1d 8 7 O\a\b.mgc
+0x8088a40 40 39 cont\toffset\ttype\topcode\tmask\tvalue\tdesc
+0x8088b32 38 37 \b\bversion mismatch (%d != %d) in `%s'
+0x8088b58 34 33 indirect offset type `%c' invalid
+0x8088b7c 31 30 missing ')' in indirect offset
+0x8088b9c 64 63 Internal error inconsistency between m->type and format strings
+0x8088bdc 48 47 No format string for `%s' with description `%s'
+0x8088c0c 66 65 Printf format `%c' is not valid for type `%s' in description `%s'
+0x8088c50 34 33 Invalid format `%s' for type `%s'
+0x8088c74 32 31 could not find any magic files!
+0x8088c94 27 26 , bad note name size 0x%lx
+0x8088cb3 11 10 , for GNU/
+0x8088cbe 6 5 Linux
+0x8088cc4 5 4 Hurd
+0x8088cc9 8 7 Solaris
+0x8088cd1 10 9 <unknown>
+0x8088cdb 10 9  %d.%d.%d
+0x8088ce5 13 12 , for NetBSD
+0x8088cf2 7 6  %u.%u
+0x8088cfb 14 13 , for FreeBSD
+0x8088d09 7 6  4.6.2
+0x8088d10 7 6  %d.%d
+0x8088d17 6 5  (%d)
+0x8088d1d 14 13 , for OpenBSD
+0x8088d2b 16 15 , for DragonFly
+0x8088d3b 12 11 NetBSD-CORE
+0x8088d47 11 10 , %s-style
+0x8088d52 15 14 , from '%.31s'
+0x8088d61 13 12  (signal %u)
+0x8088d72 15 14 , from '%.16s'
+0x8088d81 11 10 statically
+0x8088d8c 12 11 dynamically
+0x8088d98 20 19  (uses shared libs)
+0x8088dac 14 13 , %s linked%s
+0x8088dba 5 4 not 
+0x8088dbf 13 12 , %sstripped
+0x8088dcc 5 4 SVR4
+0x8088dd4 34 33 , bad note description size 0x%lx
+0x8088df8 32 31 , corrupted program header size
+0x8088e18 31 30 , invalid note alignment 0x%lx
+0x8088e38 32 31 , corrupted section header size
+0x8088e58 32 31 Cannot allocate memory for note
+0x8088e82 17 16 \b\b*Invalid time*
+0x8088e93 18 17 %s, %lu: Warning 
+0x8088ea5 12 11 >>>>>>>> %d
+0x8088eb1 6 5 *bad*
+0x8088eb7 5 4 (%s,
+0x8088ebc 7 6 %c%d),
+0x8088ec3 6 5  %s%s
+0x8088ec9 5 4 %.8x
+0x8088ed2 8 7 ,"%s"]\n
+0x8088f26 11 10 \a\b&|^+-*/%
+0x8088f92 24 23 \b\bcannot open `%s' (%s)
+0x8088faa 8 7 setuid 
+0x8088fb2 8 7 setgid 
+0x8088fba 8 7 sticky 
+0x8088fc2 10 9 directory
+0x8088fcc 28 27 character special (%ld/%ld)
+0x8088fe8 24 23 block special (%ld/%ld)
+0x8089000 18 17 fifo (named pipe)
+0x8089012 24 23 unreadable symlink `%s'
+0x808902a 29 28 unreadable symlink `%s' (%s)
+0x8089047 29 28 broken symbolic link to `%s'
+0x8089064 20 19 path too long: `%s'
+0x8089078 7 6 socket
+0x808907f 17 16 invalid mode 0%o
+0x8089090 31 30 application/x-not-regular-file
+0x80890af 22 21 no magic files loaded
+0x80890c5 14 13 error reading
+0x80890d3 14 13 error seeking
+0x80890e1 23 22 cannot allocate memory
+0x80890f8 25 24 application/octet-stream
+0x8089111 28 27 invalid type %d in mcheck()
+0x808912d 17 16 %u == *any* = 1\n
+0x808913e 15 14 %u != %u = %d\n
+0x808914d 15 14 %u == %u = %d\n
+0x808915c 14 13 %u > %u = %d\n
+0x808916a 14 13 %d > %d = %d\n
+0x8089178 14 13 %u < %u = %d\n
+0x8089186 14 13 %d < %d = %d\n
+0x8089194 24 23 ((%x & %x) == %x) = %d\n
+0x80891ac 24 23 ((%x & %x) != %x) = %d\n
+0x80891c4 11 10 mget @%d: 
+0x80891cf 30 29 Cannot allocate search buffer
+0x80891ed 30 29 invalid type %d in mconvert()
+0x8089210 37 36 cannot happen: invalid relation `%c'
+0x8089238 33 32 invalid m->type (%d) in mprint()
+0x808930a 7 5 \a\bٞ\a\b
+0x80893f6 8 6 \a\bϥ\a\bR
+0x808941e 15 11 \a\b٤\a\bΤ\a\bä\a\b
+0x808945e 11 8 \a\bߧ\a\bȧ\a\b
+0x808949a 7 5 \a\bۨ\a\b
+0x80894c2 8 6 \a\bО\a\b|
+0x80894fa 11 8 \a\bۣ\a\bʣ\a\b
+0x808953e 7 5 \a\bޢ\a\b
+0x808958a 11 10 \a\bus-ascii
+0x8089595 11 10 iso-8859-1
+0x80895a0 9 8 ISO-8859
+0x80895a9 6 5 utf-8
+0x80895af 14 13 UTF-8 Unicode
+0x80895bd 15 14 character data
+0x80895cc 7 6 utf-16
+0x80895d3 26 25 Big-endian UTF-16 Unicode
+0x80895ed 29 28 Little-endian UTF-16 Unicode
+0x808960a 8 7 unknown
+0x8089612 23 22 Non-ISO extended-ASCII
+0x8089629 7 6 ebcdic
+0x8089630 21 20 International EBCDIC
+0x8089645 11 10 text/plain
+0x8089650 11 10 ; charset=
+0x808965b 7 6 , with
+0x8089666 18 17  line terminators
+0x80897cb 7 6 .<(+|&
+0x80897da 9 8 !$*);~-/
+0x80897eb 6 5 ,%_>?
+0x80897f9 8 7 `:#@'="
+0x8089801 10 9 abcdefghi
+0x8089811 11 10 jklmnopqr^
+0x8089822 9 8 stuvwxyz
+0x8089840 11 10 {ABCDEFGHI
+0x8089850 11 10 }JKLMNOPQR
+0x8089862 9 8 STUVWXYZ
+0x8089870 11 10 0123456789
+0x8089880 6 5 1.2.3
+0x8089886 9 8 zlib: %s
+0x808988f 19 18 cannot create pipe
+0x80898a2 15 14 could not fork
+0x80898b7 5 4 gzip
+0x80898bc 5 4 -cdq
+0x80898c1 11 10 uncompress
+0x80898e4 6 5 bzip2
+0x80898f0 43 42 cannot create temporary file for pipe copy
+0x808991c 37 36 error copying from pipe to temp file
+0x8089944 33 32 error while writing to temp file
+0x8089968 39 38 could not dup descriptor for temp file
+0x8090aba 22 19 \b\bȼ\a\bܼ\a\bP2C.MGD.S3.
+0x8090ae4 7 6 121010
+0x8090b2a 7 5 \a\bߘ\b\b
+0x8090b60 5 4 RIFF
+0x8090b68 9 8 CDXAfmt 
+0x8090b84 5 4 data
+0x8090baf 8 7 ?091024
+0x8090be0 14 13 /usr/lib/1025
+0x8090ce4 17 16 /usr/lib/pattern
+0x8090cf5 16 15 /usr/lib/recent
+0x8090d16 19 18 \a\bwwwwwwwwwwwwvwww
+0x8090d30 14 13 3BCH496784712
+0x8090d40 5 4 0d\b\b
+0x8090d50 6 5 xk\b\bm
+0x8090daf 7 6 ??o*Ra
+0x8090e01 6 5 m@:+X
+0x8090e3a 5 4 T/dZ
+0x8090e57 6 5 ?'}kq
+0x8090f08 7 5 ܷZ'.G
+0x8090f80 6 5 sz(\e 
+0x8090fb0 9 5 6ٳBlڿ
+0x8090fbb 9 6 *}2࿅IL
+0x8090fcc 7 4 赴?5\r
+0x8090fd8 5 4 bQl`
+0x8091001 8 6 \e|a2U˿
+0x809109a 5 4 u\t=Q
+0x80910d1 6 4 GߤiP
+0x80910df 5 4 ?2y^
+0x80910f1 6 5 s\23X
+0x8091122 5 4 |x;g
+0x80911bf 6 4 ?\fǘ`
+0x8091228 7 5 MΚi\fD
+0x8091253 8 4 \߇ǿϔ
+0x809125b 7 5 \vktſD
+0x80913cf 5 4 ?ci;
+0x80913e9 5 4 >~%F
+0x809140d 8 5 +忓V|C
+0x8091469 7 4 |Ժh#
+0x8091497 6 5 ?S$_\t
+0x8091515 6 4 \bƿp5
+0x80915b6 6 4 ѿ\eQ5
+0x80915ec 8 4 !C����\f
+0x8091689 5 4 :q9^
+0x80916cf 8 5 ?_y5寅
+0x809170f 6 5 ?-s_s
+0x8091727 5 4 ?u.{
+0x80917a5 8 6 \ſ`prd
+0x80917c1 5 4 o&KR
+0x80917d9 5 4 0Y&\r
+0x80917ef 5 4 ?78l
+0x80917f4 6 4 MLĿt
+0x80917ff 5 4 ?~n\r
+0x8091837 5 4 ?rAl
+0x809186f 6 5 ?%\f^O
+0x8091880 6 5 0fKVE
+0x8091984 8 4 Ô鿆q7
+0x809199a 5 4 "HJ_
+0x80919a0 6 5 +Vh{O
+0x8091a51 6 4 Ƕ\f8+
+0x8091a91 6 4 6uyα
+0x8091b8f 8 7 ?37:Ba+
+0x8091b9f 7 6 ?~!?vr
+0x8091bcf 7 6 ?_0nYt
+0x8091bfe 8 4 ����_#I
+0x8091c68 7 6 /cTcSx
+0x8091ca1 5 4 VA\ft
+0x8091cb4 7 4 Kj㿨)
+0x8091cc7 5 4 ?^q'
+0x8091d00 5 4 jg=!
+0x8091d8c 10 6 aw翴ǰ/~
+0x8091db9 6 5 ,THC7
+0x8091de7 10 8 ?g)YNBiҿ
+0x8091e69 5 4 \nU i
+0x8091e8f 8 7 ?pJ/ jQ
+0x8091fa7 5 4 ?U\v6
+0x8091fbc 7 5 g)ÿ{D
+0x8091fd9 6 4 >rkҭ
+0x8092037 10 8 ?;m2OSp̿
+0x809209f 6 4 ?lݼ'
+0x80920c7 6 5 ?X*^\e
+0x80920d1 5 4 0Y&\r
+0x80920e3 8 5 sѐݿMP
+0x80920eb 6 4 q# ?
+0x809212f 5 4 ?YeK
+0x809215c 6 4 99ֿ\e
+0x8092178 5 4 Ofr 
+0x80921b4 9 4 \bN뿤'
+0x8092231 5 4 +D,\a
+0x8092287 7 6 ?cXjb&
+0x80922c8 5 4 Y:zW
+0x80922e5 6 4 tʿq.
+0x8092331 8 6 L1\aAGӿ
+0x8092354 7 5 {0?Vq
+0x809235c 11 7 ؖ翬*E<#[
+0x80923da 7 5 *sNGȿ
+0x80923e3 7 5 MEOӿQ
+0x80923ef 7 5 ?¦)]U
+0x8092435 6 4 `ÿ`\b
+0x8092462 7 5 HQ§d?
+0x809246f 5 4 ?\tYq
+0x8092480 5 4 4\aRs
+0x80924a0 5 4 &mO5
+0x80924a6 12 8 ֿw<ẘrٿ7
+0x80924d2 5 4 %|J\t
+0x80924e6 7 5 ѿ'\bhl
+0x809254d 6 4 mĿ|m
+0x8092562 6 4 6"s)
+0x809256f 5 4 ?Gu:
+0x8092577 5 4 ?Vp.
+0x80925bf 5 4 ?Q@$
+0x80925df 6 4 ?:О&
+0x8092611 8 6 Bn+b}п
+0x8092623 8 4 WQH����
+0x8092687 5 4 ?/6\b
+0x809268c 7 4 t\nѿϳ
+0x80926a3 7 5 O7Pƿ\t
+0x80926b7 7 6 ?NLr\eh
+0x8092704 6 4 a)ֿb
+0x8092741 6 5 e^XHJ
+0x8092754 8 5 :\eп#ǌ
+0x809279b 6 4 EŞ\t@
+0x80927b2 5 4 7]``
+0x80927ea 7 5 71$'ӿ
+0x80927f7 5 4 ?P?^
+0x809285d 7 5 i¿BCZ
+0x809287f 6 4 ?Ň#Y
+0x8092885 7 5 0¿gz.
+0x80928af 8 6 ??\fcsS
+0x80928ef 5 4 ?s5\r
+0x8092927 5 4 ??Q~
+0x8092997 8 7 ?W/uFJi
+0x80929b7 5 4 ?C*{
+0x8092a79 5 4 fjmu
+0x8092b1f 5 4 ?;\t[
+0x8092b42 5 4 <BrW
+0x8092b49 6 5 /fKV%
+0x8092b67 6 5 ?1DN_
+0x8092b87 5 4 ?\;Q
+0x8092b97 5 4 ?\a\rX
+0x8092ba1 5 4 R$_\t
+0x8092bb2 5 4 61n4
+0x8092be7 6 4 ?:"ߥ
+0x8092cb0 5 4  Kzs
+0x8092d3f 8 7 ?("hqkw
+0x8092d47 6 5 ?Ral!
+0x8092d4f 7 6 ?D&*ec
+0x8092d5d 8 6 zݿ$bJ$
+0x8092da8 5 4 =\a;j
+0x8092e1f 8 5 ?݀*ɕU
+0x8092e28 7 5 f6#ޕ8
+0x8092e54 6 4 O(ÿ]
+0x8092ec7 6 5 ?Az/c
+0x8092f37 6 5 ?tM7?
+0x8092f87 5 4 ?O@n
+0x8092fb2 5 4 {<>\v
+0x8092fc2 5 4 oY*T
+0x8093012 5 4 D|q3
+0x809306a 7 4 خuNǿ
+0x80930a0 6 5 !Rxu3
+0x809314f 6 4 0\bYq
+0x8093198 5 4 Zbe4
+0x809319f 6 5 ?NPy*
+0x809320c 6 4 ?8ֿ`
+0x809327a 5 4 \bk\bs
+0x80932df 7 6 ??o*Ra
+0x8093331 6 5 m@:+X
+0x809336a 5 4 T/dZ
+0x8093387 6 5 ?'}kq
+0x8093438 7 5 ܷZ'.G
+0x80934b0 6 5 sz(\e 
+0x80934e0 9 5 6ٳBlڿ
+0x80934eb 9 6 *}2࿅IL
+0x80934fc 7 4 赴?5\r
+0x8093508 5 4 bQl`
+0x8093531 8 6 \e|a2U˿
+0x80935ca 5 4 u\t=Q
+0x8093601 6 4 GߤiP
+0x809360f 5 4 ?2y^
+0x8093621 6 5 s\23X
+0x8093652 5 4 |x;g
+0x80936ef 6 4 ?\fǘ`
+0x8093758 7 5 MΚi\fD
+0x8093783 8 4 \߇ǿϔ
+0x809378b 7 5 \vktſD
+0x80938ff 5 4 ?ci;
+0x8093919 5 4 >~%F
+0x809393d 8 5 +忓V|C
+0x8093999 7 4 |Ժh#
+0x80939c7 6 5 ?S$_\t
+0x8093a45 6 4 \bƿp5
+0x8093ae6 6 4 ѿ\eQ5
+0x8093b1c 8 4 !C����\f
+0x8093bb9 5 4 :q9^
+0x8093bff 8 5 ?_y5寅
+0x8093c3f 6 5 ?-s_s
+0x8093c57 5 4 ?u.{
+0x8093cd5 8 6 \ſ`prd
+0x8093cf1 5 4 o&KR
+0x8093d09 5 4 0Y&\r
+0x8093d1f 5 4 ?78l
+0x8093d24 6 4 MLĿt
+0x8093d2f 5 4 ?~n\r
+0x8093d67 5 4 ?rAl
+0x8093d9f 6 5 ?%\f^O
+0x8093db0 6 5 0fKVE
+0x8093eb4 8 4 Ô鿆q7
+0x8093eca 5 4 "HJ_
+0x8093ed0 6 5 +Vh{O
+0x8093f81 6 4 Ƕ\f8+
+0x8093fc1 6 4 6uyα
+0x80940bf 8 7 ?37:Ba+
+0x80940cf 7 6 ?~!?vr
+0x80940ff 7 6 ?_0nYt
+0x809412e 8 4 ����_#I
+0x8094198 7 6 /cTcSx
+0x80941d1 5 4 VA\ft
+0x80941e4 7 4 Kj㿨)
+0x80941f7 5 4 ?^q'
+0x8094230 5 4 jg=!
+0x80942bc 10 6 aw翴ǰ/~
+0x80942e9 6 5 ,THC7
+0x8094317 10 8 ?g)YNBiҿ
+0x8094399 5 4 \nU i
+0x80943bf 8 7 ?pJ/ jQ
+0x80944d7 5 4 ?U\v6
+0x80944ec 7 5 g)ÿ{D
+0x8094509 6 4 >rkҭ
+0x8094567 10 8 ?;m2OSp̿
+0x80945cf 6 4 ?lݼ'
+0x80945f7 6 5 ?X*^\e
+0x8094601 5 4 0Y&\r
+0x8094613 8 5 sѐݿMP
+0x809461b 6 4 q# ?
+0x809465f 5 4 ?YeK
+0x809468c 6 4 99ֿ\e
+0x80946a8 5 4 Ofr 
+0x80946e4 9 4 \bN뿤'
+0x8094761 5 4 +D,\a
+0x80947b7 7 6 ?cXjb&
+0x80947f8 5 4 Y:zW
+0x8094815 6 4 tʿq.
+0x8094861 8 6 L1\aAGӿ
+0x8094884 7 5 {0?Vq
+0x809488c 11 7 ؖ翬*E<#[
+0x809490a 7 5 *sNGȿ
+0x8094913 7 5 MEOӿQ
+0x809491f 7 5 ?¦)]U
+0x8094965 6 4 `ÿ`\b
+0x8094992 7 5 HQ§d?
+0x809499f 5 4 ?\tYq
+0x80949b0 5 4 4\aRs
+0x80949d0 5 4 &mO5
+0x80949d6 12 8 ֿw<ẘrٿ7
+0x8094a02 5 4 %|J\t
+0x8094a16 7 5 ѿ'\bhl
+0x8094a7d 6 4 mĿ|m
+0x8094a92 6 4 6"s)
+0x8094a9f 5 4 ?Gu:
+0x8094aa7 5 4 ?Vp.
+0x8094aef 5 4 ?Q@$
+0x8094b0f 6 4 ?:О&
+0x8094b41 8 6 Bn+b}п
+0x8094b53 8 4 WQH����
+0x8094bb7 5 4 ?/6\b
+0x8094bbc 7 4 t\nѿϳ
+0x8094bd3 7 5 O7Pƿ\t
+0x8094be7 7 6 ?NLr\eh
+0x8094c34 6 4 a)ֿb
+0x8094c71 6 5 e^XHJ
+0x8094c84 8 5 :\eп#ǌ
+0x8094ccb 6 4 EŞ\t@
+0x8094ce2 5 4 7]``
+0x8094d1a 7 5 71$'ӿ
+0x8094d27 5 4 ?P?^
+0x8094d8d 7 5 i¿BCZ
+0x8094daf 6 4 ?Ň#Y
+0x8094db5 7 5 0¿gz.
+0x8094ddf 8 6 ??\fcsS
+0x8094e1f 5 4 ?s5\r
+0x8094e57 5 4 ??Q~
+0x8094f27 5 4 ?\v[X
+0x8094f49 5 4 Uv\vn
+0x8094f60 7 5 Tڇa,x
+0x8094f67 6 5 ?y%$-
+0x8094fc7 7 5 ?}zlˀ
+0x8094fcf 5 4 ?UX_
+0x8094fd7 7 4 ?ob픳
+0x8094fe0 7 5 rFރ!<
+0x8094fe9 9 5 \r܁:%⿊
+0x80950b7 5 4 ?+5{
+0x80950c8 5 4 $\tg\
+0x80950f6 6 4 ÿ\ai|
+0x8095109 6 5 @+0du
+0x8095149 5 4 uA3>
+0x8095161 6 4 >6nօ
+0x8095172 5 4 BGa-
+0x809518c 6 4 Baӿ0
+0x80951b8 5 4 [\fy_
+0x80951df 5 4 @\b<0
+0x8095220 5 4 @M-[
+0x8095292 5 4 b('z
+0x80952d5 6 4 G¿\vE
+0x80952ef 5 4 ?F<~
+0x80952f7 7 6 ?+dSS7
+0x8095317 7 4 ?߇(˵
+0x8095399 6 4 9ټ`&
+0x80953d1 5 4 5=((
+0x80953e7 5 4 ?ab=
+0x80953f9 6 5 *Cfx}
+0x8095412 5 4 `TR'
+0x809545f 8 7 ?#YvwS@
+0x809552f 5 4 ?1+o
+0x8095572 5 4 <vaU
+0x8095587 5 4 ?fw7
+0x80955da 5 4 \vvh}
+0x80955f7 8 5 ?:ƺ]ԓ
+0x8095609 6 5 !6X8i
+0x8095637 7 4 ?m[
+0x809569f 7 6 ?tE)!X
+0x80956a7 5 4 @\tV0
+0x80956b7 6 5 ?!;oc
+0x80956d4 7 5 Wϰ?:/
+0x8095749 5 4 v\b-5
+0x8095751 6 5 T3k) 
+0x8095766 7 4 꿅8 S
+0x8095770 9 6 yt#,*✿
+0x8095779 5 4 vW,4
+0x8095797 6 5 ?0nYt
+0x809580c 7 5 'cڿ\ec
+0x8095817 5 4 ?<Qm
+0x809584b 8 5 \nU;翹&
+0x8095860 6 5 Qp\f\y
+0x80958a9 8 5 GN˴"ݿ
+0x80958b1 5 4 $.[F
+0x809596f 5 4 ?MWf
+0x809599f 6 5 ?w:Fh
+0x80959d2 5 4 ZU@k
+0x80959dd 7 4 %꿎mc
+0x8095a12 5 4 R$_i
+0x8095a17 6 5 ?}\a?q
+0x8095a77 5 4 ?==[
+0x8095ad9 5 4 2tGZ
+0x8095ae7 6 5 ?Jw| 
+0x8095b4a 5 4 d[aU
+0x8095be9 6 5 +UX_S
+0x8095c07 8 7 ?BX2l9<
+0x8095c1a 5 4 Q]eR
+0x8095cdf 6 4 ?߉Y/
+0x8095d30 5 4 Ey0s
+0x8095d69 5 4 :e$1
+0x8095dde 9 5 ҿȳ˷>L
+0x8095e01 6 5 *E<#[
+0x8095e19 6 4 \aגD%
+0x8095e5e 8 6 ǿp\f\y$
+0x8095e8a 8 6 >>|tؿ\n
+0x8095f48 7 6 ]&ydb\t
+0x8095f6c 6 4 \eYԿQ
+0x8095f8f 6 5 ?V2[\r
+0x8095fb0 6 4 E1Լ>
+0x8095ff6 6 4 ܿna'
+0x80960ec 5 4 \v\\a@
+0x8096101 6 5 Nx\tN=
+0x809614e 9 7 ÿ5+6A/7
+0x8096167 6 5 ?stKa
+0x80961b0 7 4 ǆɯz\e
+0x80961ce 8 5 ¿sM܅A
+0x8096205 7 5 \ؿ\eU<
+0x809629e 6 4 ٿCv9
+0x80962a4 8 4 ٘ؿۄ 
+0x8096347 5 4 ?AlD
+0x8096359 7 5 4ٚ\bvg
+0x809638a 5 4 c!:D
+0x809653f 8 7 ?pWTi02
+0x809654f 7 6 ? pn]{
+0x809658f 8 7 ?!~Y5c,
+0x80965f9 6 5 $-K*\t
+0x809669b 7 5 jO$ÿ3
+0x80966ef 8 7 ?O.|3 q
+0x809670a 9 6 \sG?ῥO
+0x809673f 5 4 ?o\te
+0x8096835 6 4 HѿdP
+0x8096850 5 4 'jin
+0x80968c2 5 4 X:zw
+0x8096909 6 5  JjWW
+0x8096947 5 4 ?9IN
+0x8096957 6 4 !{{|
+0x8096996 6 4 ֿb->
+0x80969fb 8 5 3h蟿Nf
+0x8096a10 6 5 `>Y1\
+0x8096a27 7 5 @˵\rHg
+0x8096a42 5 4 ne.%
+0x8096ae4 7 5 TMԿ;Q
+0x8096b46 7 5 ÿhCYS
+0x8096b4f 6 4 ?zƾd
+0x8096b60 5 4 HN&n
+0x8096b65 7 5 ĸ?zcR
+0x8096b94 6 4 atѿO
+0x8096bb8 5 4 hRTG
+0x8096c2b 7 4 e7N⿂
+0x8096c6a 5 4 Df.P
+0x8096d09 6 4 qˢ\ve
+0x8096d25 7 6 VY?,ph
+0x8096d3f 6 4 ?ŋ*h
+0x8096d7b 6 4 \uxԿ
+0x8096d9f 6 4 ?٭\ny
+0x8096df2 7 4 g֭yڿ
+0x8096e47 8 5 ?]r7㏝
+0x8096e58 5 4 \rH\fL
+0x8096eea 5 4 u\t=Q
+0x8096f2b 8 5 D[ߙ?އ
+0x8096f8f 8 5 ?\aŠ]ρ
+0x8096fac 7 5 R1ݿ  
+0x8097047 6 4 ?Ý\v#
+0x8097077 6 5 ?nrS^
+0x80970b8 5 4  4qa
+0x80970c0 8 6 *Ral!Ȼ
+0x80970cd 8 6 ?ӿ[!Q\r
+0x80970d8 5 4 !TN 
+0x8097165 6 4 ZտLB
+0x80971ef 5 4 ?n;#
+0x809726a 5 4 lRv_
+0x809728c 5 4 RM\v@
+0x80972d9 5 4 \e#~j
+0x809738b 6 4 @r!ο
+0x80973df 6 4 \t,-~
+0x8097441 6 4 =Ê\t 
+0x8097487 5 4 ?H6W
+0x809749c 6 4 ZT?S
+0x80974b9 5 4 \t\\r?
+0x80974f5 7 5 sۿbg\n
+0x809752a 5 4 p]1#
+0x8097593 5 4 :3fw
+0x80975c2 5 4 xq,9
+0x80975db 9 5 eM,̿慅
+0x809761f 5 4 ?c2\v
+0x8097647 5 4 ?lts
+0x809765c 6 4 QYѿA
+0x80976a9 6 4 Өv<\
+0x80976ef 6 4 ?7٫4
+0x809772f 6 5 ?R%o%
+0x8097747 7 6 ?7'@^Y
+0x8097755 10 7 ?տZ^^%ā
+0x809777f 7 5 ?\A.̝
+0x80977c7 5 4 ?]S 
+0x80977cf 7 5 ?ـc*X
+0x8097818 6 5 xcAaP
+0x8097880 6 4 վo2`
+0x80978d9 5 4 3\.,
+0x8097902 5 4 #d ?
+0x8097939 6 4 I݄1X
+0x80979b1 5 4 W zR
+0x8097a04 11 9  >?xTFm,r
+0x8097a82 5 4 hbpc
+0x8097a87 6 4 ?î7{
+0x8097aa7 5 4 ?\fKM
+0x8097ae2 5 4 ODu)
+0x8097b02 5 4 JHZ 
+0x8097b37 6 5 ?\aQ\b.
+0x8097b9f 7 4 ?ϺFˁ
+0x8097c1f 5 4 ?1  
+0x8097c27 8 6 ?~Fئg0
+0x8097c60 5 4 J:o\b
+0x8097c73 8 5 @>r鿃c
+0x8097c7c 8 4 #I����h
+0x8097c87 5 4 ?8N\n
+0x8097d0c 9 6 nO㿨Kkx
+0x8097d1f 6 4 #=^H
+0x8097d25 7 4 \aٿmţ
+0x8097e1f 38 37 @0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+0x809808f 5 4 ??|\r
+0x8098249 8 5 wΒ ղ?
+0x809876f 5 4 ??|\r
+0x8098959 7 4 wΒ ղ
+0x8098f0b 7 4 X\n\t뿜
+0x8098f99 9 6 wΒ ղ?1
+0x8098fef 5 4 ??|\r
+0x8099639 7 4 wΒ ղ
+0x8099d09 7 4 wΒ ղ
+0x809a474 7 4 ~\nￚR
+0x809a493 9 6 4i}忥>>
+0x809a4a9 10 7 wΒ ղ?TC
+0x809a4cf 5 4 ??|\r
+0x809a515 6 4 ]ۿ?@
+0x809aad9 8 5 wΒ ղ?
+0x809b1c9 8 5 wΒ ղ?
+0x809b353 7 4 4i}忌
+0x809b8f9 7 4 wΒ ղ
+0x809bfe9 7 4 wΒ ղ
+0x809c13b 7 4 7\b-翛
+0x809c68b 7 4 X\n\t뿁
+0x809c6a6 10 5 ῒwΒ ղ
+0x809ce0f 5 4 ??|\r
+0x809cf09 10 7 wΒ ղ?oz
+0x809d4af 5 4 ??|\r
+0x809d5cb 7 4 I":鿁
+0x809d635 12 7 s࿒wΒ ղ?
+0x809db93 13 8 4i}忒wΒ ղ
+0x809e30b 7 4 7\b-翁
+0x809e34d 6 4 \v̿@0
+0x809e366 10 5 濒wΒ ղ
+0x809e44f 5 4 ??|\r
+0x809e98b 7 4 I":鿁
+0x809ea53 7 4 4i}忍
+0x809ea79 8 5 wΒ ղ?
+0x809eb2f 5 4 ??|\r
+0x809f146 10 5 迒wΒ ղ
+0x809f77b 7 4 X\n\t뿛
+0x809f7b3 8 5 4i}忚R
+0x809f7fd 7 4 )꿚3\t
+0x809f859 8 5 wΒ ղ?
+0x809febb 9 6 X\n\t뿚3\t
+0x809fecf 5 4 ??|\r
+0x80a0029 9 6 wΒ ղ?k
+0x80a0586 11 6 迒wΒ ղ?
+0x80a06f2 9 5 p"ߵ翭O
+0x80a0cb9 9 6 wΒ ղ?Y
+0x80a13ef 5 4 ??|\r
+0x80a1519 8 5 wΒ ղ?
+0x80a1555 7 4 r뿨bn
+0x80a1b6f 5 4 ??|\r
+0x80a1bd9 7 4 wΒ ղ
+0x80a217d 7 4 b3\t
+0x80a222b 7 4 X\n\t뿁
+0x80a228f 5 4 ??|\r
+0x80a22c9 7 4 wΒ ղ
+0x80a2872 8 4 p"ߵ翿
+0x80a292f 5 4 ??|\r
+0x80a29eb 7 4 7\b-翜
+0x80a29f6 11 6 쿒wΒ ղ?
+0x80a3012 10 6 p"ߵ翨bn
+0x80a304f 5 4 ??|\r
+0x80a30e9 8 5 wΒ ղ?
+0x80a3714 14 9 !!wΒ ղ?\a
+0x80a37ce 6 4 ٿ?|\r
+0x80a3eaf 5 4 ??|\r
+0x80a3eb9 8 5 wΒ ղ?
+0x80a3f34 8 5 ~\n￥>>
+0x80a4589 8 5 wΒ ղ?
+0x80a460f 5 4 ??|\r
+0x80a4645 7 4 L俨bn
+0x80a4bbd 7 4 8ￚ3\t
+0x80a4c23 14 8 ϗbￒwΒ ղ?
+0x80a4cee 6 4 ѿ?|\r
+0x80a4d14 8 5 !!>>
+0x80a5269 11 8 wΒ ղ??|\r
+0x80a53a3 8 4 ϗb￭O
+0x80a5976 10 5 ￒwΒ ղ
+0x80a598f 5 4 ??|\r
+0x80a5a52 8 4 p"ߵ翲
+0x80a6076 12 7 ￒwΒ ղ?b
+0x80a6152 8 4 p"ߵ翲
+0x80a6769 7 4 wΒ ղ
+0x80a68a3 8 4 ϗb￭O
+0x80a6f23 13 7 ϗbￒwΒ ղ
+0x80a6fef 5 4 ??|\r
+0x80a7014 8 5 !!>>
+0x80a7689 7 4 wΒ ղ
+0x80a770e 6 4 Կ?|\r
+0x80a7745 7 4 L俨bn
+0x80a7db9 7 4 wΒ ղ
+0x80a7e34 8 5 ~\n￥>>
+0x80a8414 12 7 !!wΒ ղ
+0x80a84cf 5 4 ??|\r
+0x80a8b12 10 6 p"ߵ翨bn
+0x80a8b4e 6 4 ſ?|\r
+0x80a8be9 7 4 wΒ ղ
+0x80a9172 8 4 p"ߵ翿
+0x80a922d 7 5 \v̿?|\r
+0x80a92f6 10 5 쿒wΒ ղ
+0x80a998e 6 4 ѿ?|\r
+0x80a99c9 9 6 wΒ ղ?L
+0x80aa06e 6 4 Կ?|\r
+0x80aa0cb 8 5 X\n\t뿫d
+0x80aa0d9 9 6 wΒ ղ?(
+0x80aa77b 7 4 7\b-翛
+0x80aa819 7 4 wΒ ղ
+0x80aa855 7 4 r뿨bn
+0x80aadb9 7 4 wΒ ղ
+0x80aae0f 5 4 ??|\r
+0x80ab486 10 5 迒wΒ ղ
+0x80ab4af 5 4 ??|\r
+0x80ab53d 7 4 ;迚3\t
+0x80ab5f2 9 5 p"ߵ翭O
+0x80abd29 7 4 wΒ ղ
+0x80ac2b3 8 5 4i}忚R
+0x80ac359 7 4 wΒ ղ
+0x80ac44f 5 4 ??|\r
+0x80aca46 13 8 迒wΒ ղ?Pv
+0x80acb2f 5 4 ??|\r
+0x80ad153 7 4 4i}忍
+0x80ad179 7 4 wΒ ղ
+0x80ad866 13 8 濒wΒ ղ?oz
+0x80ade93 14 9 4i}忒wΒ ղ?
+0x80adecf 5 4 ??|\r
+0x80ae735 11 6 s࿒wΒ ղ
+0x80aee09 7 4 wΒ ղ
+0x80af3a6 11 6 ῒwΒ ղ?
+0x80af3ef 5 4 ??|\r
+0x80af43d 6 4 \v̿s#
+0x80afae9 9 6 wΒ ղ?k
+0x80afb6f 5 4 ??|\r
+0x80b01f9 8 5 wΒ ղ?
+0x80b028f 5 4 ??|\r
+0x80b032d 6 4 \v̿oz
+0x80b08c9 7 4 wΒ ղ
+0x80b092f 5 4 ??|\r
+0x80b0a53 7 4 4i}忌
+0x80b0fd9 7 4 wΒ ղ
+0x80b104f 5 4 ??|\r
+0x80b108b 7 4 7\b-翜
+0x80b1774 7 4 ~\nￚR
+0x80b1793 9 6 4i}忥>>
+0x80b17a9 7 4 wΒ ղ
+0x80b1815 6 4 ]ۿ?@
+0x80b1e09 8 5 wΒ ղ?
+0x80b1e2b 8 5 7\b-翫d
+0x80b1eaf 5 4 ??|\r
+0x80b2539 8 5 wΒ ղ?
+0x80b260f 5 4 ??|\r
+0x80b2c99 7 4 wΒ ղ
+0x80b3459 8 5 wΒ ղ?
+0x80b3b49 7 4 wΒ ղ
+0x80fa062 8 6 \a\bĆ\b\b\b
+0x80fa0c0 9 6 X\b\b̘\b\b

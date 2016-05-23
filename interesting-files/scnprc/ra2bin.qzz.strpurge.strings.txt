@@ -1,0 +1,2307 @@
+0x8048134 19 18 /lib/ld-linux.so.2
+0x804aa0d 14 13 libqt-mt.so.3
+0x804aa1b 12 11 XInternAtom
+0x804aa27 20 19 _Jv_RegisterClasses
+0x804aa3b 15 14 __gmon_start__
+0x804aa4a 44 43 _ZN11QMessageBox10closeEventEP11QCloseEvent
+0x804aa76 20 19 _ZN8QPaletteC1ERKS_
+0x804aa8a 46 45 _ZN7QWidget14setFocusPolicyENS_11FocusPolicyE
+0x804aab8 37 36 _ZN8QToolTip3addEP7QWidgetRK7QString
+0x804aadd 16 15 _ZN7QDialogD2Ev
+0x804aaed 22 21 _ZN12QKeySequenceC1Ei
+0x804ab03 39 38 _ZN7QWidget14imComposeEventEP8QIMEvent
+0x804ab2a 41 40 _ZN11QMessageBox9showEventEP10QShowEvent
+0x804ab53 42 41 _ZN7QWidget18setBackgroundColorERK6QColor
+0x804ab7d 26 25 _ZN5QFontC1ERK7QStringiib
+0x804ab97 51 50 _ZN7QWidget26setPaletteBackgroundPixmapERK7QPixmap
+0x804abca 24 23 _ZN11QHBoxLayoutC1EiPKc
+0x804abe2 23 22 _ZN7QWidget7destroyEbb
+0x804abf9 26 25 _ZN7QWidget10updateMaskEv
+0x804ac13 27 26 _ZN7QWidget5eventEP6QEvent
+0x804ac2e 19 18 _ZN6QGList5clearEv
+0x804ac41 17 16 _ZN8QIconSetD1Ev
+0x804ac52 31 30 _ZN7QWidget7setMaskERK7QRegion
+0x804ac71 24 23 _ZN7QWidget7setNameEPKc
+0x804ac89 38 37 _ZN7QWidget22windowActivationChangeEb
+0x804acaf 13 12 _ZTI7QObject
+0x804acbc 47 46 _ZN7QWidget14dragLeaveEventEP15QDragLeaveEvent
+0x804aceb 27 26 _ZN6QFrame12setLineWidthEi
+0x804ad06 36 35 _ZN11QMessageBox7setIconERK7QPixmap
+0x804ad2a 27 26 _ZN6QLabelC1EP7QWidgetPKcj
+0x804ad45 30 29 _ZN7QWidget14setFixedHeightEi
+0x804ad63 16 15 _ZN7QObjectD2Ev
+0x804ad73 22 21 _ZN7QDialog6resizeEii
+0x804ad89 51 50 _ZN7QWidget16contextMenuEventEP17QContextMenuEvent
+0x804adbc 15 14 _ZN6QImageD1Ev
+0x804adcb 34 33 _ZN6QFrame12setFrameRectERK5QRect
+0x804aded 19 18 _ZN7QStringaSERKS_
+0x804ae00 31 30 _ZN7QWidget14setMinimumSizeEii
+0x804ae1f 32 31 _ZN7QDialog16staticMetaObjectEv
+0x804ae3f 46 45 _ZN7QWidget17mouseReleaseEventEP11QMouseEvent
+0x804ae6d 29 28 _ZN7QWidget13enabledChangeEb
+0x804ae8a 36 35 _ZN7QWidget9hideEventEP10QHideEvent
+0x804aeae 30 29 _ZN5QHttp7setHostERK7QStringt
+0x804aecc 6 5 _fini
+0x804aed2 32 31 _ZN7QWidget16setMouseTrackingEb
+0x804aef2 37 36 _ZN11QMessageBox16staticMetaObjectEv
+0x804af17 26 25 _ZNK7QObject8propertyEPKc
+0x804af31 24 23 _ZN7QDialog7qt_castEPKc
+0x804af49 48 47 _ZN7QPixmap12loadFromDataEPKhjPKcNS_9ColorModeE
+0x804af79 42 41 _ZN9QSettings12readNumEntryERK7QStringiPb
+0x804afa3 30 29 _ZN6QLabel8setMovieERK6QMovie
+0x804afc1 12 11 _ZTV6QGList
+0x804afcd 21 20 _ZN7QDialog6acceptEv
+0x804afe2 19 18 _ZN7QDialog4doneEi
+0x804aff5 42 41 _ZNK6QImage11smoothScaleEiiNS_9ScaleModeE
+0x804b01f 13 12 _ZTI7QBitmap
+0x804b02c 33 32 _ZN10QPopupMenu5popupERK6QPointi
+0x804b04d 32 31 _ZN10QPopupMenu4execERK6QPointi
+0x804b06d 14 13 _ZN5QHttpC1Ev
+0x804b07b 22 21 _ZN12QKeySequenceD1Ev
+0x804b091 35 34 _ZN6QLabel10setPictureERK8QPicture
+0x804b0b4 33 32 _ZN7QWidget17setUpdatesEnabledEb
+0x804b0d5 38 37 _ZN6QFrame10paintEventEP11QPaintEvent
+0x804b0fb 22 21 _ZN7QWidget6resizeEii
+0x804b111 18 17 static_QUType_int
+0x804b123 41 40 _ZN7QWidget13setSizePolicyE11QSizePolicy
+0x804b14c 32 31 _ZNK11QMessageBox10metaObjectEv
+0x804b16c 42 41 _ZN7QWidget13focusOutEventEP11QFocusEvent
+0x804b196 50 49 _ZN12QPaintDevice3cmdEiP8QPainterP13QPDevCmdParam
+0x804b1c8 44 43 _ZN7QWidget15mousePressEventEP11QMouseEvent
+0x804b1f4 35 34 _ZNK6QGList5writeER11QDataStreamPv
+0x804b217 16 15 _ZN7QPixmapC1Ev
+0x804b227 20 19 _ZNK6QGList5countEv
+0x804b23b 18 17 _ZTI11QMessageBox
+0x804b24d 62 61 _ZN12QButtonGroupC1EiN2Qt11OrientationERK7QStringP7QWidgetPKc
+0x804b28b 52 51 _ZNK12QApplication9translateEPKcS1_S1_NS_8EncodingE
+0x804b2bf 32 31 _ZNK7QWidget15customWhatsThisEv
+0x804b2df 25 24 _ZN9QSettings8endGroupEv
+0x804b2f8 28 27 _ZN18QMetaObjectCleanUpD1Ev
+0x804b314 19 18 _ZN7QDialog4showEv
+0x804b327 29 28 _ZN7QWidget7setFontERK5QFont
+0x804b344 49 48 _ZN7QWidget25setPaletteBackgroundColorERK6QColor
+0x804b375 15 14 _ZN6QGListD0Ev
+0x804b384 41 40 _ZN7QWidget11tabletEventEP12QTabletEvent
+0x804b3ad 29 28 _ZN11QMessageBox7qt_castEPKc
+0x804b3ca 26 25 _ZN7QWidget10adjustSizeEv
+0x804b3e4 31 30 _ZN7QWidget14setMaximumSizeEii
+0x804b403 37 36 _ZN7QObject20activate_signal_boolEib
+0x804b428 23 22 _ZN7QWidget8setShownEb
+0x804b43f 32 31 _ZN6QLabel10fontChangeERK5QFont
+0x804b45f 41 40 _ZN7QWidget15keyReleaseEventEP9QKeyEvent
+0x804b488 39 38 _ZN7QWidget14setErasePixmapERK7QPixmap
+0x804b4af 35 34 _ZN8QIconSetC1ERK7QPixmapNS_4SizeE
+0x804b4d2 39 38 _ZN7QWidget10wheelEventEP11QWheelEvent
+0x804b4f9 51 50 _ZN7QDialog16contextMenuEventEP17QContextMenuEvent
+0x804b52c 36 35 _ZNK12QPaintDevice7fontInfEP5QFonti
+0x804b550 103 102 _ZN11QMetaObject14new_metaobjectEPKcPS_PK9QMetaDataiS5_iPK13QMetaPropertyiPK9QMetaEnumiPK10QClassInfoi
+0x804b5b7 31 30 _ZN14QPtrCollection7newItemEPv
+0x804b5d6 17 16 _ZN5QFontC1ERKS_
+0x804b5e7 15 14 _ZN6QGListD1Ev
+0x804b5f6 36 35 _ZNK7QWidget11mapToGlobalERK6QPoint
+0x804b61a 24 23 _ZN7QBitmapaSERK6QImage
+0x804b632 34 33 _ZN7QDialog9qt_invokeEiP8QUObject
+0x804b654 43 42 _ZN11QMessageBox11qt_propertyEiiP8QVariant
+0x804b67f 31 30 _ZN9QListView13setSortColumnEi
+0x804b69e 24 23 _ZN14QDesktopWidgetC1Ev
+0x804b6b6 30 29 _ZN6QLabel7setTextERK7QString
+0x804b6d4 30 29 _ZN7QWidget11setGeometryEiiii
+0x804b6f2 24 23 _ZN7QWidget9setWStateEj
+0x804b70a 33 32 _ZN7QWidget9setCursorERK7QCursor
+0x804b72b 31 30 _ZN6QGList12compareItemsEPvS0_
+0x804b74a 21 20 static_QUType_varptr
+0x804b75f 14 13 _ZN5QHttpD1Ev
+0x804b76d 12 11 _ZTS6QGList
+0x804b779 27 26 _ZN7QObject5eventEP6QEvent
+0x804b794 33 32 _ZN7QWidget17setKeyCompressionEb
+0x804b7b5 29 28 _ZN7QDialogC2EP7QWidgetPKcbj
+0x804b7d2 28 27 _ZN7QDialog6resizeERK5QSize
+0x804b7ee 34 33 _ZN11QVBoxLayoutC1EP7QWidgetiiPKc
+0x804b810 54 53 _ZN12QPaintDevice10setX11DataEPK19QPaintDeviceX11Data
+0x804b846 29 28 _ZN7QString10fromLatin1EPKci
+0x804b863 71 70 _ZN17QValueListPrivateI7QStringE6insertE18QValueListIteratorIS0_ERKS0_
+0x804b8aa 19 18 _ZN7QDialog4execEv
+0x804b8bd 56 55 _ZN7QWidget19setBackgroundOriginENS_16BackgroundOriginE
+0x804b8f5 34 33 _ZN6QGList4readER11QDataStreamRPv
+0x804b917 36 35 _ZN5QHttp3getERK7QStringP9QIODevice
+0x804b93b 31 30 _ZN11QStringData10deleteSelfEv
+0x804b95a 37 36 _ZN9QSettings10beginGroupERK7QString
+0x804b97f 18 17 _ZN7QStringC1EPKc
+0x804b991 55 54 _ZN18QMetaObjectCleanUp13setMetaObjectERP11QMetaObject
+0x804b9c8 21 20 _ZN7QObjectC2EPS_PKc
+0x804b9dd 14 13 _ZN5QFontD1Ev
+0x804b9eb 16 15 _ZN7QPixmapD1Ev
+0x804b9fb 34 33 _ZN7QObject16disconnectNotifyEPKc
+0x804ba1d 18 17 _ZN9QSettingsC1Ev
+0x804ba2f 45 44 _ZN7QWidget13dragMoveEventEP14QDragMoveEvent
+0x804ba5c 31 30 _ZNK6QImage15createAlphaMaskEi
+0x804ba7b 29 28 _ZN5QHttp15closeConnectionEv
+0x804ba98 50 49 _ZN7QWidget21mouseDoubleClickEventEP11QMouseEvent
+0x804baca 29 28 _ZN7QWidget13showMaximizedEv
+0x804bae7 30 29 _ZN8QToolTip6removeEP7QWidget
+0x804bb05 18 17 _ZeqRK7QStringPKc
+0x804bb17 32 31 _ZN6QFrame9drawFrameEP8QPainter
+0x804bb37 31 30 _ZN7QWidget7setIconERK7QPixmap
+0x804bb56 24 23 _ZNK9QListView6headerEv
+0x804bb6e 30 29 _ZN9QListViewC1EP7QWidgetPKcj
+0x804bb8c 28 27 _ZN6QLabel13setAutoResizeEb
+0x804bba8 20 19 _ZN6QLabel6setNumEd
+0x804bbbc 20 19 _ZN6QLabel6setNumEi
+0x804bbd0 46 45 _ZN9QSettings7setPathERK7QStringS2_NS_5ScopeE
+0x804bbfe 16 15 _ZN7QBitmapC1Ev
+0x804bc0e 27 26 _ZNK7QWidget10sizePolicyEv
+0x804bc29 32 31 _ZN7QObject16staticMetaObjectEv
+0x804bc49 41 40 _ZN7QDialog11resizeEventEP12QResizeEvent
+0x804bc72 24 23 _ZN7QObject7qt_castEPKc
+0x804bc8a 17 16 _Z11qt_xdisplayv
+0x804bc9b 23 22 _ZN7QWidget6createEmbb
+0x804bcb2 35 34 _ZN7QWidget10imEndEventEP8QIMEvent
+0x804bcd5 33 32 _ZN7QWidget10fontChangeERK5QFont
+0x804bcf6 29 28 _ZN7QWidget13showMinimizedEv
+0x804bd13 39 38 _ZN7QObject10timerEventEP11QTimerEvent
+0x804bd3a 31 30 _ZN7QPixmap7setMaskERK7QBitmap
+0x804bd59 31 30 _ZNK6QLabel15minimumSizeHintEv
+0x804bd78 43 42 _ZN7QDialog11eventFilterEP7QObjectP6QEvent
+0x804bda3 38 37 _ZNK12QPaintDevice15x11RenderHandleEv
+0x804bdc9 30 29 _ZN7QString14makeSharedNullEv
+0x804bde7 16 15 _ZN7QPixmapD2Ev
+0x804bdf7 19 18 _ZN7QDialog4hideEv
+0x804be0a 19 18 static_QUType_bool
+0x804be1d 20 19 _ZN7QDialog4moveEii
+0x804be31 30 29 _ZNK9QListView11columnWidthEi
+0x804be4f 20 19 _ZN7QWidget5closeEb
+0x804be63 43 42 _ZN7QWidget14mouseMoveEventEP11QMouseEvent
+0x804be8e 29 28 _ZN7QObject11removeChildEPS_
+0x804beab 34 33 _ZN7QObject7connectEPKS_PKcS1_S3_
+0x804becd 34 33 _ZN7QWidget11setGeometryERK5QRect
+0x804beef 31 30 _ZN7QObject15activate_signalEi
+0x804bf0e 39 38 _ZN7QWidget13keyPressEventEP9QKeyEvent
+0x804bf35 31 30 _ZN7QWidget7setMaskERK7QBitmap
+0x804bf54 23 22 _ZN7QLayout8activateEv
+0x804bf6b 38 37 _ZN9QSettings10writeEntryERK7QStringi
+0x804bf91 27 26 _ZN6QLabel12setAlignmentEi
+0x804bfac 39 38 _ZN7QWidget10paintEventEP11QPaintEvent
+0x804bfd3 39 38 _ZN7QWidget10closeEventEP11QCloseEvent
+0x804bffa 28 27 _ZThn40_NK7QWidget6metricEi
+0x804c016 22 21 _ZNK7QPixmap6metricEi
+0x804c02c 30 29 _ZNK6QLabel14heightForWidthEi
+0x804c04a 35 34 _ZN12QPaintDevice13drawPrintableEv
+0x804c06d 31 30 _ZN7QObject13connectNotifyEPKc
+0x804c08c 39 38 _ZN7QDialog13keyPressEventEP9QKeyEvent
+0x804c0b3 39 38 _ZN11QMessageBox9qt_invokeEiP8QUObject
+0x804c0da 41 40 _ZN7QWidget12focusInEventEP11QFocusEvent
+0x804c103 16 15 _ZN7QBitmapD0Ev
+0x804c113 17 16 _ZN5QFile4openEi
+0x804c124 34 33 _ZN7QObject9qt_invokeEiP8QUObject
+0x804c146 20 19 _ZNK5QFont6familyEv
+0x804c15a 31 30 _ZN11QMessageBox10adjustSizeEv
+0x804c179 24 23 _ZN7QWidget9setWFlagsEj
+0x804c191 18 17 _ZN9QSettingsD1Ev
+0x804c1a3 27 26 _ZN7QWidget11setAutoMaskEb
+0x804c1be 31 30 _ZN7QWidget8x11EventEP7_XEvent
+0x804c1dd 36 35 _ZN7QWidget8reparentEPS_jRK6QPointb
+0x804c201 22 21 _ZNK7QWidget6metricEi
+0x804c217 19 18 _ZN7QStringC1ERKS_
+0x804c22a 19 18 _ZN7QWidget4showEv
+0x804c23d 13 12 _ZTV7QBitmap
+0x804c24a 32 31 _ZN11QMessageBoxC2EP7QWidgetPKc
+0x804c26a 16 15 _ZN7QBitmapD1Ev
+0x804c27a 35 34 _ZN12QPaintDevice13setResolutionEi
+0x804c29d 18 17 _ZN5QFile5closeEv
+0x804c2af 28 27 _ZN6QFrame13setFrameStyleEi
+0x804c2cb 35 34 _ZN7QWidget12setFixedSizeERK5QSize
+0x804c2ee 36 35 _ZN7QWidget11setIconTextERK7QString
+0x804c312 26 25 _ZN7QWidget10setEnabledEb
+0x804c32c 44 43 _ZN7QWidget19setBackgroundPixmapERK7QPixmap
+0x804c358 30 29 _ZNK11QMessageBox9classNameEv
+0x804c376 18 17 static_QUType_ptr
+0x804c388 20 19 _ZN7QWidget4moveEii
+0x804c39c 41 40 _ZN7QObject11customEventEP12QCustomEvent
+0x804c3c5 35 34 _ZN12QApplication13processEventsEv
+0x804c3e8 30 29 _ZN7QWidget14setAcceptDropsEb
+0x804c406 30 29 _ZN6QFrame15setMidLineWidthEi
+0x804c429 29 28 _ZN5QFile7setNameERK7QString
+0x804c446 21 20 _ZN11QStringListD1Ev
+0x804c45b 53 52 _ZN7QWidget17setBackgroundModeEN2Qt14BackgroundModeE
+0x804c490 36 35 _ZN7QWidget9dropEventEP10QDropEvent
+0x804c4b4 14 13 _ZN5QFileC1Ev
+0x804c4c2 21 20 _ZN11QMessageBoxD2Ev
+0x804c4d7 36 35 _ZN6QLabel12drawContentsEP8QPainter
+0x804c4fb 31 30 _ZN7QWidget13setFocusProxyEPS_
+0x804c51a 44 43 _ZN11QMessageBox13setButtonTextEiRK7QString
+0x804c546 29 28 _ZN7QObject11insertChildEPS_
+0x804c563 23 22 _ZN7QWidget8setFocusEv
+0x804c57a 33 32 _ZN6QImage12loadFromDataEPKhjPKc
+0x804c59b 47 46 _ZN7QWidget14dragEnterEventEP15QDragEnterEvent
+0x804c5ca 21 20 _ZTI14QPtrCollection
+0x804c5df 24 23 _ZN7QObject7setNameEPKc
+0x804c5f7 35 34 _ZN7QWidget10setCaptionERK7QString
+0x804c61a 34 33 _ZN7QWidget11styleChangeER6QStyle
+0x804c63c 21 20 _ZN7QWidget6polishEv
+0x804c651 37 36 _ZN7QObject11eventFilterEPS_P6QEvent
+0x804c676 40 39 _ZNK12QPaintDevice7fontMetEP5QFontiPKci
+0x804c69e 26 25 _ZN7QString11shared_nullE
+0x804c6b8 44 43 _ZN10QValueListI7QStringE14detachInternalEv
+0x804c6e4 59 58 _ZN11QMessageBoxC2ERK7QStringS2_NS_4IconEiiiP7QWidgetPKcbj
+0x804c71f 27 26 _ZN6QFrame12frameChangedEv
+0x804c73a 79 78 _ZN9QMenuData10insertItemERK8QIconSetRK7QStringPK7QObjectPKcRK12QKeySequenceii
+0x804c789 38 37 _ZN7QObject11qt_propertyEiiP8QVariant
+0x804c7af 26 25 _ZN7QString8fromUtf8EPKci
+0x804c7c9 37 36 _ZN7QWidget12imStartEventEP8QIMEvent
+0x804c7ee 40 39 _ZN6QLabel11resizeEventEP12QResizeEvent
+0x804c816 36 35 _ZN7QWidget10setPaletteERK8QPalette
+0x804c83a 33 32 _ZN7QWidget10enterEventEP6QEvent
+0x804c85b 32 31 _ZN7QDialog7qt_emitEiP8QUObject
+0x804c87b 41 40 _ZN7QObject16checkConnectArgsEPKcPKS_S1_
+0x804c8a4 22 21 static_QUType_QString
+0x804c8ba 32 31 _ZNK7QDialog15minimumSizeHintEv
+0x804c8da 13 12 _ZTI7QPixmap
+0x804c8e7 37 36 _ZN11QMessageBox7qt_emitEiP8QUObject
+0x804c90c 12 11 _ZTI6QGList
+0x804c918 13 12 _ZTS7QBitmap
+0x804c925 33 32 _ZN6QFrame11styleChangeER6QStyle
+0x804c946 36 35 _ZN7QWidget9moveEventEP10QMoveEvent
+0x804c96a 36 35 _ZN7QWidget9showEventEP10QShowEvent
+0x804c98e 40 39 _ZN7QObject11setPropertyEPKcRK8QVariant
+0x804c9b6 34 33 _ZN7QDialog11setGeometryERK5QRect
+0x804c9d8 32 31 _ZN7QObject7qt_emitEiP8QUObject
+0x804c9f8 21 20 _ZN7QDialog6rejectEv
+0x804ca0d 38 37 _ZN7QDialog11qt_propertyEiiP8QVariant
+0x804ca33 21 20 _ZNK7QString5asciiEv
+0x804ca48 19 18 _ZN7QWidget4hideEv
+0x804ca5b 37 36 _ZN10QBoxLayout9addLayoutEP7QLayouti
+0x804ca80 44 43 _ZN7QWidget17setMicroFocusHintEiiiibP5QFont
+0x804caac 36 35 _ZN13QListViewItemC1EP9QListViewPS_
+0x804cad0 48 47 _ZN18QMetaObjectCleanUpC1EPKcPFP11QMetaObjectvE
+0x804cb00 31 30 _ZN10QPopupMenuC1EP7QWidgetPKc
+0x804cb1f 16 15 _ZN7QStringD1Ev
+0x804cb2f 32 31 _ZN11QPushButtonC1EP7QWidgetPKc
+0x804cb4f 26 25 _ZN7QObject10startTimerEi
+0x804cb69 30 29 _ZN6QLabel8setBuddyEP7QWidget
+0x804cb87 25 24 _ZN12QApplication4execEv
+0x804cba0 54 53 _ZN7QPixmap16convertFromImageERK6QImageNS_9ColorModeE
+0x804cbd6 24 23 _ZNK7QDialog8sizeHintEv
+0x804cbee 33 32 _ZN7QWidget10leaveEventEP6QEvent
+0x804cc0f 14 13 _ZN5QFileD1Ev
+0x804cc1d 37 36 _ZN7QWidget13setEraseColorERK6QColor
+0x804cc42 33 32 _ZN7QWidget16setSizeIncrementEii
+0x804cc63 15 14 _ZN6QImageC1Ev
+0x804cc72 27 26 _ZN7QWidget11unsetCursorEv
+0x804cc8d 21 20 _ZN7QPixmap6detachEv
+0x804cca2 13 12 _ZTI7QDialog
+0x804ccaf 24 23 _ZN7QObject9killTimerEi
+0x804ccc7 16 15 _Z8qWarningPKcz
+0x804ccd7 39 38 _ZN7QObject10childEventEP11QChildEvent
+0x804ccfe 31 30 _ZN7QWidget15setActiveWindowEv
+0x804cd1d 46 45 _ZN11QMessageBox11resizeEventEP12QResizeEvent
+0x804cd4b 28 27 _ZN6QLabel7setFontERK5QFont
+0x804cd67 30 29 _ZN7QDialog11setGeometryEiiii
+0x804cd85 33 32 _ZNK12QPaintDevice10resolutionEv
+0x804cda6 28 27 _ZNK12QPaintDevice6handleEv
+0x804cdc2 44 43 _ZN11QMessageBox13keyPressEventEP9QKeyEvent
+0x804cdee 39 38 _ZN7QWidget13paletteChangeERK8QPalette
+0x804ce15 26 25 _ZN7QWidget10showNormalEv
+0x804ce2f 23 22 _ZN6QFrame9setMarginEi
+0x804ce46 38 37 _ZN10QBoxLayout9addWidgetEP7QWidgetii
+0x804ce6c 23 22 _ZNK6QLabel8sizeHintEv
+0x804ce83 31 30 _ZNK7QWidget14heightForWidthEi
+0x804cea2 35 34 _ZNK6QImage19createHeuristicMaskEb
+0x804cec5 18 17 _ZN7QString4nullE
+0x804ced7 34 33 _ZN7QWidget18focusNextPrevChildEb
+0x804cef9 13 12 libXext.so.6
+0x804cf06 12 11 libX11.so.6
+0x804cf12 20 19 libdbus-glib-1.so.2
+0x804cf26 22 21 dbus_connection_unref
+0x804cf3c 16 15 dbus_error_init
+0x804cf4c 18 17 dbus_error_is_set
+0x804cf5e 13 12 dbus_bus_get
+0x804cf6b 16 15 dbus_error_free
+0x804cf7b 34 33 dbus_connection_setup_with_g_main
+0x804cf9d 15 14 libdbus-1.so.3
+0x804cfac 12 11 libhal.so.1
+0x804cfb8 25 24 libhal_free_string_array
+0x804cfd1 40 39 libhal_ctx_set_device_property_modified
+0x804cff9 33 32 libhal_device_property_watch_all
+0x804d01a 31 30 libhal_ctx_set_dbus_connection
+0x804d039 32 31 libhal_device_get_property_bool
+0x804d059 15 14 libhal_ctx_new
+0x804d068 34 33 libhal_device_get_property_string
+0x804d08a 19 18 libhal_free_string
+0x804d09d 32 31 libhal_device_get_property_type
+0x804d0bd 16 15 libhal_ctx_free
+0x804d0cd 28 27 libhal_ctx_set_device_added
+0x804d0e9 16 15 libhal_ctx_init
+0x804d0f9 20 19 libhal_ctx_shutdown
+0x804d10d 23 22 libhal_get_all_devices
+0x804d124 16 15 libpthread.so.0
+0x804d134 13 12 pthread_join
+0x804d141 15 14 pthread_create
+0x804d150 17 16 __errno_location
+0x804d17b 14 13 libkdeui.so.4
+0x804d189 21 20 _ZN7KGlobal6localeEv
+0x804d19e 28 27 _ZN10KWinModuleC1EP7QObject
+0x804d1ba 20 19 _ZN10KAboutDataD1Ev
+0x804d1ce 38 37 _ZN11KSystemTray9setPixmapERK7QPixmap
+0x804d1f4 18 17 _ZTI11KSystemTray
+0x804d206 32 31 _ZN11KSystemTrayC2EP7QWidgetPKc
+0x804d226 37 36 _ZN11KSystemTray16staticMetaObjectEv
+0x804d24b 39 38 _ZN11KSystemTray9qt_invokeEiP8QUObject
+0x804d272 35 34 _ZN11KSystemTray14getTrayPaletteEv
+0x804d295 41 40 _ZN11KSystemTray11revertImageERK7QPixmap
+0x804d2be 55 54 _ZN11KSystemTray22contextMenuAboutToShowEP10KPopupMenu
+0x804d2f5 46 45 _ZN11KSystemTray16highlightedImageERK7QPixmap
+0x804d323 40 39 _ZN11KSystemTray10setCaptionERK7QString
+0x804d34b 43 42 _ZN11KSystemTray11qt_propertyEiiP8QVariant
+0x804d376 38 37 _ZN11KSystemTray10enterEventEP6QEvent
+0x804d39c 29 28 _ZN11KSystemTray7qt_castEPKc
+0x804d3b9 37 36 _ZN11KSystemTray7qt_emitEiP8QUObject
+0x804d3de 51 50 _ZN11KSystemTray17mouseReleaseEventEP11QMouseEvent
+0x804d411 35 34 _ZN11KSystemTray12virtual_hookEiPv
+0x804d434 40 39 _ZN11KSystemTray11revertImageERK6QImage
+0x804d45c 21 20 _ZN11KSystemTrayD2Ev
+0x804d471 41 40 _ZN11KSystemTray9showEventEP10QShowEvent
+0x804d49a 16 15 libkdecore.so.4
+0x804d4aa 30 29 _ZN4KWin16readNamePropertyEmm
+0x804d4c8 44 43 _ZN10KAboutDataC1EPKcS1_S1_S1_iS1_S1_S1_S1_
+0x804d4f4 39 38 _ZN10KAboutData9addAuthorEPKcS1_S1_S1_
+0x804d51b 22 21 _ZN12KApplicationD1Ev
+0x804d531 34 33 _ZN7KLocale16setMainCatalogueEPKc
+0x804d553 43 42 _ZN12KCmdLineArgs4initEiPPcPK10KAboutDatab
+0x804d57e 39 38 _ZN12KApplication17addCmdLineOptionsEv
+0x804d5a5 23 22 _ZN12KApplicationC1Ebb
+0x804d5bc 12 11 libkio.so.4
+0x804d5c8 20 19 libhal-storage.so.1
+0x804d5dc 28 27 libhal_volume_disc_is_blank
+0x804d5f8 27 26 libhal_volume_is_partition
+0x804d613 30 29 libhal_volume_get_device_file
+0x804d631 35 34 libhal_volume_is_mounted_read_only
+0x804d654 25 24 libhal_volume_is_mounted
+0x804d66d 23 22 libhal_volume_from_udi
+0x804d684 19 18 libhal_volume_free
+0x804d697 29 28 libhal_volume_disc_has_audio
+0x804d6b4 22 21 libhal_volume_is_disc
+0x804d6ca 16 15 libdvdread.so.3
+0x804d6f3 15 14 libstdc++.so.6
+0x804d702 6 5 _Znwj
+0x804d708 41 40 _ZTVN10__cxxabiv120__si_class_type_infoE
+0x804d731 19 18 __cxa_pure_virtual
+0x804d744 7 6 _ZdlPv
+0x804d74b 21 20 __gxx_personality_v0
+0x804d760 38 37 _ZTVN10__cxxabiv117__class_type_infoE
+0x804d795 14 13 libgcc_s.so.1
+0x804d7a3 15 14 _Unwind_Resume
+0x804d7b2 10 9 __udivdi3
+0x804d7c6 15 14 _IO_stdin_used
+0x804d7e3 13 12 __printf_chk
+0x804d821 9 8 __strdup
+0x804d831 16 15 __isoc99_sscanf
+0x804d859 15 14 __isoc99_scanf
+0x804d868 11 10 __read_chk
+0x804d882 17 16 __stack_chk_fail
+0x804d893 9 8 __lxstat
+0x804d8cc 14 13 __assert_fail
+0x804d925 13 12 __cxa_atexit
+0x804d96e 14 13 __fprintf_chk
+0x804d997 16 15 __vsnprintf_chk
+0x804d9c4 14 13 __strncpy_chk
+0x804d9ea 14 13 __ctype_b_loc
+0x804da0c 15 14 __snprintf_chk
+0x804da1b 13 12 __memset_chk
+0x804da3f 9 8 __xmknod
+0x804da4e 9 8 __fxstat
+0x804da88 12 11 iconv_close
+0x804daaa 13 12 __memcpy_chk
+0x804dab7 12 11 __fread_chk
+0x804dada 15 14 __vfprintf_chk
+0x804db00 11 10 iconv_open
+0x804db0b 20 19 __ctype_toupper_loc
+0x804db1f 13 12 __strcpy_chk
+0x804db2c 20 19 __ctype_tolower_loc
+0x804db40 14 13 __sprintf_chk
+0x804db4e 8 7 __xstat
+0x804db65 13 12 __strcat_chk
+0x804db82 18 17 __libc_start_main
+0x804dba6 17 16 libglib-2.0.so.0
+0x804dbb7 16 15 g_main_loop_run
+0x804dbc7 16 15 g_main_loop_new
+0x804dbd7 11 10 inflateEnd
+0x804dbf4 14 13 inflateInit2_
+0x804dc02 11 10 libdl.so.2
+0x804dc2a 7 6 _edata
+0x804dc31 12 11 __bss_start
+0x804dc3d 5 4 _end
+0x8051038 17 16 PTRh f\b\bh0f\b\bQVh
+0x807b5aa 6 4 _]Ðf
+0x807b5da 6 4 _]Ðf
+0x80866ff 16 15 file scan main\n
+0x808676b 11 10 textLabel3
+0x808677e 11 10 textLabel4
+0x8086791 11 10 textLabel5
+0x80867e6 20 19 1btnPause_clicked()
+0x80867fa 11 10 2clicked()
+0x8086805 19 18 1btnStop_clicked()
+0x8086818 19 18 1btnScan_clicked()
+0x8086843 10 9 not root\n
+0x8086aa6 10 9 Ab\vbQP7.\
+0x8086de9 22 21 Mainform eventFilter\n
+0x8086e47 10 9 \b7QBitmap
+0x8086ea6 10 9 Ab\vbQP7.\
+0x80873d1 25 24 /usr/lib/AudioSignal.dat
+0x80873ea 23 22 scan process main end\n
+0x8087401 21 20 file full scan main\n
+0x8087416 18 17 Full scanning...\n
+0x808744f 12 11 DiskUtility
+0x808745b 18 17 closed %s window\n
+0x808746d 17 16 added %s window\n
+0x808747e 23 22 \nOSD Team - empty hook
+0x8087495 27 26 \nOSD Team - only file type
+0x80874b0 20 19 \nOSD Team - profile
+0x80874c4 17 16 \nOSD Team - scan
+0x80874d5 19 18 \nOSD Team - XXXXXX
+0x80874e8 12 11 1slotScan()
+0x80874f4 19 18 1slotInformation()
+0x8087507 14 13 1slotUpdate()
+0x8087523 19 18 scan process main\n
+0x8087536 24 23 1slotDownFinish( bool )
+0x808754e 22 21 2sig_download( bool )
+0x8087564 20 19 1windowAdded( WId )
+0x8087578 20 19 2windowAdded( WId )
+0x808758c 22 21 1windowRemoved( WId )
+0x80875a2 22 21 2windowRemoved( WId )
+0x8087cc4 13 12 \ttEXtX-Index
+0x8088044 13 12 \ttEXtX-Index
+0x8088407 11 10 qql\ftpk3^/
+0x8088604 13 12 \ttEXtX-Index
+0x8089748 5 4 _7o2
+0x8089a59 10 8 \vOd̫Vajj
+0x8089e4e 10 9 LMA[\etuAO
+0x808d448 5 4 _\a2?
+0x808e32c 5 4 _MX9
+0x808e404 14 11 p!㇝Kbk1H(a\f
+0x808feec 8 7 _*U tM"
+0x8090a9c 10 8 \rȐ6JT#lr
+0x8090cba 10 8 hjJ;7o\nȁ
+0x8090d10 11 10 DkM.\a33rV~
+0x8092f82 14 12 hM>ln!c\fǏKBC
+0x8093a56 13 10 CMdd;o瀔Sq^
+0x80940c6 12 9 ҺAsgQUІt!
+0x8096218 6 4 _R-́
+0x80981af 12 11 i:-\vSoh6m*\a
+0x80987a7 12 10 \n5RWFzo.Wn
+0x80999bc 9 8 tK\vzzZ\f2
+0x809a4e3 7 6 _aG60@
+0x809ace0 37 36 /usr/lib/qt-3.3/include/qvaluelist.h
+0x809ad40 31 30 aplay -N /usr/lib/Warnning.wav
+0x809ad5f 11 10 i <= nodes
+0x809ad82 21 20 cannot open dir: %s\n
+0x809adbd 11 10 /AnGae.dat
+0x809adc8 14 13 release data\n
+0x809ae07 16 15 exec runoncerf\n
+0x809ae17 19 18 /usr/lib/ksmserver
+0x809ae2a 16 15 modprobe rtscan
+0x809ae3a 26 25 modprobe rtscan process!\n
+0x809ae5d 17 16 /dev/res error!\n
+0x809ae75 27 26 root@localhost.localdomain
+0x809ae90 14 13 (C) 2008 root
+0x809ae9e 20 19 detect_device_main\n
+0x809aeb2 25 24 detect_device_main end.\n
+0x809aecf 24 23 A KDE KPart Application
+0x809aee7 13 12 Http abort!\n
+0x809aef4 20 19 Start updatting...\n
+0x809af08 21 20 Cancel updatting...\n
+0x809af1d 25 24 1slotStateChanged( int )
+0x809af36 21 20 2stateChanged( int )
+0x809af4b 22 21 1slotHttpdone( bool )
+0x809af61 14 13 2done( bool )
+0x809af6f 30 29 2dataReadProgress( int, int )
+0x809b000 13 12 unconnected\n
+0x809b00d 12 11 connecting\n
+0x809b019 12 11 hostlookup\n
+0x809b04c 34 33 1slotDataReadProgress( int, int )
+0x809b110 35 34 Error! requestFinished( id = %d )\n
+0x809b1a7 19 18 /usr/sbin/qtparted
+0x809b1c2 19 18 volume.mount_point
+0x809b1d5 13 12 block.device
+0x809b1e2 20 19 volume.disc.is_svcd
+0x809b1f6 19 18 volume.disc.is_vcd
+0x809b209 13 12 /proc/mounts
+0x809b21e 15 14 src/device.cpp
+0x809b245 12 11 info.parent
+0x809b251 29 28 error: dbus_bus_get: %s: %s\n
+0x809b26e 23 22 error: libhal_ctx_new\n
+0x809b285 16 15 /usr/lib/hidden
+0x809b295 16 15 /usr/lib/recent
+0x809b2a5 17 16 /usr/lib/subpatt
+0x809b2e4 33 32 Couldn't obtain list of devices\n
+0x809b308 47 46 error: libhal_ctx_set_dbus_connection: %s: %s\n
+0x809b338 32 31 error: libhal_ctx_init: %s: %s\n
+0x809b358 113 112 Could not initialise connection to hald.\nNormally this means the HAL daemon (hald) is not running or not ready.\n
+0x809b3cc 73 72 error: monitoring devicelist - libhal_device_property_watch_all: %s: %s\n
+0x809b415 13 12 dump_VideoCD
+0x809b42b 12 11 eject -m %s
+0x809b443 17 16 /proc/%d/cmdline
+0x809b454 27 26 read CDROM toc header: %s\n
+0x809b46f 16 15 ioctl dif2: %s\n
+0x809b47f 16 15 ioctl dif1: %s\n
+0x809b48f 26 25 read CDROM toc entry: %s\n
+0x809b4a9 11 10 /dev/cdrom
+0x809b4b4 23 22 Failed to open CD-ROM\n
+0x809b4cb 22 21 Failed to get cd toc\n
+0x809b4e1 18 17 Can not open VCD\n
+0x809b4fa 26 25 Can not open out file %s\n
+0x809b514 30 29 Failed to read data of track\n
+0x809b532 27 26 Can not write out file %s\n
+0x809b550 36 35 hald-addon-storage: polling /dev/sr
+0x809b574 40 39 ps -e | grep ksmserver | wc -l > /1.txt
+0x809b59c 31 30 read self process information\n
+0x809b5bc 34 33 process is already running %s %s\n
+0x809b5f6 11 10 /proc/self
+0x809b601 13 12 /proc/%s/exe
+0x809b60e 23 22 process first running\n
+0x809b625 12 11 dir error \n
+0x809b63b 12 11 UnkFunc => 
+0x809ba90 17 16 /usr/share/magic
+0x809baa1 17 16 /usr/lib/magiccb
+0x809bab2 15 14 /usr/bin/opprc
+0x809bae2 12 11 /updatetime
+0x809bb05 15 14 /tmp/AnGae.dat
+0x809bb14 16 15 /tmp/scnprc.ini
+0x809bb24 15 14 /tmp/OSUpdate/
+0x809bb33 21 20 /tmp/fdas_update.udb
+0x809bb48 19 18 /usr/bin/runoncerf
+0x809bb5b 22 21 /etc/init.d/runoncerf
+0x809bb71 13 12 FileName.bin
+0x809bb7e 25 24 /program/fdas_update.udb
+0x809bba0 15 14 /tmp/AnGae.dat
+0x809bca4 16 15 /tmp/scnprc.ini
+0x809bda8 21 20 /usr/bin/redflag.bmp
+0x809beac 25 24 /usr/lib/AudioSignal.dat
+0x809bfb0 22 21 /usr/lib/Warnning.wav
+0x809c0b4 21 20 /usr/lib/libigl.so.0
+0x809c1b8 21 20 /usr/lib/libmgl.so.0
+0x809c2bc 17 16 /usr/lib/magiccb
+0x809c3c0 45 44 /usr/share/locale/ko_KP/LC_MESSAGES/organ.mo
+0x809c4c4 46 45 /usr/share/locale/ko_KP/LC_MESSAGES/scnprc.mo
+0x809c5c8 19 18 /usr/bin/runoncerf
+0x809c7d0 20 19 /usr/lib/tmpsrc.tmp
+0x809c7eb 15 14 %s%s%s_lnk%s%s
+0x809c7fa 13 12 %s%s%s%s.lnk
+0x809c84b 23 22 /usr/tmp/kdecache-1025
+0x809c89a 17 16 languageChange()
+0x809c8ab 15 14 languageChange
+0x809c8ba 17 16 btnPause_clicked
+0x809c8cb 16 15 btnStop_clicked
+0x809c8db 16 15 btnScan_clicked
+0x809cb13 10 9 \b7frmTray
+0x809cba9 16 15 doubleClicked()
+0x809cbb9 27 26 setToolTip(const QString&)
+0x809cbd4 20 19 draw(const QImage*)
+0x809cbe8 17 16 showSystemMenu()
+0x809cbf9 14 13 doubleClicked
+0x809cc07 11 10 setToolTip
+0x809cc17 15 14 showSystemMenu
+0x809ce43 11 10 \b8Mainform
+0x809cef4 21 20 slotDownFinish(bool)
+0x809cf09 17 16 windowAdded(WId)
+0x809cf1a 19 18 windowRemoved(WId)
+0x809cf36 16 15 slotInformation
+0x809cf46 11 10 slotUpdate
+0x809cf51 15 14 slotDownFinish
+0x809cf60 12 11 windowAdded
+0x809cf6c 14 13 windowRemoved
+0x809d0ef 10 9 \bTrayicon
+0x809d353 11 10 \b8Trayicon
+0x809d3c4 19 18 sig_download(bool)
+0x809d3d7 22 21 slotStateChanged(int)
+0x809d3ed 19 18 slotHttpdone(bool)
+0x809d400 30 29 slotRequestFinished(int,bool)
+0x809d41e 16 15 slotHttpabort()
+0x809d42e 30 29 slotDataReadProgress(int,int)
+0x809d44c 13 12 sig_download
+0x809d459 17 16 slotStateChanged
+0x809d46a 13 12 slotHttpdone
+0x809d477 20 19 slotRequestFinished
+0x809d48b 14 13 slotHttpabort
+0x809d499 21 20 slotDataReadProgress
+0x809d63b 10 9 \b7Updater
+0x809d6ad 20 19 Input DataLength = 
+0x809d6c1 12 11 \nNo match!\n
+0x809d6cd 26 25 \nEncrypt and Decrypt OK!\n
+0x809d6e8 41 40 \nDataLength have to be a multiple of 4!\n
+0x809d720 16 15 des_ecb_decrypt
+0x80a5f3d 19 18 @@@des_ecb_encrypt
+0x80a6080 12 11 /tmp/tmpdev
+0x80a608c 20 19 hard disk s/n : %s\n
+0x80a60b2 24 23 get disk serial number\n
+0x80a60ca 24 23 string length = %d, %s\n
+0x80a60e2 19 18 get disk s/n fail\n
+0x80a61e9 25 24 src/UserPatternDBMgr.cpp
+0x80a6202 21 20 nPartLen < nBuffSize
+0x80a621b 14 13 nCmpFlag <= 0
+0x80a6229 9 8 _001.tmp
+0x80a6260 35 34 void repeatData(char*, int, int32)
+0x80a62a0 58 57 int32 CUserPatternDBMgr::loadDB(const TCHAR*, bool, bool)
+0x80a630f 12 11 \b9CDBInxMgr
+0x80a6321 10 9 c\n\bhash.c
+0x80a6374 14 13 sha1_compress
+0x80a638c 13 12 sha1_process
+0x80a6399 22 21 PublicKey Filename = 
+0x80a63af 21 20 \nMessage Filename = 
+0x80a63c4 18 17 \nSign Filename = 
+0x80a63d6 11 10 Error: %s\n
+0x80a63e9 23 22 PrivateKey Filename = 
+0x80a6400 28 27 RSA signed hash: %lu bytes\n
+0x80a6424 43 42 Took %.0f ms to make a %ld-byte RSA Sign.\n
+0x80a645a 22 21 zDInvalid error code.
+0x80a6521 17 16 Buffer overflow.
+0x80a6532 22 21 Invalid input packet.
+0x80a6548 24 23 Error reading the PRNG.
+0x80a6560 26 25 Invalid cipher specified.
+0x80a657a 24 23 Invalid hash specified.
+0x80a6592 24 23 Invalid PRNG specified.
+0x80a65aa 15 14 Out of memory.
+0x80a65b9 30 29 A private PK key is required.
+0x80a65d7 27 26 Invalid argument provided.
+0x80a65f2 15 14 File Not Found
+0x80a6601 17 16 Invalid PK type.
+0x80a6612 19 18 Invalid PK system.
+0x80a6625 26 25 Key not found in keyring.
+0x80a663f 25 24 Invalid sized parameter.
+0x80a6658 24 23 Invalid size for prime.
+0x80a6680 16 15 rsa_verify_hash
+0x80a6690 14 13 rsa_sign_hash
+0x80a669e 14 13 rsa_signdepad
+0x80a66ac 12 11 rsa_signpad
+0x80a66b8 11 10 rsa_import
+0x80a66c3 12 11 rsa_exptmod
+0x80a66d8 20 19 packet_store_header
+0x80a66ec 20 19 packet_valid_header
+0x80a676d 27 26 f\n\bth\n\b%f\n\b?f\n\bXf\n\bzeromem
+0x80a6788 36 35 Non-fatal 'no-operation' requested.
+0x80a67ac 34 33 Invalid keysize for block cipher.
+0x80a67d0 43 42 Invalid number of rounds for block cipher.
+0x80a67fc 31 30 Algorithm failed test vectors.
+0x80a681c 35 34 Invalid number of bits for a PRNG.
+0x80a6840 51 50 Invalid PK key or key type specified for function.
+0x80a6874 35 34 Duplicate PK key found on keyring.
+0x80a6898 65 64 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz+/
+0x80a6e55 15 14 Y\a\blibigl.so.0
+0x80a6e64 24 23 igl_handle = NULL : %s\n
+0x80a6e8f 16 15 igl_get_rgbdata
+0x80a6e9f 16 15 igl_put_rgbdata
+0x80a6eaf 12 11 libmgl.so.0
+0x80a6ebb 24 23 dlopen mgl_handle : %s\n
+0x80a6ee5 13 12 mgl_agp_open
+0x80a6ef2 26 25 mgl_agp_get_audio_pcmdata
+0x80a6f0c 26 25 mgl_agp_put_audio_pcmdata
+0x80a6f26 14 13 mgl_agp_close
+0x80a6f3d 25 24 get mgl_open error : %s\n
+0x80a6f60 22 21 mgl_get_audio_pcmdata
+0x80a6f76 22 21 mgl_put_audio_pcmdata
+0x80a6f8c 32 31 get igl_open symbol error : %s\n
+0x80a6fac 33 32 get igl_close symbol error : %s\n
+0x80a6fd0 39 38 get igl_get_rgbdata symbol error : %s\n
+0x80a6ff8 39 38 get igl_put_rgbdata symbol error : %s\n
+0x80a7020 32 31 get mgl_init symbol error : %s\n
+0x80a7040 32 31 get mgl_free symbol error : %s\n
+0x80a7060 36 35 get mgl_agp_open symbol error : %s\n
+0x80a7084 34 33 mgl_agp_set_audio_samples_per_get
+0x80a70a8 57 56 get mgl_agp_set_audio_samples_per_get symbol error : %s\n
+0x80a70e4 49 48 get mgl_agp_get_audio_pcmdata symbol error : %s\n
+0x80a7118 49 48 get mgl_agp_put_audio_pcmdata symbol error : %s\n
+0x80a714c 37 36 get mgl_agp_close symbol error : %s\n
+0x80a7174 33 32 get mgl_close symbol error : %s\n
+0x80a7198 45 44 get mgl_get_audio_pcmdata symbol error : %s\n
+0x80a71c8 45 44 get mgl_put_audio_pcmdata symbol error : %s\n
+0x80a7de0 1293 1292 .css.dun.ini.isp.obe.dll.exe.log.cpx.inf.rsp.txt.bin.sql.scf.cfg.rat.sys.ddb.bat.htm.htt.js.vbs.lgc.sam.mydocs.---.dat.bak.cb.inc.reg.cnt.ins.scp.icw.ver.cif.lko.001.002.003.004.005.tbl.asm.6a.faq.1st.h.c.cpp.xml.dsp.dsw.rc2.rc.lgd.doc.bas.cod.diz.env.frm.hhp.lid.lst.msg.nfo.product.rgs.vbw.joboptions.wpl.php.map.tem.dsk.c70.sts.err.def.lnk.dos.win.mkf.dlg.ctt.inl.fd.fi.mof.xsl.vxd.hxx.eng.enu.nld.sep.tha.nt.cmd.srg.asp.theme.xdr.kbd.klb.set.lck.liveupdate.acrodata.ps.tmp.htc.vps.cnf.dic.sln.pak.vtm.bbs.clw.stf.vsdir.col.vbp.cls.idl.vaf.vap.mnu.pty.tip.ctl.dsr.dsm.vbz.dob.odl.csv.rcv.mc.hh.mk.prf.s.sub.iqy.ecf.det.url.cxx.asa.pl.hpp.acf.uni.vpj.vpw.cs.csproj.pag.hm.md5.vbg.ara.cat.chs.cht.csy.dan.deu.ell.esn.eti.euq.fin.fra.heb.hrv.hun.ita.jpn.kor.lth.lvi.nor.plk.ptb.ptg.rom.rus.sky.slv.sve.trk.vit.ldt.html.dsn.java.vbr.tlh.tli.vsz.user.ida.idq.htx.smp.hpj.guid.asmx.lpk.gak.w16.vsh.x.vb.vbproj.h16.hxt.hid.ggx.rst.lng.stp.syx.std.cmp.thd.sequ.nsi.key.cws.grd.tag.tsk.pem.idc.idt.pat.exc.rh.mak.uns.ldf.src.sif.iss.ldi.nif.mif.scr.sdb.pdi.sp1.sp2.dep.adm.pkp.gpz.dbp.bad.plg.utf8.asd.ctx.pcp.pdm.lic.vip.dtd.am.in.py.selinux.fsdump.quick.plo.lai.magic.la.debian.core64.m4.notice.sh.man.file.isprint.64bit.corefile.conf.po.ld.menu.kdevelop.spec.gen.usbkey.filelist.tex.lis.old.org.
+0x80a8312 11 10 very short
+0x80a8327 11 10 WAVE audio
+0x80a8332 14 13 Microsoft ASF
+0x80a8344 26 25 RIFF (little-endian) data
+0x80a835e 14 13 MPEG sequence
+0x80a8376 16 15 QuickTime movie
+0x80a8386 23 22 Macromedia Flash Video
+0x80a839d 22 21 Macromedia Flash data
+0x80a83bd 16 15 JPEG image data
+0x80a83cd 12 11 bitmap data
+0x80a83d9 16 15 TIFF image data
+0x80a83e9 15 14 GIF image data
+0x80a83f8 15 14 PNG image data
+0x80a8413 26 25 Microsoft Office Document
+0x80a842d 13 12 PDF document
+0x80a843a 17 16 Windows HtmlHelp
+0x80a844b 11 10 DjVu Image
+0x80a8456 11 10 CAJ Viewer
+0x80a8461 22 21 Microsoft Office 2007
+0x80a8477 16 15 Hangul (Korean)
+0x80a8487 11 10 PDG Viewer
+0x80a84a3 17 16 /usr/lib/magiccb
+0x80a84b4 23 22 magic file load fail!\n
+0x80a84cb 26 25 magic file load success!\n
+0x80a84e5 12 11 binary data
+0x80a84fc 31 30 Microsoft Cabinet archive data
+0x80a851c 36 35 .caj.kdh.teb.nh.caa.docx.xlsx.pptx.
+0x80a8540 11 10 writable, 
+0x80a854b 13 12 executable, 
+0x80a8558 15 14 regular file, 
+0x80a8567 19 18 no read permission
+0x80a857a 17 16 cannot read `%s'
+0x80a858b 20 19 application/x-empty
+0x80a859f 27 26 very short file (no magic)
+0x80a85bf 27 26 cannot happen: m->type=%d\n
+0x80a85da 17 16 cannot stat `%s'
+0x80a85eb 23 22 file `%s' is too small
+0x80a8602 16 15 cannot map `%s'
+0x80a8612 18 17 bad magic in `%s'
+0x80a8624 24 23 invalid magic file name
+0x80a863c 28 27 cannot read magic file `%s'
+0x80a8658 20 19 offset `%s' invalid
+0x80a86c0 11 10 bestring16
+0x80a86cb 11 10 lestring16
+0x80a86dd 18 17 type `%s' invalid
+0x80a86ef 30 29 string extension `%c' invalid
+0x80a870d 22 21 string too long: `%s'
+0x80a8723 28 27 cannot get string from `%s'
+0x80a8745 11 10 /etc/magic
+0x80a8750 30 29 using regular magic file `%s'
+0x80a88a0 40 39 cont\toffset\ttype\topcode\tmask\tvalue\tdesc
+0x80a8992 38 37 \n\bversion mismatch (%d != %d) in `%s'
+0x80a89b8 34 33 indirect offset type `%c' invalid
+0x80a89dc 31 30 missing ')' in indirect offset
+0x80a89fc 64 63 Internal error inconsistency between m->type and format strings
+0x80a8a3c 48 47 No format string for `%s' with description `%s'
+0x80a8a6c 66 65 Printf format `%c' is not valid for type `%s' in description `%s'
+0x80a8ab0 34 33 Invalid format `%s' for type `%s'
+0x80a8ad4 32 31 could not find any magic files!
+0x80a8af4 27 26 , bad note name size 0x%lx
+0x80a8b13 11 10 , for GNU/
+0x80a8b45 13 12 , for NetBSD
+0x80a8b5b 14 13 , for FreeBSD
+0x80a8b77 14 13 , for OpenBSD
+0x80a8b85 16 15 , for DragonFly
+0x80a8ba1 11 10 , %s-style
+0x80a8bbb 13 12  (signal %u)
+0x80a8bdb 11 10 statically
+0x80a8be6 12 11 dynamically
+0x80a8bf2 20 19  (uses shared libs)
+0x80a8c06 14 13 , %s linked%s
+0x80a8c19 13 12 , %sstripped
+0x80a8c2c 34 33 , bad note description size 0x%lx
+0x80a8c50 32 31 , corrupted program header size
+0x80a8c70 31 30 , invalid note alignment 0x%lx
+0x80a8c90 32 31 , corrupted section header size
+0x80a8cb0 32 31 Cannot allocate memory for note
+0x80a8cda 17 16 \n\b*Invalid time*
+0x80a8ceb 18 17 %s, %lu: Warning 
+0x80a8e2c 28 27 character special (%ld/%ld)
+0x80a8e48 24 23 block special (%ld/%ld)
+0x80a8e60 18 17 fifo (named pipe)
+0x80a8e72 24 23 unreadable symlink `%s'
+0x80a8e8a 29 28 unreadable symlink `%s' (%s)
+0x80a8ea7 29 28 broken symbolic link to `%s'
+0x80a8ec4 20 19 path too long: `%s'
+0x80a8edf 17 16 invalid mode 0%o
+0x80a8ef0 31 30 application/x-not-regular-file
+0x80a8f0f 22 21 no magic files loaded
+0x80a8f25 14 13 error reading
+0x80a8f33 14 13 error seeking
+0x80a8f41 23 22 cannot allocate memory
+0x80a8f58 25 24 application/octet-stream
+0x80a8f71 28 27 invalid type %d in mcheck()
+0x80a902f 30 29 Cannot allocate search buffer
+0x80a904d 30 29 invalid type %d in mconvert()
+0x80a9070 37 36 cannot happen: invalid relation `%c'
+0x80a9098 33 32 invalid m->type (%d) in mprint()
+0x80a93c9 44 43 N\b\b4N\b\bqN\b\bYN\b\beN\b\b9K\b\btO\b\b_O\b\b@N\b\bus-ascii
+0x80a93f5 11 10 iso-8859-1
+0x80a940f 14 13 UTF-8 Unicode
+0x80a941d 15 14 character data
+0x80a9433 26 25 Big-endian UTF-16 Unicode
+0x80a944d 29 28 Little-endian UTF-16 Unicode
+0x80a9472 23 22 Non-ISO extended-ASCII
+0x80a9490 21 20 International EBCDIC
+0x80a94a5 11 10 text/plain
+0x80a94b0 11 10 ; charset=
+0x80a94c6 18 17  line terminators
+0x80a9671 11 10 jklmnopqr^
+0x80a96ef 19 18 cannot create pipe
+0x80a9702 15 14 could not fork
+0x80a9721 11 10 uncompress
+0x80a9750 43 42 cannot create temporary file for pipe copy
+0x80a977c 37 36 error copying from pipe to temp file
+0x80a97a4 33 32 error while writing to temp file
+0x80a97c8 39 38 could not dup descriptor for temp file
+0x80b1931 15 14 i\b\bP2C.MGD.S3.
+0x80b1a00 14 13 /usr/lib/1025
+0x80b1b04 17 16 /usr/lib/pattern
+0x80b1b15 16 15 /usr/lib/recent
+0x80b1b36 19 18 \t\bwwwwwwwwwwwwvwww
+0x811af81 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811afae 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811afdb 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b008 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b035 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b062 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b08f 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b0bc 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b0e9 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b116 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b143 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b170 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b19d 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b1ca 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b1f7 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b224 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b251 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b27e 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b2ab 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b2d8 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b305 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b332 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b35f 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b38c 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b3b9 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b3e6 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b413 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b440 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b46d 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b49a 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b4c7 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b4f4 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b521 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b54e 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b57b 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b5a8 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b5d5 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b602 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b62f 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b65c 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b689 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b6b6 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b6e3 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b710 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b73d 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b76a 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b797 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b7c4 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b7f1 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b81e 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b84b 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b878 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b8a5 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b8d2 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b8ff 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b92c 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b959 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b986 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b9b3 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811b9e0 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811ba0d 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811ba3a 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x811ba89 14 13 .note.ABI-tag
+0x811ba97 19 18 .note.gnu.build-id
+0x811bac4 13 12 .gnu.version
+0x811bad1 15 14 .gnu.version_r
+0x811bb0c 14 13 .eh_frame_hdr
+0x811bb24 18 17 .gcc_except_table
+0x811c981 5 4 _\n\b 
+0x811c9a1 5 4 _\n\b0
+0x81223fd 14 13 __CTOR_LIST__
+0x812240b 14 13 __DTOR_LIST__
+0x8122419 13 12 __JCR_LIST__
+0x8122426 22 21 __do_global_dtors_aux
+0x812243c 15 14 completed.5918
+0x812244b 14 13 dtor_idx.5920
+0x8122459 12 11 frame_dummy
+0x8122465 13 12 __CTOR_END__
+0x8122472 14 13 __FRAME_END__
+0x8122480 12 11 __JCR_END__
+0x812248c 22 21 __do_global_ctors_aux
+0x81224a2 14 13 _ZL9tray_icon
+0x81224ba 15 14 p_pattern_info
+0x81224c9 12 11 boot_sector
+0x81224d5 14 13 fsinfo_sector
+0x81224e3 52 51 _ZZN4Scan10timerEventEP11QTimerEventE12threads_scan
+0x8122517 17 16 _ZL11image_datas
+0x8122528 14 13 _ZL9scan_icon
+0x8122536 16 15 _ZL10infor_icon
+0x8122546 18 17 _ZL12updater_icon
+0x8122558 17 16 _ZL11image_data1
+0x8122569 17 16 _ZL11image_data2
+0x812257a 17 16 _ZL11image_data3
+0x812258b 17 16 _ZL11image_data4
+0x812259c 17 16 _ZL11image_data5
+0x81225ad 17 16 _ZL11image_data6
+0x81225be 17 16 _ZL11image_data7
+0x81225cf 17 16 _ZL11image_data8
+0x81225e0 17 16 _ZL11image_data9
+0x81225f1 18 17 _ZL12image_data10
+0x8122603 18 17 _ZL12image_data11
+0x8122615 18 17 _ZL12image_data12
+0x8122627 18 17 _ZL12image_data13
+0x8122639 18 17 _ZL12image_data14
+0x812264b 18 17 _ZL12image_data15
+0x812265d 18 17 _ZL12image_data16
+0x812266f 18 17 _ZL12image_data17
+0x8122681 18 17 _ZL12image_data18
+0x8122693 18 17 _ZL12image_data19
+0x81226a5 18 17 _ZL12image_data20
+0x81226b7 18 17 _ZL12image_data21
+0x81226c9 18 17 _ZL12image_data22
+0x81226db 18 17 _ZL12image_data23
+0x81226ed 18 17 _ZL12image_data24
+0x81226ff 18 17 _ZL12image_data25
+0x8122711 18 17 _ZL12image_data26
+0x8122723 18 17 _ZL12image_data27
+0x8122735 18 17 _ZL12image_data28
+0x8122747 18 17 _ZL12image_data29
+0x8122759 18 17 _ZL12image_data30
+0x812276b 18 17 _ZL12image_data31
+0x812277d 18 17 _ZL12image_data32
+0x812278f 18 17 _ZL12image_data33
+0x81227a1 18 17 _ZL12image_data34
+0x81227b3 18 17 _ZL12image_data35
+0x81227c5 18 17 _ZL12image_data36
+0x81227d7 18 17 _ZL12image_data37
+0x81227e9 18 17 _ZL12image_data38
+0x81227fb 18 17 _ZL12image_data39
+0x812280d 18 17 _ZL12image_data40
+0x812281f 18 17 _ZL12image_data41
+0x8122831 18 17 _ZL12image_data42
+0x8122843 18 17 _ZL12image_data43
+0x8122855 18 17 _ZL12image_data44
+0x8122867 18 17 _ZL12image_data45
+0x8122879 18 17 _ZL12image_data46
+0x812288b 18 17 _ZL12image_data47
+0x812289d 18 17 _ZL12image_data48
+0x81228af 18 17 _ZL12image_data49
+0x81228c1 18 17 _ZL12image_data50
+0x81228d3 19 18 _GLOBAL__I_gsOrgan
+0x81228e6 20 19 _ZL14pt_device_scan
+0x81228fa 17 16 _ZL11description
+0x812290b 12 11 _ZL7version
+0x8122917 49 48 _ZL17property_modifiedP15LibHalContext_sPKcS2_jj
+0x8122948 39 38 _ZL12device_addedP15LibHalContext_sPKc
+0x812296f 31 30 _ZL13dump_childrenPciP6Devicei
+0x812298e 12 11 _ZL7hal_ctx
+0x812299a 34 33 _ZZ12dump_VideoCDvE12__FUNCTION__
+0x81229bc 23 22 _GLOBAL__I_gPatternMgr
+0x81229d3 18 17 _ZL12gszMakerName
+0x81229e5 36 35 _GLOBAL__I__ZNK7frmTray9classNameEv
+0x8122a09 21 20 _ZL15cleanUp_frmTray
+0x8122a1e 43 42 _ZZN7frmTray16staticMetaObjectEvE8slot_tbl
+0x8122a49 41 40 _ZZN7frmTray16staticMetaObjectEvE6slot_0
+0x8122a72 41 40 _ZZN7frmTray16staticMetaObjectEvE6slot_1
+0x8122a9b 41 40 _ZZN7frmTray16staticMetaObjectEvE6slot_2
+0x8122ac4 41 40 _ZZN7frmTray16staticMetaObjectEvE6slot_3
+0x8122aed 37 36 _GLOBAL__I__ZNK8Mainform9classNameEv
+0x8122b12 22 21 _ZL16cleanUp_Mainform
+0x8122b28 47 46 _ZZN8Mainform16staticMetaObjectEvE10signal_tbl
+0x8122b57 44 43 _ZZN8Mainform16staticMetaObjectEvE8slot_tbl
+0x8122b83 44 43 _ZZN8Mainform16staticMetaObjectEvE8signal_0
+0x8122baf 42 41 _ZZN8Mainform16staticMetaObjectEvE6slot_0
+0x8122bd9 42 41 _ZZN8Mainform16staticMetaObjectEvE6slot_1
+0x8122c03 42 41 _ZZN8Mainform16staticMetaObjectEvE6slot_2
+0x8122c2d 49 48 _ZZN8Mainform16staticMetaObjectEvE12param_slot_0
+0x8122c5e 49 48 _ZZN8Mainform16staticMetaObjectEvE12param_slot_1
+0x8122c8f 33 32 _GLOBAL__I__ZNK4Scan9classNameEv
+0x8122cb0 18 17 _ZL12cleanUp_Scan
+0x8122cc2 40 39 _ZZN4Scan16staticMetaObjectEvE8slot_tbl
+0x8122cea 38 37 _ZZN4Scan16staticMetaObjectEvE6slot_0
+0x8122d10 38 37 _ZZN4Scan16staticMetaObjectEvE6slot_1
+0x8122d36 38 37 _ZZN4Scan16staticMetaObjectEvE6slot_2
+0x8122d5c 38 37 _ZZN4Scan16staticMetaObjectEvE6slot_3
+0x8122d82 38 37 _ZZN4Scan16staticMetaObjectEvE6slot_4
+0x8122da8 38 37 _ZZN4Scan16staticMetaObjectEvE6slot_5
+0x8122dce 45 44 _ZZN4Scan16staticMetaObjectEvE12param_slot_3
+0x8122dfb 45 44 _ZZN4Scan16staticMetaObjectEvE12param_slot_4
+0x8122e28 45 44 _ZZN4Scan16staticMetaObjectEvE12param_slot_5
+0x8122e55 37 36 _GLOBAL__I__ZNK8Trayicon9classNameEv
+0x8122e7a 22 21 _ZL16cleanUp_Trayicon
+0x8122e90 44 43 _ZZN8Trayicon16staticMetaObjectEvE8slot_tbl
+0x8122ebc 42 41 _ZZN8Trayicon16staticMetaObjectEvE6slot_0
+0x8122ee6 42 41 _ZZN8Trayicon16staticMetaObjectEvE6slot_1
+0x8122f10 49 48 _ZZN8Trayicon16staticMetaObjectEvE12param_slot_0
+0x8122f41 49 48 _ZZN8Trayicon16staticMetaObjectEvE12param_slot_1
+0x8122f72 36 35 _GLOBAL__I__ZNK7Updater9classNameEv
+0x8122f96 21 20 _ZL15cleanUp_Updater
+0x8122fab 46 45 _ZZN7Updater16staticMetaObjectEvE10signal_tbl
+0x8122fd9 43 42 _ZZN7Updater16staticMetaObjectEvE8slot_tbl
+0x8123004 43 42 _ZZN7Updater16staticMetaObjectEvE8signal_0
+0x812302f 41 40 _ZZN7Updater16staticMetaObjectEvE6slot_0
+0x8123058 41 40 _ZZN7Updater16staticMetaObjectEvE6slot_1
+0x8123081 41 40 _ZZN7Updater16staticMetaObjectEvE6slot_2
+0x81230aa 41 40 _ZZN7Updater16staticMetaObjectEvE6slot_3
+0x81230d3 41 40 _ZZN7Updater16staticMetaObjectEvE6slot_4
+0x81230fc 50 49 _ZZN7Updater16staticMetaObjectEvE14param_signal_0
+0x812312e 48 47 _ZZN7Updater16staticMetaObjectEvE12param_slot_0
+0x812315e 48 47 _ZZN7Updater16staticMetaObjectEvE12param_slot_1
+0x812318e 48 47 _ZZN7Updater16staticMetaObjectEvE12param_slot_2
+0x81231be 48 47 _ZZN7Updater16staticMetaObjectEvE12param_slot_4
+0x8123243 25 24 __PRETTY_FUNCTION__.3923
+0x812325c 25 24 __PRETTY_FUNCTION__.3826
+0x8123275 25 24 __PRETTY_FUNCTION__.3803
+0x812328e 42 41 _ZZ10repeatDataPcilE19__PRETTY_FUNCTION__
+0x81232b8 59 58 _ZZN17CUserPatternDBMgr6loadDBEPKcbbE19__PRETTY_FUNCTION__
+0x81232f3 26 25 _ZL20g_RawPatternFileHead
+0x812330d 14 13 sha1_compress
+0x812331b 25 24 __PRETTY_FUNCTION__.3578
+0x8123334 25 24 __PRETTY_FUNCTION__.3831
+0x812334d 25 24 __PRETTY_FUNCTION__.3823
+0x8123366 25 24 __PRETTY_FUNCTION__.3793
+0x8123389 17 16 mpi_to_ltc_codes
+0x812339a 25 24 __PRETTY_FUNCTION__.4764
+0x81233b3 25 24 __PRETTY_FUNCTION__.4731
+0x81233cc 25 24 __PRETTY_FUNCTION__.4454
+0x81233e5 25 24 __PRETTY_FUNCTION__.4430
+0x81233fe 25 24 __PRETTY_FUNCTION__.4397
+0x8123417 25 24 __PRETTY_FUNCTION__.4465
+0x8123430 25 24 __PRETTY_FUNCTION__.4490
+0x8123449 25 24 __PRETTY_FUNCTION__.4807
+0x8123462 25 24 __PRETTY_FUNCTION__.4564
+0x812347b 25 24 __PRETTY_FUNCTION__.4860
+0x812356b 16 15 _ZL10gszUnkDisk
+0x81235aa 14 13 continue_mark
+0x81235b8 11 10 binarydata
+0x81235d5 11 10 free_mlist
+0x81235f1 19 18 apprentice_map_org
+0x8123608 20 19 apprentice_file_org
+0x8123638 13 12 formats.5925
+0x8123645 11 10 names.5926
+0x8123657 15 14 os_style_names
+0x8123666 11 10 dophn_core
+0x8123671 11 10 dophn_exec
+0x812368b 11 10 optyp.4948
+0x81236b4 15 14 mdebug.clone.0
+0x81236c8 33 32 looks_ascii_latin1_exten.clone.0
+0x81236e9 11 10 text_chars
+0x81236f4 16 15 ebcdic_to_ascii
+0x8123717 17 16 __init_array_end
+0x8123728 19 18 __init_array_start
+0x812373b 22 21 _GLOBAL_OFFSET_TABLE_
+0x8123751 9 8 _DYNAMIC
+0x812375a 12 11 IsSmallFile
+0x8123766 18 17 static_QUType_ptr
+0x8123778 17 16 iconv@@GLIBC_2.1
+0x8123799 39 38 _ZN10KAboutData9addAuthorEPKcS1_S1_S1_
+0x81237c0 35 34 _ZN7QWidget12setFixedSizeERK5QSize
+0x81237e3 36 35 _ZN7QWidget8reparentEPS_jRK6QPointb
+0x8123807 14 13 gszSetPatTime
+0x8123824 19 18 _ZN7QStringC1ERKS_
+0x8123840 15 14 gwszHardDiskID
+0x812384f 23 22 _ZN7Updater8initDataEv
+0x8123866 27 26 _ZN4Scan14deleteTrayiconEv
+0x8123881 16 15 _ZN7UpdaterD1Ev
+0x8123891 28 27 _ZN8Mainform4drawEPK6QImage
+0x81238ad 16 15 _Z10GetVersionv
+0x81238bd 38 37 _ZN7QWidget22windowActivationChangeEb
+0x81238e3 29 28 _Z20DispatchNameToChkAppiPKc
+0x8123908 15 14 rsa_Verifytest
+0x812391c 14 13 file_ascmagic
+0x812392a 24 23 _ZN11_tagLogFile4ReadEv
+0x8123942 48 47 _ZN18MCClassTempleArrayI9CCodeDataE9DeleteAllEv
+0x8123972 25 24 WriteDocumentInformation
+0x812398b 12 11 _ZTI6QGList
+0x8123997 24 23 _ZN7QWidget7setNameEPKc
+0x81239af 24 23 _ZN10MCIntArray4ReadEPc
+0x81239c7 12 11 file_printf
+0x81239d3 24 23 _ZN11QHBoxLayoutC1EiPKc
+0x81239f3 13 12 gpchFindText
+0x8123a00 14 13 EncryptBuffer
+0x8123a0e 13 12 magicfilesys
+0x8123a1b 16 15 rsa_verify_hash
+0x8123a32 18 17 rename@@GLIBC_2.0
+0x8123a44 18 17 statfs@@GLIBC_2.0
+0x8123a56 39 38 _ZN8Mainform11qt_propertyEiiP8QVariant
+0x8123a7d 29 28 __libc_start_main@@GLIBC_2.0
+0x8123a9a 43 42 _ZN11QMessageBox11qt_propertyEiiP8QVariant
+0x8123ac5 30 29 _ZN4KWin16readNamePropertyEmm
+0x8123ae3 15 14 _ZN6QGListD1Ev
+0x8123af2 32 31 _ZN7QObject16staticMetaObjectEv
+0x8123b12 30 29 _ZN6QFrame15setMidLineWidthEi
+0x8123b30 16 15 time@@GLIBC_2.0
+0x8123b40 21 20 _ZN7QPixmap6detachEv
+0x8123b5f 16 15 _ZN7QDialogD2Ev
+0x8123b6f 39 38 _ZN7QWidget10paintEventEP11QPaintEvent
+0x8123b96 35 34 _ZN12QPaintDevice13setResolutionEi
+0x8123bb9 37 36 _ZN11QMessageBox7qt_emitEiP8QUObject
+0x8123bde 45 44 _ZN7QWidget13dragMoveEventEP14QDragMoveEvent
+0x8123c0b 70 69 _ZN13CPatternDBMgr9loadArrayEPP18MCClassTempleArrayI9CCodeDataEPcPKcb
+0x8123c51 18 17 _ZN4Scan7metaObjE
+0x8123c63 31 30 _ZN7QWidget13setFocusProxyEPS_
+0x8123c82 21 20 _ZN11_tagLogHeadC2Ev
+0x8123c97 12 11 magic_check
+0x8123ca3 21 20 gszMsgDBEqualVersion
+0x8123cb8 38 37 _Z14IsExistProFilePKcP13_tagOrganFile
+0x8123cde 21 20 __udivdi3@@GLIBC_2.0
+0x8123cf3 26 25 _ZNK8Mainform9classNameEv
+0x8123d0d 28 27 _ZN18QMetaObjectCleanUpD1Ev
+0x8123d29 23 22 _ZN13CPatternDBMgrD1Ev
+0x8123d40 36 35 _ZN7QWidget9showEventEP10QShowEvent
+0x8123d64 16 15 ganPeriodBuffer
+0x8123d7d 55 54 _ZN8Trayicon18qt_static_propertyEP7QObjectiiP8QVariant
+0x8123db4 14 13 main_ftdetect
+0x8123dc2 46 45 _ZN7QWidget14setFocusPolicyENS_11FocusPolicyE
+0x8123df0 23 22 _ZN7QLayout8activateEv
+0x8123e07 17 16 srand@@GLIBC_2.0
+0x8123e18 27 26 __isoc99_sscanf@@GLIBC_2.7
+0x8123e33 23 22 _ZN9CCodeData4CopyEPS_
+0x8123e4a 26 25 _ZN13CPatternDBMgr4SaveEl
+0x8123e64 46 45 _ZN13CPatternDBMgr17AddRawPatternFileEPcPKcbi
+0x8123e92 32 31 _ZN7QDialog7qt_emitEiP8QUObject
+0x8123eb2 19 18 ganProfileIdentify
+0x8123ecf 18 17 WritePatternToUSB
+0x8123ee1 13 12 gszUsrHidden
+0x8123eee 14 13 _ZN5QFileC1Ev
+0x8123efc 31 30 _Z21added_device_callbackPcS_i
+0x8123f1b 41 40 _ZN11QMessageBox9showEventEP10QShowEvent
+0x8123f44 16 15 feof@@GLIBC_2.0
+0x8123f54 7 6 _start
+0x8123f5b 29 28 _ZN8CScanLog11GetFileNameEPc
+0x8123f78 11 10 gbAutoScan
+0x8123f83 51 50 _ZN7QDialog16contextMenuEventEP17QContextMenuEvent
+0x8123fbf 19 18 GetKeyInfoFromFile
+0x8123fd2 17 16 gszMsgDBNoUpdate
+0x8123fea 27 26 _ZN8Mainform10initializeEi
+0x8124005 11 10 g_nPostNum
+0x8124010 16 15 file_signextend
+0x8124020 35 34 _ZN11KSystemTray14getTrayPaletteEv
+0x8124043 24 23 _ZN7QWidget9setWStateEj
+0x8124062 15 14 gnPatternMonth
+0x8124071 15 14 _ZN6QImageC1Ev
+0x8124080 22 21 _ZN6CDBMgr6LoadDBEPKc
+0x8124096 20 19 _ZN7QWidget5closeEb
+0x81240aa 16 15 mp_exptmod_fast
+0x81240bf 19 18 scandir@@GLIBC_2.0
+0x81240d2 13 12 gszPriHidden
+0x81240df 12 11 _ZTS6QGList
+0x81240eb 25 24 _ZNK7frmTray9classNameEv
+0x8124104 25 24 __ctype_b_loc@@GLIBC_2.3
+0x812411d 14 13 _ZN5MyMsgD0Ev
+0x812412b 13 12 gnWidgetShow
+0x8124138 11 10 _ZTI5MyMsg
+0x812414b 17 16 abort@@GLIBC_2.0
+0x812415c 15 14 gszPubWMHidden
+0x812416b 24 23 _Z16isRunningProcessPKc
+0x8124183 18 17 _ZTI11QMessageBox
+0x8124195 24 23 fast_s_mp_mul_high_digs
+0x81241ad 17 16 _ZN5QFontC1ERKS_
+0x81241be 29 28 _ZN4Scan7qt_emitEiP8QUObject
+0x81241db 35 34 libhal_volume_is_mounted_read_only
+0x8124207 13 12 mp_exteuclid
+0x8124214 13 12 mp_reduce_2k
+0x8124221 14 13 _ZN5QHttpD1Ev
+0x812422f 19 18 _Z10repeatDataPcil
+0x8124242 48 47 _ZN17CUserPatternDBMgr18LoadDictByDecodingEPKcb
+0x8124272 24 23 ConvertFromSquareToLine
+0x812428a 17 16 mkdir@@GLIBC_2.0
+0x812429b 6 5 _fini
+0x81242a1 55 54 _ZN8Mainform18qt_static_propertyEP7QObjectiiP8QVariant
+0x81242d8 16 15 __libc_csu_fini
+0x81242e8 16 15 pipe@@GLIBC_2.0
+0x81242f8 13 12 gnCheckCount
+0x8124305 19 18 strncat@@GLIBC_2.0
+0x8124318 77 76 _ZN13CPatternDBMgr18getPackagePatternsEP18MCClassTempleArrayI9CCodeDataES3_l
+0x8124365 38 37 _ZN11KSystemTray9setPixmapERK7QPixmap
+0x812438b 15 14 file_pipe2file
+0x812439a 31 30 _ZN10QPopupMenuC1EP7QWidgetPKc
+0x81243b9 42 41 _ZN17CUserPatternDBMgr15SetPackageIDBitEl
+0x81243e3 24 23 ConvertFromLineToSquare
+0x81243fb 21 20 alphasort@@GLIBC_2.0
+0x8124410 70 69 _ZN13CPatternDBMgr9saveArrayEPP18MCClassTempleArrayI9CCodeDataEPcPKcl
+0x8124456 33 32 _ZN8Trayicon16staticMetaObjectEv
+0x8124481 32 31 _ZN11QMessageBoxC2EP7QWidgetPKc
+0x81244a1 36 35 _ZNK7QWidget11mapToGlobalERK6QPoint
+0x81244c5 16 15 _Z8qWarningPKcz
+0x81244d5 12 11 _ZTI6CDBMgr
+0x81244e1 11 10 bn_reverse
+0x81244ec 20 19 packet_store_header
+0x8124500 31 30 _ZN7QWidget14setMaximumSizeEii
+0x812451f 20 19 _ZNK6QGList5countEv
+0x8124533 23 22 _ZN4Scan6trUtf8EPKcS1_
+0x812454a 48 47 _ZN5MyMsg10MessageBoxEP7QWidgetRK7QStringS4_jii
+0x812457a 22 21 _ZN10MCIntArray3AddEl
+0x812459a 22 21 _Z13UpdatePatternPKcb
+0x81245b0 19 18 asctime@@GLIBC_2.0
+0x81245c3 28 27 _ZN4Scan15deletePopupMenuEv
+0x81245df 11 10 magic_load
+0x81245ea 24 23 _ZN7QWidget9setWFlagsEj
+0x8124602 59 58 _Z10DecodeFileP12_tagFileTypeP13_tagOrganFileP9_tagOrganPc
+0x812463d 43 42 _ZN17CUserPatternDBMgr14AddPatternFileEPKc
+0x8124672 16 15 gnModuleNameLen
+0x8124682 16 15 gszMsgScanStart
+0x8124692 13 12 _ZN4ScanC2Ev
+0x812469f 12 11 gszTempPath
+0x81246ab 11 10 file_mdump
+0x81246b6 13 12 dbus_bus_get
+0x81246c3 16 15 exit@@GLIBC_2.0
+0x81246d3 30 29 _ZN6QLabel8setMovieERK6QMovie
+0x81246f1 13 12 gszFOpenFail
+0x81246fe 36 35 _ZN5QHttp3getERK7QStringP9QIODevice
+0x8124722 19 18 _ZN7QDialog4hideEv
+0x8124735 33 32 _ZN8Mainform16staticMetaObjectEv
+0x8124756 31 30 _ZN14QPtrCollection7newItemEPv
+0x812477e 21 20 _ZN7KGlobal6localeEv
+0x8124793 39 38 _ZN12KApplication17addCmdLineOptionsEv
+0x81247ba 20 19 _ZN6CDBMgr3AddEPclb
+0x81247ce 24 23 _ZNK4Scan10metaObjectEv
+0x81247e6 24 23 _ZN7QObject7setNameEPKc
+0x81247fe 15 14 _ZTV9CDBInxMgr
+0x812480d 17 16 creat@@GLIBC_2.0
+0x812481e 14 13 gszSetPatYear
+0x812482c 18 17 _ZN7QStringC1EPKc
+0x812483e 17 16 _ZN8CScanLogD1Ev
+0x812484f 16 15 g_main_loop_new
+0x812485f 12 11 mp_dr_setup
+0x812486b 17 16 close@@GLIBC_2.0
+0x812487c 22 21 WriteOneDigitToBuffer
+0x8124892 34 33 _ZN7QWidget11styleChangeER6QStyle
+0x81248b4 26 25 pthread_create@@GLIBC_2.1
+0x81248ce 17 16 check_filesystem
+0x81248df 43 42 _ZN11KSystemTray11qt_propertyEiiP8QVariant
+0x812490a 31 30 _Z8vcd_readP14mp_vcd_priv_stPc
+0x8124929 23 22 __i686.get_pc_thunk.bx
+0x8124940 11 10 mp_exptmod
+0x8124954 14 13 _Z9init_datav
+0x8124962 29 28 __vsnprintf_chk@@GLIBC_2.3.4
+0x812497f 12 11 _Z4IsCDPcS_
+0x812498b 18 17 memcpy@@GLIBC_2.0
+0x812499d 45 44 _ZN13CPatternDBMgr22SetPackageID_AddedDataEv
+0x81249ca 21 20 _Z11ConvertTextPcPKc
+0x81249df 27 26 _ZN6QLabel12setAlignmentEi
+0x81249fa 23 22 _ZN12KApplicationC1Ebb
+0x8124a11 26 25 _Z19rt_full_scan_threadPv
+0x8124a2b 30 29 _ZNK11QMessageBox9classNameEv
+0x8124a49 33 32 _ZN8Mainform7qt_emitEiP8QUObject
+0x266e 19 18 memmove@@GLIBC_2.0
+0x2681 41 40 _ZN7frmTray11resizeEventEP12QResizeEvent
+0x26aa 89 88 _ZN17CUserPatternDBMgr10DeleteDataEP18MCClassTempleArrayI12CCodeDataInxEPS0_I9CCodeDataE
+0x2703 36 35 _ZN8Trayicon8setPopupEP10QPopupMenu
+0x2727 19 18 strncpy@@GLIBC_2.0
+0x273a 15 14 file_softmagic
+0x2749 12 11 _ZTS6CDBMgr
+0x2755 46 45 _ZN7QWidget17mouseReleaseEventEP11QMouseEvent
+0x2783 35 34 _ZN13CPatternDBMgr12SetPackageIDEl
+0x27a6 17 16 _Z8__wcscpyPtPKt
+0x27b7 52 51 _Z14GetProFileInfoPKcP11_tagProfileP13_tagOrganFile
+0x27eb 22 21 _ZN8Mainform7metaObjE
+0x2801 12 11 gnScanPause
+0x280d 27 26 _ZN17CUserPatternDBMgrC1Ev
+0x2828 27 26 _ZN6QFrame12frameChangedEv
+0x2843 20 19 _ZN6QLabel6setNumEd
+0x2857 35 34 _ZNK6QImage19createHeuristicMaskEb
+0x287a 14 13 _ZTS8Trayicon
+0x2888 16 15 _ZN7frmTrayD0Ev
+0x2898 19 18 realloc@@GLIBC_2.0
+0x28ab 39 38 _ZN7QObject10childEventEP11QChildEvent
+0x28d2 19 18 ReadPatternFromUSB
+0x28e5 15 14 _ZN6CDBMgrD0Ev
+0x28f4 35 34 _ZN8Trayicon9qt_invokeEiP8QUObject
+0x2917 27 26 _Z16CreateHiddenInfoPKciPc
+0x2932 13 12 file_showstr
+0x293f 32 31 _ZN7QObject7qt_emitEiP8QUObject
+0x295f 14 13 inflateInit2_
+0x296d 31 30 _ZN13CPatternDBMgr6LoadDBEPKcb
+0x298c 40 39 _ZN8Mainform10closeEventEP11QCloseEvent
+0x29b4 17 16 _ZN8CScanLogD2Ev
+0x29c5 25 24 gawFilterredSampleBuffer
+0x29de 23 22 _ZThn40_N8TrayiconD0Ev
+0x29f5 33 32 _ZN10QPopupMenu5popupERK6QPointi
+0x2a16 14 13 _ZTV8Trayicon
+0x2a2d 32 31 _ZN8CScanLog13SetHardDiskIDEPKt
+0x2a4d 16 15 _ZN7UpdaterD0Ev
+0x2a5d 27 26 _Z19GetPatternFromTrackiPc
+0x2a78 27 26 _ZN7Updater11startUpdateEv
+0x2a93 27 26 __fprintf_chk@@GLIBC_2.3.4
+0x2aae 17 16 fgets@@GLIBC_2.0
+0x2abf 23 22 _ZN6QFrame9setMarginEi
+0x2ad6 13 12 gszMsgNoRoot
+0x2ae3 13 12 __data_start
+0x2af0 39 38 _ZN13CPatternDBMgr14AddPatternFileEPKc
+0x2b17 20 19 release_disk_serial
+0x2b2b 31 30 _ZN9QListView13setSortColumnEi
+0x2b4a 32 31 _ZN10_tagOneLog11GetFileTypeEPc
+0x2b6a 18 17 access@@GLIBC_2.0
+0x2b7c 44 43 _ZN11QMessageBox10closeEventEP11QCloseEvent
+0x2ba8 16 15 _ZN7QPixmapC1Ev
+0x2bb8 40 39 _ZN11_tagLogHead5WriteEPKcP10_tagOneLog
+0x2be0 16 15 _Z10makeDaemonv
+0x2bf0 16 15 open@@GLIBC_2.0
+0x2c00 38 37 _ZN7QDialog11qt_propertyEiiP8QVariant
+0x2c2b 17 16 mp_karatsuba_mul
+0x2c3c 16 15 des_ecb_encrypt
+0x2c4c 14 13 rsa_sign_hash
+0x2c5a 18 17 strtok@@GLIBC_2.0
+0x2c6c 12 11 __bss_start
+0x2c78 39 38 _ZN7QWidget13keyPressEventEP9QKeyEvent
+0x2c9f 11 10 gnChannels
+0x2caa 34 33 dbus_connection_setup_with_g_main
+0x2ccc 13 12 _ZTI7QBitmap
+0x2cd9 46 45 _ZN11QMessageBox11resizeEventEP12QResizeEvent
+0x2d07 20 19 _Z14init_file_sizet
+0x2d1b 33 32 _ZN7QWidget9setCursorERK7QCursor
+0x2d3c 36 35 _ZN8Mainform10setToolTipERK7QString
+0x2d60 42 41 _ZN7QWidget18setBackgroundColorERK6QColor
+0x2d8a 18 17 usleep@@GLIBC_2.0
+0x2d9c 16 15 _Z7scandirPciPv
+0x2dac 15 14 gszMsgDBUpdate
+0x2dc4 22 21 mgl_put_audio_pcmdata
+0x2dda 14 13 _ZTV8Mainform
+0x2de8 18 17 unlink@@GLIBC_2.0
+0x2dfa 28 27 __stack_chk_fail@@GLIBC_2.4
+0x2e1d 27 26 _ZN7QWidget5eventEP6QEvent
+0x2e38 22 21 mp_prime_is_divisible
+0x2e4e 28 27 _ZN11_tagLogFile8GetLogAtEi
+0x2e6a 11 10 GetPattern
+0x2e75 22 21 iconv_open@@GLIBC_2.1
+0x2e8b 19 18 dlerror@@GLIBC_2.0
+0x2e9e 16 15 _ZN7frmTrayD2Ev
+0x2eae 26 25 _ZN7QWidget10updateMaskEv
+0x2ec8 11 10 file_reset
+0x2ed3 21 20 _ZN4Scan7qt_castEPKc
+0x2ee8 18 17 _ZN5QFile5closeEv
+0x2efa 21 20 _ZN7QDialog6acceptEv
+0x2f0f 21 20 mp_montgomery_reduce
+0x2f24 30 29 _ZN7QString14makeSharedNullEv
+0x2f56 34 33 _ZN7QObject7connectEPKS_PKcS1_S3_
+0x2f78 35 34 _ZN8QIconSetC1ERK7QPixmapNS_4SizeE
+0x2f9b 28 27 _Z21rt_device_scan_threadPv
+0x2fb7 31 30 __ctype_toupper_loc@@GLIBC_2.3
+0x2fd6 30 29 _ZN7QWidget14setAcceptDropsEb
+0x2ff4 32 31 _ZN7Updater7qt_emitEiP8QUObject
+0x3014 25 24 _ZN4Scan12initMainFormEv
+0x302d 52 51 _ZNK12QApplication9translateEPKcS1_S1_NS_8EncodingE
+0x306a 47 46 _ZN7QWidget14dragEnterEventEP15QDragEnterEvent
+0x3099 22 21 _Z16init_file_headert
+0x30af 16 15 gszOpenFileRoot
+0x30bf 17 16 ioctl@@GLIBC_2.0
+0x30e4 29 28 mp_prime_rabin_miller_trials
+0x3101 21 20 _ZNK7QString5asciiEv
+0x3116 20 19 ganAmplitudeBuffer2
+0x312a 39 38 _ZN7QObject10timerEventEP11QTimerEvent
+0x3151 13 12 gszPubHidden
+0x3173 28 27 _ZN10MCIntArray8InsertAtEll
+0x318f 14 13 _ZN5MyMsgC1Ev
+0x319d 103 102 _ZN11QMetaObject14new_metaobjectEPKcPS_PK9QMetaDataiS5_iPK13QMetaPropertyiPK9QMetaEnumiPK10QClassInfoi
+0x3204 25 24 libhal_free_string_array
+0x3227 26 25 _ZN10MCIntArray7ReverseEv
+0x324a 17 16 _Z10IsVideoDVDPc
+0x325b 24 23 _ZN8CScanLog8GetLogAtEi
+0x3286 15 14 gpsMpegPointer
+0x3295 22 21 _ZN7frmTray2trEPKcS1_
+0x32ab 18 17 _ZTI11KSystemTray
+0x32bd 19 18 AddKeyToFileHeader
+0x32d0 23 22 _ZN7QWidget8setFocusEv
+0x32e7 18 17 _ZN9CDBInxMgrD1Ev
+0x32f9 33 32 _ZN7QWidget16setSizeIncrementEii
+0x331a 21 20 GetHashValueFromFile
+0x3338 34 33 _ZN7QWidget11setGeometryERK5QRect
+0x335a 16 15 _ZN7UpdaterC1Ev
+0x336a 35 34 _ZN13CPatternDBMgr12GetPackageIDEv
+0x338d 16 15 fork@@GLIBC_2.0
+0x339d 20 19 _Z14get_file_countv
+0x33b1 20 19 __fxstat@@GLIBC_2.0
+0x33c5 25 24 _ZN8CScanLog9GetLogAllEv
+0x33de 16 15 AudioProcessing
+0x33ee 11 10 checkfiles
+0x33f9 17 16 ftell@@GLIBC_2.0
+0x340a 23 22 _Z13DiskFreeSpacePcS_i
+0x3421 18 17 sscanf@@GLIBC_2.0
+0x3433 13 12 file_badread
+0x3440 50 49 _ZTVN10__cxxabiv117__class_type_infoE@@CXXABI_1.3
+0x3472 20 19 _ZN4Scan8slotScanEv
+0x3486 19 18 gpsWordInformation
+0x3499 37 36 _ZN10QBoxLayout9addLayoutEP7QLayouti
+0x34be 21 20 get_free_fat_entries
+0x34d3 18 17 getuid@@GLIBC_2.0
+0x34e5 36 35 _ZN7Updater19slotRequestFinishedEib
+0x3511 40 39 libhal_ctx_set_device_property_modified
+0x3539 27 26 __strncpy_chk@@GLIBC_2.3.4
+0x3554 43 42 _ZN12KCmdLineArgs4initEiPPcPK10KAboutDatab
+0x357f 10 9 _ZTV4Scan
+0x3589 33 32 _ZN6QFrame11styleChangeER6QStyle
+0x35aa 14 13 gszModuleName
+0x35c5 24 23 pthread_join@@GLIBC_2.0
+0x35dd 12 11 mp_toom_mul
+0x35e9 18 17 fwrite@@GLIBC_2.0
+0x35fb 5 4 _end
+0x3609 12 11 __prime_tab
+0x3615 13 12 _ZTV7QBitmap
+0x3622 27 26 _ZN8Trayicon6trUtf8EPKcS1_
+0x363d 19 18 mbrtowc@@GLIBC_2.0
+0x3650 31 30 _ZN7QWidget7setIconERK7QPixmap
+0x366f 20 19 gachCharacterBuffer
+0x3683 15 14 __gmon_start__
+0x3699 13 12 mp_dr_reduce
+0x36a6 14 13 gszMenuUpdate
+0x36b4 13 12 _ZTS7frmTray
+0x36c1 21 20 localtime@@GLIBC_2.0
+0x36d6 25 24 ganProfileOfficeIdentify
+0x36ef 17 16 LowPassFiltering
+0x3700 12 11 file_tryelf
+0x370c 28 27 _ZN10KWinModuleC1EP7QObject
+0x3728 13 12 _ZTI7frmTray
+0x3735 31 30 __ctype_tolower_loc@@GLIBC_2.3
+0x3754 41 40 _ZN7QWidget13setSizePolicyE11QSizePolicy
+0x377d 71 70 _ZN17QValueListPrivateI7QStringE6insertE18QValueListIteratorIS0_ERKS0_
+0x37c4 12 11 magic_close
+0x37d0 20 19 asprintf@@GLIBC_2.0
+0x37e4 21 20 _Z14setProtectFileii
+0x37f9 16 15 _ZN7QBitmapD0Ev
+0x3809 19 18 mkstemp@@GLIBC_2.0
+0x381c 13 12 EncryptByDES
+0x3829 21 20 _ZN11KSystemTrayD2Ev
+0x383e 16 15 mmap@@GLIBC_2.0
+0x384e 33 32 mp_montgomery_calc_normalization
+0x386f 18 17 write_new_Pattren
+0x3881 18 17 _Z12writeSettingv
+0x3893 22 21 _ZN7Updater7getFileEv
+0x38a9 31 30 _ZN7QWidget7setMaskERK7QRegion
+0x38c8 33 32 _Z10my_bsearchPKvS0_llPFlS0_S0_E
+0x38e9 44 43 _ZN10KAboutDataC1EPKcS1_S1_S1_iS1_S1_S1_S1_
+0x3915 29 28 _ZN7frmTrayC2EP7QWidgetPKcbj
+0x3932 32 31 _ZNK11QMessageBox10metaObjectEv
+0x3952 15 14 file_getbuffer
+0x3961 18 17 strtod@@GLIBC_2.0
+0x3973 38 37 _ZN9QSettings10writeEntryERK7QStringi
+0x3999 18 17 dlopen@@GLIBC_2.1
+0x39ab 14 13 gnFindLenText
+0x39b9 44 43 _ZN18MCClassTempleArrayI12CCodeDataInxED1Ev
+0x39e5 31 30 _ZN4Scan9qt_invokeEiP8QUObject
+0x3a04 16 15 dbus_error_init
+0x3a14 33 32 _ZN7QWidget10leaveEventEP6QEvent
+0x3a35 61 60 _ZN17CUserPatternDBMgr18getPackagePatternsEP13CPatternDBMgrl
+0x3a72 11 10 magic_open
+0x3a7d 26 25 _ZN10_tagOneLog3AddEPKtcc
+0x3a97 24 23 _ZN7QObject7qt_castEPKc
+0x3aaf 37 36 _ZN7QWidget12imStartEventEP8QIMEvent
+0x3ad4 19 18 _ZN7QWidget4hideEv
+0x3ae7 17 16 _ZN8CScanLogC1Ev
+0x3af8 21 20 _ZN7QDialog6rejectEv
+0x3b0d 31 30 _ZN7QWidget8x11EventEP7_XEvent
+0x3b2c 21 20 _ZN7frmTray7metaObjE
+0x3b41 28 27 _ZNK8Trayicon10metaObjectEv
+0x3b67 16 15 garSampleBuffer
+0x3b77 17 16 _Z8read_vcdjjPvi
+0x3b88 54 53 _ZN7frmTray18qt_static_propertyEP7QObjectiiP8QVariant
+0x3bbe 13 12 _ZN4ScanD2Ev
+0x3bcb 33 32 _ZN7frmTray17ResizeColumnWidthEv
+0x3bec 18 17 strlen@@GLIBC_2.0
+0x3bfe 13 12 gszMsgDBFail
+0x3c0b 19 18 _ZN8CScanLogC2EPKt
+0x3c1e 14 13 gszPathRecent
+0x3c41 20 19 gszMsgDBFileNoExist
+0x3c55 24 23 _ZN4Scan11windowAddedEm
+0x3c6d 12 11 _Z7sigtermi
+0x3c79 18 17 strstr@@GLIBC_2.0
+0x3c93 12 11 gnFindCount
+0x3c9f 13 12 _ZTI7QPixmap
+0x3cac 31 30 _ZN11QMessageBox10adjustSizeEv
+0x3ccb 17 16 chdir@@GLIBC_2.0
+0x3cdc 19 18 _ZN4Scan2trEPKcS1_
+0x3cef 44 43 _ZN8Mainform14mouseMoveEventEP11QMouseEvent
+0x3d1b 20 19 _ZN10KAboutDataD1Ev
+0x3d2f 15 14 mp_clear_multi
+0x3d3e 44 43 _ZN13CPatternDBMgr18LoadDictByDecodingEPKcb
+0x3d6a 14 13 _ZN5QFileD1Ev
+0x3d78 22 21 static_QUType_QString
+0x3d8e 25 24 libhal_volume_is_mounted
+0x3da7 29 28 _ZN7Updater13slotHttpabortEv
+0x3dc4 18 17 HasKnownExtension
+0x3dd6 17 16 _Z10IsCDDevicePc
+0x3de7 26 25 _Z8my_qsortPvllPFlPKvS1_E
+0x3e01 44 43 _ZN8Mainform11eventFilterEP7QObjectP6QEvent
+0x3e2d 43 42 _ZN5MyMsg7warningEP7QWidgetRK7QStringS4_ii
+0x3e58 63 62 _Z15OpenFileProcessP12_tagFileTypeP13_tagOrganFileP9_tagOrgani
+0x3e97 13 12 gszSetPatDay
+0x3ea4 24 23 _ZNK8Trayicon7toolTipEv
+0x3ebc 15 14 _ZN6QImageD1Ev
+0x3ecb 24 23 _ZN7frmTray7qt_castEPKc
+0x3ee3 13 12 sha1_process
+0x3ef0 20 19 ganSampleRateBuffer
+0x3f04 50 49 _ZN7QWidget21mouseDoubleClickEventEP11QMouseEvent
+0x3f3f 28 27 _ZN8TrayiconC1EP7QWidgetPKc
+0x3f5b 44 43 _ZN7QWidget17setMicroFocusHintEiiiibP5QFont
+0x3f87 24 23 _ZN14QDesktopWidgetC1Ev
+0x3f9f 29 28 _ZN8Mainform12initPositionEv
+0x3fbc 36 35 _ZN7QWidget10setPaletteERK8QPalette
+0x3fe0 34 33 _ZN7frmTray9qt_invokeEiP8QUObject
+0x4002 29 28 _Z21GetOriginalFileLengthPKc
+0x401f 18 17 execvp@@GLIBC_2.0
+0x4031 28 27 _Z7scandirPKcP11QStringList
+0x4056 40 39 _ZN11KSystemTray10setCaptionERK7QString
+0x407e 32 31 _ZN7Updater16staticMetaObjectEv
+0x409e 40 39 _ZN18MCClassTempleArrayI9CCodeDataED1Ev
+0x40c6 27 26 _ZNK7QWidget10sizePolicyEv
+0x40e1 26 25 __memcpy_chk@@GLIBC_2.3.4
+0x40fb 12 11 g_strDetect
+0x4107 17 16 ReleaseAudioData
+0x4118 26 25 mgl_agp_put_audio_pcmdata
+0x4132 16 15 mp_reduce_is_2k
+0x414c 28 27 _ZN6QLabel13setAutoResizeEb
+0x4168 27 26 _ZN13CPatternDBMgr5CloseEv
+0x4183 24 23 _ZN7QObject9killTimerEi
+0x419b 24 23 _Z13Utf8ToUnicodePtPKhi
+0x41b3 31 30 _ZNK6QImage15createAlphaMaskEi
+0x41db 27 26 _ZN7QWidget11unsetCursorEv
+0x41f6 40 39 _ZN7QObject11setPropertyEPKcRK8QVariant
+0x421e 44 43 _ZN5MyMsg8criticalEP7QWidgetRK7QStringS4_ii
+0x424a 22 21 _ZN8Trayicon7metaObjE
+0x4260 20 19 _ZdlPv@@GLIBCXX_3.4
+0x4274 37 36 _ZN11KSystemTray16staticMetaObjectEv
+0x4299 14 13 gszHardDiskID
+0x42a7 40 39 _ZN11KSystemTray11revertImageERK6QImage
+0x42cf 29 28 libhal_volume_disc_has_audio
+0x42ec 11 10 gnHostPort
+0x42f7 23 22 _ZN8Trayicon2trEPKcS1_
+0x430e 26 25 _ZN7Updater6trUtf8EPKcS1_
+0x4328 15 14 g_nVolumeCheck
+0x4337 16 15 get_disk_serial
+0x4347 34 33 libhal_device_get_property_string
+0x4369 36 35 _Z21GetOriginalFileLengthP8_IO_FILE
+0x438d 36 35 _ZNK12QPaintDevice7fontInfEP5QFonti
+0x43b1 15 14 gnSampleNumber
+0x43c0 39 38 _ZN17CUserPatternDBMgr12SetPackageIDEl
+0x43e7 71 70 _Z21GetProFileInfo_InFileP12_tagFileTypeP13_tagOrganFileP11_tagProfile
+0x442e 52 51 _ZN13CPatternDBMgr24ExtractRecentPatternFileEPKcS1_
+0x4462 34 33 _ZN11QVBoxLayoutC1EP7QWidgetiiPKc
+0x448c 84 83 _ZN17CUserPatternDBMgr10DeleteDataEP18MCClassTempleArrayI12CCodeDataInxEP9CCodeData
+0x44e0 21 20 _ZN11_tagLogFileD1Ev
+0x44f5 33 32 _Z14set_MSF_OFFSETP10MSF_OFFSETj
+0x4516 17 16 mp_karatsuba_sqr
+0x4527 31 30 _ZN7QObject13connectNotifyEPKc
+0x4546 14 13 mp_count_bits
+0x4554 34 33 _ZN7QObject9qt_invokeEiP8QUObject
+0x4576 16 15 _ZN7QPixmapD2Ev
+0x4586 13 12 _ZTV7Updater
+0x4593 28 27 _ZN4Scan15slotInformationEv
+0x45af 21 20 _ZN7QObjectC2EPS_PKc
+0x45c4 14 13 _ZTI8Mainform
+0x45d2 16 15 _Z10getMakeDayv
+0x45e2 19 18 _ZN7QWidget4showEv
+0x45f5 27 26 _ZN17CUserPatternDBMgrD2Ev
+0x4610 11 10 m_cntTrack
+0x461b 21 20 _ZN11_tagLogFileC1Ev
+0x4630 39 38 _ZN8Trayicon11qt_propertyEiiP8QVariant
+0x4657 45 44 _ZN13CPatternDBMgr20SearchPatternFileAPIEPKc
+0x4684 20 19 strftime@@GLIBC_2.0
+0x4698 15 14 _ZN6CDBMgrC1Ev
+0x46a7 24 23 _ZN7Updater7qt_castEPKc
+0x46bf 16 15 _ZN7UpdaterD2Ev
+0x46cf 39 38 _ZN7QWidget10wheelEventEP11QWheelEvent
+0x46f6 20 19 _Z7ScanLogPcPtccS0_
+0x470a 34 33 _ZN7QWidget18focusNextPrevChildEb
+0x472c 16 15 sqrt@@GLIBC_2.0
+0x4745 52 51 _ZN18MCClassTempleArrayI12CCodeDataInxE9DeleteAllEv
+0x4779 20 19 libhal_ctx_shutdown
+0x478d 16 15 _ZN7QBitmapC1Ev
+0x47a5 15 14 magic_setflags
+0x47b4 19 18 _Znwj@@GLIBCXX_3.4
+0x47d1 22 21 _ZThn40_N7frmTrayD0Ev
+0x47e7 25 24 _ZN4Scan12initTrayiconEv
+0x4800 29 28 _ZN7QObject11removeChildEPS_
+0x481d 28 27 _ZN8TrayiconC2EP7QWidgetPKc
+0x4839 20 19 _ZN10_tagOneLogD2Ev
+0x484d 43 42 _ZN7frmTray14mouseMoveEventEP11QMouseEvent
+0x4878 22 21 _ZN7QWidget6resizeEii
+0x488e 33 32 __gxx_personality_v0@@CXXABI_1.3
+0x48af 18 17 munmap@@GLIBC_2.0
+0x48c1 26 25 fast_mp_montgomery_reduce
+0x48db 30 29 _ZN8Trayicon13updateToolTipEv
+0x48f9 30 29 _ZN6QLabel7setTextERK7QString
+0x4917 34 33 _ZN7frmTray14AppendFilenameEPcS0_
+0x4939 54 53 _ZN7Updater18qt_static_propertyEP7QObjectiiP8QVariant
+0x496f 15 14 dup@@GLIBC_2.0
+0x497e 29 28 _ZN11KSystemTray7qt_castEPKc
+0x499b 24 23 WriteEncryptInformation
+0x49b3 34 33 _Z15FreeProfileInfoP11_tagProfile
+0x49d5 42 41 _ZN9QSettings12readNumEntryERK7QStringiPb
+0x49ff 7 6 _edata
+0x4a06 18 17 gmtime@@GLIBC_2.0
+0x4a18 32 31 libhal_device_get_property_type
+0x4a47 23 22 iconv_close@@GLIBC_2.1
+0x4a5e 36 35 _ZN7QWidget9dropEventEP10QDropEvent
+0x4a82 17 16 fputc@@GLIBC_2.0
+0x4a93 19 18 dlclose@@GLIBC_2.0
+0x4aae 20 19 _ZN4Scan8AutoScanEv
+0x4ac2 15 14 _ZTS9CDBInxMgr
+0x4ad1 23 22 _ZThn40_N8MainformD0Ev
+0x4ae8 25 24 _ZN8Trayicon7qt_castEPKc
+0x4b01 16 15 _ZN7QObjectD2Ev
+0x4b11 13 12 gnScanThread
+0x4b1e 24 23 ReadDocumentInformation
+0x4b36 28 27 _ZN6QLabel7setFontERK5QFont
+0x4b52 22 21 _ZN12QKeySequenceD1Ev
+0x4b68 35 34 _ZN7QWidget10imEndEventEP8QIMEvent
+0x4b8b 36 35 _ZN13CPatternDBMgr9GetOSFileEPcPKcl
+0x4baf 20 19 setpwent@@GLIBC_2.0
+0x4bc3 46 45 _ZN9QSettings7setPathERK7QStringS2_NS_5ScopeE
+0x4bf1 54 53 _ZN7QPixmap16convertFromImageERK6QImageNS_9ColorModeE
+0x4c27 12 11 gszHostFile
+0x4c33 20 19 UnloadIMGLFunctions
+0x4c47 23 22 _ZN8Mainform2trEPKcS1_
+0x4c5e 25 24 __assert_fail@@GLIBC_2.0
+0x4c77 30 29 _ZN8Mainform13updateToolTipEv
+0x4c95 25 24 NormalizeWordInformation
+0x4cae 23 22 ReadEncryptInformation
+0x4cc5 17 16 mp_to_signed_bin
+0x4cd6 19 18 strtoul@@GLIBC_2.0
+0x4ce9 22 21 _ZNK7QWidget6metricEi
+0x4cff 31 30 _ZN7QWidget15setActiveWindowEv
+0x4d1e 19 18 static_QUType_bool
+0x4d31 14 13 gszExtensions
+0x4d3f 26 25 _ZNK7QObject8propertyEPKc
+0x4d5f 51 50 _ZN11KSystemTray17mouseReleaseEventEP11QMouseEvent
+0x4d92 27 26 _ZN4Scan14slotDownFinishEb
+0x4dad 13 12 _ZN4ScanC1Ev
+0x4dba 27 26 _ZNK7Updater10metaObjectEv
+0x4dd5 29 28 _ZN7frmTrayC1EP7QWidgetPKcbj
+0x4df2 16 15 FileInfoDecrypt
+0x4e02 28 27 _ZN7Updater12sig_downloadEb
+0x4e1e 16 15 GetImageFromDCT
+0x4e2e 17 16 _Z9shortpathPcS_
+0x4e3f 14 13 file_delmagic
+0x4e4d 22 21 _Z13InsertSrcNamePcS_
+0x4e63 17 16 _ZN8MainformC2Ev
+0x4e74 21 20 garCosineValueBuffer
+0x4e89 20 19 _ZN6QLabel6setNumEi
+0x4e9d 14 13 gszUpdateFile
+0x4eab 25 24 _ZNK7Updater9classNameEv
+0x4ec4 11 10 mgl_handle
+0x4ecf 22 21 dbus_connection_unref
+0x4ee5 13 12 _ZTI7QObject
+0x4ef2 24 23 _Unwind_Resume@@GCC_3.0
+0x4f0a 22 21 _ZN12QKeySequenceC1Ei
+0x4f20 33 32 _ZN7QWidget17setKeyCompressionEb
+0x4f41 12 11 g_nHookFlag
+0x4f4d 18 17 strcmp@@GLIBC_2.0
+0x4f5f 16 15 _ZN7QPixmapD1Ev
+0x4f6f 20 19 _Jv_RegisterClasses
+0x4f83 12 11 file_zmagic
+0x4f8f 13 12 RSA_Encoding
+0x4f9c 36 35 _ZN7QWidget9hideEventEP10QHideEvent
+0x4fc0 24 23 _ZN11_tagLogFile4FreeEv
+0x4fd8 35 34 _Z13CopyProStructP11_tagProfileS0_
+0x4ffb 18 17 _ZN6CDBMgr4SaveEv
+0x500d 55 54 _ZN18QMetaObjectCleanUp13setMetaObjectERP11QMetaObject
+0x5044 31 30 _ZN10MCIntArray11AllocBufferEl
+0x5063 19 18 _ZN8CScanLogC1EPKt
+0x5076 37 36 _ZN13CPatternDBMgr12loadHeadOnlyEPKc
+0x509b 30 29 _ZN7frmTray14languageChangeEv
+0x50c3 20 19 _ZN7QDialog4moveEii
+0x50d7 23 22 libhal_get_all_devices
+0x50ee 68 67 _ZN13CPatternDBMgr10DeleteDataEP18MCClassTempleArrayI9CCodeDataES3_
+0x5132 7 6 _fp_hw
+0x5139 19 18 GetWordInformation
+0x514c 16 15 rand@@GLIBC_2.0
+0x515c 18 17 memcmp@@GLIBC_2.0
+0x516e 18 17 _ZN9CDBInxMgrC2Ev
+0x5180 26 25 _ZN7QWidget10showNormalEv
+0x519a 29 28 _ZN7QWidget13enabledChangeEb
+0x51b7 56 55 _ZN17CUserPatternDBMgr24ExtractRecentPatternFileEPKcS1_
+0x51f8 28 27 FreeWatermarkingInformation
+0x5214 34 33 _ZN7QDialog11setGeometryERK5QRect
+0x5236 29 28 _ZN4Scan16staticMetaObjectEv
+0x5253 23 22 _ZThn40_N8TrayiconD1Ev
+0x526a 28 27 _Z18IsExistProFileInfoPKcPi
+0x5286 18 17 memset@@GLIBC_2.0
+0x5298 18 17 _ZN7QString4nullE
+0x52aa 24 23 _ZNK7QDialog8sizeHintEv
+0x52c2 30 29 _Z19M_CompWithCCodeDataPKvS0_
+0x52e0 12 11 magic_error
+0x52ec 25 24 _ZN9QSettings8endGroupEv
+0x5305 14 13 s_mp_mul_digs
+0x5313 18 17 _ZeqRK7QStringPKc
+0x5325 78 77 _ZN17CUserPatternDBMgr9saveArrayEPP18MCClassTempleArrayI12CCodeDataInxEPcPKcb
+0x5373 39 38 _ZN7Updater10timerEventEP11QTimerEvent
+0x539a 18 17 static_QUType_int
+0x53ac 26 25 _ZN7frmTray6trUtf8EPKcS1_
+0x53c6 18 17 getenv@@GLIBC_2.0
+0x53d8 17 16 _Z8__wcscatPtPKt
+0x53e9 41 40 _ZN11KSystemTray9showEventEP10QShowEvent
+0x541c 11 10 igl_handle
+0x5427 19 18 gszOSLinuxFileName
+0x543a 28 27 _ZN10MCIntArray9RemoveAllEv
+0x5456 35 34 _ZNK6QGList5writeER11QDataStreamPv
+0x5479 8 7 _strupr
+0x5481 50 49 _ZN12QPaintDevice3cmdEiP8QPainterP13QPDevCmdParam
+0x54b3 13 12 mp_init_copy
+0x54c0 45 44 _Z24FileDecodeProcess_OfficePcS_P9_tagOrgani
+0x54ed 37 36 _ZN7QWidget13setEraseColorERK6QColor
+0x5512 21 20 mp_unsigned_bin_size
+0x5527 16 15 _ZN7UpdaterC2Ev
+0x5537 26 25 __isoc99_scanf@@GLIBC_2.7
+0x5551 16 15 _ZN7QStringD1Ev
+0x5561 26 25 _ZN4Scan13initPopupMenuEv
+0x5584 40 39 _ZNK12QPaintDevice7fontMetEP5QFontiPKci
+0x55ac 25 24 _ZN10MCIntArray5WriteEPc
+0x55c5 16 15 mp_reduce_setup
+0x55d5 44 43 _ZN5MyMsg8questionEP7QWidgetRK7QStringS4_ii
+0x5601 19 18 _ZN7QDialog4doneEi
+0x5614 26 25 _ZN10_tagOneLog5WriteEPKc
+0x562e 33 32 libhal_device_property_watch_all
+0x564f 21 20 _ZN7Updater7metaObjE
+0x5664 18 17 strchr@@GLIBC_2.0
+0x5676 39 38 _ZN11QMessageBox9qt_invokeEiP8QUObject
+0x569d 30 29 _ZNK9QListView11columnWidthEi
+0x56bb 13 12 gszSetInsert
+0x56c8 49 48 _Z13VerifyProFileP12_tagFileTypeP13_tagOrganFile
+0x5702 31 30 _ZN7frmTray15btnScan_clickedEv
+0x572a 27 26 gpsWatermarkingInformation
+0x5745 14 13 gszMsgTooltip
+0x5753 20 19 ganAmplitudeBuffer1
+0x5767 12 11 gszMenuScan
+0x5773 39 38 _ZN7frmTray13keyPressEventEP9QKeyEvent
+0x579a 19 18 _ZN7QDialog4showEv
+0x57ad 32 31 _ZN11QPushButtonC1EP7QWidgetPKc
+0x57cd 12 11 rsa_exptmod
+0x57d9 28 27 _ZN8CScanLog11SetFileTimeEv
+0x57f5 47 46 _ZN8Mainform17mouseReleaseEventEP11QMouseEvent
+0x5824 29 28 _ZN7QWidget13showMinimizedEv
+0x5841 60 59 _Z11RestoreFileP12_tagFileTypeP13_tagOrganFileP9_tagOrganPc
+0x587d 28 27 __errno_location@@GLIBC_2.0
+0x5899 26 25 _ZN7QString8fromUtf8EPKci
+0x58ba 41 40 _ZN7QDialog11resizeEventEP12QResizeEvent
+0x58e3 27 26 _ZN6QLabelC1EP7QWidgetPKcj
+0x58fe 46 45 _ZN11KSystemTray16highlightedImageERK7QPixmap
+0x5936 10 9 _ZTS4Scan
+0x5940 35 34 _ZN12QPaintDevice13drawPrintableEv
+0x5963 27 26 _ZNK7frmTray10metaObjectEv
+0x597e 26 25 _ZN7QObject10startTimerEi
+0x5998 16 15 des_ecb_decrypt
+0x59a8 40 39 _ZN8Mainform13KeyPressEventEP9QKeyEvent
+0x59d0 63 62 _ZN5MyMsgC2ERK7QStringS2_N11QMessageBox4IconEiiiP7QWidgetPKcbj
+0x5a0f 23 22 PrivateImageProcessing
+0x5a26 15 14 _Z8__wcslenPKt
+0x5a35 24 23 _Z13UnicodeToUtf8PcPKti
+0x5a4d 21 20 arAmplitudeThreshold
+0x5a62 8 7 _strlwr
+0x5a6a 35 34 _ZN12QApplication13processEventsEv
+0x5a8d 30 29 _ZN6QLabel8setBuddyEP7QWidget
+0x5aab 18 17 stderr@@GLIBC_2.0
+0x5abd 34 33 _ZN7KLocale16setMainCatalogueEPKc
+0x5adf 54 53 _ZN12QPaintDevice10setX11DataEPK19QPaintDeviceX11Data
+0x5b15 39 38 _ZN11KSystemTray9qt_invokeEiP8QUObject
+0x5b3c 17 16 _ZN8TrayiconD0Ev
+0x5b4d 17 16 fread@@GLIBC_2.0
+0x5b5e 37 36 _ZN11KSystemTray7qt_emitEiP8QUObject
+0x5b83 17 16 popen@@GLIBC_2.1
+0x5b94 19 18 libhal_volume_free
+0x5ba7 44 43 _ZN11QMessageBox13keyPressEventEP9QKeyEvent
+0x5bd3 16 15 __libc_csu_init
+0x5be3 15 14 _ZN6CDBMgrC2Ev
+0x5bf2 16 15 igl_put_rgbdata
+0x5c02 20 19 _ZThn40_N5MyMsgD1Ev
+0x5c16 51 50 _ZN7QWidget16contextMenuEventEP17QContextMenuEvent
+0x5c49 33 32 _ZN7QWidget10enterEventEP6QEvent
+0x5c6a 18 17 strcat@@GLIBC_2.0
+0x5c7c 33 32 _ZN7QWidget10fontChangeERK5QFont
+0x5c9d 34 33 _ZN7Updater9qt_invokeEiP8QUObject
+0x5cbf 31 30 _ZNK6QLabel15minimumSizeHintEv
+0x5cde 27 26 _ZN4Scan14deleteMainFormEv
+0x5cf9 14 13 prpsoffsets64
+0x5d07 26 25 __strcat_chk@@GLIBC_2.3.4
+0x5d21 20 19 _ZN10_tagOneLogD1Ev
+0x5d3e 38 37 _ZN13CPatternDBMgr15GetPackageIDBitEl
+0x5d64 40 39 _ZN13CPatternDBMgr12AddRawOSFileEPcPKcl
+0x5d8c 35 34 _ZN11KSystemTray12virtual_hookEiPv
+0x5daf 30 29 _ZN7QWidget11setGeometryEiiii
+0x5dcd 15 14 gszOpenDlgUser
+0x5ddc 69 68 _ZN13CPatternDBMgr10DeleteDataEP18MCClassTempleArrayI9CCodeDataEPS1_
+0x5e21 22 21 _Z15rt_opprc_threadPv
+0x5e37 21 20 _ZN11QStringListD1Ev
+0x5e4c 53 52 _ZN13CPatternDBMgr20subSearchPatternFileEP8_IO_FILEb
+0x5e81 14 13 _ZTS8Mainform
+0x5e9f 18 17 _ZN9QSettingsD1Ev
+0x5eb1 18 17 strtol@@GLIBC_2.0
+0x5ec3 15 14 gszConstSerial
+0x5ed2 22 21 WriteAudioInformation
+0x5ee8 24 23 _ZN10MCIntArray3AddEPS_
+0x5f00 15 14 SetBlockBuffer
+0x5f0f 16 15 igl_get_rgbdata
+0x5f1f 15 14 gszSetPatMonth
+0x5f2e 24 23 _ZNK8Mainform7toolTipEv
+0x5f46 28 27 _ZNK12QPaintDevice6handleEv
+0x5f62 12 11 _ZTV6QGList
+0x5f6e 19 18 waitpid@@GLIBC_2.0
+0x5f81 27 26 _ZN17CUserPatternDBMgrD1Ev
+0x5f9c 19 18 __xstat@@GLIBC_2.0
+0x5fb9 16 15 DESEncodeBuffer
+0x5fc9 11 10 _ZTS5MyMsg
+0x5fd4 28 27 _ZThn40_NK7QWidget6metricEi
+0x5ff0 19 18 _ZN7QDialog4execEv
+0x6003 18 17 remove@@GLIBC_2.0
+0x6015 33 32 _ZN6QImage12loadFromDataEPKhjPKc
+0x6036 28 27 _ZN8CScanLog11GetLogTodayEv
+0x6052 47 46 _ZN7QWidget14dragLeaveEventEP15QDragLeaveEvent
+0x6081 26 25 __strcpy_chk@@GLIBC_2.3.4
+0x609b 17 16 _ZN8MainformD0Ev
+0x60ac 31 30 _ZNK7QWidget14heightForWidthEi
+0x60cb 19 18 write_pattern_data
+0x60de 18 17 gnSampleRateIndex
+0x60f0 13 12 gtUpdateTime
+0x6104 20 19 SetWatermarkingData
+0x6118 17 16 _ZN8MainformC1Ev
+0x6129 15 14 _Z9IsVideoCDPc
+0x6138 13 12 _Z6ScanCDPci
+0x6145 17 16 mp_dr_is_modulus
+0x6156 26 25 __cxa_atexit@@GLIBC_2.1.3
+0x6170 16 15 free@@GLIBC_2.0
+0x6180 32 31 _ZN7frmTray16staticMetaObjectEv
+0x61a0 79 78 _ZN9QMenuData10insertItemERK8QIconSetRK7QStringPK7QObjectPKcRK12QKeySequenceii
+0x61ef 23 22 _ZNK6QLabel8sizeHintEv
+0x6206 37 36 _ZN11_tagLogFile5WriteEP10_tagOneLog
+0x6232 21 20 _ZN4Scan9ScanCloseEv
+0x6247 13 12 gnPatternDay
+0x6254 17 16 _ZN5QFile4openEi
+0x6265 6 5 _init
+0x626b 23 22 _Z15MakePatternFilePKc
+0x6282 24 23 _ZN10_tagOneLogC2EPKtcc
+0x629a 19 18 s_mp_mul_high_digs
+0x62ad 25 24 _Z16ConvertMountPathPcS_
+0x62c6 30 29 libhal_volume_get_device_file
+0x62e4 18 17 _Z6memstrPKvjS0_j
+0x62f6 40 39 _ZN6QLabel11resizeEventEP12QResizeEvent
+0x631e 13 12 _ZTS7QBitmap
+0x632b 36 35 _ZN17CUserPatternDBMgr6loadDBEPKcbb
+0x634f 20 19 _ZNK5QFont6familyEv
+0x6363 22 21 _ZThn40_N7frmTrayD1Ev
+0x6379 18 17 _ZN9CDBInxMgrD0Ev
+0x638b 20 19 endpwent@@GLIBC_2.0
+0x639f 23 22 _Z15OpenFileProcessPKc
+0x63b6 53 52 _ZTVN10__cxxabiv120__si_class_type_infoE@@CXXABI_1.3
+0x63eb 25 24 _Z17DeleteUnknownFilePKc
+0x6404 19 18 _Z13dump_VideoDVDv
+0x6417 24 23 _ZN7QDialog7qt_castEPKc
+0x642f 18 17 calloc@@GLIBC_2.0
+0x6441 31 30 _ZN7QPixmap7setMaskERK7QBitmap
+0x646a 66 65 _ZN13CPatternDBMgr8RemoveAtEP18MCClassTempleArrayI9CCodeDataEPS1_
+0x64ac 15 14 fast_mp_invmod
+0x64bb 17 16 _ZN8MainformD1Ev
+0x64cc 16 15 GetDCTFromImage
+0x64dc 29 28 _ZN7QWidget13showMaximizedEv
+0x64f9 32 31 _ZN7frmTray7qt_emitEiP8QUObject
+0x6522 27 26 libhal_volume_is_partition
+0x6546 38 37 _ZN11KSystemTray10enterEventEP6QEvent
+0x656c 42 41 _ZNK6QImage11smoothScaleEiiNS_9ScaleModeE
+0x6596 29 28 _ZN7QDialogC2EP7QWidgetPKcbj
+0x65b3 17 16 _ZN8CScanLogC2Ev
+0x65c4 17 16 clock@@GLIBC_2.0
+0x65d5 12 11 gPatternMgr
+0x65e1 17 16 rmdir@@GLIBC_2.0
+0x65f2 19 18 strrchr@@GLIBC_2.0
+0x6605 10 9 _ZTI4Scan
+0x660f 32 31 _ZN8CScanLog15GetLogFileCountEv
+0x662f 30 29 _ZNK6QLabel14heightForWidthEi
+0x664d 58 57 _Z17EncodeBufferWritePKcP11_tagProfilePPhP13_tagOrganFile
+0x6687 16 15 dup2@@GLIBC_2.0
+0x6697 17 16 _ZN8QIconSetD1Ev
+0x66a8 29 28 _ZN5QFile7setNameERK7QString
+0x66c5 12 11 gszWMDecode
+0x66d1 44 43 _ZN10QValueListI7QStringE14detachInternalEv
+0x6707 21 20 _Z7RTS_LogPKcS0_S0_i
+0x671c 16 15 g_main_loop_run
+0x672c 21 20 _ZTI14QPtrCollection
+0x6741 28 27 _ZN7frmTray12SetFindCountEm
+0x675d 18 17 utimes@@GLIBC_2.0
+0x676f 38 37 _ZN13CPatternDBMgr15SetPackageIDBitEl
+0x6795 14 13 gnPatternYear
+0x67a3 24 23 _Z18detect_device_mainv
+0x67bb 20 19 packet_valid_header
+0x67cf 31 30 libhal_ctx_set_dbus_connection
+0x67ee 39 38 _ZN17CUserPatternDBMgr12GetPackageIDEv
+0x6815 11 10 file_oomem
+0x6820 12 11 XInternAtom
+0x682c 16 15 read@@GLIBC_2.0
+0x683c 32 31 _ZN7QDialog16staticMetaObjectEv
+0x685c 23 22 _ZN13CPatternDBMgrD2Ev
+0x6877 17 16 ctime@@GLIBC_2.0
+0x6888 32 31 _ZN7QWidget16setMouseTrackingEb
+0x68a8 24 23 _ZNK9QListView6headerEv
+0x68c0 18 17 pclose@@GLIBC_2.1
+0x68d2 27 26 _ZN8CScanLog7ScanLogEPKtcc
+0x68ed 18 17 fclose@@GLIBC_2.1
+0x68ff 21 20 static_QUType_varptr
+0x6914 25 24 _ZN12QApplication4execEv
+0x692d 21 20 _ZN11_tagLogHeadC1Ev
+0x6942 12 11 file_header
+0x694e 22 21 mgl_get_audio_pcmdata
+0x6964 13 12 _Z8open_vcdv
+0x6971 16 15 file_apprentice
+0x6981 28 27 _Z19scan_selectedfolderPcPv
+0x699d 98 97 _ZN17CUserPatternDBMgr18getPackagePatternsEP18MCClassTempleArrayI9CCodeDataEPS0_I12CCodeDataInxEl
+0x69ff 16 15 _ZN7QBitmapD1Ev
+0x6a0f 22 21 WriteImageInformation
+0x6a25 9 8 _stricmp
+0x6a2e 42 41 _ZN7QWidget13focusOutEventEP11QFocusEvent
+0x6a58 39 38 _ZN7QWidget10closeEventEP11QCloseEvent
+0x6a7f 30 29 _ZN7QWidget14setFixedHeightEi
+0x6a9d 29 28 _ZN5QHttp15closeConnectionEv
+0x6aba 13 12 _ZTI7Updater
+0x6ac7 36 35 _ZN11QMessageBox7setIconERK7QPixmap
+0x6aeb 13 12 gszMsgReboot
+0x6af8 29 28 _Z17RemoveProfileInfoPKcS0_b
+0x6b15 35 34 _ZN7QWidget10setCaptionERK7QString
+0x6b38 41 40 _ZN7QWidget15keyReleaseEventEP9QKeyEvent
+0x6b61 41 40 _ZN17CUserPatternDBMgr12loadHeadOnlyEPKc
+0x6b8a 11 10 magic_file
+0x6b95 29 28 _ZN11QMessageBox7qt_castEPKc
+0x6bb2 18 17 strcpy@@GLIBC_2.0
+0x6bc4 13 12 _ZN4ScanD0Ev
+0x6bdb 11 10 mp_cmp_mag
+0x6be6 15 14 _Z7IsCDRomPcS_
+0x6bf5 30 29 _Z21WriteHiddenEncodeFilePKci
+0x6c13 31 30 _ZN7frmTray15btnStop_clickedEv
+0x6c32 20 19 mp_montgomery_setup
+0x6c46 28 27 _ZN7frmTray12SetTestCountEm
+0x6c62 16 15 dbus_error_free
+0x6c72 23 22 _ZN13CPatternDBMgrC2Ev
+0x6c89 39 38 _ZN7QWidget14imComposeEventEP8QIMEvent
+0x6cb0 37 36 _ZN7QObject11eventFilterEPS_P6QEvent
+0x6cd5 27 26 _ZN7QWidget11setAutoMaskEb
+0x6cf0 19 18 _ZN6QGList5clearEv
+0x6d03 21 20 _ZN11QMessageBoxD2Ev
+0x6d18 19 18 gszRealTimeCaption
+0x6d2b 19 18 mp_to_unsigned_bin
+0x6d3e 17 16 _Z11is_root_dirv
+0x6d4f 26 25 _ZN7Updater10deleteDataEv
+0x6d69 11 10 gbASCMagic
+0x6d74 15 14 _ZN6CDBMgrD2Ev
+0x6d83 17 16 dlsym@@GLIBC_2.0
+0x6d94 16 15 gszOpenFileUser
+0x6da4 28 27 __vfprintf_chk@@GLIBC_2.3.4
+0x6dc0 21 20 _ZN11_tagLogFileD2Ev
+0x6dd5 14 13 _Z9close_vcdv
+0x6de3 31 30 _Z25create_device_scan_threadv
+0x6e02 21 20 _Z13rwusb_patternPKc
+0x6e17 12 11 _ZTV6CDBMgr
+0x6e23 26 25 _ZN7QString11shared_nullE
+0x6e3d 27 26 _ZN8Mainform6trUtf8EPKcS1_
+0x6e58 29 28 _Z23create_full_scan_threadv
+0x6e75 55 54 _Z14ProduceProfilePKcS0_PKtP9_tagOrganP13_tagOrganFile
+0x6eac 37 36 _ZN8QToolTip3addEP7QWidgetRK7QString
+0x6ed1 31 30 _ZN6QGList12compareItemsEPvS0_
+0x6ef0 32 31 _ZN7Updater16slotStateChangedEi
+0x6f10 37 36 _ZN9QSettings10beginGroupERK7QString
+0x6f35 31 30 __cxa_pure_virtual@@CXXABI_1.3
+0x6f54 28 27 libhal_ctx_set_device_added
+0x6f70 17 16 FileInfoAddToKey
+0x6f81 15 14 garAlphaBuffer
+0x6f90 36 35 _ZN7QWidget11setIconTextERK7QString
+0x6fb4 31 30 _Z23remove_removable_devicePKc
+0x6fd3 14 13 mgl_agp_close
+0x6fe1 44 43 _ZN11QMessageBox13setButtonTextEiRK7QString
+0x700d 62 61 _Z21ProduceProfile_InFilePKcPcPKtP9_tagOrganP13_tagOrganFilei
+0x704b 33 32 _Z22M_CompWithCCodeDataInxPKvS0_
+0x706c 19 18 _ZN7frmTray4scanEv
+0x707f 38 37 _ZN7QObject11qt_propertyEiiP8QVariant
+0x70a5 14 13 rsa_signdepad
+0x70b3 49 48 _ZN13CPatternDBMgr17SearchPatternFileEP8_IO_FILE
+0x70e4 11 10 gszWarnnig
+0x70ef 11 10 gszMsgInfo
+0x70fa 15 14 gszOpenDlgRoot
+0x7109 16 15 gszDictFileName
+0x7119 14 13 _Z9IsCheckedv
+0x712e 54 53 _Z16EncodeBufferReadP11_tagProfilePhlP13_tagOrganFile
+0x716d 35 34 _ZN8Mainform9qt_invokeEiP8QUObject
+0x7190 17 16 mpi_to_ltc_error
+0x71a1 15 14 gszTempDirAuth
+0x71b0 20 19 __xmknod@@GLIBC_2.0
+0x71c4 35 34 _ZN6QLabel10setPictureERK8QPicture
+0x71e7 33 32 _ZNK12QPaintDevice10resolutionEv
+0x7208 22 21 _ZN12KApplicationD1Ev
+0x721e 13 12 mgl_agp_open
+0x722b 31 30 _ZN11QStringData10deleteSelfEv
+0x724a 37 36 _ZN7QObject20activate_signal_boolEib
+0x726f 18 17 signal@@GLIBC_2.0
+0x7281 12 11 rsa_signpad
+0x728d 17 16 fopen@@GLIBC_2.1
+0x729e 22 21 garWatermarkingBuffer
+0x72b4 15 14 gszProductDate
+0x72c3 15 14 _ZTI9CDBInxMgr
+0x72d2 28 27 libhal_volume_disc_is_blank
+0x72ee 15 14 gszPathPattern
+0x72fd 20 19 getpwuid@@GLIBC_2.0
+0x7311 18 17 system@@GLIBC_2.0
+0x7323 62 61 _ZN12QButtonGroupC1EiN2Qt11OrientationERK7QStringP7QWidgetPKc
+0x7369 23 22 _ZN4Scan10slotUpdateEv
+0x7380 22 21 libhal_volume_is_disc
+0x7396 36 35 _ZN8Mainform8setPopupEP10QPopupMenu
+0x73ba 32 31 _ZN6QFrame9drawFrameEP8QPainter
+0x73da 18 17 _Z12vcd_read_toci
+0x73ec 22 21 _ZN7frmTray7SetStopEv
+0x7402 26 25 _ZN7QWidget10adjustSizeEv
+0x741c 16 15 _Z10AddPatternv
+0x742c 19 18 toupper@@GLIBC_2.0
+0x743f 18 17 malloc@@GLIBC_2.0
+0x7451 48 47 _ZN18QMetaObjectCleanUpC1EPKcPFP11QMetaObjectvE
+0x7481 39 38 _ZN7QWidget14setErasePixmapERK7QPixmap
+0x74a8 36 35 _ZN13QListViewItemC1EP9QListViewPS_
+0x74cc 18 17 getcwd@@GLIBC_2.0
+0x74de 13 12 __DTOR_END__
+0x74eb 27 26 _ZN7QObject5eventEP6QEvent
+0x7506 53 52 _ZN17CUserPatternDBMgr17SearchPatternFileEP8_IO_FILE
+0x753b 12 11 gnTotalByte
+0x7547 38 37 _ZN6QFrame10paintEventEP11QPaintEvent
+0x756d 28 27 garWatermarkingSignalBuffer
+0x758f 34 33 mgl_agp_set_audio_samples_per_get
+0x75b1 41 40 _ZN11KSystemTray11revertImageERK7QPixmap
+0x75da 18 17 InsertBlockBuffer
+0x75ec 12 11 mp_toom_sqr
+0x75f8 18 17 HighPassFiltering
+0x760a 11 10 data_start
+0x7615 23 22 _ZN8CScanLog6SetLogEPc
+0x762c 20 19 basename@@GLIBC_2.0
+0x7640 80 79 _ZN17CUserPatternDBMgr7addDataEP18MCClassTempleArrayI12CCodeDataInxEP9CCodeData
+0x7690 17 16 _ZN8TrayiconD2Ev
+0x76a1 32 31 _ZN10QPopupMenu4execERK6QPointi
+0x76c1 22 21 _Z14StringGeneratemPc
+0x76d7 14 13 mp_init_multi
+0x76e5 13 12 file_fsmagic
+0x76f2 19 18 _Z13get_file_sizet
+0x7705 13 12 gszSetUpTime
+0x7712 38 37 _ZN13CPatternDBMgr13SaveAddedDataEPKc
+0x7738 11 10 IsAuthType
+0x7743 33 32 _Z14SystemFileCopyR11QStringList
+0x7764 13 12 SetAudioData
+0x7771 14 13 _ZN5MyMsgD1Ev
+0x777f 11 10 rsa_import
+0x778a 27 26 _ZN17CUserPatternDBMgrC2Ev
+0x77a5 15 14 gauchPCMBuffer
+0x77b4 19 18 gszMsgDBOldVersion
+0x77c7 13 12 gszUsrRecent
+0x77d4 38 37 _ZNK12QPaintDevice15x11RenderHandleEv
+0x77fa 22 21 _ZN7QDialog6resizeEii
+0x7810 23 22 _Z13ReallocMemoryPPvll
+0x7831 24 23 _ZN10_tagOneLogC1EPKtcc
+0x7849 19 18 gszMsgFolderSelect
+0x785c 13 12 __dso_handle
+0x7869 45 44 _ZN17CUserPatternDBMgr15subSearchBinaryEPcib
+0x7896 30 29 _ZN5QHttp7setHostERK7QStringt
+0x78b4 25 24 _Z10getFileLenP8_IO_FILE
+0x78cd 29 28 _ZN7QObject11insertChildEPS_
+0x78ea 36 35 _ZN8Trayicon10setToolTipERK7QString
+0x790e 21 20 _ZN11_tagLogFileC2Ev
+0x7923 26 25 _ZN11_tagLogHead4ReadEPKc
+0x793d 18 17 strdup@@GLIBC_2.0
+0x794f 26 25 _ZNK8Trayicon9classNameEv
+0x7969 26 25 _Z20GetPatternUpdateTimev
+0x798b 28 27 _Z12IsSystemFilePKcPA260_S_
+0x79a7 18 17 stdout@@GLIBC_2.0
+0x79b9 22 21 mp_prime_miller_rabin
+0x79cf 26 25 __memset_chk@@GLIBC_2.3.4
+0x79e9 14 13 prpsoffsets32
+0x79f7 36 35 _ZN6QLabel12drawContentsEP8QPainter
+0x7a1b 18 17 dbus_error_is_set
+0x7a2d 51 50 _ZN8Mainform21mouseDoubleClickEventEP11QMouseEvent
+0x7a60 26 25 __printf_chk@@GLIBC_2.3.4
+0x7a7a 27 26 _ZN6QFrame12setLineWidthEi
+0x7a95 13 12 gszUsrSubpat
+0x7aa2 19 18 _ZN7QStringaSERKS_
+0x7ab5 15 14 _ZN6CDBMgrD1Ev
+0x7ac4 19 18 read_fat32_entries
+0x7ad7 23 22 libhal_volume_from_udi
+0x7aee 33 32 _ZN10_tagOneLog12GetMediaTypeEPc
+0x7b0f 11 10 _Z3getjPKc
+0x7b1a 20 19 _ZN7QWidget4moveEii
+0x7b2e 41 40 _ZN7QWidget11tabletEventEP12QTabletEvent
+0x7b61 14 13 _ZN5MyMsgC2Ev
+0x7b6f 21 20 ReadImageInformation
+0x7b84 32 31 libhal_device_get_property_bool
+0x7ba4 31 30 _ZN7QObject15activate_signalEi
+0x7bc3 13 12 RSA_Decoding
+0x7bd0 23 22 __fread_chk@@GLIBC_2.7
+0x7be7 14 13 gszUpdateMark
+0x7bfd 17 16 lseek@@GLIBC_2.0
+0x7c0e 14 13 FreeMemoryDES
+0x7c1c 32 31 _ZN11KSystemTrayC2EP7QWidgetPKc
+0x7c4f 13 12 gszKSMServer
+0x7c5c 18 17 gszSelectedFolder
+0x7c6e 30 29 _ZN8MainformC2EP7QWidgetPKcbj
+0x7c8c 29 28 _ZN7QString10fromLatin1EPKci
+0x7ca9 14 13 _ZN5MyMsgD2Ev
+0x7cc1 18 17 mktime@@GLIBC_2.0
+0x7cd3 28 27 _ZN6QFrame13setFrameStyleEi
+0x7cef 31 30 _ZN8Mainform14showSystemMenuEv
+0x7d0e 20 19 closedir@@GLIBC_2.0
+0x7d22 28 27 _ZN7QDialog6resizeERK5QSize
+0x7d3e 32 31 _ZNK7QWidget15customWhatsThisEv
+0x7d5e 38 37 _ZN9CDBInxMgr6SearchEPlPclbP8_IO_FILE
+0x7d84 17 16 sleep@@GLIBC_2.0
+0x7d95 17 16 _ZN8TrayiconD1Ev
+0x7da6 31 30 _ZN7QWidget7setMaskERK7QBitmap
+0x7dc5 15 14 update_Pattren
+0x7dd4 19 18 mp_reduce_2k_setup
+0x7de7 31 30 _ZN10_tagOneLog11GetCheckSumEv
+0x7e06 13 12 file_magwarn
+0x7e13 21 20 _ZN7QWidget6polishEv
+0x7e28 15 14 libhal_ctx_new
+0x7e37 17 16 write@@GLIBC_2.0
+0x7e52 23 22 ReadOneDigitFromBuffer
+0x7e69 22 21 _ZN6CDBMgr6SearchEPcl
+0x7e7f 12 11 gaszHostIPs
+0x7e8b 13 12 magic_buffer
+0x7e98 30 29 _ZN17CUserPatternDBMgr4SaveEb
+0x7eb6 14 13 _ZN5QFontD1Ev
+0x7ec4 32 31 _ZN6QLabel10fontChangeERK5QFont
+0x7ee4 16 15 libhal_ctx_free
+0x7ef4 18 17 read_pattern_data
+0x7f06 13 12 _ZTS7Updater
+0x7f13 34 33 _ZN7QObject16disconnectNotifyEPKc
+0x7f35 13 12 rsa_Signtest
+0x7f42 30 29 _ZN9QListViewC1EP7QWidgetPKcj
+0x7f60 34 33 _ZN6QFrame12setFrameRectERK5QRect
+0x7f82 53 52 _ZN7QWidget17setBackgroundModeEN2Qt14BackgroundModeE
+0x7fb7 40 39 _Z17vcd_seek_to_trackP14mp_vcd_priv_sti
+0x7fdf 19 18 opendir@@GLIBC_2.0
+0x7ff2 16 15 _ZN7frmTrayD1Ev
+0x8002 13 12 _ZN4ScanD1Ev
+0x800f 21 20 _Z13GetProcessCntPKc
+0x8024 45 44 _ZN8Trayicon15mousePressEventEP11QMouseEvent
+0x8051 17 16 _ZN8MainformD2Ev
+0x8062 38 37 _ZN7Updater11qt_propertyEiiP8QVariant
+0x8088 19 18 readdir@@GLIBC_2.0
+0x80a3 63 62 _ZN5MyMsgC1ERK7QStringS2_N11QMessageBox4IconEiiiP7QWidgetPKcbj
+0x80e2 41 40 _ZN7QObject11customEventEP12QCustomEvent
+0x8115 18 17 _Z12release_datav
+0x8127 20 19 _Z13InsertSrcNamePc
+0x813b 38 37 _ZN10QBoxLayout9addWidgetEP7QWidgetii
+0x8161 44 43 _ZN7QWidget15mousePressEventEP11QMouseEvent
+0x818d 12 11 file_buffer
+0x8199 32 31 _ZN7frmTray16btnPause_clickedEv
+0x81b9 37 36 _ZN7Updater20slotDataReadProgressEii
+0x81de 28 27 _Z11GetKeyIndexP9_tagOrganl
+0x81fa 41 40 _ZN7QWidget12focusInEventEP11QFocusEvent
+0x8223 37 36 _ZN11QMessageBox16staticMetaObjectEv
+0x8248 22 21 _ZN7Updater2trEPKcS1_
+0x825e 24 23 _Z11DecodeArrayP6CDBMgr
+0x8276 28 27 _ZNK8Mainform10metaObjectEv
+0x8292 15 14 gszAutheDevice
+0x82a1 41 40 _ZN7QObject16checkConnectArgsEPKcPKS_S1_
+0x82ca 42 41 _ZN17CUserPatternDBMgr15GetPackageIDBitEl
+0x82f4 20 19 readlink@@GLIBC_2.0
+0x8308 43 42 _ZN7QDialog11eventFilterEP7QObjectP6QEvent
+0x8333 18 17 _ZN9CDBInxMgrC1Ev
+0x8345 35 34 _ZN8CScanLog7ScanLogEP10_tagOneLog
+0x8372 12 11 magic_errno
+0x837e 19 18 fast_s_mp_mul_digs
+0x8398 18 17 _Z12CheckVideoCDv
+0x83aa 20 19 _ZThn40_N5MyMsgD0Ev
+0x83be 24 23 get_pattren_fat_entries
+0x83d6 30 29 _ZN8Mainform13doubleClickedEv
+0x83f4 59 58 _ZN11QMessageBoxC2ERK7QStringS2_NS_4IconEiiiP7QWidgetPKcbj
+0x842f 18 17 _ZN9CDBInxMgrD2Ev
+0x8441 39 38 _ZN7QDialog13keyPressEventEP9QKeyEvent
+0x8483 44 43 _ZN13CPatternDBMgr18getPackagePatternsEPS_l
+0x84b6 13 12 _ZTI7QDialog
+0x84c3 21 20 _Z14IsVideoDVDScanPc
+0x84d8 14 13 _ZN5QHttpC1Ev
+0x84e6 21 20 _Z14rt_scan_threadPv
+0x84fb 85 84 _ZN17CUserPatternDBMgr7addDataEP18MCClassTempleArrayI12CCodeDataInxEPS0_I9CCodeDataE
+0x8550 30 29 _ZN8QToolTip6removeEP7QWidget
+0x856e 49 48 _ZN6CDBMgr3AddEP18MCClassTempleArrayI9CCodeDataE
+0x859f 21 20 mp_read_unsigned_bin
+0x85b4 26 25 _ZN5QFontC1ERK7QStringiib
+0x85ce 13 12 s_mp_exptmod
+0x85db 55 54 _ZN11KSystemTray22contextMenuAboutToShowEP10KPopupMenu
+0x8612 34 33 _ZN6QGList4readER11QDataStreamRPv
+0x8634 19 18 strncmp@@GLIBC_2.0
+0x8653 20 19 __strdup@@GLIBC_2.0
+0x8667 14 13 _Z8IsSysDirPc
+0x8675 20 19 __lxstat@@GLIBC_2.0
+0x8689 18 17 _Z12dump_VideoCDv
+0x869b 17 16 _Z11readSettingv
+0x86ac 19 18 DocumentProcessing
+0x86bf 19 18 ganFrequencyBuffer
+0x86d2 18 17 LoadIMGLFunctions
+0x86ec 23 22 ReleaseWordInformation
+0x8703 11 10 mp_cnt_lsb
+0x870e 16 15 gszUpdateDaeMon
+0x871e 20 19 write_fat32_entries
+0x8732 11 10 g_oDESData
+0x873d 11 10 inflateEnd
+0x8748 31 30 _ZN7QWidget14setMinimumSizeEii
+0x8767 15 14 _IO_stdin_used
+0x8776 18 17 fflush@@GLIBC_2.0
+0x8788 19 18 g_nDesDataInitFlag
+0x879b 23 22 _ZN7QWidget6createEmbb
+0x87b2 31 30 _ZN17CUserPatternDBMgr5CloseEv
+0x87d1 15 14 _ZN6QGListD0Ev
+0x87e0 17 16 utime@@GLIBC_2.0
+0x87f1 14 13 magic_compile
+0x87ff 23 22 _ZN13CPatternDBMgrC1Ev
+0x8816 49 48 _ZN7QWidget25setPaletteBackgroundColorERK6QColor
+0x8847 17 16 gnFindLenTextMin
+0x8858 17 16 _Z11qt_xdisplayv
+0x8869 43 42 _ZN7QWidget14mouseMoveEventEP11QMouseEvent
+0x8894 23 22 _ZN7QWidget7destroyEbb
+0x88b2 44 43 _ZN7QWidget19setBackgroundPixmapERK7QPixmap
+0x88de 14 13 gnSampleBytes
+0x88ec 22 21 _ZNK7QPixmap6metricEi
+0x8902 34 33 _ZN7QDialog9qt_invokeEiP8QUObject
+0x8924 18 17 _Z10DecodeDataPhl
+0x8936 18 17 perror@@GLIBC_2.0
+0x8948 39 38 _ZN7frmTray10closeEventEP11QCloseEvent
+0x8974 56 55 _ZN7QWidget19setBackgroundOriginENS_16BackgroundOriginE
+0x89ac 26 25 _ZN7QWidget10setEnabledEb
+0x89c6 39 38 _ZN7QWidget13paletteChangeERK8QPalette
+0x89ed 51 50 _ZN4Scan18qt_static_propertyEP7QObjectiiP8QVariant
+0x8a20 26 25 mgl_agp_get_audio_pcmdata
+0x8a3a 22 21 __read_chk@@GLIBC_2.4
+0x8a50 36 35 _ZN7QWidget9moveEventEP10QMoveEvent
+0x8a74 27 26 __sprintf_chk@@GLIBC_2.3.4
+0x8a8f 19 18 libhal_free_string
+0x8aa2 26 25 _ZN4Scan13windowRemovedEm
+0x8abc 30 29 _ZN7QDialog11setGeometryEiiii
+0x8ada 28 27 __snprintf_chk@@GLIBC_2.3.4
+0x8af6 13 12 _ZTV7frmTray
+0x8b03 17 16 fseek@@GLIBC_2.0
+0x8b14 29 28 _ZN7QWidget7setFontERK5QFont
+0x8b31 21 20 ReadAudioInformation
+0x8b46 19 18 write_pattern_info
+0x8b63 14 13 _ZTI8Trayicon
+0x8b71 23 22 _ZThn40_N8MainformD1Ev
+0x8b88 13 12 file_badseek
+0x8b95 40 39 _Z17vcd_get_track_endP14mp_vcd_priv_sti
+0x8bbd 49 48 _ZN17CUserPatternDBMgr20SearchPatternFileAPIEPKc
+0x8bee 57 56 _ZN17CUserPatternDBMgr20subSearchPatternFileEP8_IO_FILEb
+0x8c27 25 24 _ZN8Mainform7qt_castEPKc
+0x8c40 11 10 _ZTV5MyMsg
+0x8c4b 23 22 _ZN7QWidget8setShownEb
+0x8c62 51 50 _ZN7QWidget26setPaletteBackgroundPixmapERK7QPixmap
+0x8c95 13 12 file_fmttime
+0x8ca2 13 12 gnSampleRate
+0x8caf 11 10 file_error
+0x8cba 32 31 _ZNK7QDialog15minimumSizeHintEv
+0x8cda 28 27 _ZN11_tagLogFile7GetDateEPc
+0x8cf6 22 21 _ZNK4Scan9classNameEv
+0x8d0c 20 19 strerror@@GLIBC_2.0
+0x8d20 16 15 ImageProcessing
+0x8d30 17 16 _Z11IsTrueCDRomi
+0x8d41 16 15 libhal_ctx_init
+0x8d51 35 34 _ZN4Scan11qt_propertyEiiP8QVariant
+0x8d74 24 23 _ZN7QBitmapaSERK6QImage
+0x8d8c 16 15 error_to_string
+0x8d9c 13 12 mp_init_size
+0x8da9 30 29 _ZN8MainformC1EP7QWidgetPKcbj
+0x8dc7 18 17 _ZN9QSettingsC1Ev
+0x8dd9 28 27 _ZN8Trayicon4drawEPK6QImage
+0x8df5 48 47 _ZN7QPixmap12loadFromDataEPKhjPKcNS_9ColorModeE
+0x8e25 36 35 _ZN4Scan10timerEventEP11QTimerEvent
+0x8e49 12 11 gszMenuInfo
+0x8e55 48 47 _ZN5MyMsg11informationEP7QWidgetRK7QStringS4_ii
+0x8e85 14 13 FreeMemoryRSA
+0x8e93 20 19 _ZN8QPaletteC1ERKS_
+0x8ea7 14 13 fast_s_mp_sqr
+0x8eb5 33 32 _ZN8Trayicon7qt_emitEiP8QUObject
+0x8ed6 13 12 gszPubDecode
+0x8ee3 27 26 _ZN7frmTray10SetFileNowEPc
+0x8efe 23 22 Document2007Processing
+0x8f15 15 14 gaSampleBuffer
+0x8f24 28 27 _ZN10MCIntArray8RemoveAtEll
+0x8f40 40 39 _Z18vcd_get_trackCountP14mp_vcd_priv_st
+0x8f78 17 16 HiddenEncodeFile
+0x8f89 33 32 _ZN7QWidget17setUpdatesEnabledEb
+0x8faa 48 47 _ZN17CUserPatternDBMgr19SearchBinaryPatternEPci
+0x8fda 38 37 _ZN7frmTray11qt_propertyEiiP8QVariant
+0x9000 28 27 _ZN7Updater12slotHttpdoneEb

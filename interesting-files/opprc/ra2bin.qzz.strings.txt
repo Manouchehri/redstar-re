@@ -1,0 +1,4891 @@
+0x8048028 10 4 4 \b(
+0x8048134 19 18 /lib/ld-linux.so.2
+0x804820a 7 6 \rkoQ[~
+0x804823a 6 5 r[xIk
+0x8048e1d 14 13 libqt-mt.so.3
+0x8048e2b 20 19 _Jv_RegisterClasses
+0x8048e3f 15 14 __gmon_start__
+0x8048e4e 6 5 _init
+0x8048e54 19 18 _ZN6QGList5clearEv
+0x8048e67 6 5 _fini
+0x8048e6d 42 41 _ZN9QSettings12readNumEntryERK7QStringiPb
+0x8048e97 12 11 _ZTV6QGList
+0x8048ea3 35 34 _ZNK6QGList5writeER11QDataStreamPv
+0x8048ec6 20 19 _ZNK6QGList5countEv
+0x8048eda 25 24 _ZN9QSettings8endGroupEv
+0x8048ef3 15 14 _ZN6QGListD0Ev
+0x8048f02 31 30 _ZN14QPtrCollection7newItemEPv
+0x8048f21 15 14 _ZN6QGListD1Ev
+0x8048f30 31 30 _ZN6QGList12compareItemsEPvS0_
+0x8048f4f 12 11 _ZTS6QGList
+0x8048f5b 34 33 _ZN6QGList4readER11QDataStreamRPv
+0x8048f7d 31 30 _ZN11QStringData10deleteSelfEv
+0x8048f9c 37 36 _ZN9QSettings10beginGroupERK7QString
+0x8048fc1 18 17 _ZN7QStringC1EPKc
+0x8048fd3 18 17 _ZN9QSettingsC1Ev
+0x8048fe5 46 45 _ZN9QSettings7setPathERK7QStringS2_NS_5ScopeE
+0x8049013 38 37 _ZN9QSettings10writeEntryERK7QStringi
+0x8049039 18 17 _ZN9QSettingsD1Ev
+0x804904b 21 20 _ZTI14QPtrCollection
+0x8049060 26 25 _ZN7QString11shared_nullE
+0x804907a 12 11 _ZTI6QGList
+0x8049086 16 15 _ZN7QStringD1Ev
+0x8049096 13 12 libXext.so.6
+0x80490a3 12 11 libX11.so.6
+0x80490af 16 15 libpthread.so.0
+0x80490bf 21 20 pthread_mutex_unlock
+0x80490d4 13 12 pthread_join
+0x80490e1 15 14 pthread_create
+0x80490f0 6 5 pause
+0x80490f6 17 16 __errno_location
+0x8049107 5 4 fork
+0x804910c 6 5 lseek
+0x8049112 8 7 waitpid
+0x804911a 19 18 pthread_mutex_lock
+0x804912d 7 6 system
+0x8049134 16 15 libdvdread.so.3
+0x8049144 8 7 DVDOpen
+0x804914c 9 8 DVDClose
+0x8049155 8 7 ifoOpen
+0x804915d 15 14 libstdc++.so.6
+0x804916c 6 5 _Znwj
+0x8049172 41 40 _ZTVN10__cxxabiv120__si_class_type_infoE
+0x804919b 6 5 _Znaj
+0x80491a1 19 18 __cxa_pure_virtual
+0x80491b4 7 6 _ZdlPv
+0x80491bb 21 20 __gxx_personality_v0
+0x80491d0 38 37 _ZTVN10__cxxabiv117__class_type_infoE
+0x80491f6 10 9 libm.so.6
+0x8049200 5 4 sqrt
+0x8049205 14 13 libgcc_s.so.1
+0x8049213 15 14 _Unwind_Resume
+0x8049222 10 9 __udivdi3
+0x804922c 10 9 libc.so.6
+0x8049236 15 14 _IO_stdin_used
+0x8049245 7 6 fflush
+0x804924c 7 6 strcpy
+0x8049253 13 12 __printf_chk
+0x8049260 8 7 readdir
+0x8049268 8 7 mbrtowc
+0x8049270 6 5 srand
+0x8049276 6 5 fopen
+0x804927c 8 7 strncmp
+0x8049284 8 7 strrchr
+0x804928c 5 4 pipe
+0x8049291 9 8 __strdup
+0x804929a 7 6 perror
+0x80492a1 16 15 __isoc99_sscanf
+0x80492b1 9 8 getpwuid
+0x80492ba 9 8 closedir
+0x80492c3 6 5 ftell
+0x80492c9 15 14 __isoc99_scanf
+0x80492d8 11 10 __read_chk
+0x80492e3 8 7 strncpy
+0x80492eb 7 6 signal
+0x80492f2 17 16 __stack_chk_fail
+0x8049303 9 8 __lxstat
+0x804930c 7 6 unlink
+0x8049313 7 6 select
+0x804931a 6 5 mkdir
+0x8049320 8 7 realloc
+0x8049328 6 5 clock
+0x804932e 6 5 abort
+0x8049334 5 4 kill
+0x8049339 9 8 strftime
+0x8049342 14 13 __assert_fail
+0x8049350 8 7 mkstemp
+0x8049358 7 6 gmtime
+0x804935f 7 6 strtok
+0x8049366 7 6 strtol
+0x804936d 9 8 endpwent
+0x8049376 5 4 mmap
+0x804937b 5 4 feof
+0x8049380 6 5 fgets
+0x8049386 7 6 calloc
+0x804938d 7 6 strlen
+0x8049394 13 12 __cxa_atexit
+0x80493a1 7 6 memset
+0x80493a8 7 6 strstr
+0x80493af 8 7 islower
+0x80493b7 6 5 rmdir
+0x80493bd 6 5 fseek
+0x80493c3 6 5 chdir
+0x80493c9 7 6 memcmp
+0x80493d0 8 7 asctime
+0x80493d8 8 7 toupper
+0x80493e0 5 4 dup2
+0x80493e5 14 13 __fprintf_chk
+0x80493f3 7 6 stdout
+0x80493fa 6 5 fputc
+0x8049400 7 6 memcpy
+0x8049407 7 6 fclose
+0x804940e 16 15 __vsnprintf_chk
+0x804941e 8 7 strtoul
+0x8049426 7 6 malloc
+0x804942d 7 6 strcat
+0x8049434 7 6 remove
+0x804943b 14 13 __strncpy_chk
+0x8049449 9 8 asprintf
+0x8049452 8 7 isupper
+0x804945a 8 7 opendir
+0x8049462 7 6 getenv
+0x8049469 14 13 __ctype_b_loc
+0x8049477 7 6 stderr
+0x804947e 6 5 ioctl
+0x8049484 7 6 munmap
+0x804948b 15 14 __snprintf_chk
+0x804949a 13 12 __memset_chk
+0x80494a7 7 6 getuid
+0x80494ae 9 8 readlink
+0x80494b7 7 6 execvp
+0x80494be 9 8 __xmknod
+0x80494c7 9 8 __fxstat
+0x80494d0 8 7 strncat
+0x80494d8 7 6 usleep
+0x80494df 7 6 utimes
+0x80494e6 7 6 getcwd
+0x80494ed 7 6 fwrite
+0x80494f4 6 5 fread
+0x80494fa 12 11 iconv_close
+0x8049506 7 6 rename
+0x804950d 8 7 scandir
+0x8049515 7 6 statfs
+0x804951c 13 12 __memcpy_chk
+0x8049529 10 9 backtrace
+0x8049533 12 11 __fread_chk
+0x804953f 10 9 localtime
+0x8049549 7 6 strchr
+0x8049550 6 5 utime
+0x8049556 15 14 __vfprintf_chk
+0x8049565 7 6 mktime
+0x804956c 10 9 alphasort
+0x8049576 6 5 iconv
+0x804957c 11 10 iconv_open
+0x8049587 20 19 __ctype_toupper_loc
+0x804959b 13 12 __strcpy_chk
+0x80495a8 20 19 __ctype_tolower_loc
+0x80495bc 14 13 __sprintf_chk
+0x80495ca 8 7 __xstat
+0x80495d2 8 7 memmove
+0x80495da 18 17 backtrace_symbols
+0x80495ec 7 6 access
+0x80495f3 13 12 __strcat_chk
+0x8049600 7 6 strcmp
+0x8049607 9 8 strerror
+0x8049610 18 17 __libc_start_main
+0x8049622 9 8 setpwent
+0x804962b 9 8 basename
+0x8049634 5 4 free
+0x8049639 11 10 inflateEnd
+0x8049644 8 7 inflate
+0x804964c 10 9 libz.so.1
+0x8049656 14 13 inflateInit2_
+0x8049664 11 10 libdl.so.2
+0x804966f 7 6 dlopen
+0x8049676 6 5 dlsym
+0x804967c 8 7 dlclose
+0x8049684 8 7 dlerror
+0x804968c 7 6 _edata
+0x8049693 12 11 __bss_start
+0x804969f 5 4 _end
+0x80496a4 8 7 GCC_3.0
+0x80496ac 10 9 GLIBC_2.0
+0x80496b6 10 9 GLIBC_2.1
+0x80496c0 11 10 CXXABI_1.3
+0x80496cb 12 11 GLIBCXX_3.4
+0x80496d7 10 9 GLIBC_2.4
+0x80496e1 12 11 GLIBC_2.1.3
+0x80496ed 10 9 GLIBC_2.7
+0x80496f7 10 9 GLIBC_2.3
+0x8049701 12 11 GLIBC_2.3.4
+0x8049894 5 4 P&y\v
+0x8049a1d 5 4 \a\t\b\a
+0x8049a25 5 4 \a\t\b\a
+0x8049a2d 5 4 \a\t\b\a
+0x8049a35 5 4 \a\t\b\a
+0x8049a3d 5 4 \a\t\b\a
+0x8049a45 5 4 \a\t\b\a
+0x8049a4d 6 5 \a\t\b\a\a
+0x8049a55 6 5 \b\t\b\a\b
+0x8049a5d 6 5 \b\t\b\a\t
+0x8049a64 7 6 \b\b\t\b\a\n
+0x8049a6c 7 6 \f\b\t\b\a\v
+0x8049a75 6 5 \b\t\b\a\f
+0x8049a7d 6 5 \b\t\b\a\r
+0x8049a85 5 4 \b\t\b\a
+0x8049a8d 5 4 \b\t\b\a
+0x8049a94 6 5  \b\t\b\a
+0x8049a9c 6 5 $\b\t\b\a
+0x8049aa4 6 5 (\b\t\b\a
+0x8049aac 6 5 ,\b\t\b\a
+0x8049ab4 6 5 0\b\t\b\a
+0x8049abc 6 5 4\b\t\b\a
+0x8049ac4 6 5 8\b\t\b\a
+0x8049acc 6 5 <\b\t\b\a
+0x8049ad4 6 5 @\b\t\b\a
+0x8049adc 6 5 D\b\t\b\a
+0x8049ae4 6 5 H\b\t\b\a
+0x8049aec 7 6 L\b\t\b\a\e
+0x8049af4 6 5 P\b\t\b\a
+0x8049afc 6 5 T\b\t\b\a
+0x8049b04 6 5 X\b\t\b\a
+0x8049b0c 6 5 \\b\t\b\a
+0x8049b14 7 6 `\b\t\b\a 
+0x8049b1c 7 6 d\b\t\b\a!
+0x8049b24 7 6 h\b\t\b\a"
+0x8049b2c 7 6 l\b\t\b\a#
+0x8049b34 7 6 p\b\t\b\a$
+0x8049b3c 6 5 t\b\t\b\a
+0x8049b44 7 6 x\b\t\b\a%
+0x8049b4c 7 6 |\b\t\b\a&
+0x8049b55 6 5 \b\t\b\a'
+0x8049b5d 6 5 \b\t\b\a(
+0x8049b65 6 5 \b\t\b\a)
+0x8049b6d 6 5 \b\t\b\a*
+0x8049b75 6 5 \b\t\b\a+
+0x8049b7d 6 5 \b\t\b\a,
+0x8049b85 6 5 \b\t\b\a-
+0x8049b8d 6 5 \b\t\b\a.
+0x8049b95 5 4 \b\t\b\a
+0x8049b9d 6 5 \b\t\b\a/
+0x8049ba5 6 5 \b\t\b\a0
+0x8049bad 6 5 \b\t\b\a1
+0x8049bb5 6 5 \b\t\b\a2
+0x8049bbd 6 5 \b\t\b\a3
+0x8049bc5 6 5 \b\t\b\a4
+0x8049bcd 6 5 \b\t\b\a5
+0x8049bd5 6 5 \b\t\b\a6
+0x8049bdd 6 5 \b\t\b\a7
+0x8049be5 6 5 \b\t\b\a8
+0x8049bed 6 5 \b\t\b\a9
+0x8049bf5 6 5 \b\t\b\a:
+0x8049bfd 6 5 \b\t\b\a;
+0x8049c05 6 5 \b\t\b\a<
+0x8049c0d 6 5 \b\t\b\a=
+0x8049c15 6 5 \b\t\b\a>
+0x8049c1d 6 5 \b\t\b\a?
+0x8049c25 6 5 \b\t\b\a@
+0x8049c2d 6 5 \b\t\b\aA
+0x8049c35 6 5 \b\t\b\aB
+0x8049c3d 6 5 \b\t\b\aC
+0x8049c45 6 5 \b\t\b\aD
+0x8049c4d 6 5 \b\t\b\aE
+0x8049c55 6 5 \t\t\b\aF
+0x8049c5d 6 5 \t\t\b\aG
+0x8049c64 7 6 \b\t\t\b\aH
+0x8049c6c 7 6 \f\t\t\b\aI
+0x8049c75 6 5 \t\t\b\aJ
+0x8049c7d 6 5 \t\t\b\aK
+0x8049c85 6 5 \t\t\b\aL
+0x8049c8d 6 5 \t\t\b\aM
+0x8049c94 7 6  \t\t\b\aN
+0x8049c9c 7 6 $\t\t\b\aO
+0x8049ca4 7 6 (\t\t\b\aP
+0x8049cac 7 6 ,\t\t\b\aQ
+0x8049cb4 7 6 0\t\t\b\aR
+0x8049cbc 7 6 4\t\t\b\aS
+0x8049cc4 7 6 8\t\t\b\aT
+0x8049ccc 7 6 <\t\t\b\aU
+0x8049cd4 7 6 @\t\t\b\aV
+0x8049cdc 7 6 D\t\t\b\aW
+0x8049ce4 7 6 H\t\t\b\aX
+0x8049cec 7 6 L\t\t\b\aY
+0x8049cf4 7 6 P\t\t\b\aZ
+0x8049cfc 6 5 T\t\t\b\a
+0x8049d04 7 6 X\t\t\b\a[
+0x8049d0c 7 6 \\t\t\b\a\
+0x8049d14 7 6 `\t\t\b\a]
+0x8049d1c 6 5 d\t\t\b\a
+0x8049d24 7 6 h\t\t\b\a^
+0x8049d2c 6 5 l\t\t\b\a
+0x8049d34 7 6 p\t\t\b\a_
+0x8049d3c 7 6 t\t\t\b\a`
+0x8049d44 7 6 x\t\t\b\aa
+0x8049d4c 7 6 |\t\t\b\ab
+0x8049d55 6 5 \t\t\b\ac
+0x8049d5d 6 5 \t\t\b\ad
+0x8049d65 6 5 \t\t\b\ae
+0x8049d6d 6 5 \t\t\b\ag
+0x8049d75 5 4 \t\t\b\a
+0x8049d7d 6 5 \t\t\b\ah
+0x8049d85 6 5 \t\t\b\ai
+0x8049d8d 6 5 \t\t\b\aj
+0x8049d95 6 5 \t\t\b\ak
+0x8049d9d 6 5 \t\t\b\al
+0x8049da5 6 5 \t\t\b\am
+0x8049dad 6 5 \t\t\b\an
+0x8049db5 6 5 \t\t\b\ao
+0x8049dbd 6 5 \t\t\b\ap
+0x8049dc5 6 5 \t\t\b\aq
+0x8049dcd 6 5 \t\t\b\ar
+0x8049dd5 6 5 \t\t\b\as
+0x8049ddd 6 5 \t\t\b\at
+0x8049de5 6 5 \t\t\b\au
+0x8049ded 6 5 \t\t\b\av
+0x8049df5 6 5 \t\t\b\aw
+0x8049dfd 6 5 \t\t\b\ax
+0x8049e05 6 5 \t\t\b\ay
+0x8049e0d 6 5 \t\t\b\az
+0x8049e15 5 4 \t\t\b\a
+0x8049e1d 6 5 \t\t\b\a{
+0x8049e25 5 4 \t\t\b\a
+0x8049e2d 6 5 \t\t\b\a|
+0x8049e35 6 5 \t\t\b\a}
+0x8049e3d 6 5 \t\t\b\a~
+0x8049e45 5 4 \t\t\b\a
+0x8049e4d 5 4 \t\t\b\a
+0x8049e55 5 4 \n\t\b\a
+0x8049e5d 5 4 \n\t\b\a
+0x8049e64 6 5 \b\n\t\b\a
+0x8049e6c 6 5 \f\n\t\b\a
+0x8049e75 5 4 \n\t\b\a
+0x8049e7d 5 4 \n\t\b\a
+0x8049e85 5 4 \n\t\b\a
+0x8049e8d 5 4 \n\t\b\a
+0x8049e94 6 5  \n\t\b\a
+0x8049e9c 6 5 $\n\t\b\a
+0x8049ea4 6 5 (\n\t\b\a
+0x8049eac 6 5 ,\n\t\b\a
+0x8049eb4 6 5 0\n\t\b\a
+0x8049ebc 6 5 4\n\t\b\a
+0x8049ec4 6 5 8\n\t\b\a
+0x8049ecc 6 5 <\n\t\b\a
+0x8049ed4 6 5 @\n\t\b\a
+0x8049edc 6 5 D\n\t\b\a
+0x8049ee4 6 5 H\n\t\b\a
+0x8049eec 6 5 L\n\t\b\a
+0x8049ef4 6 5 P\n\t\b\a
+0x8049efc 6 5 T\n\t\b\a
+0x8049f04 6 5 X\n\t\b\a
+0x8049f0c 6 5 \\n\t\b\a
+0x8049f14 6 5 `\n\t\b\a
+0x8049f1c 6 5 d\n\t\b\a
+0x8049f24 6 5 h\n\t\b\a
+0x8049f2c 6 5 l\n\t\b\a
+0x8049f34 6 5 p\n\t\b\a
+0x8049f3c 6 5 t\n\t\b\a
+0x8049f44 6 5 x\n\t\b\a
+0x8049f4c 6 5 |\n\t\b\a
+0x8049f55 5 4 \n\t\b\a
+0x8049f9f 5 4 \a\t\bh
+0x8049faf 6 5 \a\t\bh\b
+0x8049fbf 5 4 \a\t\bh
+0x8049fcf 5 4 \a\t\bh
+0x8049fdf 6 5 \a\t\bh 
+0x8049fef 6 5 \a\t\bh(
+0x8049fff 6 5 \a\t\bh0
+0x804a00f 6 5 \b\t\bh8
+0x804a01f 6 5 \b\t\bh@
+0x804a02d 8 7 %\b\b\t\bhH
+0x804a03d 8 7 %\f\b\t\bhP
+0x804a04f 6 5 \b\t\bhX
+0x804a05f 6 5 \b\t\bh`
+0x804a06f 6 5 \b\t\bhh
+0x804a07f 6 5 \b\t\bhp
+0x804a08d 8 7 % \b\t\bhx
+0x804a09d 7 6 %$\b\t\bh
+0x804a0ad 7 6 %(\b\t\bh
+0x804a0bd 7 6 %,\b\t\bh
+0x804a0cd 7 6 %0\b\t\bh
+0x804a0dd 7 6 %4\b\t\bh
+0x804a0ed 7 6 %8\b\t\bh
+0x804a0fd 7 6 %<\b\t\bh
+0x804a10d 7 6 %@\b\t\bh
+0x804a11d 7 6 %D\b\t\bh
+0x804a12d 7 6 %H\b\t\bh
+0x804a13d 7 6 %L\b\t\bh
+0x804a14d 7 6 %P\b\t\bh
+0x804a15d 7 6 %T\b\t\bh
+0x804a16d 7 6 %X\b\t\bh
+0x804a17d 7 6 %\\b\t\bh
+0x804a18d 7 6 %`\b\t\bh
+0x804a19d 7 6 %d\b\t\bh
+0x804a1ad 8 7 %h\b\t\bh\b
+0x804a1bd 7 6 %l\b\t\bh
+0x804a1cd 7 6 %p\b\t\bh
+0x804a1dd 8 7 %t\b\t\bh 
+0x804a1ed 8 7 %x\b\t\bh(
+0x804a1fd 8 7 %|\b\t\bh0
+0x804a20f 6 5 \b\t\bh8
+0x804a21f 6 5 \b\t\bh@
+0x804a22f 6 5 \b\t\bhH
+0x804a23f 6 5 \b\t\bhP
+0x804a24f 6 5 \b\t\bhX
+0x804a25f 6 5 \b\t\bh`
+0x804a26f 6 5 \b\t\bhh
+0x804a27f 6 5 \b\t\bhp
+0x804a28f 6 5 \b\t\bhx
+0x804a29f 5 4 \b\t\bh
+0x804a2af 5 4 \b\t\bh
+0x804a2bf 5 4 \b\t\bh
+0x804a2cf 5 4 \b\t\bh
+0x804a2df 5 4 \b\t\bh
+0x804a2ef 5 4 \b\t\bh
+0x804a2ff 5 4 \b\t\bh
+0x804a30f 5 4 \b\t\bh
+0x804a31f 5 4 \b\t\bh
+0x804a32f 5 4 \b\t\bh
+0x804a33f 5 4 \b\t\bh
+0x804a34f 5 4 \b\t\bh
+0x804a35f 5 4 \b\t\bh
+0x804a36f 5 4 \b\t\bh
+0x804a37f 5 4 \b\t\bh
+0x804a38f 5 4 \b\t\bh
+0x804a39f 5 4 \b\t\bh
+0x804a3af 6 5 \b\t\bh\b
+0x804a3bf 5 4 \b\t\bh
+0x804a3cf 5 4 \b\t\bh
+0x804a3df 6 5 \b\t\bh 
+0x804a3ef 6 5 \b\t\bh(
+0x804a3ff 6 5 \b\t\bh0
+0x804a40f 6 5 \t\t\bh8
+0x804a41f 6 5 \t\t\bh@
+0x804a42d 8 7 %\b\t\t\bhH
+0x804a43d 8 7 %\f\t\t\bhP
+0x804a44f 6 5 \t\t\bhX
+0x804a45f 6 5 \t\t\bh`
+0x804a46f 6 5 \t\t\bhh
+0x804a47f 6 5 \t\t\bhp
+0x804a48d 8 7 % \t\t\bhx
+0x804a49d 7 6 %$\t\t\bh
+0x804a4ad 7 6 %(\t\t\bh
+0x804a4bd 7 6 %,\t\t\bh
+0x804a4cd 7 6 %0\t\t\bh
+0x804a4dd 7 6 %4\t\t\bh
+0x804a4ed 7 6 %8\t\t\bh
+0x804a4fd 7 6 %<\t\t\bh
+0x804a50d 7 6 %@\t\t\bh
+0x804a51d 7 6 %D\t\t\bh
+0x804a52d 7 6 %H\t\t\bh
+0x804a53d 7 6 %L\t\t\bh
+0x804a54d 7 6 %P\t\t\bh
+0x804a55d 7 6 %T\t\t\bh
+0x804a56d 7 6 %X\t\t\bh
+0x804a57d 7 6 %\\t\t\bh
+0x804a58d 7 6 %`\t\t\bh
+0x804a59d 7 6 %d\t\t\bh
+0x804a5ad 8 7 %h\t\t\bh\b
+0x804a5bd 7 6 %l\t\t\bh
+0x804a5cd 7 6 %p\t\t\bh
+0x804a5dd 8 7 %t\t\t\bh 
+0x804a5ed 8 7 %x\t\t\bh(
+0x804a5fd 8 7 %|\t\t\bh0
+0x804a60f 6 5 \t\t\bh8
+0x804a61f 6 5 \t\t\bh@
+0x804a62f 6 5 \t\t\bhH
+0x804a63f 6 5 \t\t\bhP
+0x804a64f 6 5 \t\t\bhX
+0x804a65f 6 5 \t\t\bh`
+0x804a66f 6 5 \t\t\bhh
+0x804a67f 6 5 \t\t\bhp
+0x804a68f 6 5 \t\t\bhx
+0x804a69f 5 4 \t\t\bh
+0x804a6af 5 4 \t\t\bh
+0x804a6bf 5 4 \t\t\bh
+0x804a6cf 5 4 \t\t\bh
+0x804a6df 5 4 \t\t\bh
+0x804a6ef 5 4 \t\t\bh
+0x804a6ff 5 4 \t\t\bh
+0x804a70f 5 4 \t\t\bh
+0x804a71f 5 4 \t\t\bh
+0x804a72f 5 4 \t\t\bh
+0x804a73f 5 4 \t\t\bh
+0x804a74f 5 4 \t\t\bh
+0x804a75f 5 4 \t\t\bh
+0x804a76f 5 4 \t\t\bh
+0x804a77f 5 4 \t\t\bh
+0x804a78f 5 4 \t\t\bh
+0x804a79f 5 4 \t\t\bh
+0x804a7af 6 5 \t\t\bh\b
+0x804a7bf 5 4 \t\t\bh
+0x804a7cf 5 4 \t\t\bh
+0x804a7df 6 5 \t\t\bh 
+0x804a7ef 6 5 \t\t\bh(
+0x804a7ff 6 5 \t\t\bh0
+0x804a80f 6 5 \n\t\bh8
+0x804a81f 6 5 \n\t\bh@
+0x804a82d 8 7 %\b\n\t\bhH
+0x804a83d 8 7 %\f\n\t\bhP
+0x804a84f 6 5 \n\t\bhX
+0x804a85f 6 5 \n\t\bh`
+0x804a86f 6 5 \n\t\bhh
+0x804a87f 6 5 \n\t\bhp
+0x804a88d 8 7 % \n\t\bhx
+0x804a89d 7 6 %$\n\t\bh
+0x804a8ad 7 6 %(\n\t\bh
+0x804a8bd 7 6 %,\n\t\bh
+0x804a8cd 7 6 %0\n\t\bh
+0x804a8dd 7 6 %4\n\t\bh
+0x804a8ed 7 6 %8\n\t\bh
+0x804a8fd 7 6 %<\n\t\bh
+0x804a90d 7 6 %@\n\t\bh
+0x804a91d 7 6 %D\n\t\bh
+0x804a92d 7 6 %H\n\t\bh
+0x804a93d 7 6 %L\n\t\bh
+0x804a94d 7 6 %P\n\t\bh
+0x804a95d 7 6 %T\n\t\bh
+0x804a96d 7 6 %X\n\t\bh
+0x804a97d 7 6 %\\n\t\bh
+0x804a98d 7 6 %`\n\t\bh
+0x804a99d 7 6 %d\n\t\bh
+0x804a9ad 8 7 %h\n\t\bh\b
+0x804a9bd 7 6 %l\n\t\bh
+0x804a9cd 7 6 %p\n\t\bh
+0x804a9dd 8 7 %t\n\t\bh 
+0x804a9ed 8 7 %x\n\t\bh(
+0x804a9fd 8 7 %|\n\t\bh0
+0x804aa0f 6 5 \n\t\bh8
+0x804aa28 6 5 PTRh0
+0x804aa2e 5 4 \a\bh@
+0x804aa33 6 5 \a\bQVh
+0x804aaf3 5 4 D$\b\b
+0x804ab1b 5 4 D$\b\b
+0x804abf7 6 4 [^]Ð
+0x804ac87 6 4 t[]Ð
+0x804acb2 7 5 []Ít&
+0x804ad00 7 6 K,9\btJ
+0x804ad0a 6 4 \b1҉X
+0x804ad15 6 4 [^]Í
+0x804ad47 6 4 [^]Ð
+0x804ae42 6 4 ]Ít&
+0x804b00c 5 4 D$\bl
+0x804b0d2 5 4 D$\bl
+0x804b2cd 5 4 D$\b\a
+0x804b4c9 5 4 D$\f0
+0x804b5b2 6 4 1ɍt&
+0x804b663 9 7 [^_]É4$
+0x804b756 5 4 D$\bl
+0x804b805 7 5 t!1\vU
+0x804b81f 9 7 [^_]Ít&
+0x804b843 5 4 D$\fy
+0x804b8c4 5 4 0\r\t\b
+0x804b9aa 5 4 D$\bA
+0x804b9e6 6 4 [_]Í
+0x804badc 8 6 D$\b=\a\b
+0x804baf5 5 4 D$\b(
+0x804bb0e 5 4 D$\bH
+0x804bb27 5 4 D$\bl
+0x804bb40 8 6 D$\b=\a\b
+0x804bb59 5 4 D$\b(
+0x804bb72 5 4 D$\bH
+0x804bb8b 5 4 D$\bl
+0x804bba1 8 6 [^]Ít&
+0x804bbe2 6 4 ƉD$\f
+0x804bc03 6 4 t@1ۅ
+0x804bc40 5 4 [^_]
+0x804bc47 6 4 $۽\a\b
+0x804bd4d 7 5 [^_]Í
+0x804be8b 6 4 fǄE|
+0x804becd 5 4 @\v\t\b
+0x804c086 7 5 [^_]Ð
+0x804c27f 5 4 \v\t\b1
+0x804c285 5 4 D$\bj
+0x804c29e 5 4 D$\bo
+0x804c2b7 5 4 D$\bx
+0x804c3be 5 4 D$\bh
+0x804c3f0 8 6 D$\bվ\a\b
+0x804c422 5 4 D$\bA
+0x804c46a 7 5 [^_]Ð
+0x804c53a 5 4 8\v\t\b
+0x804c5d9 5 4 D$\b0
+0x804c70a 6 4 ÉD$\f
+0x804c732 6 4 ÉD$\f
+0x804c89f 6 4 \b\tЋU
+0x804c8f0 10 4 %ð㴀耀
+0x804c912 6 5 }\f\at)
+0x804ca13 10 4 %ð㴀耀
+0x804ca6c 7 5 [^_]Í
+0x804ca7f 5 4 D$\bD
+0x804cde0 5 4 [^_]
+0x804d0d3 5 4 H\v\t\b
+0x804d29e 5 4 [^_]
+0x804d2f4 6 4 [^]É
+0x804d345 7 5 [^_]Í
+0x804d358 8 6 [^_]Ív
+0x804d392 7 5 []Ít&
+0x804d61a 7 5 [^_]Ð
+0x804d655 5 4 h\r\t\b
+0x804d79e 7 5 \fȉL$\b
+0x804d8ac 8 4 uڋMë
+0x804d8c5 8 6 ,[^_]Ð
+0x804d946 8 6 ,[^_]Ð
+0x804d99a 6 4 ]Ít&
+0x804d9d4 6 4 1\t\$
+0x804da49 5 4 [^_]
+0x804dad3 6 4 1\vE\b
+0x804dbeb 5 4 [^_]
+0x804dc02 6 4 1\vE\b
+0x804dd5d 5 4 C\ntG
+0x804de03 7 5 WVS1ہ
+0x804df63 5 4 [^_]
+0x804df68 6 4 1ۉ<$
+0x804df83 7 5 WVS1ہ
+0x804e057 9 7 [^_]Ít&
+0x804e060 6 4 1ۉ<$
+0x804e169 5 4  [^]
+0x804e188 5 4 D$\b)
+0x804e21a 6 4 []Ív
+0x804e230 5 4 D$\b9
+0x804e2db 5 4 D$\bI
+0x804e300 8 6 [^_]Ív
+0x804e318 6 5 ,[^_]
+0x804e336 7 4 D$\f뫐
+0x804e3e7 6 4 [^]Ð
+0x804e4a2 5 4 D$\bz
+0x804e4ce 5 4 D$\bc
+0x804e5fe 7 5 [^_]Ð
+0x804ea03 6 5 \rx\v\t\b
+0x804ea0c 6 5 \rd\v\t\b
+0x804ea1e 6 5 \r|\v\t\b
+0x804ea49 6 4 1ҋ]\b
+0x804eaab 5 4 D$\b,
+0x804eab6 5 4 `\v\t\b
+0x804eb59 5 4 [^_]
+0x804ec39 6 4 1ҋ]\f
+0x804ecbe 5 4 `\v\t\b
+0x804ed6e 6 4 )ÈY\t
+0x804eecd 7 5 [^_]Í
+0x804ef1f 7 4 T$\b腲
+0x804ef32 5 4 `\v\t\b
+0x804effc 6 4 []ÐU
+0x804f036 6 5 ~\r;58
+0x804f04a 8 6 [^_]ÐU
+0x804f0a5 7 5 [^_]Í
+0x804f0b1 7 5 Ȼgfff
+0x804f149 6 4 te1\v
+0x804f2fc 5 4 [^_]
+0x804f3b0 8 6 [^]Ít&
+0x804f416 6 4 ^_]Í
+0x804f65a 7 5 [^_]Ð
+0x804f75a 5 4 {\b;{
+0x804f7d8 8 5 {\b녍t&
+0x804f9fd 7 5 [^_]Í
+0x804fb75 8 6 ,[^_]Ð
+0x804fc2f 9 7 [^_]Ít&
+0x804fc6d 7 5 [^_]Í
+0x804fcb2 6 4 ]Ít&
+0x804fcf0 6 4 Uԃ~\b
+0x804fd17 5 4 9F\b~
+0x804fd56 6 4 U܋F\f
+0x804fd73 8 4 뛉É<$
+0x804fdca 10 8 [^_]ËU\f)
+0x804fdea 6 5 :\bt f
+0x804fdf3 5 4 9}\fv
+0x804fe11 7 4 w퐍t&
+0x804fe43 5 4 D$\b\b
+0x804fef8 8 6 [^_]Ív
+0x804ff90 5 4 Crea
+0x804ff97 5 4 teFi
+0x8050025 6 5 \b/usr
+0x805002f 6 5 \b/bin
+0x8050039 6 5 \b/sca
+0x8050043 7 6 \bnhoof
+0x805005b 5 4 NtCr
+0x8050062 5 4 eate
+0x8050069 5 4 File
+0x80500d3 5 4 NtOp
+0x80500da 6 5 enFif
+0x80501b8 5 4 D$\b\n
+0x80501d3 5 4 D$\b\n
+0x80501ef 5 4 D$\b\n
+0x8050211 5 4 D$\b\n
+0x805024a 6 5 \[^_]
+0x80504a5 9 7 \[^_]ÉE
+0x8050802 9 7 l[^_]Íu
+0x8050a74 5 4 M\bVS
+0x8050ab6 6 4 [^]Í
+0x8050ad9 6 4 1ҋE\b
+0x8050ca3 6 4 []Ív
+0x8050dd0 8 6 +}ԉ\$\f
+0x8050e00 9 7 <[^_]Ív
+0x8050e54 6 4 tԋE\f
+0x8050eff 5 4 gfff
+0x8050f83 8 6 E̿gfff
+0x8050fae 8 5 )ǋE̍<
+0x8050fbc 6 4 ǉD$\f
+0x8050fcb 7 5 UЉ|$\b
+0x8050fdd 7 4 T$\f跑
+0x80510f4 5 4 \re\b\b
+0x8051192 5 4 gfff
+0x80511e2 7 4 D$\f貏
+0x8051246 5 4 gfff
+0x805127d 7 5 )ЉD$\f
+0x805129d 5 4 \b\r\t\b
+0x80512ca 7 5 )IL$\b
+0x8051302 7 4 D$\f蒎
+0x8051395 5 4 \b\r\t\b
+0x8051477 7 5 Uԉ\$\f
+0x80514a1 5 4  \r\t\b
+0x8051556 7 5 /usrǅ
+0x8051560 7 5 /libǅ
+0x805156a 7 5 /tmpǅ
+0x8051574 5 4 .tmp
+0x8051613 5 4 [^_]
+0x805167a 6 4 ]Ít&
+0x80519fc 6 4 }߉|$
+0x8051b68 6 4 E߉D$
+0x8051c58 6 4 1\vu\b
+0x8051d18 5 4 [^_]
+0x8051e39 5 4 [^_]
+0x8051e80 6 4 Mԉ\f$
+0x8051e94 7 5 [^_]Í
+0x8051ee3 10 6 ỦMԋEԹ
+0x8051f3e 7 5 U܉T$\f
+0x8052035 6 4 UԋK0
+0x8052081 6 4 UԋK@
+0x80520ab 5 4 SHuQ
+0x80520bc 5 4 L[^_
+0x8052116 6 4 Mԉ\f$
+0x8052152 6 4 ]Ít&
+0x805239d 9 7 [^_]É<$
+0x80524c2 8 6 ǉCD~(1
+0x80524ef 8 4 ܍E؉މ
+0x80524fe 6 4 E؉CH
+0x80525c1 6 4 Ủ\f$
+0x80525da 7 5 ỦD2,
+0x80525ed 6 4 Ủ|$
+0x8052623 7 5 ỦD$\b
+0x805266f 6 4 މL$\b
+0x805269f 7 4 EԉEи
+0x80526e0 10 7 EԉỦL$\b
+0x8052774 7 5 E܉D$\f
+0x8052787 6 4 MЉ\f$
+0x80527ee 6 4 uЉ4$
+0x805288e 9 6 E܍E؉D$
+0x805289f 7 5 E܉D$\b
+0x80528b3 7 5 +E؉4$
+0x8052954 5 4 `[_]
+0x8052979 6 4 1ҋE\b
+0x80529ae 6 4 ҉T$\b
+0x80529ba 5 4 r\r\t\b
+0x80529f8 5 4 h\r\t\b
+0x8052a5c 5 4 d\r\t\b
+0x8052b59 7 5 eȉD$\f
+0x8052c52 7 5 [^_]Ð
+0x8052c6e 6 5 $ \r\t\b
+0x8052d85 7 5 eȉD$\f
+0x8052def 5 4 .pro
+0x8052df6 5 4 file
+0x8052e76 7 5 [^_]Ð
+0x8052f00 7 5 u&1\vU
+0x805310a 5 4 D$\b,
+0x8053148 5 4 h\r\t\b
+0x80532f4 7 5 \a\b1ɋu
+0x8053344 6 5   \b\b3
+0x805334b 5 4  !\b\b
+0x805335d 5 4  \e\b\b
+0x80533ca 6 5   \b\b3
+0x80533d1 5 4  !\b\b
+0x80533e0 5 4  \e\b\b
+0x805341d 5 4  "\b\b
+0x8053424 6 5 $"\b\b3
+0x805342b 7 6  "\b\b3\f
+0x8053432 5 4 $"\b\b
+0x8053442 7 6  "\b\b3\f
+0x8053449 5 4 $"\b\b
+0x805345b 7 6  "\b\b3\f
+0x8053462 5 4 $"\b\b
+0x8053481 7 6  "\b\b3\f
+0x8053488 6 5 $"\b\b3
+0x805348f 7 6  "\b\b3\f
+0x8053496 5 4 $"\b\b
+0x80534b3 7 6  "\b\b3\f
+0x80534ba 6 5 $"\b\b3
+0x80534c1 7 6  "\b\b3\f
+0x80534c8 5 4 $"\b\b
+0x80534d6 10 8 \b[^_]Ít&
+0x805353b 5 4 @b\b\b
+0x8053560 6 4 8uՍE
+0x8053665 5 4 c\b\b\t
+0x8053684 5 4 c\b\b\t
+0x805370e 7 4 \f\t؉˃
+0x8053757 7 5 [^_]ÿ
+0x8053afc 7 4 1ۉMЍ
+0x8053b27 6 4 \b\tЉE
+0x8053b4d 9 6 \b\tЋUЉE
+0x8053bb0 6 5 <[^_]
+0x8053c97 6 4 \b\tЉE
+0x8053cbd 6 4 \b\tЋU
+0x8053d20 6 5 <[^_]
+0x8053d27 8 7 D$\f b\b\b
+0x8053d4b 8 7 D$\f b\b\b
+0x8053d6f 8 7 D$\f b\b\b
+0x8053dde 7 5 ]Ét$\b
+0x8053e18 8 7 D$\f0b\b\b
+0x8053e3c 8 7 D$\f0b\b\b
+0x8053e75 7 4 1\ru܍
+0x8053ea0 6 4 E؉D$
+0x8053f70 6 4 ߉D$\f
+0x8053fe2 5 4 [^_]
+0x8054087 5 4 (\r\t\b
+0x8054158 7 5 u؉t$\b
+0x8054567 9 7 [^_]Ít&
+0x805465e 6 4  uߋU
+0x805483e 6 4 ẺB\b
+0x8054844 6 4 EЉB\f
+0x8054881 5 4 [^_]
+0x805497d 5 4 `c\b\b
+0x8054a1f 5 4 lc\b\b
+0x8054bd1 5 4 [^_]
+0x8054ccf 6 5 $0\r\t\b
+0x8054ce8 5 4 0\r\t\b
+0x8054cfd 7 6 $0\r\t\b1
+0x8054d18 5 4 0\r\t\b
+0x8054dfb 5 4 [^_]
+0x8054eda 8 5 M܉U؍D
+0x8054f77 7 5 E܉D$\b
+0x8055044 6 4 ؉D$\b
+0x80550fa 6 4 ]Ít&
+0x8055112 7 4 C\b눍v
+0x80552ca 6 4 ]Ít&
+0x8055323 6 4 []Ív
+0x8055363 6 4 []Ív
+0x80553ae 7 5 9ȉr\bu
+0x80553d0 9 7 [^_]Ít&
+0x80554ce 5 4 9N\bu
+0x80554fa 6 4 E܉t$
+0x8055509 6 4 U܋E\f
+0x805552a 6 5 ,[^_]
+0x80555fc 9 6 []ÐU1\t
+0x805567b 8 5 ]ÉÉ4$
+0x805571b 8 5 ]ÉÉ4$
+0x80557c2 6 4 ]Ít&
+0x80557e7 7 5 Uԉ\$\f
+0x8055927 6 4 [^]Ð
+0x8055931 5 4 @\r\t\b
+0x8055964 6 4 [^]Ð
+0x8055a78 8 6 p\b1\rt&
+0x8055cd3 8 6 l[^_]Í
+0x8055d25 5 4 D$\f@
+0x8055d8c 6 4 ]ȉ\$
+0x8055fad 8 6 ,[^_]Ð
+0x805609a 7 5 u$1\vU
+0x80560b4 7 5 [^_]Í
+0x8056223 6 4 @\fǅH
+0x80563ba 5 4 D$\b\f
+0x80564d5 5 4 D$\b@
+0x8056650 5 4 @\r\t\b
+0x8056686 5 4 @\r\t\b
+0x8056719 6 4 1ɋu\b
+0x8056732 7 5 u$1\vU
+0x805674c 7 5 [^_]Í
+0x8056bde 5 4 D$\b@
+0x8056c6b 5 4 D$\b\f
+0x8056db1 5 4 D$\b\f
+0x8056dd1 5 4 D$\b\f
+0x8056ed0 7 4 F\f 길
+0x8056f21 5 4 D\r\t\b
+0x8056f5d 5 4 D\r\t\b
+0x8056f9a 5 4 D\r\t\b
+0x80571fe 6 4 1ۉD$
+0x8057232 7 5 [^_]Ð
+0x805728d 5 4 D$\f@
+0x80575b5 7 5 [^_]Í
+0x80575c5 7 5 [^_]Í
+0x80575fb 6 4 ~Q1ې
+0x8057678 8 6 ~T1ۍt&
+0x80576de 7 5 [^_]Ð
+0x8057743 6 4 41\vU
+0x805775c 7 5 [^_]Í
+0x8057779 5 4 gfff
+0x80579ba 6 4 ]Ít&
+0x8057a00 8 6 ~`1ۍt&
+0x8057a80 8 6 ~`1ۍt&
+0x8057d5e 6 4 ~b1ۍ
+0x8057dd4 8 6 ~\1ۋG\b
+0x8057e3b 5 4 @\r\t\b
+0x8057ea0 8 6 [^_]Ív
+0x8057ea9 5 4 @\r\t\b
+0x8058018 5 4 @\r\t\b
+0x805806f 5 4 @\r\t\b
+0x8058138 5 4 @\r\t\b
+0x805847d 6 4 []ËC
+0x8058500 8 6 ~T1ۍt&
+0x805855b 6 5 ,[^_]
+0x80585a3 6 4 []Ív
+0x80585e3 6 4 []Ív
+0x80586a3 24 11 $(褀쑅㳨；藿觀책萏Ʃ
+0x8058711 6 4 UԋB\f
+0x8058866 10 8 \[^_]Ít&
+0x80589b3 8 6 ,[^_]Í
+0x8058a38 6 4 1\vY\b
+0x8058a74 6 4 4[]Ð
+0x8058b65 8 6 ,[^_]Ð
+0x8058b84 6 5 ,[^_]
+0x8058b8f 8 7 D$\f@e\b\b
+0x8058c27 6 4 [^]Ð
+0x8058c31 5 4 @\r\t\b
+0x8058c64 6 4 [^]Ð
+0x8058cf2 8 5 ]ÉÉ4$
+0x8058d92 8 5 ]ÉÉ4$
+0x8058e04 6 4 ;1\vU
+0x8058e1d 7 5 [^_]Í
+0x8058e41 5 4 gfff
+0x805906a 6 4 ]Ít&
+0x805907d 6 4 E̋u\f
+0x80590df 24 11 $(褀둍è１藿觀쁅萏Ĺ
+0x80591ea 6 4 U\tD$
+0x8059244 7 5 [^_]Í
+0x8059251 6 4 M\t\f$
+0x8059381 5 4 D$\f`
+0x805940e 7 5 [^_]Ð
+0x8059547 9 7 ,[^_]Ðf
+0x805955d 6 4 E̋M\f
+0x80595bb 10 4 $(ధ
+0x80596c2 6 4 U\tD$
+0x8059794 7 5 [^_]Í
+0x80597ab 9 4 뻋U؉Å
+0x805981e 7 5 [^_]Ð
+0x8059d59 5 4 @\r\t\b
+0x8059db0 8 6 [^_]Ív
+0x8059e4f 5 4 D$\f`
+0x8059fed 5 4 @\r\t\b
+0x805a394 5 4 D$\bm
+0x805a45f 5 4 \te\b\b
+0x805a65c 10 4 $(ﮆ
+0x805a6b5 5 4 D$\f`
+0x805ab7b 5 4 [^_]
+0x805adcd 7 4 @, 판
+0x805aee0 8 6 ~T1ۍt&
+0x805af3b 6 5 ,[^_]
+0x805af59 7 5 e\b\bǀ\f
+0x805afb9 7 5 e\b\bǀ\f
+0x805b07a 8 6 ,[^_]É
+0x805b0b7 6 5 $H\r\t\b
+0x805b0f1 7 5 ~R1ۍv
+0x805b155 7 5 [^_]Í
+0x805b17f 7 4 @\f에 
+0x805b1a2 7 4 @ 다.
+0x805b205 8 5 9҉ы}\f
+0x805b218 6 5 \b[^_]
+0x805b376 6 4 1ҋu\f
+0x805b38e 13 8 ~c1\tuԉމÍ
+0x805b3cf 6 4 Uȉ<$
+0x805b3da 6 4 UȋF\b
+0x805b3fc 6 4 EЉt$
+0x805b42b 11 8 UԍuܿH\r\t\b
+0x805b49a 7 4 u؋UЅ
+0x805b4e9 6 4 Ẻt$
+0x805b585 7 4 EЋUЃ
+0x805b5e1 7 4 EЋUЃ
+0x805b5ff 7 4 @\f이 
+0x805b63b 8 6 <[^_]Í
+0x805b65b 9 5 ыEЋUЃ
+0x805b863 6 5 ,[^_]
+0x805ba10 10 7 ,[^_]Éǉ
+0x805bbb0 10 7 ,[^_]Éǉ
+0x805bc55 13 8 EЋUЍE؉E̅
+0x805bcf9 6 4 ẺD$
+0x805bdb9 8 6 L[^_]Ð
+0x805bdc5 8 6 [^_]ËU
+0x805be86 10 8 ,[^_]ËS\b
+0x805c02e 7 5 [^_]Ð
+0x805c2cf 5 4 tw|-
+0x805c2d7 7 5 ؍47;u
+0x805c306 7 4 }܅ɉ}
+0x805c31c 8 6 ,[^_]Í
+0x805c34d 7 5 [^_]Ð
+0x805c3c2 8 5 E̍ẺE
+0x805c559 9 7 E\vM\f+B\f
+0x805c5a6 7 5 [^_]Ð
+0x805c5b7 12 8 [^_]ËU؉Å
+0x805c64d 5 4 D$\f@
+0x805c67e 6 4 4[]Í
+0x805c72d 5 4 D$\f@
+0x805c75e 6 4 4[]Í
+0x805c8c5 6 5 ,[^_]
+0x805ca52 10 7 ,[^_]Éǉ
+0x805cbd2 10 7 ,[^_]Éǉ
+0x805ccb6 10 8 ,[^_]ËS\b
+0x805ccfa 6 4 1ɍt&
+0x805d2ba 5 4 [^_]
+0x805d2c0 8 7 D$\fTf\b\b
+0x805d2d9 6 5 $\vf\b\b
+0x805d381 5 4 { t!
+0x805d431 6 5 ,[^_]
+0x805d438 8 7 D$\fJf\b\b
+0x805d45c 8 7 D$\fJf\b\b
+0x805d475 6 5 $\vf\b\b
+0x805d4c7 8 7 D$\fbf\b\b
+0x805d4e0 6 5 $\vf\b\b
+0x805d5bc 6 5 ,[^_]
+0x805d5c3 8 7 D$\flf\b\b
+0x805d5cb 5 4 D$\bf
+0x805d5dc 6 5 $5f\b\b
+0x805d5e7 8 7 D$\flf\b\b
+0x805d5ef 5 4 D$\be
+0x805d600 6 5 $\vf\b\b
+0x805d643 7 5 u#1ۋU
+0x805d719 6 4 1ҋE\b
+0x805d7fa 6 4 ǉD$\b
+0x805d9f3 7 5 [^_]Å
+0x805da5d 5 4 yf\b\b
+0x805dac9 5 4 6~\b\b
+0x805dcc5 6 4 ƉD$\f
+0x805dd0c 7 5 [^_]É
+0x805dd6c 8 5 1ɋu\bǅ
+0x805ddcf 7 4 *)щʃ
+0x805df1b 7 5 [^_]É
+0x805dfe9 5 4 6~\b\b
+0x805e1ff 6 5 50g\b\b
+0x805e205 6 5 54g\b\b
+0x805e20b 6 5 \r8g\b\b
+0x805e211 7 4 \$\b能
+0x805e276 6 4 ÉD$\f
+0x805e2ad 7 5 [^_]É
+0x805e2f2 5 4 <g\b\b
+0x805e304 7 5 j\b\b]Í
+0x805e326 6 4 t\b]Í
+0x805e336 7 5 i\b\b]Ð
+0x805e3cd 7 5 [^_]Í
+0x805e3e0 5 4 [^_]
+0x805e3e6 8 7 D$\f~i\b\b
+0x805e3ee 5 4 D$\b)
+0x805e3f9 5 4 Pg\b\b
+0x805e3ff 6 5 $Vg\b\b
+0x805e40a 8 7 D$\f~i\b\b
+0x805e412 5 4 D$\b+
+0x805e41d 5 4 Pg\b\b
+0x805e42e 8 7 D$\f~i\b\b
+0x805e436 5 4 D$\b*
+0x805e441 5 4 Pg\b\b
+0x805e447 6 5 $jg\b\b
+0x805e49a 5 4 99rQ
+0x805e4f1 6 5 ,[^_]
+0x805e50b 5 4 Pg\b\b
+0x805e52f 5 4 Pg\b\b
+0x805e535 6 5 $jg\b\b
+0x805e548 5 4 D$\b\r
+0x805e553 5 4 Pg\b\b
+0x805e559 6 5 $Vg\b\b
+0x805e59b 5 4 D$\bn
+0x805e5a6 5 4 Pg\b\b
+0x805e5d1 6 5 ;U\ft\n
+0x805e5f6 5 4 D$\b_
+0x805e601 5 4 Pg\b\b
+0x805e646 8 7 D$\f`j\b\b
+0x805e64e 5 4 D$\b@
+0x805e659 5 4 Pg\b\b
+0x805e6d6 5 4 D$\b|
+0x805e6e1 5 4 Pg\b\b
+0x805e774 7 5 M؉D$\b
+0x805e77b 6 4 Eȉ\f$
+0x805e8bf 7 5 EȉD$\f
+0x805e912 7 5 EȉD$\b
+0x805e95e 7 5 EȉL$\f
+0x805e997 5 4 Pg\b\b
+0x805e9bb 5 4 Pg\b\b
+0x805e9df 5 4 Pg\b\b
+0x805e9e5 6 5 $jg\b\b
+0x805ea03 5 4 Pg\b\b
+0x805ea09 9 6 $Vg\b\b詿
+0x805ebba 8 7 D$\fpi\b\b
+0x805ebc2 5 4 D$\bF
+0x805ebcd 5 4 Pg\b\b
+0x805ebd3 6 5 $Vg\b\b
+0x805ebde 8 7 D$\fpi\b\b
+0x805ebe6 5 4 D$\bH
+0x805ebf1 5 4 Pg\b\b
+0x805ebf9 7 4 g\b\b軽
+0x805ec02 8 7 D$\fpi\b\b
+0x805ec0a 5 4 D$\bI
+0x805ec15 5 4 Pg\b\b
+0x805ec26 8 7 D$\fpi\b\b
+0x805ec2e 5 4 D$\bG
+0x805ec39 5 4 Pg\b\b
+0x805ec3f 6 5 $jg\b\b
+0x805ecc4 6 4 MčKd
+0x805ecca 6 4 EȍSt
+0x805ecd9 6 4 U\rST
+0x805ece8 9 6 M\tU̍S$
+0x805ecf9 6 4 EĉL$
+0x805ed12 6 4 ẺL$
+0x805ed19 6 4 MЉD$
+0x805ed20 7 5 EԉL$\f
+0x805ed6f 7 5 H\t9ωE
+0x805edd7 6 4 M\tT$
+0x805ede2 6 4 MȉL$
+0x805ede9 6 4 MĉL$
+0x805edf0 6 4 M̉L$
+0x805edf7 7 5 MЉL$\f
+0x805edfe 6 4 Mԉ\f$
+0x805ee39 6 4 \t9ωM
+0x805ef42 5 4 Pg\b\b
+0x805ef66 5 4 Pg\b\b
+0x805ef6c 6 5 $Vg\b\b
+0x805ef95 6 4 EĉT$
+0x805ef9c 7 5 ỦL$\f
+0x805efa3 7 5 MЉD$\b
+0x805f47b 8 7 D$\f`i\b\b
+0x805f48e 5 4 Pg\b\b
+0x805f49f 8 7 D$\f`i\b\b
+0x805f4b2 5 4 Pg\b\b
+0x805f4b8 6 5 $\vf\b\b
+0x805f4c3 8 7 D$\f`i\b\b
+0x805f4d6 5 4 Pg\b\b
+0x805f4e7 8 7 D$\f`i\b\b
+0x805f4fa 5 4 Pg\b\b
+0x805f558 8 6 [^]Ít&
+0x805f562 7 5 [^]Ív
+0x805f586 6 4 ]ËP\f
+0x805f5e8 5 4 z\f~9
+0x805f64a 8 7 B\b;A\bu'
+0x805f696 5 4 U\bVS
+0x805f69f 5 4 tA~J
+0x805f871 5 4 tY~W
+0x805f8d1 7 5 [^]Ív
+0x805f8da 6 4 [^]Ã
+0x805f96c 5 4 o\b\bt
+0x805f98c 7 5 o\b\b]Í
+0x805f9a3 9 6 ռo\b\b]Í
+0x805f9b8 5 4 }\bVS
+0x805f9e5 7 5 [^_]Í
+0x805fa5c 6 4 []ÐU
+0x805fac0 8 6 [^_]Ív
+0x805facb 5 4 [^_]
+0x805fafa 6 4 []Ív
+0x805fb40 5 4 u\f9s
+0x805fbe2 6 4 1ɋv\f
+0x805fc89 7 4 M؉؍v
+0x805fcea 9 7 L[^_]ËU
+0x805fcfa 7 5 [^_]Ð
+0x805fd1c 6 5 L[^_]
+0x805fd4e 10 6 u܉ƉUЋM
+0x805fd80 6 4 UȋQ\f
+0x805fd9c 12 8 }ȉ]؉uԍt&
+0x805fdc7 11 7 uߋuԋ]؍\f
+0x805fe1f 8 5 Mԋu؋]
+0x805fe33 8 5 u؋M؋u
+0x805feaa 9 7 L[^_]ËU
+0x805feba 7 5 [^_]Ð
+0x805feea 6 5 L[^_]
+0x805ff19 7 6 ~\b;{\bt
+0x8060049 11 8 A\b1\t]܋Y\f
+0x8060069 9 6 M̋}܋E\f
+0x8060085 8 5 UԋUЃE
+0x80600a1 8 5 uŋE̍<
+0x806011a 9 7 <[^_]Ë}
+0x8060129 8 6 <[^_]Ð
+0x806014a 6 4 1\rt&
+0x806019b 8 5 1҉M܋\f
+0x8060200 6 5 ,[^_]
+0x8060250 6 4 N\f9Ӊ
+0x806029a 10 8 ,[^_]ÉD$
+0x80602ec 7 4 uԉE؍
+0x806033b 13 8 }ċu\vE\vUā
+0x8060356 6 4 ;M܉E
+0x8060404 9 7 [^_]ÉD$
+0x806041f 10 8 L[^_]Ít&
+0x8060467 6 4 }؋}\f
+0x8060482 7 4 1҉]Ԑ
+0x80604b5 8 5 U܋u؍\f
+0x80604dc 5 4 V\b~0
+0x8060520 6 5 <[^_]
+0x8060529 6 4 M\f1\t
+0x8060531 8 6 <[^_]Ð
+0x806056c 8 7 ]\f9]\btR
+0x80605c8 8 6 [^_]Ív
+0x80606eb 8 6 ,[^_]Í
+0x8060703 6 5 ,[^_]
+0x806071a 8 6 ,[^_]É
+0x806077a 5 4 E\b;E
+0x8060840 6 5 ,[^_]
+0x80608ca 7 5 [^_]Ð
+0x8060989 7 5 [^_]Ë
+0x80609d3 5 4 [^_]
+0x80609f3 7 5 [^_]É
+0x80609ff 5 4 [^_]
+0x8060a42 6 4 E܋q\f
+0x8060ae2 11 8 <[^_]ËM܋
+0x8060b26 8 5 }؋}܋]
+0x8060b82 7 5 [^_]Ð
+0x8060ba1 8 6 <[^_]Ð
+0x8060bb4 6 4 M\f)I
+0x8060cda 9 7 <[^_]Ë\a
+0x8060d7a 7 5 [^_]Ð
+0x8060db3 5 4 {\f97
+0x8060dea 6 5 <[^_]
+0x8060e51 6 4 u\f)Ή
+0x8060f3d 10 7 ,[^_]ÉȺ
+0x8060fff 8 5 F\f1҉փ
+0x806123e 12 9 [^_]ËU\f1\t
+0x8061262 6 4 1\rt&
+0x8061496 7 5 [^_]Ð
+0x80614d1 9 7 [^_]ÉD$
+0x8061516 5 4 }\f9P
+0x8061541 7 4 D$\b胑
+0x80615a2 6 4 ~O1\t
+0x80616f2 8 6 [^_]ËU
+0x8061704 9 7 [^_]ÉT$
+0x8061723 8 6 [^_]ËM
+0x80617af 6 4 \f69ʉ
+0x8061a33 9 7 [^_]Ë]\b
+0x8061a50 6 4 uۋ}\f
+0x8061afc 8 5 U\vEċ]
+0x8061b09 7 4 ۉ]؉]
+0x8061b2d 7 4 Eԉ]̍
+0x8061bd7 9 6 EċU\vX\f
+0x8061c10 7 4 ]ĉE\t
+0x8061c1d 9 5 E؋u\vE
+0x8061c74 6 5 l[^_]
+0x8061c94 12 9 l[^_]ËUċ]
+0x8061cae 6 5 l[^_]
+0x8061ce8 6 4 )É\$
+0x8061cf9 6 4 \tF\ft
+0x8061d16 6 4 [^]Í
+0x8061d44 6 4 \tC\ft
+0x8061d96 6 4 ]É]\f
+0x8061e03 6 4 []Ív
+0x8061e67 6 4 EċC\f
+0x8061eb4 6 4 9}̉}
+0x8061ec2 6 4 u\rt&
+0x8061fa6 6 4 M܋K\b
+0x8061fc1 6 4 U؉K\f
+0x8061fd5 9 7 l[^_]ÉM
+0x8062036 6 4 M؉T$
+0x8062091 8 5 MЉẺu
+0x806210c 6 4 9]ȉE
+0x806212e 6 4 9u\t\b
+0x806219a 6 4 M܋N\b
+0x80621b2 6 4 U؉^\f
+0x80621c6 10 7 l[^_]ÉA
+0x8062206 9 7 l[^_]Ë]
+0x80622a1 7 4 ]ȉӉu
+0x80622b6 6 4 +EĉM
+0x80622c6 10 6 1ɉڋuċ}
+0x8062326 6 4 ;MЉE
+0x80623a9 6 4 M܋K\b
+0x80623c1 6 4 U؉s\f
+0x80623d5 8 6 l[^_]É
+0x8062414 9 7 l[^_]Ë]
+0x80624bd 7 5 0[^]Í
+0x806252b 7 5 [^_]Ã
+0x8062535 7 5 [^_]Í
+0x8062588 6 4 1ҋv\f
+0x80625a5 7 4 1\tEЍ
+0x80625b1 10 6 uȋMЋ]ԋ
+0x80625d4 5 4 vxiM
+0x806261c 7 4 EЋUԍ
+0x806264c 8 5 wڋŨE
+0x8062661 6 4 9MĉU
+0x80626cc 6 4 U\vM\f
+0x80626dd 6 4 U܋Q\b
+0x80626f5 6 4 E\tq\b
+0x806270c 9 7 \[^_]ËM
+0x8062730 8 4 덋E؋u
+0x8062758 6 4 M؉\f$
+0x8062774 7 5 }؉|$\b
+0x806282d 8 5 ]؋E܋U
+0x8062876 7 5 [^_]Ð
+0x80628a8 8 6 [^_]Ív
+0x8062961 6 4 M؉\f$
+0x806297f 6 4 ]؋u\f
+0x80629da 9 7 L[^_]ÍO
+0x80629e9 8 5 >1\tMĐ
+0x8062a1c 5 4 [^_]
+0x8062a7d 6 4 }؉<$
+0x8062b2d 7 5 Eԉ\$\f
+0x8062b56 7 5 [^_]Ð
+0x8062b85 6 4 u؉D$
+0x8062b9c 6 4 }ȉ<$
+0x8062ca3 6 4 +E\tU
+0x8062ccb 5 4 t#+U
+0x8062d51 8 5 U܋E؋M
+0x8062d5d 26 17 UċUȉEȉU؋ỦU܋UЉMЉU
+0x8062d78 8 5 Uԉ]ԉU
+0x8062d8f 6 4 E\t4$
+0x8062e16 7 4 EԋEԃ
+0x8062e1d 8 6 \[^_]Ð
+0x8062e84 8 6 \[^_]Í
+0x8062ed6 7 5 S\f1ۉ}
+0x8062f4d 6 4 9M̉U
+0x8062fc5 6 4 U܋Q\b
+0x8062fda 6 4 EȉY\f
+0x8063083 7 5 WVS1ۃ
+0x80630cf 9 7 ,[^_]Ív
+0x80630e3 8 6 ,[^_]Í
+0x806311e 6 4 ]É|$
+0x80631de 9 5 뀍Uȉt$
+0x8063316 7 5 EȉD$\b
+0x806339a 6 4 EȉL$
+0x8063426 6 4 ;Mȍr
+0x806344b 6 4 \f19ȉ
+0x80634b3 5 4 \f:w\t
+0x80636c5 6 4 1\r\f:
+0x806377e 7 5 MȉL$\b
+0x8063799 14 9 uȋEԋUЋM̉u
+0x80638b6 11 7 MċM؉Mԋ\v
+0x80638c7 6 4 M܋K\b
+0x80638d6 6 4 MԉS\b
+0x80638dc 6 4 Uĉ{\f
+0x80638e7 6 4 EЉ4$
+0x8063958 6 4 }ԉD$
+0x80639d7 8 4 Ɖ<$谼
+0x8063a26 7 5 EĉD$\b
+0x8063a70 7 5 t\b1Ƀ}
+0x8063abb 7 5 UĉD$\b
+0x8063b63 7 5 ]؉T$\f
+0x8063b96 6 4 ]É\$
+0x8063bf1 6 4 EȉD$
+0x8063c1a 6 4 UȉD$
+0x8063ebb 6 4 ]؉T$
+0x8063f69 6 4 UȉT$
+0x8063fbe 6 4 UȉD$
+0x8064045 7 5 }ȉT$\b
+0x80640e8 7 5 UȉD$\b
+0x80643ba 6 4 )؉D$
+0x806456a 10 7 <$)؉EȍE
+0x80645dc 6 4 Eȉ|$
+0x80646d1 8 7 `\r\t\b}1;
+0x80646d9 7 6 X\r\t\b}Y
+0x8064705 7 5 []É\$
+0x806479d 7 5 EȉT$\b
+0x80647dc 5 4 VUUU
+0x8064830 6 4 UȉT$
+0x80648d6 6 4 E؉D$
+0x8064968 6 4 EȉD$
+0x8064a50 7 5 EȉD$\b
+0x8064a78 6 4 E؉D$
+0x8064a92 6 4 EȉD$
+0x8064ac7 6 4 E؉D$
+0x8064b02 7 5 EȉD$\b
+0x8064b66 7 5 EȉD$\b
+0x8064bf0 6 4 EȉD$
+0x8064c2b 7 5 EȉD$\b
+0x8064cb1 6 4 EȉT$
+0x8064d28 6 4 UȉT$
+0x8064db8 8 6 4[]Ít&
+0x8064df9 7 5 4[]Ív
+0x8064e2c 6 4 u؉\$
+0x8064e5f 7 5 $)؉D$
+0x8064ecd 6 4 )؉D$
+0x8064fa8 8 5 ]؉EЉE
+0x8064fc1 7 4 )؉Eȋ
+0x8064fd1 8 6 W\f)؋}\f
+0x8064ff2 6 4 ~<1\t
+0x806519b 7 5 }ȉD$\b
+0x8065300 17 16 ;\r\\r\t\b}P;\rT\r\t\b}x
+0x8065352 6 4 ]Ít&
+0x80653f7 7 4 EȍU؍
+0x8065432 7 5 [^_]Ð
+0x806544b 7 5 ȺVUUU
+0x80654c7 6 4 UȉT$
+0x80654ce 6 4 U؉|$
+0x80654fe 7 5 [^_]Ð
+0x8065635 7 5 E؉D$\b
+0x8065769 7 5 EȉD$\b
+0x8065951 7 5 EȉD$\b
+0x8065979 6 4 E؉D$
+0x8065993 6 4 EȉD$
+0x80659c8 6 4 E؉D$
+0x8065a03 7 5 EȉD$\b
+0x8065a67 7 5 EȉD$\b
+0x8065af1 6 4 EȉD$
+0x8065b2c 7 5 EȉD$\b
+0x8065bb2 6 4 EȉT$
+0x8065c29 6 4 UȉT$
+0x8065d26 6 4 EԉD$
+0x8065d81 7 5 Eԉ\$\b
+0x8065f6e 7 5 [^_]Ð
+0x8065fe9 6 4 }ȉ<$
+0x8066060 8 6 [^_]Ív
+0x80660e9 7 5 EȉD$\b
+0x8066150 7 5 UȉT$\b
+0x806626e 6 4 E؉D$
+0x806628d 7 5 EȉD$\b
+0x806633d 6 4 U؉T$
+0x8066354 7 5 EȉD$\b
+0x806635e 6 4 M؉\f$
+0x80663a9 7 5 UȉT$\b
+0x80663b3 6 4 u؉4$
+0x80663e2 6 4 E؉D$
+0x80663f9 7 5 MȉL$\b
+0x8066459 7 5 MȉL$\b
+0x8066498 8 6 4[]Ít&
+0x80664e0 6 4 4[]Í
+0x806667e 7 5 [^_]Ð
+0x80666e5 7 5 Uȉ\$(
+0x8066719 5 4 [^_]
+0x80667fb 7 5 EȉL$\b
+0x806694c 9 5 M܉U䋕,
+0x8066996 6 4 EЉB\b
+0x806699c 6 4 EԉB\f
+0x80669ae 7 4 M̉Uԋ
+0x80669ba 8 5 EЉUȋE
+0x80669fc 6 4 E\tB\b
+0x8066a02 6 4 EĉB\f
+0x8066b58 8 6 [^_]Ív
+0x8066c22 6 4 uԉ4$
+0x8066cae 7 5 [^_]Ð
+0x8066f4f 6 4 EԉD$
+0x8066f6f 7 5 MԉD$\b
+0x8066fc2 6 4 EԉD$
+0x8066fda 7 5 UԉT$\b
+0x8067053 7 4 U܋M؉
+0x80670b9 7 5 MԉD$\b
+0x80670fb 6 4 MԉL$
+0x8067116 7 5 }ԉD$\b
+0x806715d 7 5 MԉD$\b
+0x80671f4 8 6 \[^_]Í
+0x806721d 8 6 \[^_]Ð
+0x8067239 12 7 ~ŋK\f뒍E؉
+0x8067250 7 5 U؉T$\b
+0x8067267 9 5 }ȉ<$诪
+0x8067289 7 5 U؉\$\b
+0x806733e 7 4 㐉T$\b
+0x80673d0 9 5 댍Mȉ\f$
+0x80673e2 8 5 uՍEȍM
+0x8067440 8 5 1\rMȉE
+0x8067464 6 4 MȉT$
+0x80674a8 9 5 봍EȉT$
+0x8067518 8 6 4[]Ít&
+0x8067560 6 4 4[]Ð
+0x806764c 5 4 [^_]
+0x80676a2 7 5 ]\f1ҋ8
+0x80676c2 7 5 [^_]Ð
+0x80676d1 8 6 [^_]Ív
+0x80676f5 6 4 1\v}\f
+0x806776c 10 8 <[^_]É\$
+0x8067824 5 4 np\b\b
+0x8067850 5 4 sp\b\b
+0x8067868 5 4 xp\b\b
+0x8067880 5 4 }p\b\b
+0x8067984 5 4 Up\b\b
+0x806799c 5 4 Zp\b\b
+0x80679b4 5 4 _p\b\b
+0x80679cc 5 4 dp\b\b
+0x80679e4 5 4 ip\b\b
+0x80679f4 5 4 0p\b\b
+0x8067a0c 5 4 5p\b\b
+0x8067a24 5 4 ;p\b\b
+0x8067a3c 5 4 @p\b\b
+0x8067a54 5 4 Ep\b\b
+0x8067a6c 5 4 Jp\b\b
+0x8067a84 5 4 Op\b\b
+0x8067bae 7 5 /usrǅ
+0x8067bb8 7 5 /libǅ
+0x8067bc2 7 5 /Audǅ
+0x8067bcc 7 5 ioSiǅ
+0x8067bd6 7 5 gnalǅ
+0x8067be0 5 4 .dat
+0x8067c7b 5 4 Hq\b\b
+0x8067c98 5 4 Qq\b\b
+0x8067cba 5 4 [q\b\b
+0x8067cdc 5 4 kq\b\b
+0x8067d80 5 4 Ds\b\b
+0x8067e4c 5 4  r\b\b
+0x8067e6e 5 4 6r\b\b
+0x8067e99 5 4 0q\b\b
+0x8067ebd 5 4 lr\b\b
+0x8067ee1 5 4 Lr\b\b
+0x8067f71 5 4 {q\b\b
+0x8067f95 5 4  s\b\b
+0x8068001 5 4 hs\b\b
+0x8068025 5 4 \ft\b\b
+0x806806d 5 4 4t\b\b
+0x80680b5 5 4 Xt\b\b
+0x80681ae 7 5 E܉D$\b
+0x80681d5 5 4 r\r\t\b
+0x80681ed 6 4 E܉D$
+0x8068267 9 7 [^_]Ít&
+0x8068285 7 5 [^_]É
+0x80682bf 6 4 1\vU\b
+0x80683af 7 5 EȉL$\f
+0x80683c9 6 4 EĉD$
+0x80683fb 5 4 r\r\t\b
+0x8068458 6 4 EĉD$
+0x80684a2 7 5 Eĉ\$\f
+0x8068505 6 4 1\vU\f
+0x80685a6 5 4 ? t2
+0x80685c7 6 4 uσ{\b
+0x80685d8 6 4 ? uο
+0x806862a 10 8 \[^_]Ã{\f
+0x8068870 8 5 ߉Mĉ\f$
+0x806898c 6 4 1ۃ}\b
+0x8068b82 9 7 |[^_]Ã}
+0x8068c4b 8 5 M\vEĀ}
+0x8068d18 8 5 U\v]ċ\n
+0x8068dc5 6 4 MՉJ\b
+0x8068dcb 6 4 MىJ\f
+0x8068eca 9 5 MĉËE\v
+0x8068f16 6 4 MՉJ\b
+0x8068f1c 6 4 MىJ\f
+0x806901c 5 4 t\b\bS
+0x8069072 6 4 1\rt&
+0x80690f4 5 4 [^_]
+0x8069150 6 4 tȃx\b
+0x8069232 7 5 [^]Ív
+0x8069268 7 4 E\vU8
+0x806927e 7 5 U\t\$\b
+0x8069319 6 4 ]ȉD$
+0x806931f 10 7 )ËE܉\$\b
+0x8069368 7 6 < t*<\r
+0x8069392 6 4 <\tu҉
+0x80693c5 8 5 E؋E܋M
+0x8069497 6 4 Ủx\b
+0x8069533 6 5 L[^_]
+0x8069599 6 4 ]ĉD$
+0x80695f3 5 4  t'f
+0x8069656 6 4 MԉD$
+0x806965d 7 5 E؉L$\b
+0x80696d8 6 4 UЉ|$
+0x8069713 9 6 UԋM؉p\b
+0x8069735 6 4 EȉP\f
+0x8069908 8 6 tV1\rt&
+0x8069924 6 4 ;)ڍr
+0x8069a53 6 4 EuыT
+0x8069b30 8 6 UĀ:Wt\n
+0x8069b42 10 7 Eč}̉|$\b
+0x8069c98 6 4 EɋC\b
+0x8069c9e 6 4 E͋C\f
+0x8069cf8 6 4 E͉F\b
+0x8069cfe 6 4 EщF\f
+0x8069d49 8 6 \[^_]Ð
+0x8069db6 6 4 1ҋu\b
+0x8069e42 5 4 gfff
+0x8069e87 7 5 Eĉ\$\f
+0x8069eb1 6 4 EȉD$
+0x8069eee 10 8 l[^_]Ít&
+0x8069f42 5 4 r\r\t\b
+0x8069f74 5 4 d\r\t\b
+0x8069ffb 6 5 $r\r\t\b
+0x806a02c 9 6 EȍỦD$
+0x806a036 7 5 EĉT$\b
+0x806a076 7 5 Eȉ\$\f
+0x806a0ba 6 5 $r\r\t\b
+0x806a1a2 6 4 Eԉt$
+0x806a1f4 5 4 p\r\t\b
+0x806a2fd 5 4 ~~kU
+0x806a30c 9 5 UԉEʹ&
+0x806a36a 7 4 uԋEԃ
+0x806a39d 6 4 ƀ\r\t\b
+0x806a3a9 9 6 E܋U؉D$
+0x806a3d0 6 4 U܉|$
+0x806a443 6 4 U܉<$
+0x806a463 7 5 U܉D$\b
+0x806a46a 6 4 E؉T$
+0x806a49d 8 4 U؉EͶ
+0x806a4cc 5 4 VUUU
+0x806a4e0 6 4 )Ѝ40
+0x806a605 7 5 [^_]Í
+0x806a613 7 5 WVS1ۃ
+0x806a628 8 5 EЉƍt&
+0x806a694 6 5 ~wkE\b
+0x806a6a0 12 8 ]̉E؉U܋E\b
+0x806a6f7 9 6 ;]\buԋE
+0x806a70b 6 4 ]̋U\f
+0x806a760 9 6 UЋEԉT$
+0x806a772 6 4 UЉ\$
+0x806a782 5 4 \r\t\b1
+0x806a792 6 4 1\rt&
+0x806a7ea 6 4 1ۍt&
+0x806a854 6 4 1ۋu\f
+0x806a882 7 5 [^_]É
+0x806a893 7 5 WVS1ہ
+0x806a8f8 7 4 }ĉ߉E
+0x806a93d 6 5 ;}\f}W
+0x806a952 7 4 ƋEĉ4
+0x806a989 8 6 ;]\buԋE
+0x806aa0c 6 4 EĉT$
+0x806aa52 6 4 1\rt&
+0x806aabb 6 4 EĉT$
+0x806acbf 5 4 ;]\f|
+0x806acc5 6 4 }ĉ<$
+0x806ace3 5 4 [^_]
+0x806ad97 5 4 +U\f9
+0x806adb0 6 5 |[^_]
+0x806ae58 7 4 ƋEĉ4
+0x806aec1 8 5 U͉U\tE
+0x806aedf 6 4 EĉT$
+0x806afbe 6 4 EĉT$
+0x806affb 6 4 @\r\t\b
+0x806b0ec 5 4 VUUU
+0x806b100 6 4 )Ѝ40
+0x806b2e4 5 4 p\r\t\b
+0x806b312 6 4 1\vE\b
+0x806b3d6 6 4 \b1ɉE
+0x806b400 5 4  ~\t\b
+0x806b463 8 5 ]̉Mȋu
+0x806b476 5 4 VUUU
+0x806b489 6 4 R)Ã=
+0x806b4b6 9 6 \b1҉E\v]
+0x806b680 8 6 |[^_]Ã
+0x806b776 6 5 }\t\btK
+0x806b7c1 7 5 [^_]É
+0x806b7eb 5 4 D$\fD
+0x806b7f3 5 4 D$\bX
+0x806b84b 6 4 U¶\ff
+0x806b8a7 5 4 VUUU
+0x806b8f4 7 4 ۉ]ĉu
+0x806b96c 5 4 \b~\t\b
+0x806ba91 5 4  ~\t\b
+0x806bbb1 6 4 EЉD$
+0x806bcbc 5 4 }\b\bS
+0x806bcf2 5 4 @|\b\b
+0x806bd1f 5 4  {\b\b
+0x806bd3d 5 4 `z\b\b
+0x806bed8 8 6 [^_]Ív
+0x806bf0b 7 6 \rX}\b\b~
+0x806bf5c 5 4 y\b\bS
+0x806bf78 5 4 @y\b\b
+0x806bfad 5 4  x\b\b
+0x806bfcb 5 4 `w\b\b
+0x806bff8 5 4 @v\b\b
+0x806c1e2 9 6 [^_]Ðٽ
+0x806c36f 5 4 `~\t\b
+0x806c379 5 4 `~\t\b
+0x806c3a0 9 7 [^_]Ít&
+0x806c403 5 4 `~\t\b
+0x806c413 5 4 `~\t\b
+0x806c452 5 4 \}\b\b
+0x806c4b2 7 5 [^_]É
+0x806c532 7 5 [^_]É
+0x806c5b7 9 7 [^_]Ít&
+0x806c68b 5 4 [^_]
+0x806c75b 5 4 [^_]
+0x806c7fc 5 4 \bWVS
+0x806c82c 7 5 /usrǅ
+0x806c836 7 5 /libǅ
+0x806c840 7 5 /Audǅ
+0x806c84a 7 5 ioSiǅ
+0x806c854 5 4 gnal
+0x806c860 5 4 .dat
+0x806c8e5 7 5 [^_]Í
+0x806ca13 5 4 [^_]
+0x806ca93 8 6 \b[^_]Í
+0x806cb23 8 6 [^_]À>
+0x806cba3 8 6 \b[^_]Í
+0x806cbfa 6 4 ]Ít&
+0x806cc08 5 4 u\fSf
+0x806cc41 8 6 [^]Ít&
+0x806cc62 6 4 1ҍt&
+0x806cc79 7 5 []Ít&
+0x806cd39 7 5 []Ít&
+0x806cd54 6 4 E\b]Ð
+0x806cdae 7 4 1ۉ؋u
+0x806cdd4 7 5 t؉D$\f
+0x806ce27 6 4 \tD$\b
+0x806cef2 5 4 D$\b 
+0x806cfef 6 4 [^]Ð
+0x806d05f 6 4 [^]Ð
+0x806d0bb 7 5 [^]ÐU
+0x806d1fc 6 4 ҉T$\b
+0x806d213 5 4 E\b90
+0x806d22a 6 5 ,[^_]
+0x806d2c9 7 5 [^]Ðf
+0x806d353 6 4 []Ív
+0x806d383 6 4 []Ív
+0x806d3e6 5 4 D$\bm
+0x806d40a 5 4 /usr
+0x806d411 5 4 /lib
+0x806d416 8 7 @\b/102f
+0x806d41e 5 4 @\f5/
+0x806d453 5 4 .log
+0x806d46f 6 4 [_]Ð
+0x806d53a 6 4 ҉L$\f
+0x806d56d 6 4 ǉD$\f
+0x806d6fa 6 4 _]Ðf
+0x806d72a 6 4 _]Ðf
+0x806d789 7 5 u%1ۋU
+0x806d7aa 6 4 ]Ít&
+0x806d7b2 6 4 t׀x$
+0x806d826 5 4 `}\b\b
+0x806d859 5 4 `}\b\b
+0x806d8fe 7 4 1ۉ؋u
+0x806d938 7 5 tĉD$\f
+0x806d93f 5 4 D$\b 
+0x806d9b8 5 4 D$\b 
+0x806d9e5 5 4 D$\b 
+0x806db28 7 5 WVS1ہ
+0x806dce9 5 4 [^_]
+0x806de31 6 4 1\t4$
+0x806de85 7 5 [^_]Í
+0x806ded1 6 4 1\t4$
+0x806df25 7 5 [^_]Í
+0x806e0ce 6 4 4[]Í
+0x806e10e 6 4 4[]É
+0x806e148 5 4 Unkn
+0x806e15f 5 4 d}\b\b
+0x806e16a 5 4 RAM-
+0x806e171 5 4 Disk
+0x806e182 6 5 CD-Rf
+0x806e19a 6 5 Remof
+0x806e1b2 5 4 Hard
+0x806e1b9 6 5 -Disf
+0x806e1ca 5 4 Remo
+0x806e1d1 6 5 vablf
+0x806e1e2 5 4 No R
+0x806e207 5 4 Unkn
+0x806e212 6 4 ]Ít&
+0x806e22a 5 4 Djuv
+0x806e232 6 4 ]Ít&
+0x806e23a 5 4 Help
+0x806e242 6 4 ]Ít&
+0x806e252 6 5 Offif
+0x806e26a 5 4 Text
+0x806e272 6 4 ]Ít&
+0x806e282 6 5 Movif
+0x806e292 6 5 Audif
+0x806e2a2 6 5 Imagf
+0x806e2b2 6 5 Othef
+0x806e36e 7 5 [^_]Ð
+0x806e411 5 4 vC-!
+0x806e463 6 4 [^]Ð
+0x806e499 8 5 1\vE\bǅ
+0x806e559 8 5 1\vE\bǅ
+0x806e58d 5 4 D$\bd
+0x806e5ce 5 4 D$\b@
+0x806e7ac 5 4 5p\b\b
+0x806e882 5 4 np\b\b
+0x806e8a1 5 4 Up\b\b
+0x806e8c0 5 4 0p\b\b
+0x806e949 7 5 []Ít&
+0x806e9af 6 4 [^]Í
+0x806ea03 5 4 ,;B$
+0x806ea2d 7 4 uЉЉU
+0x806ead7 12 9 ǋEЉ;9x$|\a
+0x806eb33 8 6 $[^_]Ð
+0x806ebdd 7 4 U܅\tE
+0x806ec13 5 4 \f;C$
+0x806ec23 7 5 [^_]Ã
+0x806ec6b 6 4 [\b\tƅ
+0x806ec78 5 4 [^_]
+0x806ecea 7 5 [^_]Ð
+0x806ed97 9 7 [^_]Ít&
+0x806eda7 9 7 [^_]Ít&
+0x806ee4c 7 5 [^_]Í
+0x806ee5d 7 5 [^_]Í
+0x806eeaf 9 7 [^_]Ít&
+0x806eefa 8 6 [^_]ÐU
+0x806f0c6 7 5 [^_]Ð
+0x806f0d5 7 5 [^_]Í
+0x806f133 8 7 D$\b\n~\b\b
+0x806f189 5 4 0[^]
+0x806f239 7 5 [^]Ív
+0x806f241 8 7 D$\b*~\b\b
+0x806f313 7 4 D$\b聮
+0x806f472 6 4 ]Ít&
+0x806f560 6 4 tډ<$
+0x806f953 8 6 ,[^_]Í
+0x806fb6b 6 4 MЀ|9
+0x806fbbb 7 4 MЉEԃ
+0x806fbdb 7 4 ŰMЅ
+0x806fd7e 6 4 E܉x\f
+0x806ff34 6 4 [^]Ð
+0x8070074 5 4 n~\b\b
+0x80700ae 5 4 |~\b\b
+0x80700ec 5 4 @~\b\b
+0x807011b 5 4 @~\b\b
+0x807013b 5 4 @~\b\b
+0x80701b5 8 6 Trieǃ$
+0x80701bf 6 5 /tmpf
+0x80701d7 5 4 Name
+0x80701de 5 4 Dict
+0x80701e3 7 6 F\b.tmp
+0x80701f0 6 4 [^]Í
+0x807020b 5 4 @~\b\b
+0x807022b 5 4 @~\b\b
+0x8070258 6 4 1\v]\b
+0x807027c 7 5 [^_]Í
+0x80702bc 5 4 l~\b\b
+0x80703cd 7 4 T$\b距
+0x807045b 7 5 t#1\vU
+0x807047a 6 4 ]Ít&
+0x80704b5 8 7 C /tmpf
+0x8070578 5 4 n~\b\b
+0x80706d6 5 4 |~\b\b
+0x807076b 7 4 T$\b艘
+0x807080a 6 4 ]Ít&
+0x807082a 6 4 ]Ít&
+0x8070845 5 4 9\vu\f
+0x80709f8 6 4 luՃE
+0x8070a15 8 6 ,[^_]Ð
+0x8070ae7 9 7 [^_]Ít&
+0x8070c03 6 4 []Ív
+0x8070c33 6 4 []Ív
+0x8070c7c 9 6 ~ۋx\b1Ґ
+0x8070cc8 8 6 [^_]Ív
+0x8070d2b 5 4 [^_]
+0x8070dd3 8 6 ,[^_]Í
+0x8070de5 7 5 [^_]Í
+0x8070e83 8 6 [^_]ÍX
+0x8070e93 6 4 ÉT$\b
+0x8070f22 7 5 [^_]Í
+0x8070f3a 6 4 1ۉT$
+0x80710a6 6 4 1ۋG\b
+0x80710b6 8 7 D$\b\n~\b\b
+0x807157c 8 6 ,[^_]Í
+0x80715df 8 6 Hashǃ 
+0x80715e9 5 4 /tmp
+0x8071603 5 4 Name
+0x807160a 5 4 Dict
+0x807160f 7 6 F\b.tmp
+0x8071699 8 5 U؉ƉB\b
+0x80716ba 9 6 1ۉM܍H\t
+0x80716dd 7 4 E܉U؉
+0x80716eb 6 4 M܉F\b
+0x8071738 6 5 ,[^_]
+0x8071846 6 4 1ɋU\b
+0x8071992 9 6 \euӋEɋM
+0x80719a4 6 4 EщA\b
+0x80719aa 6 4 EՉA\f
+0x8071a00 6 5 |[^_]
+0x8071b0b 7 5 Eԉ|$\f
+0x8071b78 6 4 1\v]\b
+0x8071b9c 7 5 [^_]Í
+0x8071bab 6 4 tԀ{\f
+0x8071e0d 8 5 Eċ}ċE
+0x8071f43 6 5 l[^_]
+0x8071ffb 5 4 /tmp
+0x8072208 8 6 t[]Ít&
+0x8072620 8 6 [^_]Ív
+0x80728b0 6 4 tۉT$
+0x807297a 6 4 ]Ít&
+0x8072d48 5 4 \a\bu#
+0x8072e46 7 5 [^_]Ð
+0x8072f37 6 4 $[]Ð
+0x8072f7e 5 4 D$\bC
+0x8072fbe 5 4 D$\bC
+0x807310a 7 5 t܀<\b.
+0x8073146 5 4 D$\bK
+0x8073183 7 5 /medǅ
+0x807318d 7 5 ia/Wǅ
+0x8073197 7 5 ORK/ǅ
+0x80731a1 7 5 Projǅ
+0x80731ab 7 5 ect/ǅ
+0x80731b5 8 6 1025ǅ\b
+0x80731bf 8 6 /Refǅ\f
+0x80731c9 7 5 erenǅ
+0x80731d3 7 5 ce/Tǅ
+0x80731dd 7 5 estDǅ
+0x80731e7 7 5 ocumǅ
+0x8073216 6 4 [_]Í
+0x8073250 6 4 B\f]Í
+0x8073270 6 4 B$]Í
+0x80732c2 6 4 ]Ít&
+0x80732e3 6 4 tЉ]\b
+0x8073496 8 5 E؋E\tE
+0x807349f 6 4 E؉D$
+0x80734db 10 4 %ð㴀耀
+0x80735a6 5 4 D$\b"
+0x80736bc 5 4 [^_]
+0x80737f3 6 4 []Ív
+0x807387d 7 5 \tC\bti
+0x8073889 5 4 C8t_
+0x80738a9 7 5 \tC<t1
+0x80738db 5 4 [^_]
+0x8073935 5 4 <^w/
+0x807395d 7 5 [^_]Í
+0x8073987 6 4 ۉ\$\f
+0x807398d 5 4 D$\bb
+0x8073a7c 6 4 ɉL$\b
+0x8073b21 6 4 CЋt$
+0x8073bea 6 4 ]Ít&
+0x8073c78 6 4 1\vE\b
+0x807411d 5 4 D$\b4
+0x80741e9 12 5 \b 윀⑄쀄
+0x80741f8 14 6 $ 弪�開
+0x8074b34 7 5 [^_]Í
+0x8075052 5 4 D$\f@
+0x80750e4 8 6 D$\ḃ\b\b
+0x8075181 6 4 ɉL$\b
+0x80751ae 5 4 S@<%
+0x80752c9 6 4 \tD$\b
+0x8075352 5 4 D$\b\a
+0x8075509 5 4 D$\b\a
+0x8075589 5 4 D$\b\a
+0x80755c9 5 4 D$\b\a
+0x8075649 5 4 D$\b\n
+0x8075689 5 4 D$\b\n
+0x8075764 7 4 \tEȉE
+0x807580e 6 5 .mimf
+0x80758a3 6 4 ỦP\b
+0x80758ea 10 8 L[^_]ËM\b
+0x8075918 7 5 1҉T$\b
+0x8075939 6 4 Mĉ\f$
+0x8075965 6 5 L[^_]
+0x8075991 6 4 M̉L$
+0x80759d5 5 4 D$\bt
+0x80759ff 6 5 @(@uC
+0x8075a9d 6 4 EЋR\b
+0x8075cc9 5 4 [^_]
+0x8075d5c 6 4 E܋R\b
+0x8075ec7 6 5 479u\b
+0x8075f0a 5 4 ;9E\b
+0x807606c 6 5 D;\bt'
+0x8076096 7 5 \t؉D$\b
+0x8076177 6 4 U\vP\b
+0x807617d 6 4 Uċ@\f
+0x807644c 7 4 \tىȻY
+0x8076724 7 5 ȉT$\f1
+0x80767de 6 4 ȉT$\f
+0x80769c3 5 4 D$\f8
+0x8076a09 12 7 EԈUڈEۋE
+0x8076c45 11 7 ËU҈EӋE
+0x8076c7d 11 7 EĈUʈEˋE
+0x8076ced 7 5 [^_]Ë
+0x8076dc9 7 4 ߘ\b\bǅ
+0x8076e1b 5 4 D$\f8
+0x8076e8c 12 7 EԈUڈEۋE
+0x8076eff 9 7 [^_]Ít&
+0x8077211 7 4 EҋMЉ
+0x8077257 11 7 EĈUʈEˋE
+0x8077367 7 4 ߘ\b\bǅ
+0x8077473 5 4 D$\f@
+0x80774b9 12 7 EԈUڈEۋE
+0x80779cd 11 7 ËU҈EӋE
+0x8077a05 11 7 EĈUʈEˋE
+0x8077a42 9 6 EËE\t\f$
+0x8077ad7 11 8 [^_]øߘ\b\b
+0x8077b26 5 4 D$\bX
+0x8077bea 7 5 t$1\vU
+0x8077c18 6 4 <EuЀ
+0x8077cde 8 4 1҈ʈƉ
+0x8077df3 6 4 ŰW 
+0x8077df9 6 4 UЋW$
+0x8077dff 6 4 UԋW(
+0x8077e05 6 4 U؋W,
+0x8077e0b 6 4 U܋W0
+0x8077e43 8 4 1҈ʈƉ
+0x8077e7b 8 4 ̈ʋMЈ
+0x8077f3b 8 4 ΈȈԋU
+0x8077fd0 8 4 ΈȈԋU
+0x807809e 8 4 ΈȈԋU
+0x8078130 8 4 ΈȈԋU
+0x80781e5 8 4 E����\b\b
+0x807821d 6 4 $[]Í
+0x80782bd 7 5  [^]Í
+0x8078308 8 6 \a)ЉD$\b
+0x80783d4 8 6 D$\bÎ\b\b
+0x8078425 8 6 D$\bɎ\b\b
+0x807844a 8 6 D$\bΎ\b\b
+0x80784ad 8 6 D$\bҎ\b\b
+0x80784c6 6 4 $[]Í
+0x8078821 7 5 \tЉD$\b
+0x8078930 5 4 D$\bd
+0x8078999 7 5 \tЉD$\b
+0x8078b62 5 4 D$\bG
+0x8078d4c 8 6 D$\bŐ\b\b
+0x8078d7c 8 6 D$\bӐ\b\b
+0x8078f36 8 5 1҉EЋU
+0x8078f3e 6 4 1\vZ,
+0x8078f99 10 7 EԍU܉T$\f
+0x807904a 10 8 <[^_]ËB\f
+0x8079082 6 4 UЉZ 
+0x8079093 6 4 UЋz\f
+0x8079166 10 8 ,[^_]Ít&
+0x80791f4 7 5 [^_]Í
+0x807924d 7 5 [^_]Í
+0x80792ea 8 5 ẺU܉M
+0x80792f7 6 5 y xta
+0x8079325 6 4 M̉\f$
+0x8079334 7 5 [^_]Í
+0x8079367 9 7 [^_]Ít&
+0x8079423 6 4 u܉Q\f
+0x807942b 9 6 uȋMȉ\f$
+0x8079514 6 4 ủ4$
+0x807958e 5 4 D$\b\
+0x8079626 5 4 D$\b>
+0x807966e 5 4 D$\bM
+0x80796c3 5 4 D$\bx
+0x8079757 8 5 EԉUЉM
+0x80797bf 7 4 ʈU\tM
+0x807982f 7 4 tߋMȅ
+0x80798de 5 4 D$\bj
+0x8079909 5 4 D$\b-
+0x8079956 6 4 \tD$\f
+0x807995c 5 4 D$\b8
+0x807997a 7 5  [^]Ð
+0x8079994 9 8 <!t`<=t\
+0x80799ee 7 5  [^]Ð
+0x8079a20 8 6  [^]Ív
+0x8079a40 6 4 \tD$\b
+0x8079a97 5 4  [^]
+0x8079aab 7 4 D$\b蝟
+0x8079ab8 6 4 \tD$\b
+0x8079b10 6 4 [^]Í
+0x8079b4d 6 4 \tC\bt
+0x8079b93 8 6 D$\bđ\b\b
+0x8079bb4 5 4 D$\b 
+0x8079c7a 7 6 C\a<\vw0
+0x8079d95 6 4 \tD$\f
+0x8079ddf 9 7 <[^_]Ív
+0x8079dfb 6 5 9}\fr0
+0x8079e35 7 5 [^_]Í
+0x8079e61 6 4 f\vEؘ
+0x8079e6c 5 4 9E\fr
+0x8079ea3 5 4 9E\fr
+0x8079f53 6 4 f\vEؘ
+0x8079fb6 7 5 \b\tE؍G
+0x807a016 7 5 \b\tE؍G
+0x807a047 5 4 \b\bf)
+0x807a060 8 6 [^_]Ív
+0x807a074 5 4 C\a<\v
+0x807a1a9 7 4 \b릍t&
+0x807a976 8 6 D$\bϑ\b\b
+0x807aa84 7 5 P\f9ЉU
+0x807ab88 9 7 |[^_]ËE
+0x807acac 6 5 @( t#
+0x807accf 7 5 @( uݸ
+0x807adc6 6 4 t?1ۍ
+0x807ade9 5 4 [^_]
+0x807ae05 6 4 rɋ]\b
+0x807ae5a 6 4 ]Ít&
+0x807aee1 10 5 ǉÁ甄\b\b
+0x807aeeb 7 4 㕕\b\b%
+0x807aff1 11 7 1\t}̉uȋU
+0x807b0cb 10 5 럋}̋uȃ
+0x807b255 7 4 \b볋M\b
+0x807b33a 7 5 [^_]Ð
+0x807b345 8 6 ,[^_]Ð
+0x807b5bb 8 6 |[^_]Í
+0x807b607 6 5 \bt+9u
+0x807b638 5 4 t+9u
+0x807b6cd 5 4 D$\f8
+0x807b95e 7 5 /tmpǅ
+0x807b968 5 4 /fil
+0x807b97e 6 5 e.XXe
+0x807b993 7 5 XXXXƅ
+0x807b9e6 5 4 D$\bD
+0x807ba1e 7 5 [^_]Ð
+0x807bb0b 5 4 D$\bh
+0x807bb33 6 4 ]Ít&
+0x807bb95 7 5 [^_]Ë
+0x807bc0c 14 13 dump_init.txt
+0x807bc1a 26 25 dictionary free success.\n
+0x807bc34 10 9 filep.dat
+0x807bc41 17 8 파일없음 %s\n
+0x807bc52 26 25 after LoadOrganSoft : %d\n
+0x807bc6c 8 7 /%Y%m%d
+0x807bc74 5 4 .log
+0x807bc79 17 16 cp --force %s %s
+0x807bc8a 10 9 rm -rf %s
+0x807bc94 7 6 reboot
+0x807bc9b 22 21 dictionary path = %s\n
+0x807bcb1 10 9 AnGae.dat
+0x807bcbb 13 12 Warnning.wav
+0x807bcc8 20 19 /usr/lib/syspat.dat
+0x807bcdc 15 14 /usr/lib/organ
+0x807bcec 71 54 ========================== 중복검사사전쓰기 =================\n
+0x807bd34 47 46 dictionary loading success : double engine %d\n
+0x807bdab 9 8 \b6QGList
+0x807bdbf 28 27 \b/usr/share/e-sig/e_sig.dic
+0x807bddb 18 17 backtrace_symbols
+0x807bded 26 13 암호화된 파일 : %s\n
+0x807be07 24 23 FileName %s, Device %s\n
+0x807be1f 30 21 \n불순파일 %s || PID = %d\n
+0x807be3d 19 18 check thread main\n
+0x807be50 9 8 /dev/dvd
+0x807be59 11 10 /dev/cdrom
+0x807be64 6 5 eject
+0x807be6a 5 4 /usr
+0x807be6f 9 8 /usr/bin
+0x807be78 9 8 /usr/lib
+0x807be81 5 4 /tmp
+0x807be86 15 14 /usr/bin/opprc
+0x807be95 16 15 /usr/bin/scnprc
+0x807bea5 25 24 /usr/lib/AudioSignal.dat
+0x807bebe 23 22 /etc/init/ctguard.conf
+0x807bed5 21 20 /usr/lib/libigl.so.0
+0x807beea 21 20 /usr/lib/libmgl.so.0
+0x807beff 9 8 /dev/res
+0x807bf08 17 16 /dev/res error!\n
+0x807bf19 30 29 scan pthread_join failed: %d\n
+0x807bf37 13 12 /proc/mounts
+0x807bf44 21 20 cannot open dir: %s\n
+0x807bf5c 10 9 not root\n
+0x807bf66 16 15 modprobe rtscan
+0x807bf76 16 15 opprcmain error
+0x807bf86 6 5 /proc
+0x807bf8c 11 10 /proc/self
+0x807bf97 14 13 /proc/%s/task
+0x807bfa5 13 12 /proc/%s/exe
+0x807bfb2 12 11 dir error \n
+0x807bfbe 18 17 scan thread main\n
+0x807bfd0 19 18 /root/debuglog.txt
+0x807bfe3 14 13 ./soffice.bin
+0x807bff1 20 19 program/soffice.bin
+0x807c005 19 18 /usr/lib/ksmserver
+0x807c018 8 7 /media/
+0x807c020 6 5 /tmp/
+0x807c028 32 31 /usr/share/e-sig/e_sig.dic.back
+0x807c048 36 35 /usr/share/e-sig/e_sig.dic.back.chk
+0x807c06c 31 30 /usr/share/e-sig/e_sig.dic.chk
+0x807c08c 49 48 signum = %d : backtrace() returned %d addresses\n
+0x807c0c0 56 33 실시간 검사리력을 남긴다. ================ \n
+0x807c0f8 54 21 체계파일들에 대한 보호를 해제합니다.\n
+0x807c130 54 21 체계파일들에 대한 보호를 시작합니다.\n
+0x807c168 36 35 /usr/share/autostart/scnprc.desktop
+0x807c18c 32 31 scan pthread_create failed: %d\n
+0x807c1ac 33 32 check pthread_create failed: %d\n
+0x807c1d0 31 30 check pthread_join failed: %d\n
+0x807c1f0 42 41 receive exit signal = %d. real time stop\n
+0x807c21c 31 30 read self process information\n
+0x807c23c 35 34 /root/.kde/share/config/kdeglobals
+0x807c260 51 50 /Applications/Preview.app/Contents/RedStar/preview
+0x807c294 56 55 /Applications/SGOffice.app/Contents/RedStar/soffice.bin
+0x807c2cc 55 54 /Applications/QuickTime.app/Contents/RedStar/quicktime
+0x807c304 57 56 /Applications/SimpleText.app/Contents/RedStar/simpletext
+0x807c340 47 46 /Applications/Naenara.app/Contents/lib/firefox
+0x807c370 56 55 /Applications/CHMViewer.app/Contents/RedStar/kchmviewer
+0x807c3a8 48 19 /opt/통합사무처리프로그람《우리》
+0x807c3d8 198 197 .mpg.dat.avi.vob.gif.doc.pdf.ppt.xls.mp3.wav.mpa.wma.asf.mp2..jpg.bmp.png.tif.jpeg.tiff.mov.wmv.mp4.rm.rmv.rmvb.swf.flv.3gp.chm..djuv.djv.caj.kdh.teb.nh.caa.docx.xlsx.pptx.txt.htm.html.mht.hwp.pdg.
+0x807c4a0 31 30 aplay -N /usr/lib/Warnning.wav
+0x807c4bf 18 17 /usr/lib/java-1.0
+0x807c4d4 9 8 eject %s
+0x807c4dd 12 11 eject -m %s
+0x807c4e9 12 11 %s/VIDEO_TS
+0x807c4f5 17 16 /proc/%d/cmdline
+0x807c506 8 7 /dev/sr
+0x807c50e 27 26 read CDROM toc header: %s\n
+0x807c529 16 15 ioctl dif2: %s\n
+0x807c539 16 15 ioctl dif1: %s\n
+0x807c549 26 25 read CDROM toc entry: %s\n
+0x807c563 23 22 Failed to open CD-ROM\n
+0x807c57a 22 21 Failed to get cd toc\n
+0x807c590 18 17 Can not open VCD\n
+0x807c5a2 7 6 MPEGAV
+0x807c5a9 26 25 Can not open out file %s\n
+0x807c5c3 30 29 Failed to read data of track\n
+0x807c5e1 27 26 Can not write out file %s\n
+0x807c5fc 36 35 hald-addon-storage: polling /dev/sr
+0x807c620 40 39 ps -e | grep ksmserver | wc -l > /1.txt
+0x807c648 34 33 process is already running %s %s\n
+0x807c66a 7 6 /1.txt
+0x807c671 5 4 HOME
+0x807c676 6 5 /root
+0x807c67c 23 22 process first running\n
+0x807c693 8 7 scandir
+0x807c6af 20 19 \b16CMultiPatternMgr
+0x807c6ca 12 11 \a\b%s : %s, 
+0x807c6d6 12 11 UnkFunc => 
+0x807c6e2 9 8 UnkTrgFN
+0x807c6eb 13 12 172.16.100.3
+0x807c6f8 14 13 192.168.9.245
+0x807c706 13 12 192.168.9.43
+0x807c713 13 12 192.168.9.49
+0x807c720 14 13 192.168.9.119
+0x807c740 43 16 자료기지를 갱신할수 없습니다.
+0x807c780 40 15 자료기지가 낡은 판본입니다.
+0x807c7c0 40 15 자료기지가 같은 판본입니다.
+0x807c800 55 20 자료기지갱신파일이 존재하지 않습니다.
+0x807c840 94 37 자료기지를 성과적으로 갱신하였습니다.<br>체계를 재기동하겠습니다.
+0x807c8a0 112 43 검사도중 기동된 응용프로그람들이<br>비정상동작할수 있으므로 완료시켜주십시오.
+0x807c920 32 11 서류철을 선택하십시오
+0x807c940 75 32 체계가 파괴되였으므로 \r\n<br>체계를 다시 설치하십시오.
+0x807c9a0 75 42 프로그람판본: %.1f\r\n자료기지갱신날자: 주체%d(%d)-%.2d-%.2d
+0x807ca00 105 60 프로그람판본: %.1f%s<br>자료기지갱신날자: 주체%d(%d)-%.2d-%.2d<br>하드계렬번호: %s
+0x807ca80 36 13 체계를 재기동하겠습니다.
+0x807cac0 66 25 일반사용자에서는 이 기능을 리용할수 없습니다.
+0x807cb09 19 6 프로그람정보
+0x807cb1c 19 6 자료기지갱신
+0x807cb30 17 16 /usr/share/magic
+0x807cb41 17 16 /usr/lib/magiccb
+0x807cb52 15 14 /usr/bin/opprc
+0x807cb61 8 7 /insert
+0x807cb69 6 5 /Year
+0x807cb6f 7 6 /Month
+0x807cb76 5 4 /Day
+0x807cb7b 7 6 /ptime
+0x807cb82 12 11 /updatetime
+0x807cb92 19 6 실시간감시부
+0x807cba5 15 14 /tmp/AnGae.dat
+0x807cbb4 16 15 /tmp/scnprc.ini
+0x807cbc4 15 14 /tmp/OSUpdate/
+0x807cbd3 21 20 /tmp/fdas_update.udb
+0x807cbe8 19 18 /usr/bin/runoncerf
+0x807cbfb 22 21 /etc/init.d/runoncerf
+0x807cc11 13 12 FileName.bin
+0x807cc1e 25 24 /program/fdas_update.udb
+0x807cc40 15 14 /tmp/AnGae.dat
+0x807cd44 16 15 /tmp/scnprc.ini
+0x807ce48 21 20 /usr/bin/redflag.bmp
+0x807cf4c 25 24 /usr/lib/AudioSignal.dat
+0x807d050 22 21 /usr/lib/Warnning.wav
+0x807d154 21 20 /usr/lib/libigl.so.0
+0x807d258 21 20 /usr/lib/libmgl.so.0
+0x807d35c 17 16 /usr/lib/magiccb
+0x807d460 45 44 /usr/share/locale/ko_KP/LC_MESSAGES/organ.mo
+0x807d564 46 45 /usr/share/locale/ko_KP/LC_MESSAGES/scnprc.mo
+0x807d668 19 18 /usr/bin/runoncerf
+0x807d870 20 19 /usr/lib/tmpsrc.tmp
+0x807d884 7 6 %H%M%S
+0x807d88b 15 14 %s%s%s_lnk%s%s
+0x807d89a 13 12 %s%s%s%s.lnk
+0x807d8b2 9 8 .profile
+0x807d8bb 6 5 EUCKP
+0x807d8c1 6 5 UTF-8
+0x807d8cb 5 4 %s%d
+0x807d8d0 7 6 WWWWWW
+0x807d8e0 6 5 WWWWW
+0x807d8eb 23 22 /usr/tmp/kdecache-1025
+0x807d932 6 5 des.c
+0x807d938 20 19 (pt != ((void *)0))
+0x807d94c 20 19 (ct != ((void *)0))
+0x807d960 21 20 (key != ((void *)0))
+0x807d975 22 21 (skey != ((void *)0))
+0x807d98b 20 19 Input DataLength = 
+0x807d99f 12 11 \nNo match!\n
+0x807d9ab 26 25 \nEncrypt and Decrypt OK!\n
+0x807d9c8 41 40 \nDataLength have to be a multiple of 4!\n
+0x807da00 16 15 des_ecb_decrypt
+0x807e3aa 12 5 \b\b\b\b\b
+0x807e3b6 12 5 \b\b\b\b\b
+0x807e3d0 22 10 \b\bࠀ\b\b\bࠈ\bࠀ\b
+0x807e3ec 10 4 \b\bࠈ\b
+0x807e3fc 38 18 \b\bࠀ\bࠀ\bࠀ\bࠈ\bࠈ\bࠀ\bࠈ\bࠈ\b
+0x807e485 16 7 \b\b\bࠀ\bࠈ\b
+0x807e4cc 6 5 \b\b\b\b\b
+0x807e4d5 5 4 \b\b\b\b
+0x807e4dc 5 4 \b\b\b\b
+0x807e4ee 5 4 \b\b\b\b
+0x807e4f6 5 4 \b\b\b\b
+0x807e50c 7 6 \b\b\b\b\b\b
+0x807e515 6 5 \b\b\b\b\b
+0x807e51c 5 4 \b\b\b\b
+0x807e52a 12 5 \b\bࠀ\b\b
+0x807e545 16 7 \b\bࠀࠀ\bࠈࠀ
+0x807e56f 5 4 \b\b\b\b
+0x807e577 5 4 \b\b\b\b
+0x807e585 16 7 \b\bࠈࠀ\bࠈࠈ
+0x807e597 5 4 \b\b\b\b
+0x807e5aa 12 5 \b\bࠈ\b\b
+0x807e5cc 6 5 \b\b\b\b\b
+0x807e5d5 5 4 \b\b\b\b
+0x807e5dc 5 4 \b\b\b\b
+0x807e5ee 6 5 \b\b\b\b\b
+0x807e5f6 6 5 \b\b\b\b\b
+0x807e60c 8 7 \b\b\b\b\b\b\b
+0x807e615 7 6 \b\b\b\b\b\b
+0x807e61c 5 4 \b\b\b\b
+0x807e693 14 6 \b\bࠀ\bࠈ\b
+0x807e6b6 12 5 \b\bࠀ\b\b
+0x807e6cb 5 4 \b\b\b\b
+0x807e6db 5 4 \b\b\b\b
+0x807e70b 5 4 \b\b\b\b
+0x807e71b 5 4 \b\b\b\b
+0x807e74a 5 4 \b\b\b\b
+0x807e75a 5 4 \b\b\b\b
+0x807e769 5 4 \b\b\b\b
+0x807e770 5 4 \b\b\b\b
+0x807e778 6 5 \b\b\b\b\b
+0x807e789 6 5 \b\b\b\b\b
+0x807e790 5 4 \b\b\b\b
+0x807e798 7 6 \b\b\b\b\b\b
+0x807e7b6 12 5 \b\bࠈ\b\b
+0x807e7ca 6 5 \b\b\b\b\b
+0x807e7da 6 5 \b\b\b\b\b
+0x807e7e9 5 4 \b\b\b\b
+0x807e7f0 5 4 \b\b\b\b
+0x807e7f8 6 5 \b\b\b\b\b
+0x807e809 7 6 \b\b\b\b\b\b
+0x807e810 5 4 \b\b\b\b
+0x807e818 8 7 \b\b\b\b\b\b\b
+0x807e87f 36 17 \b\b\b\b\b\bࠈ\bࠈ\b\b\bࠈ\bࠈ\b\b
+0x807e8cb 7 6 \b\b\b\b\b\b
+0x807e8d5 5 4 \b\b\b\b
+0x807e8db 6 5 \b\b\b\b\b
+0x807e8e1 70 34 \b\bࠀ\b\bࠈࠀࠈ\b\bࠀࠈ\bࠈࠀ\b\b\bࠈ\b\bࠈࠈࠈ\b\bࠈࠈ\bࠈࠈ\bࠀ\b
+0x807e945 34 16 \b\bࠀࠈ\bࠈࠀ\b\bࠈࠀࠈ\b\bࠈ\b
+0x807e969 5 4 \b\b\b\b
+0x807e96f 6 5 \b\b\b\b\b
+0x807e977 7 6 \b\b\b\b\b\b
+0x807e985 158 78 \b\bࠈࠈ\bࠈࠈ\b\bࠈࠈࠈ\b\bࠀ\bࠀ\bࠀࠈࠀࠈࠀ\bࠀࠈࠀࠈࠀ\bࠀ\bࠈ\bࠀࠈࠈࠈࠀ\bࠈࠈࠀࠈࠈ\bࠈ\bࠀ\bࠈࠈࠀࠈࠈ\bࠀࠈࠈࠈࠀ\bࠈ\bࠈ\bࠈࠈࠈࠈࠈ\bࠈࠈࠈࠈࠈ\b
+0x8080baa 12 5 @@@@@
+0x8080bb6 12 5 @@@@@
+0x8080bd0 22 10 @@䀀@@@䁀@䀀@
+0x8080bec 10 4 @@䁀@
+0x8080bfc 38 18 @@䀀@䀀@䀀@䁀@䁀@䀀@䁀@䁀@
+0x8080c85 16 7 @@@䀀@䁀@
+0x8080ccc 6 5 @@@@@
+0x8080cd5 5 4 @@@@
+0x8080cdc 5 4 @@@@
+0x8080cee 5 4 @@@@
+0x8080cf6 5 4 @@@@
+0x8080d0c 7 6 @@@@@@
+0x8080d15 6 5 @@@@@
+0x8080d1c 5 4 @@@@
+0x8080d2a 12 5 @@䀀@@
+0x8080d45 16 7 @@䀀䀀@䁀䀀
+0x8080d6f 5 4 @@@@
+0x8080d77 5 4 @@@@
+0x8080d85 16 7 @@䁀䀀@䁀䁀
+0x8080d97 5 4 @@@@
+0x8080daa 12 5 @@䁀@@
+0x8080dcc 6 5 @@@@@
+0x8080dd5 5 4 @@@@
+0x8080ddc 5 4 @@@@
+0x8080dee 6 5 @@@@@
+0x8080df6 6 5 @@@@@
+0x8080e0c 8 7 @@@@@@@
+0x8080e15 7 6 @@@@@@
+0x8080e1c 5 4 @@@@
+0x8080e93 14 6 @@䀀@䁀@
+0x8080eb6 12 5 @@䀀@@
+0x8080ecb 5 4 @@@@
+0x8080edb 5 4 @@@@
+0x8080f0b 5 4 @@@@
+0x8080f1b 5 4 @@@@
+0x8080f4a 5 4 @@@@
+0x8080f5a 5 4 @@@@
+0x8080f69 5 4 @@@@
+0x8080f70 5 4 @@@@
+0x8080f78 6 5 @@@@@
+0x8080f89 6 5 @@@@@
+0x8080f90 5 4 @@@@
+0x8080f98 7 6 @@@@@@
+0x8080fb6 12 5 @@䁀@@
+0x8080fca 6 5 @@@@@
+0x8080fda 6 5 @@@@@
+0x8080fe9 5 4 @@@@
+0x8080ff0 5 4 @@@@
+0x8080ff8 6 5 @@@@@
+0x8081009 7 6 @@@@@@
+0x8081010 5 4 @@@@
+0x8081018 8 7 @@@@@@@
+0x808107f 36 17 @@@@@@䁀@䁀@@@䁀@䁀@@
+0x80810cb 7 6 @@@@@@
+0x80810d5 5 4 @@@@
+0x80810db 6 5 @@@@@
+0x80810e1 70 34 @@䀀@@䁀䀀䁀@@䀀䁀@䁀䀀@@@䁀@@䁀䁀䁀@@䁀䁀@䁀䁀@䀀@
+0x8081145 34 16 @@䀀䁀@䁀䀀@@䁀䀀䁀@@䁀@
+0x8081169 5 4 @@@@
+0x808116f 6 5 @@@@@
+0x8081177 7 6 @@@@@@
+0x8081185 158 78 @@䁀䁀@䁀䁀@@䁀䁀䁀@@䀀@䀀@䀀䁀䀀䁀䀀@䀀䁀䀀䁀䀀@䀀@䁀@䀀䁀䁀䁀䀀@䁀䁀䀀䁀䁀@䁀@䀀@䁀䁀䀀䁀䁀@䀀䁀䁀䁀䀀@䁀@䁀@䁀䁀䁀䁀䁀@䁀䁀䁀䁀䁀@
+0x80813aa 12 5      
+0x80813b6 12 5      
+0x80813d0 22 10       †   
+0x80813ec 10 4   † 
+0x80813fc 38 18         † †   † † 
+0x8081485 16 7      † 
+0x80814cc 6 5      
+0x80814d5 5 4     
+0x80814dc 5 4     
+0x80814ee 5 4     
+0x80814f6 5 4     
+0x808150c 7 6       
+0x8081515 6 5      
+0x808151c 5 4     
+0x808152a 12 5      
+0x8081545 16 7      † 
+0x808156f 5 4     
+0x8081577 5 4     
+0x8081585 16 7   †  ††
+0x8081597 5 4     
+0x80815aa 12 5   †  
+0x80815cc 6 5      
+0x80815d5 5 4     
+0x80815dc 5 4     
+0x80815ee 6 5      
+0x80815f6 6 5      
+0x808160c 8 7        
+0x8081615 7 6       
+0x808161c 5 4     
+0x8081693 14 6     † 
+0x80816b6 12 5      
+0x80816cb 5 4     
+0x80816db 5 4     
+0x808170b 5 4     
+0x808171b 5 4     
+0x808174a 5 4     
+0x808175a 5 4     
+0x8081769 5 4     
+0x8081770 5 4     
+0x8081778 6 5      
+0x8081789 6 5      
+0x8081790 5 4     
+0x8081798 7 6       
+0x80817b6 12 5   †  
+0x80817ca 6 5      
+0x80817da 6 5      
+0x80817e9 5 4     
+0x80817f0 5 4     
+0x80817f8 6 5      
+0x8081809 7 6       
+0x8081810 5 4     
+0x8081818 8 7        
+0x808187f 36 17       † †   † †  
+0x80818cb 7 6       
+0x80818d5 5 4     
+0x80818db 6 5      
+0x80818e1 70 34      † †   † †    †  †††  †† ††   
+0x8081945 34 16    † †   † †  † 
+0x8081969 5 4     
+0x808196f 6 5      
+0x8081977 7 6       
+0x8081985 168 83   †† ††  †††       † †   † †    †  †††  †† †† †   †† ††  †††  † † ††††† †††††  Ȁ Ȅ\b
+0x8082b10 5 4 \b\b\b\b
+0x8082b18 5 4 \b\b\b\b
+0x8082bff 5 4 \b\b\b\b
+0x8082c07 5 4 \b\b\b\b
+0x8082c0f 6 5 \b\b\b\b\b
+0x8082c17 6 5 \b\b\b\b\b
+0x8082d10 5 4 \b\b\b\b
+0x8082d18 5 4 \b\b\b\b
+0x8082d71 20 9 \b\bࠀ\b\bȈࠀ\bࠈ
+0x8082dde 5 4 \b\b\b\b
+0x8082de6 5 4 \b\b\b\b
+0x8082dee 5 4 \b\b\b\b
+0x8082df6 5 4 \b\b\b\b
+0x8082dfe 6 5 \b\b\b\b\b
+0x8082e06 6 5 \b\b\b\b\b
+0x8082e0e 7 6 \b\b\b\b\b\b
+0x8082e16 7 6 \b\b\b\b\b\b
+0x8082ef3 18 8 \b\bࠀ\bȈ\bࠀࠈ
+0x8082f10 5 4 \b\b\b\b
+0x8082f18 5 4 \b\b\b\b
+0x8082f45 32 15 \b\bࠀȀ\b\bࠀ\b\b\bࠀȈ\b\b\b
+0x8082f65 32 15 \b\b\bȀ\b\b\b\b\b\b\bȈ\b\bࠈ
+0x8082f85 30 14 \b\bࠈȀ\b\bࠈ\b\b\bࠈȈ\bࠈ
+0x8082ff3 18 8 \b\bࠈ\bȈ\bࠈࠈ
+0x8083007 5 4 \b\b\b\b
+0x808300f 6 5 \b\b\b\b\b
+0x8083017 6 5 \b\b\b\b\b
+0x80830c0 36 17 \b\bࠀ\b\b\bࠂ\b\bࠈࠀ\b\bࠈࠂ\bࠈ
+0x8083110 5 4 \b\b\b\b
+0x8083118 5 4 \b\b\b\b
+0x8083171 20 9 \b\bࠈ\b\bȈࠈ\bࠈ
+0x808319d 5 4 \b\b\b\b
+0x80831a5 5 4 \b\b\b\b
+0x80831ad 5 4 \b\b\b\b
+0x80831b5 5 4 \b\b\b\b
+0x80831bd 5 4 \b\b\b\b
+0x80831c5 5 4 \b\b\b\b
+0x80831cd 5 4 \b\b\b\b
+0x80831d5 5 4 \b\b\b\b
+0x80831dd 6 5 \b\b\b\b\b
+0x80831e5 6 5 \b\b\b\b\b
+0x80831ed 6 5 \b\b\b\b\b
+0x80831f5 6 5 \b\b\b\b\b
+0x80831fd 7 6 \b\b\b\b\b\b
+0x8083205 7 6 \b\b\b\b\b\b
+0x808320d 8 7 \b\b\b\b\b\b\b
+0x8083215 8 7 \b\b\b\b\b\b\b
+0x8083299 5 4    \b
+0x8083310 5 4     
+0x8083318 6 5     \b
+0x8083399 5 4    \b
+0x80833ca 12 5  \b  †
+0x80833ff 5 4     
+0x8083407 5 4     
+0x808340f 6 5      
+0x8083417 7 6      \b
+0x808346c 10 4 \b   
+0x808348c 10 4 \b  †
+0x8083499 5 4    \b
+0x80834ac 10 4 \b   
+0x80834b6 16 7    \b   
+0x80834c6 16 7    \b  †
+0x80834d6 14 6   †\b †
+0x80834ec 10 4 \b † 
+0x808350c 10 4 \b ††
+0x8083518 6 5     \b
+0x8083571 20 9      ࠠ  †
+0x8083599 5 4    \b
+0x80835ca 12 5  \b† †
+0x80835de 5 4     
+0x80835e6 5 4     
+0x80835ee 5 4     
+0x80835f6 5 4     
+0x80835fe 6 5      
+0x8083606 6 5      
+0x808360e 7 6       
+0x8083616 8 7       \b
+0x808365a 5 4   \b 
+0x8083699 6 5    \b 
+0x80836da 5 4   \b 
+0x80836f3 18 8     ࠠ  †
+0x8083710 5 4     
+0x8083718 7 6     \b 
+0x8083745 32 15    ࠀ       ࠠ   
+0x8083765 32 15    ࠀ       ࠠ  †
+0x8083785 30 14   †ࠀ  †   †ࠠ †
+0x80837da 5 4   \b 
+0x80837f3 18 8   † ࠠ ††
+0x8083807 5 4     
+0x808380f 6 5      
+0x8083817 8 7      \b 
+0x808383b 5 4  \b  
+0x808385a 6 5   \b  
+0x808387b 5 4  \b  
+0x8083899 7 6    \b  
+0x80838bb 5 4  \b  
+0x80838c0 36 17          †   †  †
+0x80838fb 5 4  \b  
+0x8083910 5 4     
+0x8083918 8 7     \b  
+0x808392c 5 4 \b   
+0x808393b 6 5  \b   
+0x808394c 5 4 \b   
+0x808395a 7 6   \b   
+0x808396c 5 4 \b   
+0x8083971 20 9   †  ࠠ† †
+0x808398c 5 4 \b   
+0x8083999 9 8    \b    
+0x80839a5 5 4     
+0x80839ac 6 5 \b    
+0x80839b5 5 4     
+0x80839bb 7 6  \b    
+0x80839c5 5 4     
+0x80839cc 6 5 \b    
+0x80839d5 5 4     
+0x80839da 9 8   \b     
+0x80839e5 6 5      
+0x80839ec 7 6 \b     
+0x80839f5 6 5      
+0x80839fb 9 8  \b      
+0x8083a05 7 6       
+0x8083a0c 9 8 \b       
+0x8083a15 12 11        \b   
+0x8085b10 5 4 @@@@
+0x8085b18 5 4 @@@@
+0x8085bff 5 4 @@@@
+0x8085c07 5 4 @@@@
+0x8085c0f 6 5 @@@@@
+0x8085c17 6 5 @@@@@
+0x8085d10 5 4 @@@@
+0x8085d18 5 4 @@@@
+0x8085d71 20 9 @@䀀@@၀䀀@䁀
+0x8085dde 5 4 @@@@
+0x8085de6 5 4 @@@@
+0x8085dee 5 4 @@@@
+0x8085df6 5 4 @@@@
+0x8085dfe 6 5 @@@@@
+0x8085e06 6 5 @@@@@
+0x8085e0e 7 6 @@@@@@
+0x8085e16 7 6 @@@@@@
+0x8085ef3 18 8 @@䀀@၀@䀀䁀
+0x8085f10 5 4 @@@@
+0x8085f18 5 4 @@@@
+0x8085f45 32 15 @@䀀က@@䀀@@@䀀၀@@@
+0x8085f65 32 15 @@@က@@@@@@@၀@@䁀
+0x8085f85 30 14 @@䁀က@@䁀@@@䁀၀@䁀
+0x8085ff3 18 8 @@䁀@၀@䁀䁀
+0x8086007 5 4 @@@@
+0x808600f 6 5 @@@@@
+0x8086017 6 5 @@@@@
+0x80860c0 36 17 @@䀀@@@䀐@@䁀䀀@@䁀䀐@䁀
+0x8086110 5 4 @@@@
+0x8086118 5 4 @@@@
+0x8086171 20 9 @@䁀@@၀䁀@䁀
+0x808619d 5 4 @@@@
+0x80861a5 5 4 @@@@
+0x80861ad 5 4 @@@@
+0x80861b5 5 4 @@@@
+0x80861bd 5 4 @@@@
+0x80861c5 5 4 @@@@
+0x80861cd 5 4 @@@@
+0x80861d5 5 4 @@@@
+0x80861dd 6 5 @@@@@
+0x80861e5 6 5 @@@@@
+0x80861ed 6 5 @@@@@
+0x80861f5 6 5 @@@@@
+0x80861fd 7 6 @@@@@@
+0x8086205 7 6 @@@@@@
+0x808620d 8 7 @@@@@@@
+0x8086215 8 7 @@@@@@@
+0x808621d 19 18 @@@des_ecb_encrypt
+0x8086230 10 9 des_setup
+0x8086240 5 4 80( 
+0x8086248 5 4 91)!
+0x8086250 5 4 :2*"
+0x8086258 9 8 ;3+#>6.&
+0x8086264 5 4 =5-%
+0x808626c 5 4 <4,$
+0x80862df 16 15 '2, /+0&7!4-)1#
+0x8086360 12 11 /tmp/tmpdev
+0x808636c 20 19 hard disk s/n : %s\n
+0x8086380 5 4 WD-W
+0x8086385 13 12 %05.5X%08.8X
+0x8086392 24 23 get disk serial number\n
+0x80863aa 24 23 string length = %d, %s\n
+0x80863c2 19 18 get disk s/n fail\n
+0x80863d8 40 15 자료기지가 낡은 판본입니다.
+0x8086400 45 20 <%s>\r\n파일읽기가 실패하였습니다.
+0x8086430 108 41 자료기지파일이 파괴되였습니다.\r\n자료기지파일을 삭제하고 다시 구축하십시오.
+0x808649c 45 20 <%s>\r\n파일열기가 실패하였습니다.
+0x80864c9 25 24 src/UserPatternDBMgr.cpp
+0x80864e2 21 20 nPartLen < nBuffSize
+0x80864fb 14 13 nCmpFlag <= 0
+0x8086509 9 8 _001.tmp
+0x8086514 37 14 자료기지에 쓸수 없습니다.
+0x8086540 35 34 void repeatData(char*, int, int32)
+0x8086580 58 57 int32 CUserPatternDBMgr::loadDB(const TCHAR*, bool, bool)
+0x80865cf 9 8 \b6CDBMgr
+0x80865e5 5 4 e\b\b0
+0x80865ef 12 11 \b9CDBInxMgr
+0x8086601 10 9 e\b\bhash.c
+0x808660b 20 19 (md != ((void *)0))
+0x808661f 22 21 (hash != ((void *)0))
+0x8086635 21 20 (buf != ((void *)0))
+0x808664a 10 9 sha1_done
+0x8086654 14 13 sha1_compress
+0x8086662 10 9 sha1_init
+0x808666c 13 12 sha1_process
+0x8086679 22 21 PublicKey Filename = 
+0x808668f 21 20 \nMessage Filename = 
+0x80866a4 18 17 \nSign Filename = 
+0x80866b6 11 10 Error: %s\n
+0x80866c1 8 7 Out.dec
+0x80866c9 23 22 PrivateKey Filename = 
+0x80866e0 28 27 RSA signed hash: %lu bytes\n
+0x80866fc 8 7 Out.enc
+0x8086704 43 42 Took %.0f ms to make a %ld-byte RSA Sign.\n
+0x808673a 22 21 zDInvalid error code.
+0x8086750 6 5 rsa.c
+0x8086756 20 19 (in != ((void *)0))
+0x808676a 21 20 (out != ((void *)0))
+0x808677f 24 23 (outlen != ((void *)0))
+0x8086797 21 20 (dst != ((void *)0))
+0x80867ac 21 20 (src != ((void *)0))
+0x80867c1 21 20 (sig != ((void *)0))
+0x80867d6 22 21 (stat != ((void *)0))
+0x80867ec 9 8 CRYPT_OK
+0x80867f5 12 11 CRYPT_ERROR
+0x8086801 17 16 Buffer overflow.
+0x8086812 22 21 Invalid input packet.
+0x8086828 24 23 Error reading the PRNG.
+0x8086840 26 25 Invalid cipher specified.
+0x808685a 24 23 Invalid hash specified.
+0x8086872 24 23 Invalid PRNG specified.
+0x808688a 15 14 Out of memory.
+0x8086899 30 29 A private PK key is required.
+0x80868b7 27 26 Invalid argument provided.
+0x80868d2 15 14 File Not Found
+0x80868e1 17 16 Invalid PK type.
+0x80868f2 19 18 Invalid PK system.
+0x8086905 26 25 Key not found in keyring.
+0x808691f 25 24 Invalid sized parameter.
+0x8086938 24 23 Invalid size for prime.
+0x8086960 16 15 rsa_verify_hash
+0x8086970 14 13 rsa_sign_hash
+0x808697e 14 13 rsa_signdepad
+0x808698c 12 11 rsa_signpad
+0x8086998 11 10 rsa_import
+0x80869a3 12 11 rsa_exptmod
+0x80869af 9 8 rsa_free
+0x80869b8 20 19 packet_store_header
+0x80869cc 20 19 packet_valid_header
+0x8086a05 8 7 g\b\bhj\b\b
+0x8086a21 20 19 j\b\b(h\b\b@h\b\bZh\b\brh\b\b
+0x8086a35 8 7 h\b\b k\b\b
+0x8086a4d 8 7 h\b\bTk\b\b
+0x8086a59 15 14 i\b\b8i\b\bzeromem
+0x8086a68 36 35 Non-fatal 'no-operation' requested.
+0x8086a8c 34 33 Invalid keysize for block cipher.
+0x8086ab0 43 42 Invalid number of rounds for block cipher.
+0x8086adc 31 30 Algorithm failed test vectors.
+0x8086afc 35 34 Invalid number of bits for a PRNG.
+0x8086b20 51 50 Invalid PK key or key type specified for function.
+0x8086b54 35 34 Duplicate PK key found on keyring.
+0x8086b78 65 64 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz+/
+0x8087030 5 4 .jpg
+0x8087035 6 5 .jpeg
+0x808703b 5 4 .bmp
+0x8087040 5 4 .png
+0x8087045 5 4 .gif
+0x808704a 5 4 .tif
+0x808704f 6 5 .tiff
+0x8087055 5 4 .mp3
+0x808705a 5 4 .wma
+0x808705f 5 4 .asf
+0x8087064 5 4 .mpa
+0x8087069 5 4 .mp2
+0x808706e 5 4 .avi
+0x8087073 5 4 .swf
+0x8087078 5 4 .wmv
+0x808707d 5 4 .3gp
+0x8087082 6 5 .3gpp
+0x8087088 5 4 .mpg
+0x808708d 6 5 .mpeg
+0x8087093 5 4 .mp4
+0x8087098 5 4 .vob
+0x80870a1 5 4 .rmv
+0x80870a6 6 5 .rmvb
+0x80870ac 6 5 .html
+0x80870b2 5 4 .htm
+0x80870b7 5 4 .mht
+0x808712f 25 24 \bigl_handle = NULL : %s\n
+0x8087148 9 8 igl_open
+0x8087151 10 9 igl_close
+0x808715b 16 15 igl_get_rgbdata
+0x808716b 16 15 igl_put_rgbdata
+0x808717b 24 23 dlopen mgl_handle : %s\n
+0x8087193 9 8 mgl_init
+0x808719c 9 8 mgl_free
+0x80871a5 13 12 mgl_agp_open
+0x80871b2 26 25 mgl_agp_get_audio_pcmdata
+0x80871cc 26 25 mgl_agp_put_audio_pcmdata
+0x80871e6 14 13 mgl_agp_close
+0x80871f4 9 8 mgl_open
+0x80871fd 25 24 get mgl_open error : %s\n
+0x8087216 10 9 mgl_close
+0x8087220 22 21 mgl_get_audio_pcmdata
+0x8087236 22 21 mgl_put_audio_pcmdata
+0x808724c 32 31 get igl_open symbol error : %s\n
+0x808726c 33 32 get igl_close symbol error : %s\n
+0x8087290 39 38 get igl_get_rgbdata symbol error : %s\n
+0x80872b8 39 38 get igl_put_rgbdata symbol error : %s\n
+0x80872e0 32 31 get mgl_init symbol error : %s\n
+0x8087300 32 31 get mgl_free symbol error : %s\n
+0x8087320 36 35 get mgl_agp_open symbol error : %s\n
+0x8087344 34 33 mgl_agp_set_audio_samples_per_get
+0x8087368 57 56 get mgl_agp_set_audio_samples_per_get symbol error : %s\n
+0x80873a4 49 48 get mgl_agp_get_audio_pcmdata symbol error : %s\n
+0x80873d8 49 48 get mgl_agp_put_audio_pcmdata symbol error : %s\n
+0x808740c 37 36 get mgl_agp_close symbol error : %s\n
+0x8087434 33 32 get mgl_close symbol error : %s\n
+0x8087458 45 44 get mgl_get_audio_pcmdata symbol error : %s\n
+0x8087488 45 44 get mgl_put_audio_pcmdata symbol error : %s\n
+0x80874b5 5 4 WM%s
+0x80874c5 6 4 XH&J
+0x80874d0 5 4 \fNgU
+0x808750b 5 4 )8[g
+0x8087521 5 4 2K`S
+0x8087551 5 4 c"v(
+0x808756b 5 4 "WAJ
+0x8087579 6 4 Anzո
+0x808758c 5 4 =3yv
+0x8087598 7 6 abc000
+0x80875a8 7 6 333333
+0x80876c7 6 4 ?5ċ=
+0x8087767 8 5 ?R˛lڹ
+0x808776f 5 4 ?n\aW
+0x80877b1 5 4 \tx'J
+0x80877c0 5 4 z*3y
+0x8087899 5 4 *5E[
+0x8087922 9 6 .U?xￔx
+0x80879b7 6 5 ?yF}X
+0x80879ca 5 4 C.A:
+0x8087a37 5 4 ?nNf
+0x8087d09 6 5 43|'Q
+0x8087d17 5 4 ?u,h
+0x8087d2f 8 6 ?רx{Lp
+0x8087d3a 5 4 /Dvs
+0x8087d53 6 4 `\vײ?
+0x8087db2 16 7 nk_disk
+0x8087dc4 5 4 .nrg
+0x8087dc9 6 5 ddpms
+0x8087dcf 5 4 .ixa
+0x8087def 8 7 \broot\r\n
+0x8087df7 6 5 %s\t| 
+0x8087dfd 13 12 %s, %d, %d\r\n
+0x8087e0a 5 4 %s\r\n
+0x8087e0f 27 24 Dictionary Count = %d개\r\n
+0x8087e2a 14 13 tree empty.\r\n
+0x8087e3c 5 4 d~\b\b
+0x8087e46 27 26 \a\b22MCSuffixTreeDictionary
+0x8087e67 7 6 \bH~\b\br
+0x8087e6e 14 13 /USMain_A.std
+0x8087e7c 14 13 /USMain_A.dat
+0x8087e92 20 19 %Y-%m-%d===%H:%M:%S
+0x8087ea8 49 48 \r\n====================%s====================\r\n\r\n
+0x8087edc 62 61 \r\n======= Length = %3d ====================================\r\n
+0x8087f45 12 11 "\a\b`"\a\bH"\a\b
+0x8087f59 17 16 "\a\b0"\a\bx"\a\bWWWWW
+0x8087f80 1293 1292 .css.dun.ini.isp.obe.dll.exe.log.cpx.inf.rsp.txt.bin.sql.scf.cfg.rat.sys.ddb.bat.htm.htt.js.vbs.lgc.sam.mydocs.---.dat.bak.cb.inc.reg.cnt.ins.scp.icw.ver.cif.lko.001.002.003.004.005.tbl.asm.6a.faq.1st.h.c.cpp.xml.dsp.dsw.rc2.rc.lgd.doc.bas.cod.diz.env.frm.hhp.lid.lst.msg.nfo.product.rgs.vbw.joboptions.wpl.php.map.tem.dsk.c70.sts.err.def.lnk.dos.win.mkf.dlg.ctt.inl.fd.fi.mof.xsl.vxd.hxx.eng.enu.nld.sep.tha.nt.cmd.srg.asp.theme.xdr.kbd.klb.set.lck.liveupdate.acrodata.ps.tmp.htc.vps.cnf.dic.sln.pak.vtm.bbs.clw.stf.vsdir.col.vbp.cls.idl.vaf.vap.mnu.pty.tip.ctl.dsr.dsm.vbz.dob.odl.csv.rcv.mc.hh.mk.prf.s.sub.iqy.ecf.det.url.cxx.asa.pl.hpp.acf.uni.vpj.vpw.cs.csproj.pag.hm.md5.vbg.ara.cat.chs.cht.csy.dan.deu.ell.esn.eti.euq.fin.fra.heb.hrv.hun.ita.jpn.kor.lth.lvi.nor.plk.ptb.ptg.rom.rus.sky.slv.sve.trk.vit.ldt.html.dsn.java.vbr.tlh.tli.vsz.user.ida.idq.htx.smp.hpj.guid.asmx.lpk.gak.w16.vsh.x.vb.vbproj.h16.hxt.hid.ggx.rst.lng.stp.syx.std.cmp.thd.sequ.nsi.key.cws.grd.tag.tsk.pem.idc.idt.pat.exc.rh.mak.uns.ldf.src.sif.iss.ldi.nif.mif.scr.sdb.pdi.sp1.sp2.dep.adm.pkp.gpz.dbp.bad.plg.utf8.asd.ctx.pcp.pdm.lic.vip.dtd.am.in.py.selinux.fsdump.quick.plo.lai.magic.la.debian.core64.m4.notice.sh.man.file.isprint.64bit.corefile.conf.po.ld.menu.kdevelop.spec.gen.usbkey.filelist.tex.lis.old.org.
+0x8088492 7 6 \b\btext
+0x8088499 25 24 type is (null) >>>>> %s\n
+0x80884b2 11 10 very short
+0x80884bd 10 9 MPEG ADTS
+0x80884c7 11 10 WAVE audio
+0x80884d2 14 13 Microsoft ASF
+0x80884e4 26 25 RIFF (little-endian) data
+0x80884fe 14 13 MPEG sequence
+0x808850c 10 9 RealMedia
+0x8088516 16 15 QuickTime movie
+0x8088526 23 22 Macromedia Flash Video
+0x808853d 22 21 Macromedia Flash data
+0x8088553 10 9 ISO Media
+0x808855d 16 15 JPEG image data
+0x808856d 12 11 bitmap data
+0x8088579 16 15 TIFF image data
+0x8088589 15 14 GIF image data
+0x8088598 15 14 PNG image data
+0x80885ab 8 7 UNICODE
+0x80885b3 26 25 Microsoft Office Document
+0x80885cd 13 12 PDF document
+0x80885da 17 16 Windows HtmlHelp
+0x80885eb 11 10 DjVu Image
+0x80885f6 11 10 CAJ Viewer
+0x8088601 22 21 Microsoft Office 2007
+0x8088617 16 15 Hangul (Korean)
+0x8088627 11 10 PDG Viewer
+0x8088632 17 16 %3d:%d:%s => %s\n
+0x8088643 8 7 %s: %s\n
+0x808864b 17 16 /usr/lib/magiccb
+0x808865c 23 22 magic file load fail!\n
+0x8088673 26 25 magic file load success!\n
+0x808868d 12 11 binary data
+0x8088699 9 8 FtDetect
+0x80886a4 31 30 Microsoft Cabinet archive data
+0x80886c4 36 35 .caj.kdh.teb.nh.caa.docx.xlsx.pptx.
+0x80886e8 11 10 writable, 
+0x80886f3 13 12 executable, 
+0x8088700 15 14 regular file, 
+0x808870f 19 18 no read permission
+0x8088722 17 16 cannot read `%s'
+0x8088733 20 19 application/x-empty
+0x8088747 27 26 very short file (no magic)
+0x8088762 5 4 %.3o
+0x8088767 27 26 cannot happen: m->type=%d\n
+0x8088782 17 16 cannot stat `%s'
+0x8088793 23 22 file `%s' is too small
+0x80887aa 16 15 cannot map `%s'
+0x80887ba 18 17 bad magic in `%s'
+0x80887cc 24 23 invalid magic file name
+0x80887e4 28 27 cannot read magic file `%s'
+0x8088800 20 19 offset `%s' invalid
+0x8088814 5 4 char
+0x8088819 5 4 byte
+0x808881e 8 7 beshort
+0x8088826 7 6 belong
+0x808882d 7 6 bedate
+0x8088834 8 7 leshort
+0x808883c 7 6 lelong
+0x8088843 7 6 ledate
+0x808884a 8 7 pstring
+0x8088852 8 7 beldate
+0x808885a 8 7 leldate
+0x8088862 6 5 regex
+0x8088868 11 10 bestring16
+0x8088873 11 10 lestring16
+0x808887e 7 6 search
+0x8088885 18 17 type `%s' invalid
+0x8088897 30 29 string extension `%c' invalid
+0x80888b5 22 21 string too long: `%s'
+0x80888cb 28 27 cannot get string from `%s'
+0x80888e7 6 5 MAGIC
+0x80888ed 11 10 /etc/magic
+0x80888f8 30 29 using regular magic file `%s'
+0x8088916 9 8 &|^+-*/%
+0x808891f 10 9 invalid 0
+0x8088929 10 9 invalid 3
+0x8088933 7 6 cduxXi
+0x8088940 9 8  :\a\b\b:\a\b
+0x8088951 8 7 9\a\b8:\a\b
+0x8088a1d 8 7 O\a\b.mgc
+0x8088a40 40 39 cont\toffset\ttype\topcode\tmask\tvalue\tdesc
+0x8088b32 38 37 \b\bversion mismatch (%d != %d) in `%s'
+0x8088b58 34 33 indirect offset type `%c' invalid
+0x8088b7c 31 30 missing ')' in indirect offset
+0x8088b9c 64 63 Internal error inconsistency between m->type and format strings
+0x8088bdc 48 47 No format string for `%s' with description `%s'
+0x8088c0c 66 65 Printf format `%c' is not valid for type `%s' in description `%s'
+0x8088c50 34 33 Invalid format `%s' for type `%s'
+0x8088c74 32 31 could not find any magic files!
+0x8088c94 27 26 , bad note name size 0x%lx
+0x8088cb3 11 10 , for GNU/
+0x8088cbe 6 5 Linux
+0x8088cc4 5 4 Hurd
+0x8088cc9 8 7 Solaris
+0x8088cd1 10 9 <unknown>
+0x8088cdb 10 9  %d.%d.%d
+0x8088ce5 13 12 , for NetBSD
+0x8088cf2 7 6  %u.%u
+0x8088cfb 14 13 , for FreeBSD
+0x8088d09 7 6  4.6.2
+0x8088d10 7 6  %d.%d
+0x8088d17 6 5  (%d)
+0x8088d1d 14 13 , for OpenBSD
+0x8088d2b 16 15 , for DragonFly
+0x8088d3b 12 11 NetBSD-CORE
+0x8088d47 11 10 , %s-style
+0x8088d52 15 14 , from '%.31s'
+0x8088d61 13 12  (signal %u)
+0x8088d72 15 14 , from '%.16s'
+0x8088d81 11 10 statically
+0x8088d8c 12 11 dynamically
+0x8088d98 20 19  (uses shared libs)
+0x8088dac 14 13 , %s linked%s
+0x8088dba 5 4 not 
+0x8088dbf 13 12 , %sstripped
+0x8088dcc 5 4 SVR4
+0x8088dd4 34 33 , bad note description size 0x%lx
+0x8088df8 32 31 , corrupted program header size
+0x8088e18 31 30 , invalid note alignment 0x%lx
+0x8088e38 32 31 , corrupted section header size
+0x8088e58 32 31 Cannot allocate memory for note
+0x8088e82 17 16 \b\b*Invalid time*
+0x8088e93 18 17 %s, %lu: Warning 
+0x8088ea5 12 11 >>>>>>>> %d
+0x8088eb1 6 5 *bad*
+0x8088eb7 5 4 (%s,
+0x8088ebc 7 6 %c%d),
+0x8088ec3 6 5  %s%s
+0x8088ec9 5 4 %.8x
+0x8088ed2 8 7 ,"%s"]\n
+0x8088f26 11 10 \a\b&|^+-*/%
+0x8088f92 24 23 \b\bcannot open `%s' (%s)
+0x8088faa 8 7 setuid 
+0x8088fb2 8 7 setgid 
+0x8088fba 8 7 sticky 
+0x8088fc2 10 9 directory
+0x8088fcc 28 27 character special (%ld/%ld)
+0x8088fe8 24 23 block special (%ld/%ld)
+0x8089000 18 17 fifo (named pipe)
+0x8089012 24 23 unreadable symlink `%s'
+0x808902a 29 28 unreadable symlink `%s' (%s)
+0x8089047 29 28 broken symbolic link to `%s'
+0x8089064 20 19 path too long: `%s'
+0x8089078 7 6 socket
+0x808907f 17 16 invalid mode 0%o
+0x8089090 31 30 application/x-not-regular-file
+0x80890af 22 21 no magic files loaded
+0x80890c5 14 13 error reading
+0x80890d3 14 13 error seeking
+0x80890e1 23 22 cannot allocate memory
+0x80890f8 25 24 application/octet-stream
+0x8089111 28 27 invalid type %d in mcheck()
+0x808912d 17 16 %u == *any* = 1\n
+0x808913e 15 14 %u != %u = %d\n
+0x808914d 15 14 %u == %u = %d\n
+0x808915c 14 13 %u > %u = %d\n
+0x808916a 14 13 %d > %d = %d\n
+0x8089178 14 13 %u < %u = %d\n
+0x8089186 14 13 %d < %d = %d\n
+0x8089194 24 23 ((%x & %x) == %x) = %d\n
+0x80891ac 24 23 ((%x & %x) != %x) = %d\n
+0x80891c4 11 10 mget @%d: 
+0x80891cf 30 29 Cannot allocate search buffer
+0x80891ed 30 29 invalid type %d in mconvert()
+0x8089210 37 36 cannot happen: invalid relation `%c'
+0x8089238 33 32 invalid m->type (%d) in mprint()
+0x808930a 7 5 \a\bٞ\a\b
+0x80893f6 8 6 \a\bϥ\a\bR
+0x808941e 15 11 \a\b٤\a\bΤ\a\bä\a\b
+0x808945e 11 8 \a\bߧ\a\bȧ\a\b
+0x808949a 7 5 \a\bۨ\a\b
+0x80894c2 8 6 \a\bО\a\b|
+0x80894fa 11 8 \a\bۣ\a\bʣ\a\b
+0x808953e 7 5 \a\bޢ\a\b
+0x808958a 11 10 \a\bus-ascii
+0x8089595 11 10 iso-8859-1
+0x80895a0 9 8 ISO-8859
+0x80895a9 6 5 utf-8
+0x80895af 14 13 UTF-8 Unicode
+0x80895bd 15 14 character data
+0x80895cc 7 6 utf-16
+0x80895d3 26 25 Big-endian UTF-16 Unicode
+0x80895ed 29 28 Little-endian UTF-16 Unicode
+0x808960a 8 7 unknown
+0x8089612 23 22 Non-ISO extended-ASCII
+0x8089629 7 6 ebcdic
+0x8089630 21 20 International EBCDIC
+0x8089645 11 10 text/plain
+0x8089650 11 10 ; charset=
+0x808965b 7 6 , with
+0x8089666 18 17  line terminators
+0x80897cb 7 6 .<(+|&
+0x80897da 9 8 !$*);~-/
+0x80897eb 6 5 ,%_>?
+0x80897f9 8 7 `:#@'="
+0x8089801 10 9 abcdefghi
+0x8089811 11 10 jklmnopqr^
+0x8089822 9 8 stuvwxyz
+0x8089840 11 10 {ABCDEFGHI
+0x8089850 11 10 }JKLMNOPQR
+0x8089862 9 8 STUVWXYZ
+0x8089870 11 10 0123456789
+0x8089880 6 5 1.2.3
+0x8089886 9 8 zlib: %s
+0x808988f 19 18 cannot create pipe
+0x80898a2 15 14 could not fork
+0x80898b7 5 4 gzip
+0x80898bc 5 4 -cdq
+0x80898c1 11 10 uncompress
+0x80898e4 6 5 bzip2
+0x80898f0 43 42 cannot create temporary file for pipe copy
+0x808991c 37 36 error copying from pipe to temp file
+0x8089944 33 32 error while writing to temp file
+0x8089968 39 38 could not dup descriptor for temp file
+0x808ace1 5 4 zPLR
+0x8090aba 22 19 \b\bȼ\a\bܼ\a\bP2C.MGD.S3.
+0x8090ae4 7 6 121010
+0x8090b2a 7 5 \a\bߘ\b\b
+0x8090b60 5 4 RIFF
+0x8090b68 9 8 CDXAfmt 
+0x8090b84 5 4 data
+0x8090baf 8 7 ?091024
+0x8090be0 14 13 /usr/lib/1025
+0x8090ce4 17 16 /usr/lib/pattern
+0x8090cf5 16 15 /usr/lib/recent
+0x8090d16 19 18 \a\bwwwwwwwwwwwwvwww
+0x8090d30 14 13 3BCH496784712
+0x8090d40 5 4 0d\b\b
+0x8090d50 6 5 xk\b\bm
+0x8090daf 7 6 ??o*Ra
+0x8090e01 6 5 m@:+X
+0x8090e3a 5 4 T/dZ
+0x8090e57 6 5 ?'}kq
+0x8090f08 7 5 ܷZ'.G
+0x8090f80 6 5 sz(\e 
+0x8090fb0 9 5 6ٳBlڿ
+0x8090fbb 9 6 *}2࿅IL
+0x8090fcc 7 4 赴?5\r
+0x8090fd8 5 4 bQl`
+0x8091001 8 6 \e|a2U˿
+0x809109a 5 4 u\t=Q
+0x80910d1 6 4 GߤiP
+0x80910df 5 4 ?2y^
+0x80910f1 6 5 s\23X
+0x8091122 5 4 |x;g
+0x80911bf 6 4 ?\fǘ`
+0x8091228 7 5 MΚi\fD
+0x8091253 8 4 \߇ǿϔ
+0x809125b 7 5 \vktſD
+0x80913cf 5 4 ?ci;
+0x80913e9 5 4 >~%F
+0x809140d 8 5 +忓V|C
+0x8091469 7 4 |Ժh#
+0x8091497 6 5 ?S$_\t
+0x8091515 6 4 \bƿp5
+0x80915b6 6 4 ѿ\eQ5
+0x80915ec 8 4 !C����\f
+0x8091689 5 4 :q9^
+0x80916cf 8 5 ?_y5寅
+0x809170f 6 5 ?-s_s
+0x8091727 5 4 ?u.{
+0x80917a5 8 6 \ſ`prd
+0x80917c1 5 4 o&KR
+0x80917d9 5 4 0Y&\r
+0x80917ef 5 4 ?78l
+0x80917f4 6 4 MLĿt
+0x80917ff 5 4 ?~n\r
+0x8091837 5 4 ?rAl
+0x809186f 6 5 ?%\f^O
+0x8091880 6 5 0fKVE
+0x8091984 8 4 Ô鿆q7
+0x809199a 5 4 "HJ_
+0x80919a0 6 5 +Vh{O
+0x8091a51 6 4 Ƕ\f8+
+0x8091a91 6 4 6uyα
+0x8091b8f 8 7 ?37:Ba+
+0x8091b9f 7 6 ?~!?vr
+0x8091bcf 7 6 ?_0nYt
+0x8091bfe 8 4 ����_#I
+0x8091c68 7 6 /cTcSx
+0x8091ca1 5 4 VA\ft
+0x8091cb4 7 4 Kj㿨)
+0x8091cc7 5 4 ?^q'
+0x8091d00 5 4 jg=!
+0x8091d8c 10 6 aw翴ǰ/~
+0x8091db9 6 5 ,THC7
+0x8091de7 10 8 ?g)YNBiҿ
+0x8091e69 5 4 \nU i
+0x8091e8f 8 7 ?pJ/ jQ
+0x8091fa7 5 4 ?U\v6
+0x8091fbc 7 5 g)ÿ{D
+0x8091fd9 6 4 >rkҭ
+0x8092037 10 8 ?;m2OSp̿
+0x809209f 6 4 ?lݼ'
+0x80920c7 6 5 ?X*^\e
+0x80920d1 5 4 0Y&\r
+0x80920e3 8 5 sѐݿMP
+0x80920eb 6 4 q# ?
+0x809212f 5 4 ?YeK
+0x809215c 6 4 99ֿ\e
+0x8092178 5 4 Ofr 
+0x80921b4 9 4 \bN뿤'
+0x8092231 5 4 +D,\a
+0x8092287 7 6 ?cXjb&
+0x80922c8 5 4 Y:zW
+0x80922e5 6 4 tʿq.
+0x8092331 8 6 L1\aAGӿ
+0x8092354 7 5 {0?Vq
+0x809235c 11 7 ؖ翬*E<#[
+0x80923da 7 5 *sNGȿ
+0x80923e3 7 5 MEOӿQ
+0x80923ef 7 5 ?¦)]U
+0x8092435 6 4 `ÿ`\b
+0x8092462 7 5 HQ§d?
+0x809246f 5 4 ?\tYq
+0x8092480 5 4 4\aRs
+0x80924a0 5 4 &mO5
+0x80924a6 12 8 ֿw<ẘrٿ7
+0x80924d2 5 4 %|J\t
+0x80924e6 7 5 ѿ'\bhl
+0x809254d 6 4 mĿ|m
+0x8092562 6 4 6"s)
+0x809256f 5 4 ?Gu:
+0x8092577 5 4 ?Vp.
+0x80925bf 5 4 ?Q@$
+0x80925df 6 4 ?:О&
+0x8092611 8 6 Bn+b}п
+0x8092623 8 4 WQH����
+0x8092687 5 4 ?/6\b
+0x809268c 7 4 t\nѿϳ
+0x80926a3 7 5 O7Pƿ\t
+0x80926b7 7 6 ?NLr\eh
+0x8092704 6 4 a)ֿb
+0x8092741 6 5 e^XHJ
+0x8092754 8 5 :\eп#ǌ
+0x809279b 6 4 EŞ\t@
+0x80927b2 5 4 7]``
+0x80927ea 7 5 71$'ӿ
+0x80927f7 5 4 ?P?^
+0x809285d 7 5 i¿BCZ
+0x809287f 6 4 ?Ň#Y
+0x8092885 7 5 0¿gz.
+0x80928af 8 6 ??\fcsS
+0x80928ef 5 4 ?s5\r
+0x8092927 5 4 ??Q~
+0x8092997 8 7 ?W/uFJi
+0x80929b7 5 4 ?C*{
+0x8092a79 5 4 fjmu
+0x8092b1f 5 4 ?;\t[
+0x8092b42 5 4 <BrW
+0x8092b49 6 5 /fKV%
+0x8092b67 6 5 ?1DN_
+0x8092b87 5 4 ?\;Q
+0x8092b97 5 4 ?\a\rX
+0x8092ba1 5 4 R$_\t
+0x8092bb2 5 4 61n4
+0x8092be7 6 4 ?:"ߥ
+0x8092cb0 5 4  Kzs
+0x8092d3f 8 7 ?("hqkw
+0x8092d47 6 5 ?Ral!
+0x8092d4f 7 6 ?D&*ec
+0x8092d5d 8 6 zݿ$bJ$
+0x8092da8 5 4 =\a;j
+0x8092e1f 8 5 ?݀*ɕU
+0x8092e28 7 5 f6#ޕ8
+0x8092e54 6 4 O(ÿ]
+0x8092ec7 6 5 ?Az/c
+0x8092f37 6 5 ?tM7?
+0x8092f87 5 4 ?O@n
+0x8092fb2 5 4 {<>\v
+0x8092fc2 5 4 oY*T
+0x8093012 5 4 D|q3
+0x809306a 7 4 خuNǿ
+0x80930a0 6 5 !Rxu3
+0x809314f 6 4 0\bYq
+0x8093198 5 4 Zbe4
+0x809319f 6 5 ?NPy*
+0x809320c 6 4 ?8ֿ`
+0x809327a 5 4 \bk\bs
+0x80932df 7 6 ??o*Ra
+0x8093331 6 5 m@:+X
+0x809336a 5 4 T/dZ
+0x8093387 6 5 ?'}kq
+0x8093438 7 5 ܷZ'.G
+0x80934b0 6 5 sz(\e 
+0x80934e0 9 5 6ٳBlڿ
+0x80934eb 9 6 *}2࿅IL
+0x80934fc 7 4 赴?5\r
+0x8093508 5 4 bQl`
+0x8093531 8 6 \e|a2U˿
+0x80935ca 5 4 u\t=Q
+0x8093601 6 4 GߤiP
+0x809360f 5 4 ?2y^
+0x8093621 6 5 s\23X
+0x8093652 5 4 |x;g
+0x80936ef 6 4 ?\fǘ`
+0x8093758 7 5 MΚi\fD
+0x8093783 8 4 \߇ǿϔ
+0x809378b 7 5 \vktſD
+0x80938ff 5 4 ?ci;
+0x8093919 5 4 >~%F
+0x809393d 8 5 +忓V|C
+0x8093999 7 4 |Ժh#
+0x80939c7 6 5 ?S$_\t
+0x8093a45 6 4 \bƿp5
+0x8093ae6 6 4 ѿ\eQ5
+0x8093b1c 8 4 !C����\f
+0x8093bb9 5 4 :q9^
+0x8093bff 8 5 ?_y5寅
+0x8093c3f 6 5 ?-s_s
+0x8093c57 5 4 ?u.{
+0x8093cd5 8 6 \ſ`prd
+0x8093cf1 5 4 o&KR
+0x8093d09 5 4 0Y&\r
+0x8093d1f 5 4 ?78l
+0x8093d24 6 4 MLĿt
+0x8093d2f 5 4 ?~n\r
+0x8093d67 5 4 ?rAl
+0x8093d9f 6 5 ?%\f^O
+0x8093db0 6 5 0fKVE
+0x8093eb4 8 4 Ô鿆q7
+0x8093eca 5 4 "HJ_
+0x8093ed0 6 5 +Vh{O
+0x8093f81 6 4 Ƕ\f8+
+0x8093fc1 6 4 6uyα
+0x80940bf 8 7 ?37:Ba+
+0x80940cf 7 6 ?~!?vr
+0x80940ff 7 6 ?_0nYt
+0x809412e 8 4 ����_#I
+0x8094198 7 6 /cTcSx
+0x80941d1 5 4 VA\ft
+0x80941e4 7 4 Kj㿨)
+0x80941f7 5 4 ?^q'
+0x8094230 5 4 jg=!
+0x80942bc 10 6 aw翴ǰ/~
+0x80942e9 6 5 ,THC7
+0x8094317 10 8 ?g)YNBiҿ
+0x8094399 5 4 \nU i
+0x80943bf 8 7 ?pJ/ jQ
+0x80944d7 5 4 ?U\v6
+0x80944ec 7 5 g)ÿ{D
+0x8094509 6 4 >rkҭ
+0x8094567 10 8 ?;m2OSp̿
+0x80945cf 6 4 ?lݼ'
+0x80945f7 6 5 ?X*^\e
+0x8094601 5 4 0Y&\r
+0x8094613 8 5 sѐݿMP
+0x809461b 6 4 q# ?
+0x809465f 5 4 ?YeK
+0x809468c 6 4 99ֿ\e
+0x80946a8 5 4 Ofr 
+0x80946e4 9 4 \bN뿤'
+0x8094761 5 4 +D,\a
+0x80947b7 7 6 ?cXjb&
+0x80947f8 5 4 Y:zW
+0x8094815 6 4 tʿq.
+0x8094861 8 6 L1\aAGӿ
+0x8094884 7 5 {0?Vq
+0x809488c 11 7 ؖ翬*E<#[
+0x809490a 7 5 *sNGȿ
+0x8094913 7 5 MEOӿQ
+0x809491f 7 5 ?¦)]U
+0x8094965 6 4 `ÿ`\b
+0x8094992 7 5 HQ§d?
+0x809499f 5 4 ?\tYq
+0x80949b0 5 4 4\aRs
+0x80949d0 5 4 &mO5
+0x80949d6 12 8 ֿw<ẘrٿ7
+0x8094a02 5 4 %|J\t
+0x8094a16 7 5 ѿ'\bhl
+0x8094a7d 6 4 mĿ|m
+0x8094a92 6 4 6"s)
+0x8094a9f 5 4 ?Gu:
+0x8094aa7 5 4 ?Vp.
+0x8094aef 5 4 ?Q@$
+0x8094b0f 6 4 ?:О&
+0x8094b41 8 6 Bn+b}п
+0x8094b53 8 4 WQH����
+0x8094bb7 5 4 ?/6\b
+0x8094bbc 7 4 t\nѿϳ
+0x8094bd3 7 5 O7Pƿ\t
+0x8094be7 7 6 ?NLr\eh
+0x8094c34 6 4 a)ֿb
+0x8094c71 6 5 e^XHJ
+0x8094c84 8 5 :\eп#ǌ
+0x8094ccb 6 4 EŞ\t@
+0x8094ce2 5 4 7]``
+0x8094d1a 7 5 71$'ӿ
+0x8094d27 5 4 ?P?^
+0x8094d8d 7 5 i¿BCZ
+0x8094daf 6 4 ?Ň#Y
+0x8094db5 7 5 0¿gz.
+0x8094ddf 8 6 ??\fcsS
+0x8094e1f 5 4 ?s5\r
+0x8094e57 5 4 ??Q~
+0x8094f27 5 4 ?\v[X
+0x8094f49 5 4 Uv\vn
+0x8094f60 7 5 Tڇa,x
+0x8094f67 6 5 ?y%$-
+0x8094fc7 7 5 ?}zlˀ
+0x8094fcf 5 4 ?UX_
+0x8094fd7 7 4 ?ob픳
+0x8094fe0 7 5 rFރ!<
+0x8094fe9 9 5 \r܁:%⿊
+0x80950b7 5 4 ?+5{
+0x80950c8 5 4 $\tg\
+0x80950f6 6 4 ÿ\ai|
+0x8095109 6 5 @+0du
+0x8095149 5 4 uA3>
+0x8095161 6 4 >6nօ
+0x8095172 5 4 BGa-
+0x809518c 6 4 Baӿ0
+0x80951b8 5 4 [\fy_
+0x80951df 5 4 @\b<0
+0x8095220 5 4 @M-[
+0x8095292 5 4 b('z
+0x80952d5 6 4 G¿\vE
+0x80952ef 5 4 ?F<~
+0x80952f7 7 6 ?+dSS7
+0x8095317 7 4 ?߇(˵
+0x8095399 6 4 9ټ`&
+0x80953d1 5 4 5=((
+0x80953e7 5 4 ?ab=
+0x80953f9 6 5 *Cfx}
+0x8095412 5 4 `TR'
+0x809545f 8 7 ?#YvwS@
+0x809552f 5 4 ?1+o
+0x8095572 5 4 <vaU
+0x8095587 5 4 ?fw7
+0x80955da 5 4 \vvh}
+0x80955f7 8 5 ?:ƺ]ԓ
+0x8095609 6 5 !6X8i
+0x8095637 7 4 ?m[
+0x809569f 7 6 ?tE)!X
+0x80956a7 5 4 @\tV0
+0x80956b7 6 5 ?!;oc
+0x80956d4 7 5 Wϰ?:/
+0x8095749 5 4 v\b-5
+0x8095751 6 5 T3k) 
+0x8095766 7 4 꿅8 S
+0x8095770 9 6 yt#,*✿
+0x8095779 5 4 vW,4
+0x8095797 6 5 ?0nYt
+0x809580c 7 5 'cڿ\ec
+0x8095817 5 4 ?<Qm
+0x809584b 8 5 \nU;翹&
+0x8095860 6 5 Qp\f\y
+0x80958a9 8 5 GN˴"ݿ
+0x80958b1 5 4 $.[F
+0x809596f 5 4 ?MWf
+0x809599f 6 5 ?w:Fh
+0x80959d2 5 4 ZU@k
+0x80959dd 7 4 %꿎mc
+0x8095a12 5 4 R$_i
+0x8095a17 6 5 ?}\a?q
+0x8095a77 5 4 ?==[
+0x8095ad9 5 4 2tGZ
+0x8095ae7 6 5 ?Jw| 
+0x8095b4a 5 4 d[aU
+0x8095be9 6 5 +UX_S
+0x8095c07 8 7 ?BX2l9<
+0x8095c1a 5 4 Q]eR
+0x8095cdf 6 4 ?߉Y/
+0x8095d30 5 4 Ey0s
+0x8095d69 5 4 :e$1
+0x8095dde 9 5 ҿȳ˷>L
+0x8095e01 6 5 *E<#[
+0x8095e19 6 4 \aגD%
+0x8095e5e 8 6 ǿp\f\y$
+0x8095e8a 8 6 >>|tؿ\n
+0x8095f48 7 6 ]&ydb\t
+0x8095f6c 6 4 \eYԿQ
+0x8095f8f 6 5 ?V2[\r
+0x8095fb0 6 4 E1Լ>
+0x8095ff6 6 4 ܿna'
+0x80960ec 5 4 \v\\a@
+0x8096101 6 5 Nx\tN=
+0x809614e 9 7 ÿ5+6A/7
+0x8096167 6 5 ?stKa
+0x80961b0 7 4 ǆɯz\e
+0x80961ce 8 5 ¿sM܅A
+0x8096205 7 5 \ؿ\eU<
+0x809629e 6 4 ٿCv9
+0x80962a4 8 4 ٘ؿۄ 
+0x8096347 5 4 ?AlD
+0x8096359 7 5 4ٚ\bvg
+0x809638a 5 4 c!:D
+0x809653f 8 7 ?pWTi02
+0x809654f 7 6 ? pn]{
+0x809658f 8 7 ?!~Y5c,
+0x80965f9 6 5 $-K*\t
+0x809669b 7 5 jO$ÿ3
+0x80966ef 8 7 ?O.|3 q
+0x809670a 9 6 \sG?ῥO
+0x809673f 5 4 ?o\te
+0x8096835 6 4 HѿdP
+0x8096850 5 4 'jin
+0x80968c2 5 4 X:zw
+0x8096909 6 5  JjWW
+0x8096947 5 4 ?9IN
+0x8096957 6 4 !{{|
+0x8096996 6 4 ֿb->
+0x80969fb 8 5 3h蟿Nf
+0x8096a10 6 5 `>Y1\
+0x8096a27 7 5 @˵\rHg
+0x8096a42 5 4 ne.%
+0x8096ae4 7 5 TMԿ;Q
+0x8096b46 7 5 ÿhCYS
+0x8096b4f 6 4 ?zƾd
+0x8096b60 5 4 HN&n
+0x8096b65 7 5 ĸ?zcR
+0x8096b94 6 4 atѿO
+0x8096bb8 5 4 hRTG
+0x8096c2b 7 4 e7N⿂
+0x8096c6a 5 4 Df.P
+0x8096d09 6 4 qˢ\ve
+0x8096d25 7 6 VY?,ph
+0x8096d3f 6 4 ?ŋ*h
+0x8096d7b 6 4 \uxԿ
+0x8096d9f 6 4 ?٭\ny
+0x8096df2 7 4 g֭yڿ
+0x8096e47 8 5 ?]r7㏝
+0x8096e58 5 4 \rH\fL
+0x8096eea 5 4 u\t=Q
+0x8096f2b 8 5 D[ߙ?އ
+0x8096f8f 8 5 ?\aŠ]ρ
+0x8096fac 7 5 R1ݿ  
+0x8097047 6 4 ?Ý\v#
+0x8097077 6 5 ?nrS^
+0x80970b8 5 4  4qa
+0x80970c0 8 6 *Ral!Ȼ
+0x80970cd 8 6 ?ӿ[!Q\r
+0x80970d8 5 4 !TN 
+0x8097165 6 4 ZտLB
+0x80971ef 5 4 ?n;#
+0x809726a 5 4 lRv_
+0x809728c 5 4 RM\v@
+0x80972d9 5 4 \e#~j
+0x809738b 6 4 @r!ο
+0x80973df 6 4 \t,-~
+0x8097441 6 4 =Ê\t 
+0x8097487 5 4 ?H6W
+0x809749c 6 4 ZT?S
+0x80974b9 5 4 \t\\r?
+0x80974f5 7 5 sۿbg\n
+0x809752a 5 4 p]1#
+0x8097593 5 4 :3fw
+0x80975c2 5 4 xq,9
+0x80975db 9 5 eM,̿慅
+0x809761f 5 4 ?c2\v
+0x8097647 5 4 ?lts
+0x809765c 6 4 QYѿA
+0x80976a9 6 4 Өv<\
+0x80976ef 6 4 ?7٫4
+0x809772f 6 5 ?R%o%
+0x8097747 7 6 ?7'@^Y
+0x8097755 10 7 ?տZ^^%ā
+0x809777f 7 5 ?\A.̝
+0x80977c7 5 4 ?]S 
+0x80977cf 7 5 ?ـc*X
+0x8097818 6 5 xcAaP
+0x8097880 6 4 վo2`
+0x80978d9 5 4 3\.,
+0x8097902 5 4 #d ?
+0x8097939 6 4 I݄1X
+0x80979b1 5 4 W zR
+0x8097a04 11 9  >?xTFm,r
+0x8097a82 5 4 hbpc
+0x8097a87 6 4 ?î7{
+0x8097aa7 5 4 ?\fKM
+0x8097ae2 5 4 ODu)
+0x8097b02 5 4 JHZ 
+0x8097b37 6 5 ?\aQ\b.
+0x8097b9f 7 4 ?ϺFˁ
+0x8097c1f 5 4 ?1  
+0x8097c27 8 6 ?~Fئg0
+0x8097c60 5 4 J:o\b
+0x8097c73 8 5 @>r鿃c
+0x8097c7c 8 4 #I����h
+0x8097c87 5 4 ?8N\n
+0x8097d0c 9 6 nO㿨Kkx
+0x8097d1f 6 4 #=^H
+0x8097d25 7 4 \aٿmţ
+0x8097e1f 38 37 @0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+0x809808f 5 4 ??|\r
+0x8098249 8 5 wΒ ղ?
+0x809876f 5 4 ??|\r
+0x8098959 7 4 wΒ ղ
+0x8098f0b 7 4 X\n\t뿜
+0x8098f99 9 6 wΒ ղ?1
+0x8098fef 5 4 ??|\r
+0x8099639 7 4 wΒ ղ
+0x8099d09 7 4 wΒ ղ
+0x809a474 7 4 ~\nￚR
+0x809a493 9 6 4i}忥>>
+0x809a4a9 10 7 wΒ ղ?TC
+0x809a4cf 5 4 ??|\r
+0x809a515 6 4 ]ۿ?@
+0x809aad9 8 5 wΒ ղ?
+0x809b1c9 8 5 wΒ ղ?
+0x809b353 7 4 4i}忌
+0x809b8f9 7 4 wΒ ղ
+0x809bfe9 7 4 wΒ ղ
+0x809c13b 7 4 7\b-翛
+0x809c68b 7 4 X\n\t뿁
+0x809c6a6 10 5 ῒwΒ ղ
+0x809ce0f 5 4 ??|\r
+0x809cf09 10 7 wΒ ղ?oz
+0x809d4af 5 4 ??|\r
+0x809d5cb 7 4 I":鿁
+0x809d635 12 7 s࿒wΒ ղ?
+0x809db93 13 8 4i}忒wΒ ղ
+0x809e30b 7 4 7\b-翁
+0x809e34d 6 4 \v̿@0
+0x809e366 10 5 濒wΒ ղ
+0x809e44f 5 4 ??|\r
+0x809e98b 7 4 I":鿁
+0x809ea53 7 4 4i}忍
+0x809ea79 8 5 wΒ ղ?
+0x809eb2f 5 4 ??|\r
+0x809f146 10 5 迒wΒ ղ
+0x809f77b 7 4 X\n\t뿛
+0x809f7b3 8 5 4i}忚R
+0x809f7fd 7 4 )꿚3\t
+0x809f859 8 5 wΒ ղ?
+0x809febb 9 6 X\n\t뿚3\t
+0x809fecf 5 4 ??|\r
+0x80a0029 9 6 wΒ ղ?k
+0x80a0586 11 6 迒wΒ ղ?
+0x80a06f2 9 5 p"ߵ翭O
+0x80a0cb9 9 6 wΒ ղ?Y
+0x80a13ef 5 4 ??|\r
+0x80a1519 8 5 wΒ ղ?
+0x80a1555 7 4 r뿨bn
+0x80a1b6f 5 4 ??|\r
+0x80a1bd9 7 4 wΒ ղ
+0x80a217d 7 4 b3\t
+0x80a222b 7 4 X\n\t뿁
+0x80a228f 5 4 ??|\r
+0x80a22c9 7 4 wΒ ղ
+0x80a2872 8 4 p"ߵ翿
+0x80a292f 5 4 ??|\r
+0x80a29eb 7 4 7\b-翜
+0x80a29f6 11 6 쿒wΒ ղ?
+0x80a3012 10 6 p"ߵ翨bn
+0x80a304f 5 4 ??|\r
+0x80a30e9 8 5 wΒ ղ?
+0x80a3714 14 9 !!wΒ ղ?\a
+0x80a37ce 6 4 ٿ?|\r
+0x80a3eaf 5 4 ??|\r
+0x80a3eb9 8 5 wΒ ղ?
+0x80a3f34 8 5 ~\n￥>>
+0x80a4589 8 5 wΒ ղ?
+0x80a460f 5 4 ??|\r
+0x80a4645 7 4 L俨bn
+0x80a4bbd 7 4 8ￚ3\t
+0x80a4c23 14 8 ϗbￒwΒ ղ?
+0x80a4cee 6 4 ѿ?|\r
+0x80a4d14 8 5 !!>>
+0x80a5269 11 8 wΒ ղ??|\r
+0x80a53a3 8 4 ϗb￭O
+0x80a5976 10 5 ￒwΒ ղ
+0x80a598f 5 4 ??|\r
+0x80a5a52 8 4 p"ߵ翲
+0x80a6076 12 7 ￒwΒ ղ?b
+0x80a6152 8 4 p"ߵ翲
+0x80a6769 7 4 wΒ ղ
+0x80a68a3 8 4 ϗb￭O
+0x80a6f23 13 7 ϗbￒwΒ ղ
+0x80a6fef 5 4 ??|\r
+0x80a7014 8 5 !!>>
+0x80a7689 7 4 wΒ ղ
+0x80a770e 6 4 Կ?|\r
+0x80a7745 7 4 L俨bn
+0x80a7db9 7 4 wΒ ղ
+0x80a7e34 8 5 ~\n￥>>
+0x80a8414 12 7 !!wΒ ղ
+0x80a84cf 5 4 ??|\r
+0x80a8b12 10 6 p"ߵ翨bn
+0x80a8b4e 6 4 ſ?|\r
+0x80a8be9 7 4 wΒ ղ
+0x80a9172 8 4 p"ߵ翿
+0x80a922d 7 5 \v̿?|\r
+0x80a92f6 10 5 쿒wΒ ղ
+0x80a998e 6 4 ѿ?|\r
+0x80a99c9 9 6 wΒ ղ?L
+0x80aa06e 6 4 Կ?|\r
+0x80aa0cb 8 5 X\n\t뿫d
+0x80aa0d9 9 6 wΒ ղ?(
+0x80aa77b 7 4 7\b-翛
+0x80aa819 7 4 wΒ ղ
+0x80aa855 7 4 r뿨bn
+0x80aadb9 7 4 wΒ ղ
+0x80aae0f 5 4 ??|\r
+0x80ab486 10 5 迒wΒ ղ
+0x80ab4af 5 4 ??|\r
+0x80ab53d 7 4 ;迚3\t
+0x80ab5f2 9 5 p"ߵ翭O
+0x80abd29 7 4 wΒ ղ
+0x80ac2b3 8 5 4i}忚R
+0x80ac359 7 4 wΒ ղ
+0x80ac44f 5 4 ??|\r
+0x80aca46 13 8 迒wΒ ղ?Pv
+0x80acb2f 5 4 ??|\r
+0x80ad153 7 4 4i}忍
+0x80ad179 7 4 wΒ ղ
+0x80ad866 13 8 濒wΒ ղ?oz
+0x80ade93 14 9 4i}忒wΒ ղ?
+0x80adecf 5 4 ??|\r
+0x80ae735 11 6 s࿒wΒ ղ
+0x80aee09 7 4 wΒ ղ
+0x80af3a6 11 6 ῒwΒ ղ?
+0x80af3ef 5 4 ??|\r
+0x80af43d 6 4 \v̿s#
+0x80afae9 9 6 wΒ ղ?k
+0x80afb6f 5 4 ??|\r
+0x80b01f9 8 5 wΒ ղ?
+0x80b028f 5 4 ??|\r
+0x80b032d 6 4 \v̿oz
+0x80b08c9 7 4 wΒ ղ
+0x80b092f 5 4 ??|\r
+0x80b0a53 7 4 4i}忌
+0x80b0fd9 7 4 wΒ ղ
+0x80b104f 5 4 ??|\r
+0x80b108b 7 4 7\b-翜
+0x80b1774 7 4 ~\nￚR
+0x80b1793 9 6 4i}忥>>
+0x80b17a9 7 4 wΒ ղ
+0x80b1815 6 4 ]ۿ?@
+0x80b1e09 8 5 wΒ ղ?
+0x80b1e2b 8 5 7\b-翫d
+0x80b1eaf 5 4 ??|\r
+0x80b2539 8 5 wΒ ղ?
+0x80b260f 5 4 ??|\r
+0x80b2c99 7 4 wΒ ղ
+0x80b3459 8 5 wΒ ղ?
+0x80b3b49 7 4 wΒ ղ
+0x80fa062 8 6 \a\bĆ\b\b\b
+0x80fa0c0 9 6 X\b\b̘\b\b
+0x80fa161 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa18e 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa1bb 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa1e8 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa215 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa242 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa26f 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa29c 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa2c9 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa2f6 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa323 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa350 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa37d 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa3aa 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa3d7 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa404 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa431 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa45e 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa48b 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa4b8 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa4e5 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa512 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa53f 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa56c 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa599 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa5c6 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa5f3 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa620 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa64d 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa67a 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa6a7 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa6d4 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa701 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa72e 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa75b 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa788 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa7b5 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa7e2 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa80f 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa83c 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa869 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa896 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa8c3 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa8f0 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa91d 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa94a 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa977 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa9a4 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa9d1 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80fa9fe 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80faa2b 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80faa58 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80faa85 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80faab2 44 43 GCC: (GNU) 4.4.0 20090506 (Red Hat 4.4.0-4)
+0x80faadf 8 7 .symtab
+0x80faae7 8 7 .strtab
+0x80faaef 10 9 .shstrtab
+0x80faaf9 8 7 .interp
+0x80fab01 14 13 .note.ABI-tag
+0x80fab0f 19 18 .note.gnu.build-id
+0x80fab22 10 9 .gnu.hash
+0x80fab2c 8 7 .dynsym
+0x80fab34 8 7 .dynstr
+0x80fab3c 13 12 .gnu.version
+0x80fab49 15 14 .gnu.version_r
+0x80fab58 9 8 .rel.dyn
+0x80fab61 9 8 .rel.plt
+0x80fab6a 6 5 .init
+0x80fab70 6 5 .text
+0x80fab76 6 5 .fini
+0x80fab7c 8 7 .rodata
+0x80fab84 14 13 .eh_frame_hdr
+0x80fab92 10 9 .eh_frame
+0x80fab9c 18 17 .gcc_except_table
+0x80fabae 7 6 .ctors
+0x80fabb5 7 6 .dtors
+0x80fabbc 5 4 .jcr
+0x80fabc1 9 8 .dynamic
+0x80fabca 5 4 .got
+0x80fabcf 9 8 .got.plt
+0x80fabd8 6 5 .data
+0x80fabde 5 4 .bss
+0x80fabe3 9 8 .comment
+0x80faea2 5 4 \b\bt+
+0x80fb288 5 4   \b\b
+0x80fb298 5 4  !\b\b
+0x80fb2a8 5 4  \e\b\b
+0x80fb2d8 5 4  "\b\b
+0x80fb2e8 6 5 @b\b\b8
+0x80fb2f9 5 4 b\b\b 
+0x80fb319 5 4 b\b\b0
+0x80fb329 5 4 c\b\b`
+0x80fb348 5 4  b\b\b
+0x80fb358 6 5 0b\b\b\n
+0x80fb368 6 5 @e\b\b#
+0x80fb379 5 4 e\b\b:
+0x80fb388 6 5 H\r\t\b\b
+0x80fb3a8 5 4 Tf\b\b
+0x80fb3b8 6 5 Jf\b\b\n
+0x80fb3c8 6 5 bf\b\b\n
+0x80fb3d8 6 5 lf\b\b\r
+0x80fb3e9 5 4 j\b\b`
+0x80fb408 5 4 ~i\b\b
+0x80fb419 5 4 i\b\b\f
+0x80fb448 6 5 `j\b\b\b
+0x80fb459 5 4 i\b\b\t
+0x80fb469 5 4 i\b\b\f
+0x80fb478 5 4 pi\b\b
+0x80fb489 5 4 i\b\b\v
+0x80fb498 5 4 `i\b\b
+0x80fb4a9 5 4 o\b\bp
+0x80fb4c9 5 4 }\b\bX
+0x80fb4d9 5 4 |\b\bX
+0x80fb4e8 6 5 @|\b\bX
+0x80fb4f9 5 4 {\b\bX
+0x80fb509 5 4 {\b\bX
+0x80fb518 6 5  {\b\bX
+0x80fb529 5 4 z\b\bX
+0x80fb538 6 5 `z\b\bX
+0x80fb549 5 4 z\b\bX
+0x80fb559 5 4 y\b\bX
+0x80fb568 6 5 @y\b\bX
+0x80fb579 5 4 x\b\bX
+0x80fb589 5 4 x\b\bX
+0x80fb598 6 5  x\b\bX
+0x80fb5a9 5 4 w\b\bX
+0x80fb5b8 6 5 `w\b\bX
+0x80fb5c9 5 4 w\b\bX
+0x80fb5d9 5 4 v\b\bX
+0x80fb5e8 6 5 @v\b\bX
+0x80fb5f9 5 4 u\b\bX
+0x80fb648 5 4 n~\b\b
+0x80fb658 5 4 |~\b\b
+0x80fb668 5 4 l~\b\b
+0x80fb6c9 5 4 "\a\bp
+0x80fb718 6 5 p6\a\bQ
+0x80fb729 5 4 :\a\bm
+0x80fb738 5 4 P;\a\b
+0x80fb748 6 5 `<\a\b 
+0x80fb7c8 5 4 pZ\a\b
+0x80fb7e8 5 4 0i\a\b
+0x80fb7f8 6 5 Pm\a\bc
+0xad5 5 4 7\a\b3
+0xb05 5 4 }\t\b,
+0xb45 5 4 \v\a\b6
+0xbe4 5 4 p\t\a\b
+0xeb4 5 4 \\r\t\b
+0xf34 6 5  \t\a\b\n
+0xf44 6 5 P\v\a\bB
+0xfa4 5 4 @\v\t\b
+0xfe5 5 4 \n\a\b\
+0x1085 5 4 ,\a\b\
+0x11a4 5 4 d\r\t\b
+0x12a6 5 4 \a\b0\f
+0x13d4 5 4 p\r\t\b
+0x1455 5 4 \v\a\b\f
+0x1485 5 4 e\b\b\b
+0x14c5 5 4 e\b\b\v
+0x1514 5 4 T\r\t\b
+0x15a4 5 4 `~\t\b
+0x15c5 5 4 \r\t\b\b
+0x1634 5 4 r\r\t\b
+0x1664 6 5 (\r\t\b\b
+0x17b5 5 4 \v\t\b\a
+0x19b5 5 4 \v\a\b3
+0x1a14 5 4 \b\r\t\b
+0x1a25 5 4 <\a\bR
+0x1b45 5 4 \b\a\b'
+0x1bc4 5 4 8\v\t\b
+0x1cc5 5 4 7\a\bV
+0x1d64 5 4 @\r\t\b
+0x1ec5 5 4 \f\a\b&
+0x1f24 6 4 Ё\a\bg
+0x1f34 5 4 l\r\t\b
+0x2015 5 4 }\t\b\f
+0x2134 5 4 <\v\t\b
+0x2164 6 5  \n\a\be
+0x21d4 5 4 `(\a\b
+0x2435 5 4 \v\a\b&
+0x2485 5 4 \b\a\b\n
+0x2494 5 4 D\v\t\b
+0x25e4 5 4 H\v\t\b
+0x25f5 5 4 \b\a\b\v
+0x2615 5 4 "\a\b#
+0x2685 5 4 \n\a\b\f
+0x2704 6 5  ~\t\b$
+0x2734 5 4 `2\a\b
+0x2794 6 5  \r\t\b\b
+0x2854 5 4 H~\b\b
+0x2874 6 4 Ђ\a\bA
+0x2964 6 4 3\a\bu
+0x2aa4 5 4 \b~\t\b
+0x2b44 5 4 P:\a\b
+0x2ce5 5 4 }\t\b,
+0x2d84 6 5 @\f\a\bp
+0x2fa4 6 5 p\b\a\b#
+0x31c4 5 4 0\r\a\b
+0x31e4 5 4 0)\a\b
+0x3255 5 4 e\b\b\b
+0x32d4 5 4 X\r\t\b
+0x32f5 5 4 2\a\bi
+0x3394 6 5 0\b\a\b5
+0x3484 6 5 0W\a\b5
+0x34c4 5 4 @2\a\b
+0x34f4 6 5 d~\b\b\b
+0x3555 5 4 6\a\b3
+0x35d4 6 5 `\v\t\b,
+0x35f4 6 5  1\a\b 
+0x36e5 5 4 e\b\b\b
+0x37f5 5 4 9\a\b@
+0x3824 5 4 0\r\t\b
+0x3974 5 4 0\v\t\b
+0x3a24 5 4 h\r\t\b
+0x3b05 5 4 {\a\b.
+0x3c34 5 4 D\r\t\b
+0x3d85 5 4 3\a\bf
+0x3dd4 5 4 8~\b\b
+0x3e74 6 5 P7\a\bF
+0x4054 5 4 `\e\a\b
+0x4095 5 4 \b\a\b#
+0x4154 5 4 P\r\t\b
+0x41f4 5 4 \f\r\t\b
+0x4224 6 5 0\t\a\b5
+0x4294 5 4 `\r\t\b
+0x4314 5 4 4\v\t\b
+0x4345 5 4 }\t\b\f
+0x4354 5 4  /\a\b
+0x1 14 13 __CTOR_LIST__
+0xf 14 13 __DTOR_LIST__
+0x1d 13 12 __JCR_LIST__
+0x2a 22 21 __do_global_dtors_aux
+0x40 15 14 completed.5918
+0x4f 14 13 dtor_idx.5920
+0x5d 12 11 frame_dummy
+0x69 13 12 __CTOR_END__
+0x76 14 13 __FRAME_END__
+0x84 12 11 __JCR_END__
+0x90 22 21 __do_global_ctors_aux
+0xa6 24 23 _GLOBAL__I_gszNameOpprc
+0xbe 17 16 _ZL11remove_lock
+0xcf 16 15 _ZL10check_lock
+0xdf 19 18 _ZL13rts_scan_list
+0xf2 14 13 _ZL9scan_lock
+0x100 18 17 _ZL12threads_scan
+0x112 19 18 _ZL13threads_check
+0x125 19 18 _ZL13rtscan_enable
+0x138 16 15 _ZL10gszTempDir
+0x148 23 22 _GLOBAL__I_gPatternMgr
+0x15f 18 17 _ZL12gszMakerName
+0x171 8 7 desfunc
+0x179 7 6 des_ip
+0x1a0 7 6 des_fp
+0x1ab 8 7 bytebit
+0x1b3 7 6 totrot
+0x1be 8 7 bigbyte
+0x1c6 25 24 __PRETTY_FUNCTION__.3923
+0x1df 25 24 __PRETTY_FUNCTION__.3826
+0x1f8 25 24 __PRETTY_FUNCTION__.3803
+0x211 42 41 _ZZ10repeatDataPcilE19__PRETTY_FUNCTION__
+0x23b 59 58 _ZZN17CUserPatternDBMgr6loadDBEPKcbbE19__PRETTY_FUNCTION__
+0x276 26 25 _ZL20g_RawPatternFileHead
+0x290 14 13 sha1_compress
+0x29e 25 24 __PRETTY_FUNCTION__.3578
+0x2b7 25 24 __PRETTY_FUNCTION__.3831
+0x2d0 25 24 __PRETTY_FUNCTION__.3823
+0x2e9 25 24 __PRETTY_FUNCTION__.3793
+0x302 10 9 err_2_str
+0x30c 17 16 mpi_to_ltc_codes
+0x31d 25 24 __PRETTY_FUNCTION__.4764
+0x336 25 24 __PRETTY_FUNCTION__.4731
+0x34f 25 24 __PRETTY_FUNCTION__.4454
+0x368 25 24 __PRETTY_FUNCTION__.4430
+0x381 25 24 __PRETTY_FUNCTION__.4397
+0x39a 25 24 __PRETTY_FUNCTION__.4465
+0x3b3 25 24 __PRETTY_FUNCTION__.4490
+0x3cc 25 24 __PRETTY_FUNCTION__.4807
+0x3e5 25 24 __PRETTY_FUNCTION__.4564
+0x3fe 25 24 __PRETTY_FUNCTION__.4860
+0x417 6 5 sizes
+0x41d 9 8 C.6.3218
+0x426 10 9 C.16.2890
+0x430 10 9 C.17.2891
+0x43a 10 9 C.18.2892
+0x444 10 9 C.19.2893
+0x44e 10 9 C.20.2894
+0x458 10 9 C.21.2895
+0x462 10 9 C.22.2896
+0x46c 10 9 C.23.2897
+0x476 10 9 C.24.2898
+0x480 10 9 C.28.2995
+0x48a 10 9 C.29.2996
+0x494 10 9 C.30.2997
+0x49e 10 9 C.31.2998
+0x4a8 10 9 C.32.2999
+0x4b2 10 9 C.33.3000
+0x4bc 10 9 C.34.3001
+0x4c6 10 9 C.35.3002
+0x4d0 10 9 C.36.3003
+0x4da 10 9 C.37.3004
+0x4e4 10 9 C.38.3005
+0x4ee 16 15 _ZL10gszUnkDisk
+0x4fe 18 17 _ZL12gszFileWmode
+0x510 19 18 _ZL13gszFileWBmode
+0x523 34 33 _ZN12_tagFileInfoC1EPcmmi.clone.0
+0x545 24 23 _ZL18gszDictIdxFileName
+0x55d 24 23 _ZL18gszDictDatFileName
+0x575 18 17 _ZL12gszFileRmode
+0x587 19 18 _ZL13gszFileRBmode
+0x59a 6 5 magic
+0x5a0 8 7 extproc
+0x5a8 14 13 continue_mark
+0x5b6 11 10 binarydata
+0x5c1 9 8 textexts
+0x5ca 9 8 progname
+0x5d3 11 10 free_mlist
+0x5de 9 8 hextoint
+0x5e7 8 7 eatsize
+0x5ef 19 18 apprentice_map_org
+0x606 20 19 apprentice_file_org
+0x61a 9 8 maxmagic
+0x623 10 9 fops.5387
+0x62d 9 8 hdr.5275
+0x636 13 12 formats.5925
+0x643 11 10 names.5926
+0x64e 7 6 donote
+0x655 15 14 os_style_names
+0x664 11 10 dophn_core
+0x66f 11 10 dophn_exec
+0x67a 6 5 doshn
+0x680 9 8 typ.4947
+0x689 11 10 optyp.4948
+0x694 6 5 mcopy
+0x69a 7 6 mcheck
+0x6a1 7 6 mprint
+0x6a8 10 9 check_mem
+0x6b2 15 14 mdebug.clone.0
+0x6c1 5 4 mget
+0x6c6 33 32 looks_ascii_latin1_exten.clone.0
+0x6e7 11 10 text_chars
+0x6f2 16 15 ebcdic_to_ascii
+0x702 7 6 swrite
+0x709 6 5 sread
+0x70f 6 5 compr
+0x715 9 8 _DYNAMIC
+0x71e 17 16 __init_array_end
+0x72f 19 18 __init_array_start
+0x742 22 21 _GLOBAL_OFFSET_TABLE_
+0x758 26 25 __printf_chk@@GLIBC_2.3.4
+0x772 12 11 mp_toom_sqr
+0x77e 23 22 _ZN13CFileNameHashD2Ev
+0x795 19 18 waitpid@@GLIBC_2.0
+0x7a8 31 30 _ZN17CUserPatternDBMgr5CloseEv
+0x7c7 16 15 open@@GLIBC_2.0
+0x7d7 13 12 gnPatternDay
+0x7e4 13 12 gszMsgDBFail
+0x7f1 15 14 gaSampleBuffer
+0x800 38 37 _ZN13CPatternDBMgr15GetPackageIDBitEl
+0x826 10 9 goScanLog
+0x830 14 13 magic_compile
+0x83e 33 32 _ZN13CFileNameHash10FreeMemoryEv
+0x85f 13 12 file_badread
+0x86c 20 19 ganSampleRateBuffer
+0x880 16 15 gszDictFileName
+0x890 23 22 _ZN13CPatternDBMgrD1Ev
+0x8a7 20 19 _Z13InsertSrcNamePc
+0x8bb 30 29 _ZN12MCMyIntArray7HaveMemEPll
+0x8d9 28 27 _ZN13CFileNameHash6CreateEb
+0x8f5 84 83 _ZN17CUserPatternDBMgr10DeleteDataEP18MCClassTempleArrayI12CCodeDataInxEP9CCodeData
+0x949 7 6 gszIni
+0x950 55 54 _Z14ProduceProfilePKcS0_PKtP9_tagOrganP13_tagOrganFile
+0x987 19 18 _Znwj@@GLIBCXX_3.4
+0x99a 26 25 _Z8my_qsortPvllPFlPKvS1_E
+0x9b4 17 16 _Z8__wcscatPtPKt
+0x9c5 31 30 _Z8vcd_readP14mp_vcd_priv_stPc
+0x9e4 18 17 strcat@@GLIBC_2.0
+0x9f6 32 31 _ZN13CFileNameHash9GetMemLenERi
+0xa16 18 17 _ZN9QSettingsC1Ev
+0xa28 17 16 fread@@GLIBC_2.0
+0xa39 8 7 mp_exch
+0xa41 24 23 _ZN10_tagOneLogC1EPKtcc
+0xa59 17 16 gnFindLenTextMin
+0xa6a 27 26 _ZN12MCSuffixNode5WriteEPc
+0xa85 27 26 _ZN17CUserPatternDBMgrD2Ev
+0xaa0 14 13 gnSampleBytes
+0xaae 15 14 file_getbuffer
+0xabd 18 17 _ZN9CDBInxMgrD0Ev
+0xacf 16 15 AudioProcessing
+0xadf 21 20 ReadAudioInformation
+0xaf4 23 22 _ZN8CScanLog6SetLogEPc
+0xb0b 31 30 __ctype_toupper_loc@@GLIBC_2.3
+0xb2a 40 39 _ZN18MCClassTempleArrayI9CCodeDataED1Ev
+0xb52 39 38 _ZN22MCSuffixTreeDictionary6CreateEPKc
+0xb79 28 27 garWatermarkingSignalBuffer
+0xb95 17 16 _Z8__wcscpyPtPKt
+0xba6 16 15 fork@@GLIBC_2.0
+0xbb6 13 12 rsa_Signtest
+0xbc3 31 30 __ctype_tolower_loc@@GLIBC_2.3
+0xbe2 10 9 mp_mulmod
+0xbec 8 7 mp_lshd
+0xbf4 36 35 _ZN17CUserPatternDBMgr6loadDBEPKcbb
+0xc18 16 15 des_ecb_decrypt
+0xc28 10 9 gszSetUnk
+0xc32 22 21 _Z15our_filter_filePc
+0xc48 21 20 _Z14rt_scan_threadPv
+0xc5d 18 17 sscanf@@GLIBC_2.0
+0xc6f 23 22 Document2007Processing
+0xc86 37 36 _ZN9QSettings10beginGroupERK7QString
+0xcab 19 18 _Z11MakeDicFilePKc
+0xcbe 15 14 gszTempDirAuth
+0xccd 18 17 dlopen@@GLIBC_2.1
+0xcdf 14 13 rsa_sign_hash
+0xced 10 9 gnFindLen
+0xcf7 18 17 access@@GLIBC_2.0
+0xd09 41 40 _ZN16CMultiPatternMgr13SetDictionaryEPKc
+0xd32 18 17 _Z10InitEnginePKc
+0xd44 62 61 _Z21ProduceProfile_InFilePKcPcPKtP9_tagOrganP13_tagOrganFilei
+0xd82 10 9 gszLogExt
+0xd8c 28 27 _ZN12MCSuffixNode6GetLenERi
+0xda8 36 35 _Z22AddFileNameToCheckListPKcP4stat
+0xdcc 21 20 garCosineValueBuffer
+0xde1 16 15 TOOM_MUL_CUTOFF
+0xdf1 28 27 FreeWatermarkingInformation
+0xe0d 24 23 _Z15GetStrCommonLenPcS_
+0xe25 10 9 mp_jacobi
+0xe2f 25 24 gawFilterredSampleBuffer
+0xe48 78 77 _ZN17CUserPatternDBMgr9saveArrayEPP18MCClassTempleArrayI12CCodeDataInxEPcPKcb
+0xe96 63 62 _Z15OpenFileProcessP12_tagFileTypeP13_tagOrganFileP9_tagOrgani
+0xed5 38 37 _ZN9QSettings10writeEntryERK7QStringi
+0xefb 30 29 _ZN14CFileNameArray7GetSizeEv
+0xf19 27 26 _ZN12MCMyIntArray4MoveEPS_
+0xf34 13 12 gszMsgReboot
+0xf41 13 12 file_fsmagic
+0xf4e 45 44 _ZN17CUserPatternDBMgr15subSearchBinaryEPcib
+0xf7b 21 20 ReadImageInformation
+0xf90 18 17 gszSelectedFolder
+0xfa2 11 10 gszWarnnig
+0xfad 9 8 _stricmp
+0xfb6 17 16 mkdir@@GLIBC_2.0
+0xfc7 42 41 _ZN13CFileNameHash6SearchEP12_tagFileName
+0xff1 32 31 _ZN14CFileNameArray9RemoveAllEv
+0x1011 7 6 _edata
+0x1018 8 7 main_di
+0x1020 21 20 _Z13MpegFileCheckPKc
+0x1035 19 18 g_nDesDataInitFlag
+0x1048 52 51 _Z14GetProFileInfoPKcP11_tagProfileP13_tagOrganFile
+0x107c 13 12 mp_dr_reduce
+0x1089 14 13 gszExtensions
+0x1097 15 14 gwszHardDiskID
+0x10a6 23 22 _ZN13CFileNameHashD1Ev
+0x10bd 11 10 checkfiles
+0x10c8 14 13 gszNameScnprc
+0x10d6 18 17 strstr@@GLIBC_2.0
+0x10e8 28 27 __vfprintf_chk@@GLIBC_2.3.4
+0x1104 19 18 scandir@@GLIBC_2.0
+0x1117 12 11 file_buffer
+0x1123 17 16 ReleaseAudioData
+0x1134 13 12 _Z8DictFreev
+0x1141 14 13 gszHardDiskID
+0x114f 31 30 _ZN13MCCalculateED7SetInfoEiPc
+0x116e 48 47 _ZN17CUserPatternDBMgr19SearchBinaryPatternEPci
+0x119e 37 36 _ZN11_tagLogFile5WriteEP10_tagOneLog
+0x11c3 20 19 endpwent@@GLIBC_2.0
+0x11d7 17 16 _Z8get_fileiPcji
+0x11e8 15 14 _ZN6CDBMgrD1Ev
+0x11f7 17 16 _ZN8CScanLogC2Ev
+0x1208 40 39 _ZN11_tagLogHead5WriteEPKcP10_tagOneLog
+0x1230 23 22 _ZTV16CMultiPatternMgr
+0x1247 13 12 gszPubHidden
+0x1254 13 12 gszNameMagic
+0x1261 32 31 _ZN22MCSuffixTreeDictionaryC1Ev
+0x1281 30 29 _Z19M_CompWithCCodeDataPKvS0_
+0x129f 19 18 _ZN8CScanLogC1EPKt
+0x12b2 14 13 mp_init_multi
+0x12c0 17 16 _ZN8CScanLogD2Ev
+0x12d1 16 15 igl_get_rgbdata
+0x12e1 16 15 mp_reduce_is_2k
+0x12f1 11 10 data_start
+0x12fc 20 19 _ZN10_tagOneLogD2Ev
+0x1310 21 20 _ZN11_tagLogFileD1Ev
+0x1325 31 30 _Z24SetCDHistoryProtectFilesii
+0x1344 35 34 _ZN13CPatternDBMgr12SetPackageIDEl
+0x1367 11 10 rsa_import
+0x1372 44 43 _ZN13CPatternDBMgr18getPackagePatternsEPS_l
+0x139e 19 18 gszOSLinuxFileName
+0x13b1 7 6 deskey
+0x13b8 15 14 _IO_stdin_used
+0x13c7 20 19 basename@@GLIBC_2.0
+0x13db 18 17 select@@GLIBC_2.0
+0x13ed 18 17 strdup@@GLIBC_2.0
+0x13ff 16 15 GetImageFromDCT
+0x140f 48 47 _ZN12MCSuffixNode12MergeAllNodeEP12MCMyIntArray
+0x143f 10 9 gszDBFile
+0x1449 21 20 backtrace@@GLIBC_2.1
+0x145e 33 32 _ZN10_tagOneLog12GetMediaTypeEPc
+0x147f 17 16 _Z10EncodeFilePc
+0x1490 17 16 lseek@@GLIBC_2.0
+0x14a1 27 26 gpsWatermarkingInformation
+0x14bc 23 22 _ZTS16CMultiPatternMgr
+0x14d3 8 7 mp_init
+0x14db 18 17 _Z10DecodeDataPhl
+0x14ed 22 21 _ZN6CDBMgr6LoadDBEPKc
+0x1503 60 59 _Z11RestoreFileP12_tagFileTypeP13_tagOrganFileP9_tagOrganPc
+0x153f 15 14 gszPubWMHidden
+0x154e 12 11 rsa_signpad
+0x155a 23 22 _ZTI16CMultiPatternMgr
+0x1571 13 12 file_magwarn
+0x157e 31 30 _ZN10MCIntArray11AllocBufferEl
+0x159d 13 12 mp_exteuclid
+0x15aa 53 52 _ZN22MCSuffixTreeDictionary6ModifyEPcP12_tagFileInfo
+0x15df 9 8 rsa_free
+0x15e8 24 23 _ZN14CFileNameArrayD2Ev
+0x1600 26 25 _ZN16CMultiPatternMgrD0Ev
+0x161a 10 9 DESEncode
+0x1624 15 14 _ZTI9CDBInxMgr
+0x1633 14 13 _Z9close_vcdv
+0x1641 9 8 gszOpprc
+0x164a 31 30 _ZN13CPatternDBMgr6LoadDBEPKcb
+0x1669 15 14 _ZTS9CDBInxMgr
+0x1678 28 27 _ZN8CScanLog11GetLogTodayEv
+0x1694 21 20 _ZN11_tagLogFileC1Ev
+0x16a9 20 19 mp_montgomery_setup
+0x16bd 26 25 _ZN12MCSuffixNode4ReadEPc
+0x16d7 21 20 KARATSUBA_MUL_CUTOFF
+0x16ec 15 14 SetBlockBuffer
+0x16fb 7 6 mp_div
+0x1702 32 31 _ZN22MCSuffixTreeDictionaryD0Ev
+0x1722 18 17 calloc@@GLIBC_2.0
+0x1734 8 7 DVDOpen
+0x173c 30 29 _ZN13CFileNameHash6SearchEPKc
+0x175a 43 42 _Z18DecodedFileProtectP15SEncodedFileMgrPc
+0x1785 21 20 _ZN11_tagLogHeadC2Ev
+0x179a 15 14 garAlphaBuffer
+0x17a9 19 18 fast_s_mp_mul_digs
+0x17bc 19 18 ganProfileIdentify
+0x17cf 32 31 _ZN8CScanLog15GetLogFileCountEv
+0x17ef 59 58 _Z10DecodeFileP12_tagFileTypeP13_tagOrganFileP9_tagOrganPc
+0x182a 20 19 _Z12AviFileCheckPKc
+0x183e 13 12 gnScanThread
+0x184b 16 15 ganPeriodBuffer
+0x185b 13 12 gszSetUpTime
+0x1868 12 11 gszWMDecode
+0x1874 21 20 gszMsgDBEqualVersion
+0x1889 66 65 _ZN13CPatternDBMgr8RemoveAtEP18MCClassTempleArrayI9CCodeDataEPS1_
+0x18cb 6 5 szKey
+0x18d1 41 40 _Z18FreeEncodedFileMgrP15SEncodedFileMgr
+0x18fa 18 17 getuid@@GLIBC_2.0
+0x190c 7 6 _fp_hw
+0x1913 12 11 mp_toom_mul
+0x191f 19 18 GetWordInformation
+0x1932 7 6 mp_sub
+0x1939 19 18 strncat@@GLIBC_2.0
+0x194c 16 15 gnModuleNameLen
+0x195c 5 4 main
+0x1961 13 12 gszNameOpprc
+0x196e 20 19 __fxstat@@GLIBC_2.0
+0x1982 14 13 rsa_signdepad
+0x1990 15 14 gszPathPattern
+0x199f 14 13 s_mp_mul_digs
+0x19ad 17 16 fputc@@GLIBC_2.0
+0x19be 17 16 fgets@@GLIBC_2.0
+0x19cf 13 12 EncryptByDES
+0x19dc 24 23 ConvertFromSquareToLine
+0x19f4 9 8 s_mp_sub
+0x19fd 18 17 fwrite@@GLIBC_2.0
+0x1a0f 15 14 gszProductDate
+0x1a1e 13 12 __DTOR_END__
+0x1a2b 14 13 _Z8DictLoadPc
+0x1a39 15 14 _Z9FileCheckPc
+0x1a48 8 7 gszNull
+0x1a50 18 17 memcpy@@GLIBC_2.0
+0x1a62 7 6 mp_mod
+0x1a69 39 38 _ZN17CUserPatternDBMgr12SetPackageIDEl
+0x1a90 29 28 _Z17RemoveProfileInfoPKcS0_b
+0x1aad 14 13 gszSetPatYear
+0x1abb 21 20 _Z13IsDVDAuthFilePKc
+0x1ad0 18 17 _ZN9QSettingsD1Ev
+0x1ae2 17 16 write@@GLIBC_2.0
+0x1af3 19 18 _ZN6QGList5clearEv
+0x1b06 18 17 malloc@@GLIBC_2.0
+0x1b18 12 11 g_strDetect
+0x1b24 13 12 gszSubDBName
+0x1b31 24 23 _ZN10MCIntArray4ReadEPc
+0x1b49 26 25 _ZN7QString11shared_nullE
+0x1b63 8 7 mp_zero
+0x1b6b 13 12 __dso_handle
+0x1b78 9 8 gszDBExt
+0x1b81 23 22 _ZN13CFileNameHashC1Ev
+0x1b98 10 9 magicfile
+0x1ba2 11 10 g_oDESData
+0x1bad 23 22 ReleaseWordInformation
+0x1bc4 18 17 strlen@@GLIBC_2.0
+0x1bd6 22 21 _Z15rt_check_threadPv
+0x1bec 8 7 mp_copy
+0x1bf4 7 6 m_fdCD
+0x1bfb 33 32 _ZN12MCSuffixNode7AddNodeEPciS0_
+0x1c1c 18 17 _ZN9CDBInxMgrD1Ev
+0x1c2e 30 29 _ZN12MCMyIntArray9RemoveAllEv
+0x1c4c 98 97 _ZN17CUserPatternDBMgr18getPackagePatternsEP18MCClassTempleArrayI9CCodeDataEPS0_I12CCodeDataInxEl
+0x1cae 8 7 mp_grow
+0x1cb6 46 45 _Z21SearchEncodedFileNameP15SEncodedFileMgrPc
+0x1ce4 31 30 _Z23remove_removable_devicePKc
+0x1d03 18 17 munmap@@GLIBC_2.0
+0x1d15 13 12 gpchFindText
+0x1d22 14 13 file_delmagic
+0x1d30 10 9 grVersion
+0x1d3a 32 31 _ZN22MCSuffixTreeDictionaryC2Ev
+0x1d5a 18 17 usleep@@GLIBC_2.0
+0x1d6c 18 17 getcwd@@GLIBC_2.0
+0x1d7e 18 17 _ZN7QStringC1EPKc
+0x1d90 27 26 __strncpy_chk@@GLIBC_2.3.4
+0x1dab 27 26 __sprintf_chk@@GLIBC_2.3.4
+0x1dc6 14 13 file_ascmagic
+0x1dd4 13 12 SetAudioData
+0x1de1 10 9 mp_div_2d
+0x1deb 27 26 _Z19GetPatternFromTrackiPc
+0x1e06 17 16 mp_karatsuba_mul
+0x1e17 22 21 _ZN12MCSuffixNodeC1Ev
+0x1e2d 12 11 gnFindCount
+0x1e39 16 15 igl_put_rgbdata
+0x1e49 12 11 file_printf
+0x1e55 28 27 __snprintf_chk@@GLIBC_2.3.4
+0x1e71 28 27 _ZN14CFileNameArray5GetAtEl
+0x1e8d 8 7 ifoOpen
+0x1e95 9 8 mgl_init
+0x1e9e 11 10 file_error
+0x1ea9 39 38 _Z16AuthentificationP12_tagFileTypePcl
+0x1ed0 35 34 _ZNK6QGList5writeER11QDataStreamPv
+0x1ef3 26 25 _ZN10MCIntArray7ReverseEv
+0x1f0d 19 18 readdir@@GLIBC_2.0
+0x1f20 18 17 gszExtensionsAuth
+0x1f32 24 23 _ZN12MCMyIntArray3AddEl
+0x1f4a 10 9 gszSyspat
+0x1f54 33 32 _Z22M_CompWithCCodeDataInxPKvS0_
+0x1f75 13 12 _Z6deldirPKc
+0x1f82 23 22 _ZN13CPatternDBMgrD2Ev
+0x1f99 28 27 _ZN11_tagLogFile8GetLogAtEi
+0x1fb5 21 20 _Z7RTS_LogPKcS0_S0_i
+0x1fca 21 20 mp_montgomery_reduce
+0x1fdf 53 52 _ZN13CPatternDBMgr20subSearchPatternFileEP8_IO_FILEb
+0x2014 16 15 mp_exptmod_fast
+0x2024 18 17 stdout@@GLIBC_2.0
+0x2036 20 19 SetWatermarkingData
+0x204a 16 15 des_ecb_encrypt
+0x205a 19 18 __xstat@@GLIBC_2.0
+0x206d 23 22 __fread_chk@@GLIBC_2.7
+0x2084 12 11 magic_close
+0x2090 26 25 _ZN16CMultiPatternMgrD2Ev
+0x20aa 10 9 gszCurDir
+0x20b4 20 19 __lxstat@@GLIBC_2.0
+0x20c8 45 44 _ZN13CPatternDBMgr22SetPackageID_AddedDataEv
+0x20f5 33 32 mp_montgomery_calc_normalization
+0x2116 11 10 magic_open
+0x2121 26 25 __cxa_atexit@@GLIBC_2.1.3
+0x213b 7 6 gtTime
+0x2142 17 16 dlsym@@GLIBC_2.0
+0x2153 10 9 gszDBFail
+0x215d 35 34 _ZN13CPatternDBMgr12GetPackageIDEv
+0x2180 11 10 gnHostPort
+0x218b 11 10 mp_cnt_lsb
+0x2196 15 14 gnPatternMonth
+0x21a5 11 10 m_cntTrack
+0x21b0 50 49 _ZTVN10__cxxabiv117__class_type_infoE@@CXXABI_1.3
+0x21e2 16 15 error_to_string
+0x21f2 9 8 s_mp_add
+0x21fb 19 18 _Z11GetFileTypePKc
+0x220e 8 7 zeromem
+0x2216 14 13 prpsoffsets32
+0x2224 19 18 gszMsgFolderSelect
+0x2237 6 5 _fini
+0x223d 49 48 _ZN13CPatternDBMgr17SearchPatternFileEP8_IO_FILE
+0x226e 18 17 strcmp@@GLIBC_2.0
+0x2280 30 29 _Z18ff_find_start_codePhS_Pjh
+0x229e 22 21 _ZN12MCSuffixNodeD1Ev
+0x22b4 13 12 sha1_process
+0x22c1 18 17 utimes@@GLIBC_2.0
+0x22d3 22 21 _ZN10MCIntArray3AddEl
+0x22e9 9 8 MGL_Free
+0x22f2 22 21 _ZN12MCMyIntArrayD2Ev
+0x2308 21 20 mp_unsigned_bin_size
+0x231d 19 18 toupper@@GLIBC_2.0
+0x2330 18 17 gnSampleRateIndex
+0x2342 24 23 _Z15CopyEncodedFilePcS_
+0x235a 16 15 time@@GLIBC_2.0
+0x236a 13 12 file_fmttime
+0x2377 13 12 gszPubDecode
+0x2384 23 22 _Z13isRegularFilePclPi
+0x239b 10 9 mp_addmod
+0x23a5 17 16 mp_to_signed_bin
+0x23b6 22 21 _Z13InsertSrcNamePcS_
+0x23cc 29 28 _ZN8CScanLog11GetFileNameEPc
+0x23e9 27 26 _ZN17CUserPatternDBMgrD1Ev
+0x2404 15 14 _ZN6CDBMgrC1Ev
+0x2413 22 21 mgl_get_audio_pcmdata
+0x2429 20 19 _ZNK6QGList5countEv
+0x243d 7 6 mp_add
+0x2444 17 16 FileInfoAddToKey
+0x2455 41 40 _ZN14CFileNameArray4FindEP12_tagFileName
+0x247e 19 18 _Znaj@@GLIBCXX_3.4
+0x2491 20 19 ganAmplitudeBuffer2
+0x24a5 28 27 __errno_location@@GLIBC_2.0
+0x24c1 8 7 inflate
+0x24c9 8 7 gsOrgan
+0x24d1 19 18 strncpy@@GLIBC_2.0
+0x24e4 22 21 mgl_put_audio_pcmdata
+0x24fa 15 14 gszSetPatMonth
+0x2509 18 17 fflush@@GLIBC_2.0
+0x251b 21 20 _Z11ConvertTextPcPKc
+0x2530 17 16 gsEncodedFileMgr
+0x2541 29 28 mp_prime_rabin_miller_trials
+0x255e 14 13 FreeMemoryDES
+0x256c 23 22 ReadEncryptInformation
+0x2583 15 14 dup@@GLIBC_2.0
+0x2592 39 38 _ZN13CFileNameHash3AddEP12_tagFileName
+0x25b9 18 17 memcmp@@GLIBC_2.0
+0x25cb 29 28 _ZN12MCSuffixNode6SearchEPKc
+0x25e8 17 16 _Z10IsCDDevicePc
+0x25f9 13 12 gszKSMServer
+0x2606 29 28 __vsnprintf_chk@@GLIBC_2.3.4
+0x2623 38 37 _ZN13CPatternDBMgr13SaveAddedDataEPKc
+0x2649 29 28 _ZN12MCMyIntArray8RemoveAtEl
+0x2666 16 15 gszNameWarnning
+0x2676 11 10 g_rVersion
+0x2681 14 13 gszModuleName
+0x268f 18 17 _Z12CheckVideoCDv
+0x26a1 19 18 _Z10repeatDataPcil
+0x26b4 12 11 g_sHookFlag
+0x26c0 8 7 process
+0x26c8 19 18 isupper@@GLIBC_2.0
+0x26db 18 17 _Z6memstrPKvjS0_j
+0x26ed 9 8 mp_clamp
+0x26f6 44 43 _ZN13CPatternDBMgr18LoadDictByDecodingEPKcb
+0x2722 23 22 _ZN9CCodeData4CopyEPS_
+0x2739 13 12 gszSetPatDay
+0x2746 17 16 _ZN8CScanLogC1Ev
+0x2757 26 25 __strcpy_chk@@GLIBC_2.3.4
+0x2771 19 18 strrchr@@GLIBC_2.0
+0x2784 43 42 _ZN12MCSuffixNode6ModifyEPcP12_tagFileInfo
+0x27af 11 10 gbAutoScan
+0x27ba 19 18 mp_reduce_2k_setup
+0x27cd 14 13 inflateInit2_
+0x27db 16 15 _Z10getMakeDayv
+0x27eb 17 16 fseek@@GLIBC_2.0
+0x27fc 46 45 _ZN9QSettings7setPathERK7QStringS2_NS_5ScopeE
+0x282a 26 25 mgl_agp_get_audio_pcmdata
+0x2844 77 76 _ZN13CPatternDBMgr18getPackagePatternsEP18MCClassTempleArrayI9CCodeDataES3_l
+0x2891 12 11 gaszHostIPs
+0x289d 14 13 fast_s_mp_sqr
+0x28ab 37 36 _ZN13CPatternDBMgr12loadHeadOnlyEPKc
+0x28d0 28 27 _ZN13MCCalculateED5IsCutEci
+0x28ec 18 17 getenv@@GLIBC_2.0
+0x28fe 69 68 _ZN13CPatternDBMgr10DeleteDataEP18MCClassTempleArrayI9CCodeDataEPS1_
+0x2943 39 38 _ZN22MCSuffixTreeDictionary4DumpEPKcRi
+0x296a 18 17 LoadIMGLFunctions
+0x297c 22 21 iconv_open@@GLIBC_2.1
+0x2992 19 18 islower@@GLIBC_2.0
+0x29a5 7 6 mp_set
+0x29ac 13 12 file_badseek
+0x29b9 33 32 _Z14set_MSF_OFFSETP10MSF_OFFSETj
+0x29da 16 15 FileInfoDecrypt
+0x29ea 17 16 srand@@GLIBC_2.0
+0x29fb 81 80 _ZN22MCSuffixTreeDictionary16SubTreeWriteNodeEP12MCSuffixNodeP8_IO_FILEPPPcRiS7_
+0x2a4c 20 19 gszMsgDBFileNoExist
+0x2a60 21 20 GetHashValueFromFile
+0x2a75 16 15 mp_reduce_setup
+0x2a85 22 21 _ZN12MCMyIntArrayD1Ev
+0x2a9b 20 19 _ZN10_tagOneLogD1Ev
+0x2aaf 18 17 strchr@@GLIBC_2.0
+0x2ac1 20 19 _ZdlPv@@GLIBCXX_3.4
+0x2ad5 18 17 rename@@GLIBC_2.0
+0x2ae7 46 45 _ZN14CFileNameArray8RemoveAtEP12_tagFileNamel
+0x2b15 9 8 gszMedia
+0x2b1e 9 8 mp_div_d
+0x2b27 38 37 _ZN13CPatternDBMgr15SetPackageIDBitEl
+0x2b4d 26 25 pthread_create@@GLIBC_2.1
+0x2b67 23 22 _ZN13CPatternDBMgrC2Ev
+0x2b7e 14 13 gnFindLenText
+0x2b8c 29 28 __libc_start_main@@GLIBC_2.0
+0x2ba9 17 16 _Z11is_root_dirv
+0x2bba 10 9 mp_sqrmod
+0x2bc4 18 17 mktime@@GLIBC_2.0
+0x2bd6 57 56 _ZN17CUserPatternDBMgr20subSearchPatternFileEP8_IO_FILEb
+0x2c0f 17 16 chdir@@GLIBC_2.0
+0x2c20 14 13 gszMsgTooltip
+0x2c2e 24 23 _ZN10MCIntArray3AddEPS_
+0x2c46 26 25 mgl_agp_put_audio_pcmdata
+0x2c60 27 26 __isoc99_sscanf@@GLIBC_2.7
+0x2c7b 32 31 pthread_mutex_unlock@@GLIBC_2.0
+0x2c9b 16 15 pipe@@GLIBC_2.0
+0x2cab 20 19 _ZN6CDBMgr3AddEPclb
+0x2cbf 7 6 _start
+0x2cc6 26 25 __strcat_chk@@GLIBC_2.3.4
+0x2ce0 10 9 gszOSTemp
+0x2cea 37 36 _ZN14CFileNameArray13GetDataBufferEv
+0x2d0f 17 16 iconv@@GLIBC_2.1
+0x2d20 7 6 unload
+0x2d27 14 13 gnPatternYear
+0x2d35 18 17 execvp@@GLIBC_2.0
+0x2d47 16 15 gnFileNameCount
+0x2d57 43 42 _ZN17CUserPatternDBMgr14AddPatternFileEPKc
+0x2d82 24 23 _Z13Utf8ToUnicodePtPKhi
+0x2d9a 15 14 _Z9IsVideoCDPc
+0x2da9 24 23 _ZN14CFileNameArrayD1Ev
+0x2dc1 12 11 gsOrganFile
+0x2dcd 36 35 _ZN16CMultiPatternMgr8DictLoadEPKcb
+0x2df1 13 12 mgl_agp_open
+0x2dfe 10 9 igl_close
+0x2e08 40 39 _Z18vcd_get_trackCountP14mp_vcd_priv_st
+0x2e30 26 25 _ZN16CMultiPatternMgrC1Ev
+0x2e4a 12 11 _Z7sigtermi
+0x2e56 20 19 gachCharacterBuffer
+0x2e6a 12 11 _ZTI6QGList
+0x2e76 18 17 signal@@GLIBC_2.0
+0x2e88 12 11 magic_errno
+0x2e94 21 20 _ZN11_tagLogHeadC1Ev
+0x2ea9 12 11 gszHostFile
+0x2eb5 32 31 _ZN22MCSuffixTreeDictionaryD1Ev
+0x2ed5 20 19 _Z14init_file_sizet
+0x2ee9 11 10 inflateEnd
+0x2ef4 25 24 ganProfileOfficeIdentify
+0x2f0d 42 41 _ZN9QSettings12readNumEntryERK7QStringiPb
+0x2f37 25 24 WriteDocumentInformation
+0x2f50 14 13 _Z9opprcmainv
+0x2f5e 19 18 GetKeyInfoFromFile
+0x2f71 23 22 __i686.get_pc_thunk.bx
+0x2f88 13 12 RSA_Decoding
+0x2f95 15 14 _ZN6QGListD0Ev
+0x2fa4 31 30 _ZN11QStringData10deleteSelfEv
+0x2fc7 23 22 _Z13ReallocMemoryPPvll
+0x2fde 21 20 _Z12GetViewerPIDiPKc
+0x2ff3 29 28 _ZTS22MCSuffixTreeDictionary
+0x3010 25 24 __ctype_b_loc@@GLIBC_2.3
+0x3029 11 10 file_mdump
+0x3034 13 12 magicfilesys
+0x3041 52 51 _ZN13CPatternDBMgr24ExtractRecentPatternFileEPKcS1_
+0x3075 27 26 _ZN17CUserPatternDBMgrC1Ev
+0x3090 8 7 _strupr
+0x3098 15 14 rsa_Verifytest
+0x30a7 16 15 rand@@GLIBC_2.0
+0x30b7 43 42 _Z18SetOpenEncodedFileP15SEncodedFileMgrPc
+0x30e2 18 17 _ZN9CDBInxMgrC1Ev
+0x30f4 31 30 _ZN6QGList12compareItemsEPvS0_
+0x3113 45 44 _ZN13CPatternDBMgr20SearchPatternFileAPIEPKc
+0x3140 13 12 _Z8open_vcdv
+0x314d 9 8 mp_cmp_d
+0x3156 10 9 mp_reduce
+0x3160 26 25 fast_mp_montgomery_reduce
+0x317a 12 11 file_zmagic
+0x3186 28 27 __stack_chk_fail@@GLIBC_2.4
+0x31a2 15 14 _ZN6QGListD1Ev
+0x31b1 6 5 _init
+0x31b7 42 41 _ZN17CUserPatternDBMgr15SetPackageIDBitEl
+0x31e1 7 6 mp_mul
+0x31e8 24 23 ConvertFromLineToSquare
+0x3200 13 12 mp_reduce_2k
+0x320d 14 13 gszMenuUpdate
+0x321b 16 15 sqrt@@GLIBC_2.0
+0x322b 11 10 mgl_handle
+0x3236 20 19 _Z12GetMinTripleiii
+0x324a 19 18 mbrtowc@@GLIBC_2.0
+0x325d 14 13 gszUpdateFile
+0x326b 18 17 _ZN9CDBInxMgrD2Ev
+0x327d 19 18 dlerror@@GLIBC_2.0
+0x3290 24 23 fast_s_mp_mul_high_digs
+0x32a8 17 16 gszMsgDBNoUpdate
+0x32b9 28 27 _Z11GetKeyIndexP9_tagOrganl
+0x32d5 24 23 _Z11DecodeArrayP6CDBMgr
+0x32ed 21 20 arAmplitudeThreshold
+0x3302 12 11 IsSmallFile
+0x330e 12 11 _Z4IsCDPcS_
+0x331a 30 29 pthread_mutex_lock@@GLIBC_2.0
+0x3338 22 21 _Z16init_file_headert
+0x334e 26 25 __isoc99_scanf@@GLIBC_2.7
+0x3368 19 18 s_mp_mul_high_digs
+0x337b 18 17 strtol@@GLIBC_2.0
+0x338d 7 6 mp_abs
+0x3394 39 38 _Z14RemoveOpenFileP15SEncodedFileMgrPc
+0x33bb 16 15 file_signextend
+0x33cb 9 8 mp_sub_d
+0x33d4 25 24 _Z17DeleteUnknownFilePKc
+0x33ed 44 43 _ZN18MCClassTempleArrayI12CCodeDataInxED1Ev
+0x3419 21 20 __udivdi3@@GLIBC_2.0
+0x342e 71 70 _Z21GetProFileInfo_InFileP12_tagFileTypeP13_tagOrganFileP11_tagProfile
+0x3475 26 25 _ZN11_tagLogHead4ReadEPKc
+0x348f 10 9 mp_mul_2d
+0x3499 23 22 _Z14GetSrcFileNamePcS_
+0x34b0 20 19 _Jv_RegisterClasses
+0x34c4 7 6 mp_sqr
+0x34cb 28 27 _ZN10MCIntArray8InsertAtEll
+0x34e7 13 12 gnSampleRate
+0x34f4 20 19 packet_store_header
+0x3508 27 26 _ZN13CPatternDBMgr5CloseEv
+0x3523 9 8 gszPlain
+0x352c 22 21 _ZN12MCMyIntArrayC2Ev
+0x3542 12 11 _ZTS6QGList
+0x354e 15 14 goFileNameTree
+0x355d 17 16 utime@@GLIBC_2.0
+0x356e 8 7 _strlwr
+0x3576 31 30 _ZN14QPtrCollection7newItemEPv
+0x3595 16 15 gszUpdateDaeMon
+0x35a5 26 25 _ZN16CMultiPatternMgrC2Ev
+0x35bf 19 18 mkstemp@@GLIBC_2.0
+0x35d2 39 38 _ZN13CPatternDBMgr14AddPatternFileEPKc
+0x35f9 19 18 ganFrequencyBuffer
+0x360c 23 22 _ZN13CFileNameHashC2Ev
+0x3623 15 14 fast_mp_invmod
+0x3632 16 15 free@@GLIBC_2.0
+0x3642 17 16 _Z8read_vcdjjPvi
+0x3653 15 14 gauchPCMBuffer
+0x3662 27 26 _Z16CreateHiddenInfoPKciPc
+0x367d 12 11 gszMenuScan
+0x3689 15 14 _ZN6CDBMgrC2Ev
+0x3698 46 45 _ZN13CPatternDBMgr17AddRawPatternFileEPcPKcbi
+0x36c6 29 28 _ZN14CFileNameArray4FindEPKc
+0x36e3 49 48 _ZN17CUserPatternDBMgr20SearchPatternFileAPIEPKc
+0x3714 14 13 gszPathRecent
+0x3722 54 53 _Z16EncodeBufferReadP11_tagProfilePhlP13_tagOrganFile
+0x3758 15 14 gszViewerNames
+0x3767 10 9 g_strFlag
+0x3771 20 19 asprintf@@GLIBC_2.0
+0x3785 13 12 gszNameAngae
+0x3792 41 40 _ZN16CMultiPatternMgr13GetDictionaryEPKc
+0x37bb 9 8 mgl_free
+0x37c4 10 9 mgl_close
+0x37ce 53 52 _ZTVN10__cxxabiv120__si_class_type_infoE@@CXXABI_1.3
+0x3803 25 24 NormalizeWordInformation
+0x381c 16 15 rsa_verify_hash
+0x382c 14 13 gszUpdateMark
+0x383a 9 8 mp_div_2
+0x3843 35 34 _Z13CopyProStructP11_tagProfileS0_
+0x3866 18 17 statfs@@GLIBC_2.0
+0x3878 23 22 ReadOneDigitFromBuffer
+0x388f 19 18 gszRealTimeCaption
+0x38a2 17 16 clock@@GLIBC_2.0
+0x38b3 9 8 MGL_Init
+0x38bc 14 13 mgl_agp_close
+0x38ca 19 18 strncmp@@GLIBC_2.0
+0x38dd 36 35 _ZN13CPatternDBMgr9GetOSFileEPcPKcl
+0x3901 14 13 EncryptBuffer
+0x390f 27 26 _ZN13CFileNameHash4ReadEPc
+0x392a 53 52 _ZN17CUserPatternDBMgr17SearchPatternFileEP8_IO_FILE
+0x395f 39 38 _ZN17CUserPatternDBMgr12GetPackageIDEv
+0x3986 13 12 mp_init_copy
+0x3993 24 23 _ZN8CScanLog8GetLogAtEi
+0x39ab 40 39 _Z17vcd_seek_to_trackP14mp_vcd_priv_sti
+0x39d3 19 18 AddKeyToFileHeader
+0x39e6 36 35 _ZN16CMultiPatternMgr9FileCheckEPKc
+0x3a0a 24 23 _ZN14CFileNameArrayC2Ev
+0x3a22 34 33 _Z15FreeProfileInfoP11_tagProfile
+0x3a44 24 23 _ZN10_tagOneLogC2EPKtcc
+0x3a5c 49 48 _ZN6CDBMgr3AddEP18MCClassTempleArrayI9CCodeDataE
+0x3a8d 34 33 _Z10file_checkP15rts_file_structi
+0x3aaf 9 8 mp_mul_2
+0x3ab8 17 16 HiddenEncodeFile
+0x3ac9 25 24 _Z10getFileLenP8_IO_FILE
+0x3ae2 10 9 mp_invmod
+0x3aec 24 23 WriteEncryptInformation
+0x3b04 15 14 file_softmagic
+0x3b13 30 29 _ZN12MCMyIntArray7CopyMemEPll
+0x3b31 18 17 _Z12vcd_read_toci
+0x3b43 9 8 mp_mod_d
+0x3b4c 19 18 asctime@@GLIBC_2.0
+0x3b5f 13 12 __data_start
+0x3b6c 22 21 mp_prime_miller_rabin
+0x3b82 11 10 igl_handle
+0x3b8d 33 32 _Z10my_bsearchPKvS0_llPFlS0_S0_E
+0x3bae 28 27 _ZN13CFileNameHash4DumpEPKc
+0x3bca 11 10 file_oomem
+0x3bd5 28 27 _Z18IsExistProFileInfoPKcPi
+0x3bf1 29 28 _Z21GetOriginalFileLengthPKc
+0x3c0e 30 29 _Z21WriteHiddenEncodeFilePKci
+0x3c2c 22 21 WriteImageInformation
+0x3c42 42 41 _ZN22MCSuffixTreeDictionary10InitializeEv
+0x3c6c 5 4 _end
+0x3c71 15 14 _Z7IsCDRomPcS_
+0x3c80 24 23 ReadDocumentInformation
+0x3c98 26 25 __memset_chk@@GLIBC_2.3.4
+0x3cb2 20 19 packet_valid_header
+0x3cc6 22 21 _Z15SetProtectFilesii
+0x3cdc 19 18 opendir@@GLIBC_2.0
+0x3cef 15 14 file_pipe2file
+0x3cfe 29 28 _ZN14CFileNameArray5WriteEPc
+0x3d1b 24 23 pthread_join@@GLIBC_2.0
+0x3d33 10 9 checkfile
+0x3d3d 20 19 _Z7ScanLogPcPtccS0_
+0x3d51 15 14 gpsMpegPointer
+0x3d60 20 19 _Z14get_file_countv
+0x3d74 23 22 PrivateImageProcessing
+0x3d8b 23 22 _Z15OpenFileProcessPKc
+0x3da2 35 34 _ZN8CScanLog7ScanLogEP10_tagOneLog
+0x3dc5 12 11 _ZTI6CDBMgr
+0x3dd1 20 19 closedir@@GLIBC_2.0
+0x3de5 12 11 gnScanPause
+0x3df1 32 31 _ZN22MCSuffixTreeDictionaryD2Ev
+0x3e11 15 14 _Z8__wcslenPKt
+0x3e20 70 69 _ZN13CPatternDBMgr9saveArrayEPP18MCClassTempleArrayI9CCodeDataEPcPKcl
+0x3e66 25 24 _ZN8CScanLog9GetLogAllEv
+0x3e7f 11 10 bn_reverse
+0x3e8a 21 20 KARATSUBA_SQR_CUTOFF
+0x3e9f 19 18 mp_to_unsigned_bin
+0x3eb2 13 12 magic_buffer
+0x3ebf 16 15 GetDCTFromImage
+0x3ecf 12 11 _ZTV6QGList
+0x3edb 29 28 _Z15CheckDoubleFilePKcP4stat
+0x3ef8 16 15 exit@@GLIBC_2.0
+0x3f08 22 21 mp_prime_is_divisible
+0x3f1e 14 13 FreeMemoryRSA
+0x3f2c 17 16 LowPassFiltering
+0x3f3d 23 22 _Z13DiskFreeSpacePcS_i
+0x3f54 32 31 _ZN10_tagOneLog11GetFileTypeEPc
+0x3f74 25 24 _ZN12MCMyIntArray4FindEl
+0x3f8d 30 29 _ZN17CUserPatternDBMgr4SaveEb
+0x3fab 15 14 _Z8DVDCheckPKc
+0x3fba 13 12 gnCheckCount
+0x3fc7 26 25 _Z20GetPatternUpdateTimev
+0x3fe1 20 19 strerror@@GLIBC_2.0
+0x3ff5 22 21 WriteOneDigitToBuffer
+0x400b 9 8 mp_add_d
+0x4014 24 23 _ZN11_tagLogFile4FreeEv
+0x402c 18 17 HighPassFiltering
+0x403e 16 15 gszNameAudiosig
+0x404e 20 19 __xmknod@@GLIBC_2.0
+0x4062 7 6 mp_gcd
+0x4069 19 18 dlclose@@GLIBC_2.0
+0x407c 28 27 _ZN10MCIntArray8RemoveAtEll
+0x4098 16 15 file_apprentice
+0x40a8 10 9 mp_shrink
+0x40b2 43 42 _ZN12MCSuffixNode6SearchEP12MCMyIntArrayPc
+0x40dd 80 79 _ZN17CUserPatternDBMgr7addDataEP18MCClassTempleArrayI12CCodeDataInxEP9CCodeData
+0x412d 12 11 magic_error
+0x4139 12 11 __bss_start
+0x4145 17 16 mp_karatsuba_sqr
+0x4156 29 28 _ZTI22MCSuffixTreeDictionary
+0x4173 9 8 mp_div_3
+0x417c 16 15 feof@@GLIBC_2.0
+0x418c 18 17 strtok@@GLIBC_2.0
+0x419e 19 18 DocumentProcessing
+0x41b1 18 17 _ZN9CDBInxMgrC2Ev
+0x41c3 12 11 magic_check
+0x41cf 16 15 get_disk_serial
+0x41df 48 47 _ZN18MCClassTempleArrayI9CCodeDataE9DeleteAllEv
+0x420f 18 17 perror@@GLIBC_2.0
+0x4221 38 37 _Z14IsExistProFilePKcP13_tagOrganFile
+0x4247 12 11 __prime_tab
+0x4253 16 15 __libc_csu_init
+0x4263 15 14 _ZTV9CDBInxMgr
+0x4272 12 11 file_header
+0x427e 20 19 getpwuid@@GLIBC_2.0
+0x4292 14 13 main_ftdetect
+0x42a0 21 20 _Z13GetProcessCntPKc
+0x42b5 24 23 _ZN11_tagLogFile4ReadEv
+0x42cd 21 20 alphasort@@GLIBC_2.0
+0x42e2 13 12 gszSetInsert
+0x42ef 89 88 _ZN17CUserPatternDBMgr10DeleteDataEP18MCClassTempleArrayI12CCodeDataInxEPS0_I9CCodeDataE
+0x4348 39 38 _ZN22MCSuffixTreeDictionary6SearchEPKc
+0x436f 20 19 readlink@@GLIBC_2.0
+0x4383 22 21 _ZN12MCSuffixNodeD2Ev
+0x4399 15 14 gnSampleNumber
+0x43a8 12 11 rsa_exptmod
+0x43b4 12 11 gszTempPath
+0x43c0 48 47 _ZN17CUserPatternDBMgr18LoadDictByDecodingEPKcb
+0x43f0 70 69 _ZN13CPatternDBMgr9loadArrayEPP18MCClassTempleArrayI9CCodeDataEPcPKcb
+0x4436 16 15 garSampleBuffer
+0x4446 12 11 _ZTS6CDBMgr
+0x4452 58 57 _ZN12MCSuffixNode6SearchEP12MCMyIntArrayP13MCCalculateEDi
+0x448c 11 10 mp_exptmod
+0x4497 9 8 mp_clear
+0x44a0 34 33 _ZN6QGList4readER11QDataStreamRPv
+0x44c2 21 20 _ZN11_tagLogFileD2Ev
+0x44d7 18 17 InsertBlockBuffer
+0x44e9 44 43 _ZN12MCSuffixNode6SearchEPKcP12_tagFileInfo
+0x4515 13 12 gszOrganFile
+0x4522 10 9 sha1_done
+0x452c 19 18 _ZN8CScanLogC2EPKt
+0x453f 23 22 _ZN13CPatternDBMgrC1Ev
+0x4556 25 24 _Z16ConvertMountPathPcS_
+0x456f 25 24 _ZN10MCIntArray5WriteEPc
+0x4588 11 10 gnScanFlag
+0x4593 17 16 _Z10IsVideoDVDPc
+0x45a4 36 35 _ZN13CFileNameHash10InitEngineEPKcb
+0x45c8 13 12 file_showstr
+0x45d5 19 18 strtoul@@GLIBC_2.0
+0x45e8 27 26 __fprintf_chk@@GLIBC_2.3.4
+0x4603 15 14 gszConstSerial
+0x4612 26 25 _ZN10_tagOneLog5WriteEPKc
+0x462c 28 27 _ZN13CFileNameHash5WriteEPc
+0x4648 18 17 memset@@GLIBC_2.0
+0x465a 18 17 _ZN6CDBMgr4SaveEv
+0x466c 33 32 __gxx_personality_v0@@CXXABI_1.3
+0x468d 14 13 _Z9IsCheckedv
+0x469b 21 20 _Z13JpegFileCheckPKc
+0x46b0 27 26 _ZN17CUserPatternDBMgrC2Ev
+0x46cb 53 52 _ZN22MCSuffixTreeDictionary19PreCreateSuffixTreeEPKc
+0x4700 15 14 gszMsgDBUpdate
+0x470f 21 20 mp_read_unsigned_bin
+0x4724 23 22 iconv_close@@GLIBC_2.1
+0x473b 33 32 _ZN16CMultiPatternMgr8DictFreeEv
+0x475c 7 6 mp_cmp
+0x4763 29 28 backtrace_symbols@@GLIBC_2.1
+0x4780 34 33 mgl_agp_set_audio_samples_per_get
+0x47a2 13 12 s_mp_exptmod
+0x47af 56 55 _ZN17CUserPatternDBMgr24ExtractRecentPatternFileEPKcS1_
+0x47e7 85 84 _ZN17CUserPatternDBMgr7addDataEP18MCClassTempleArrayI12CCodeDataInxEPS0_I9CCodeDataE
+0x483c 12 11 gszDriveSep
+0x4848 17 16 gszOfficeExpPath
+0x4859 13 12 gszMsgNoRoot
+0x4866 15 14 magic_setflags
+0x4875 20 19 strftime@@GLIBC_2.0
+0x4889 12 11 gszMenuInfo
+0x4895 18 17 remove@@GLIBC_2.0
+0x48a7 20 19 setpwent@@GLIBC_2.0
+0x48bb 13 12 mp_init_size
+0x48c8 26 25 __memcpy_chk@@GLIBC_2.3.4
+0x48e2 9 8 s_mp_sqr
+0x48eb 26 25 _ZN13MCCalculateED4IsOKEi
+0x4905 13 12 gszPriHidden
+0x4912 27 26 _ZN8CScanLog7ScanLogEPKtcc
+0x492d 18 17 gmtime@@GLIBC_2.0
+0x493f 12 11 mp_dr_setup
+0x494b 41 40 _ZN22MCSuffixTreeDictionary9GetMemLenERi
+0x4974 11 10 gnChannels
+0x497f 17 16 _Z11readSettingv
+0x4990 10 9 des_setup
+0x499a 61 60 _ZN17CUserPatternDBMgr18getPackagePatternsEP13CPatternDBMgrl
+0x49d7 9 8 mgl_open
+0x49e0 20 19 __strdup@@GLIBC_2.0
+0x49f4 31 30 _ZN10_tagOneLog11GetCheckSumEv
+0x4a13 39 38 _Z14AddEncodedFileP15SEncodedFileMgrPc
+0x4a3a 52 51 _ZN18MCClassTempleArrayI12CCodeDataInxE9DeleteAllEv
+0x4a6e 12 11 file_tryelf
+0x4a7a 42 41 _ZN22MCSuffixTreeDictionary10FreeMemoryEv
+0x4aa4 15 14 _ZN6CDBMgrD0Ev
+0x4ab3 17 16 close@@GLIBC_2.0
+0x4ac4 45 44 _Z24FileDecodeProcess_OfficePcS_P9_tagOrgani
+0x4af1 16 15 dup2@@GLIBC_2.0
+0x4b01 32 31 _ZN8CScanLog13SetHardDiskIDEPKt
+0x4b21 14 13 prpsoffsets64
+0x4b2f 16 15 read@@GLIBC_2.0
+0x4b3f 45 44 _ZN22MCSuffixTreeDictionary10InitEngineEPKcb
+0x4b6c 42 41 _ZN17CUserPatternDBMgr15GetPackageIDBitEl
+0x4b96 58 57 _Z17EncodeBufferWritePKcP11_tagProfilePPhP13_tagOrganFile
+0x4bd0 21 20 _Z15UnloadOrganSoftv
+0x4be5 21 20 _Z14IsVideoDVDScanPc
+0x4bfa 17 16 abort@@GLIBC_2.0
+0x4c0b 13 12 gtUpdateTime
+0x4c18 28 27 _ZN10MCIntArray9RemoveAllEv
+0x4c34 28 27 _ZN14CFileNameArray4ReadEPc
+0x4c50 40 39 _Z17vcd_get_track_endP14mp_vcd_priv_sti
+0x4c78 13 12 gszFOpenFail
+0x4c85 32 31 _ZN12MCSuffixNode10FreeMemoryEv
+0x4ca5 7 6 mp_lcm
+0x4cac 24 23 _Unwind_Resume@@GCC_3.0
+0x4cc4 26 25 _ZN13CPatternDBMgr4SaveEl
+0x4cde 10 9 m_vcdPriv
+0x4ce8 14 13 _Z9load_datav
+0x4cf6 11 10 gszMsgInfo
+0x4d01 37 36 _ZN22MCSuffixTreeDictionary6CreateEb
+0x4d26 10 9 DESDecode
+0x4d30 36 35 _Z21GetOriginalFileLengthP8_IO_FILE
+0x4d54 41 40 _ZN17CUserPatternDBMgr12loadHeadOnlyEPKc
+0x4d7d 16 15 __libc_csu_fini
+0x4d8d 17 16 pause@@GLIBC_2.0
+0x4d9e 18 17 fclose@@GLIBC_2.1
+0x4db0 20 19 _Z14sigsegvhandleri
+0x4dc4 11 10 _Z3getjPKc
+0x4dcf 10 9 gszAllLog
+0x4dd9 11 10 gbASCMagic
+0x4de4 19 18 memmove@@GLIBC_2.0
+0x4df7 40 39 _ZN14CFileNameArray3AddEP12_tagFileName
+0x4e1f 11 10 magic_file
+0x4e2a 22 21 _ZN12MCMyIntArrayC1Ev
+0x4e40 12 11 gPatternMgr
+0x4e4c 18 17 HasKnownExtension
+0x4e5e 24 23 _Z16isRunningProcessPKc
+0x4e76 29 28 _ZTV22MCSuffixTreeDictionary
+0x4e93 68 67 _ZN13CPatternDBMgr10DeleteDataEP18MCClassTempleArrayI9CCodeDataES3_
+0x4ed7 42 41 _Z17AddEncodedFileCntP15SEncodedFileMgrPc
+0x4f01 9 8 main_ded
+0x4f0a 10 9 sha1_init
+0x4f14 16 15 _ZN7QStringD1Ev
+0x4f24 20 19 UnloadIMGLFunctions
+0x4f38 17 16 rmdir@@GLIBC_2.0
+0x4f49 11 10 file_reset
+0x4f54 17 16 ctime@@GLIBC_2.0
+0x4f65 11 10 magic_load
+0x4f70 49 48 _Z13VerifyProFileP12_tagFileTypeP13_tagOrganFile
+0x4fa1 18 17 unlink@@GLIBC_2.0
+0x4fb3 21 20 _ZTI14QPtrCollection
+0x4fc8 14 13 gszSetPatTime
+0x4fd6 11 10 mp_cmp_mag
+0x4fe1 17 16 ioctl@@GLIBC_2.0
+0x4ff2 15 14 _ZN6CDBMgrD2Ev
+0x5001 12 11 _ZTV6CDBMgr
+0x500d 28 27 _ZN8CScanLog11SetFileTimeEv
+0x5029 20 19 _Z12Mp3FileCheckPKc
+0x503d 18 17 _Z12release_datav
+0x504f 10 9 mp_mod_2d
+0x5059 45 44 _Z21SearchEncodedFileSizeP15SEncodedFileMgri
+0x5086 16 15 kill@@GLIBC_2.0
+0x5096 12 11 gnTotalByte
+0x50a2 28 27 _ZN11_tagLogFile7GetDateEPc
+0x50be 26 25 _ZN10_tagOneLog3AddEPKtcc
+0x50d8 19 18 gpsWordInformation
+0x50eb 20 19 release_disk_serial
+0x50ff 16 15 DESEncodeBuffer
+0x510f 18 17 stderr@@GLIBC_2.0
+0x5121 9 8 mp_2expt
+0x512a 22 21 WriteAudioInformation
+0x5140 22 21 _ZN6CDBMgr6SearchEPcl
+0x5156 18 17 system@@GLIBC_2.0
+0x5168 16 15 gszMsgScanStart
+0x5178 13 12 RSA_Encoding
+0x5185 24 23 _Z13UnicodeToUtf8PcPKti
+0x519d 17 16 _ZN8CScanLogD1Ev
+0x51ae 30 29 _ZN13CFileNameHash6CreateEPKc
+0x51cc 18 17 _Z12writeSettingv
+0x51de 15 14 __gmon_start__
+0x51ed 18 17 strcpy@@GLIBC_2.0
+0x51ff 24 23 _ZN14CFileNameArrayC1Ev
+0x5217 8 7 mp_rshd
+0x521f 27 26 _ZN13CFileNameHash3AddEPKc
+0x523a 38 37 _ZN9CDBInxMgr6SearchEPlPclbP8_IO_FILE
+0x5260 9 8 DVDClose
+0x5269 16 15 mmap@@GLIBC_2.0
+0x5279 54 53 _ZN22MCSuffixTreeDictionary6SearchEPKcP12_tagFileInfo
+0x52af 15 14 mp_clear_multi
+0x52be 9 8 igl_open
+0x52c7 31 30 __cxa_pure_virtual@@CXXABI_1.3
+0x52e6 31 30 _ZN16CMultiPatternMgr6FreeDBEv
+0x5305 21 20 localtime@@GLIBC_2.0
+0x531a 10 9 mp_s_rmap
+0x5324 19 18 _Z13LoadOrganSoftv
+0x5337 22 21 _ZN12MCSuffixNodeC2Ev
+0x534d 37 36 _ZN22MCSuffixTreeDictionary6DeleteEb
+0x5372 25 24 __assert_fail@@GLIBC_2.0
+0x538b 17 16 mpi_to_ltc_error
+0x539c 26 25 _ZN16CMultiPatternMgrD1Ev
+0x53b6 22 21 garWatermarkingBuffer
+0x53cc 17 16 _Z11IsTrueCDRomi
+0x53dd 29 28 _Z20DispatchNameToChkAppiPKc
+0x53fa 9 8 gpchFind
+0x5403 17 16 mp_dr_is_modulus
+0x5414 24 23 _Z17check_patternfilePc
+0x542c 30 29 _ZN14CFileNameArray6GetLenERi
+0x544a 40 39 _ZN13CPatternDBMgr12AddRawOSFileEPcPKcl
+0x5472 16 15 ImageProcessing
+0x5482 33 32 _ZN13CFileNameHash10InitializeEv
+0x54a3 14 13 mp_count_bits
+0x54b1 11 10 GetPattern
+0x54bc 21 20 _ZN11_tagLogFileC2Ev
+0x54d1 16 15 TOOM_SQR_CUTOFF
+0x54e1 56 55 _ZN22MCSuffixTreeDictionary9GetKeyStrEPcP12MCMyIntArray
+0x5519 11 10 IsAuthType
+0x5524 19 18 gszMsgDBOldVersion
+0x5537 25 24 _ZN9QSettings8endGroupEv
+0x5550 9 8 mp_mul_d
+0x5559 16 15 g_szProductDate
+0x5569 19 18 realloc@@GLIBC_2.0
+0x557c 17 16 gszOfficeExpFile
+0x558d 17 16 fopen@@GLIBC_2.1
+0x559e 19 18 _Z13get_file_sizet
+0x55b1 20 19 ganAmplitudeBuffer1
+0x55c5 5 4 load
+0x55ca 17 16 ftell@@GLIBC_2.0
+0x55db 22 21 __read_chk@@GLIBC_2.4

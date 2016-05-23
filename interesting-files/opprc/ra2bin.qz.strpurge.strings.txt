@@ -1,0 +1,317 @@
+0x807bc0c 14 13 dump_init.txt
+0x807bc1a 26 25 dictionary free success.\n
+0x807bc52 26 25 after LoadOrganSoft : %d\n
+0x807bc79 17 16 cp --force %s %s
+0x807bc9b 22 21 dictionary path = %s\n
+0x807bcbb 13 12 Warnning.wav
+0x807bcc8 20 19 /usr/lib/syspat.dat
+0x807bcdc 15 14 /usr/lib/organ
+0x807bd34 47 46 dictionary loading success : double engine %d\n
+0x807bdbf 28 27 \b/usr/share/e-sig/e_sig.dic
+0x807bddb 18 17 backtrace_symbols
+0x807be07 24 23 FileName %s, Device %s\n
+0x807be3d 19 18 check thread main\n
+0x807be59 11 10 /dev/cdrom
+0x807be86 15 14 /usr/bin/opprc
+0x807be95 16 15 /usr/bin/scnprc
+0x807bea5 25 24 /usr/lib/AudioSignal.dat
+0x807bebe 23 22 /etc/init/ctguard.conf
+0x807bed5 21 20 /usr/lib/libigl.so.0
+0x807beea 21 20 /usr/lib/libmgl.so.0
+0x807bf08 17 16 /dev/res error!\n
+0x807bf19 30 29 scan pthread_join failed: %d\n
+0x807bf37 13 12 /proc/mounts
+0x807bf44 21 20 cannot open dir: %s\n
+0x807bf5c 10 9 not root\n
+0x807bf66 16 15 modprobe rtscan
+0x807bf76 16 15 opprcmain error
+0x807bf8c 11 10 /proc/self
+0x807bf97 14 13 /proc/%s/task
+0x807bfa5 13 12 /proc/%s/exe
+0x807bfb2 12 11 dir error \n
+0x807bfbe 18 17 scan thread main\n
+0x807bfd0 19 18 /root/debuglog.txt
+0x807bfe3 14 13 ./soffice.bin
+0x807bff1 20 19 program/soffice.bin
+0x807c005 19 18 /usr/lib/ksmserver
+0x807c028 32 31 /usr/share/e-sig/e_sig.dic.back
+0x807c048 36 35 /usr/share/e-sig/e_sig.dic.back.chk
+0x807c06c 31 30 /usr/share/e-sig/e_sig.dic.chk
+0x807c08c 49 48 signum = %d : backtrace() returned %d addresses\n
+0x807c168 36 35 /usr/share/autostart/scnprc.desktop
+0x807c18c 32 31 scan pthread_create failed: %d\n
+0x807c1ac 33 32 check pthread_create failed: %d\n
+0x807c1d0 31 30 check pthread_join failed: %d\n
+0x807c1f0 42 41 receive exit signal = %d. real time stop\n
+0x807c21c 31 30 read self process information\n
+0x807c23c 35 34 /root/.kde/share/config/kdeglobals
+0x807c260 51 50 /Applications/Preview.app/Contents/RedStar/preview
+0x807c294 56 55 /Applications/SGOffice.app/Contents/RedStar/soffice.bin
+0x807c2cc 55 54 /Applications/QuickTime.app/Contents/RedStar/quicktime
+0x807c304 57 56 /Applications/SimpleText.app/Contents/RedStar/simpletext
+0x807c340 47 46 /Applications/Naenara.app/Contents/lib/firefox
+0x807c370 56 55 /Applications/CHMViewer.app/Contents/RedStar/kchmviewer
+0x807c3d8 198 197 .mpg.dat.avi.vob.gif.doc.pdf.ppt.xls.mp3.wav.mpa.wma.asf.mp2..jpg.bmp.png.tif.jpeg.tiff.mov.wmv.mp4.rm.rmv.rmvb.swf.flv.3gp.chm..djuv.djv.caj.kdh.teb.nh.caa.docx.xlsx.pptx.txt.htm.html.mht.hwp.pdg.
+0x807c4a0 31 30 aplay -N /usr/lib/Warnning.wav
+0x807c4bf 18 17 /usr/lib/java-1.0
+0x807c4dd 12 11 eject -m %s
+0x807c4f5 17 16 /proc/%d/cmdline
+0x807c50e 27 26 read CDROM toc header: %s\n
+0x807c529 16 15 ioctl dif2: %s\n
+0x807c539 16 15 ioctl dif1: %s\n
+0x807c549 26 25 read CDROM toc entry: %s\n
+0x807c563 23 22 Failed to open CD-ROM\n
+0x807c57a 22 21 Failed to get cd toc\n
+0x807c590 18 17 Can not open VCD\n
+0x807c5a9 26 25 Can not open out file %s\n
+0x807c5c3 30 29 Failed to read data of track\n
+0x807c5e1 27 26 Can not write out file %s\n
+0x807c5fc 36 35 hald-addon-storage: polling /dev/sr
+0x807c620 40 39 ps -e | grep ksmserver | wc -l > /1.txt
+0x807c648 34 33 process is already running %s %s\n
+0x807c67c 23 22 process first running\n
+0x807c6af 20 19 \b16CMultiPatternMgr
+0x807c6d6 12 11 UnkFunc => 
+0x807cb30 17 16 /usr/share/magic
+0x807cb41 17 16 /usr/lib/magiccb
+0x807cb52 15 14 /usr/bin/opprc
+0x807cb82 12 11 /updatetime
+0x807cba5 15 14 /tmp/AnGae.dat
+0x807cbb4 16 15 /tmp/scnprc.ini
+0x807cbc4 15 14 /tmp/OSUpdate/
+0x807cbd3 21 20 /tmp/fdas_update.udb
+0x807cbe8 19 18 /usr/bin/runoncerf
+0x807cbfb 22 21 /etc/init.d/runoncerf
+0x807cc11 13 12 FileName.bin
+0x807cc1e 25 24 /program/fdas_update.udb
+0x807cc40 15 14 /tmp/AnGae.dat
+0x807cd44 16 15 /tmp/scnprc.ini
+0x807ce48 21 20 /usr/bin/redflag.bmp
+0x807cf4c 25 24 /usr/lib/AudioSignal.dat
+0x807d050 22 21 /usr/lib/Warnning.wav
+0x807d154 21 20 /usr/lib/libigl.so.0
+0x807d258 21 20 /usr/lib/libmgl.so.0
+0x807d35c 17 16 /usr/lib/magiccb
+0x807d460 45 44 /usr/share/locale/ko_KP/LC_MESSAGES/organ.mo
+0x807d564 46 45 /usr/share/locale/ko_KP/LC_MESSAGES/scnprc.mo
+0x807d668 19 18 /usr/bin/runoncerf
+0x807d870 20 19 /usr/lib/tmpsrc.tmp
+0x807d88b 15 14 %s%s%s_lnk%s%s
+0x807d89a 13 12 %s%s%s%s.lnk
+0x807d8eb 23 22 /usr/tmp/kdecache-1025
+0x807d98b 20 19 Input DataLength = 
+0x807d99f 12 11 \nNo match!\n
+0x807d9ab 26 25 \nEncrypt and Decrypt OK!\n
+0x807d9c8 41 40 \nDataLength have to be a multiple of 4!\n
+0x807da00 16 15 des_ecb_decrypt
+0x808621d 19 18 @@@des_ecb_encrypt
+0x8086360 12 11 /tmp/tmpdev
+0x808636c 20 19 hard disk s/n : %s\n
+0x8086392 24 23 get disk serial number\n
+0x80863aa 24 23 string length = %d, %s\n
+0x80863c2 19 18 get disk s/n fail\n
+0x80864c9 25 24 src/UserPatternDBMgr.cpp
+0x80864e2 21 20 nPartLen < nBuffSize
+0x80864fb 14 13 nCmpFlag <= 0
+0x8086509 9 8 _001.tmp
+0x8086540 35 34 void repeatData(char*, int, int32)
+0x8086580 58 57 int32 CUserPatternDBMgr::loadDB(const TCHAR*, bool, bool)
+0x80865ef 12 11 \b9CDBInxMgr
+0x8086601 10 9 e\b\bhash.c
+0x8086654 14 13 sha1_compress
+0x808666c 13 12 sha1_process
+0x8086679 22 21 PublicKey Filename = 
+0x808668f 21 20 \nMessage Filename = 
+0x80866a4 18 17 \nSign Filename = 
+0x80866b6 11 10 Error: %s\n
+0x80866c9 23 22 PrivateKey Filename = 
+0x80866e0 28 27 RSA signed hash: %lu bytes\n
+0x8086704 43 42 Took %.0f ms to make a %ld-byte RSA Sign.\n
+0x808673a 22 21 zDInvalid error code.
+0x8086801 17 16 Buffer overflow.
+0x8086812 22 21 Invalid input packet.
+0x8086828 24 23 Error reading the PRNG.
+0x8086840 26 25 Invalid cipher specified.
+0x808685a 24 23 Invalid hash specified.
+0x8086872 24 23 Invalid PRNG specified.
+0x808688a 15 14 Out of memory.
+0x8086899 30 29 A private PK key is required.
+0x80868b7 27 26 Invalid argument provided.
+0x80868d2 15 14 File Not Found
+0x80868e1 17 16 Invalid PK type.
+0x80868f2 19 18 Invalid PK system.
+0x8086905 26 25 Key not found in keyring.
+0x808691f 25 24 Invalid sized parameter.
+0x8086938 24 23 Invalid size for prime.
+0x8086960 16 15 rsa_verify_hash
+0x8086970 14 13 rsa_sign_hash
+0x808697e 14 13 rsa_signdepad
+0x808698c 12 11 rsa_signpad
+0x8086998 11 10 rsa_import
+0x80869a3 12 11 rsa_exptmod
+0x80869b8 20 19 packet_store_header
+0x80869cc 20 19 packet_valid_header
+0x8086a59 15 14 i\b\b8i\b\bzeromem
+0x8086a68 36 35 Non-fatal 'no-operation' requested.
+0x8086a8c 34 33 Invalid keysize for block cipher.
+0x8086ab0 43 42 Invalid number of rounds for block cipher.
+0x8086adc 31 30 Algorithm failed test vectors.
+0x8086afc 35 34 Invalid number of bits for a PRNG.
+0x8086b20 51 50 Invalid PK key or key type specified for function.
+0x8086b54 35 34 Duplicate PK key found on keyring.
+0x8086b78 65 64 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz+/
+0x808712f 25 24 \bigl_handle = NULL : %s\n
+0x808715b 16 15 igl_get_rgbdata
+0x808716b 16 15 igl_put_rgbdata
+0x808717b 24 23 dlopen mgl_handle : %s\n
+0x80871a5 13 12 mgl_agp_open
+0x80871b2 26 25 mgl_agp_get_audio_pcmdata
+0x80871cc 26 25 mgl_agp_put_audio_pcmdata
+0x80871e6 14 13 mgl_agp_close
+0x80871fd 25 24 get mgl_open error : %s\n
+0x8087220 22 21 mgl_get_audio_pcmdata
+0x8087236 22 21 mgl_put_audio_pcmdata
+0x808724c 32 31 get igl_open symbol error : %s\n
+0x808726c 33 32 get igl_close symbol error : %s\n
+0x8087290 39 38 get igl_get_rgbdata symbol error : %s\n
+0x80872b8 39 38 get igl_put_rgbdata symbol error : %s\n
+0x80872e0 32 31 get mgl_init symbol error : %s\n
+0x8087300 32 31 get mgl_free symbol error : %s\n
+0x8087320 36 35 get mgl_agp_open symbol error : %s\n
+0x8087344 34 33 mgl_agp_set_audio_samples_per_get
+0x8087368 57 56 get mgl_agp_set_audio_samples_per_get symbol error : %s\n
+0x80873a4 49 48 get mgl_agp_get_audio_pcmdata symbol error : %s\n
+0x80873d8 49 48 get mgl_agp_put_audio_pcmdata symbol error : %s\n
+0x808740c 37 36 get mgl_agp_close symbol error : %s\n
+0x8087434 33 32 get mgl_close symbol error : %s\n
+0x8087458 45 44 get mgl_get_audio_pcmdata symbol error : %s\n
+0x8087488 45 44 get mgl_put_audio_pcmdata symbol error : %s\n
+0x8087def 8 7 \broot\r\n
+0x8087e0f 27 24 Dictionary Count = %d개\r\n
+0x8087e2a 14 13 tree empty.\r\n
+0x8087e46 27 26 \a\b22MCSuffixTreeDictionary
+0x8087e6e 14 13 /USMain_A.std
+0x8087e7c 14 13 /USMain_A.dat
+0x8087f80 1293 1292 .css.dun.ini.isp.obe.dll.exe.log.cpx.inf.rsp.txt.bin.sql.scf.cfg.rat.sys.ddb.bat.htm.htt.js.vbs.lgc.sam.mydocs.---.dat.bak.cb.inc.reg.cnt.ins.scp.icw.ver.cif.lko.001.002.003.004.005.tbl.asm.6a.faq.1st.h.c.cpp.xml.dsp.dsw.rc2.rc.lgd.doc.bas.cod.diz.env.frm.hhp.lid.lst.msg.nfo.product.rgs.vbw.joboptions.wpl.php.map.tem.dsk.c70.sts.err.def.lnk.dos.win.mkf.dlg.ctt.inl.fd.fi.mof.xsl.vxd.hxx.eng.enu.nld.sep.tha.nt.cmd.srg.asp.theme.xdr.kbd.klb.set.lck.liveupdate.acrodata.ps.tmp.htc.vps.cnf.dic.sln.pak.vtm.bbs.clw.stf.vsdir.col.vbp.cls.idl.vaf.vap.mnu.pty.tip.ctl.dsr.dsm.vbz.dob.odl.csv.rcv.mc.hh.mk.prf.s.sub.iqy.ecf.det.url.cxx.asa.pl.hpp.acf.uni.vpj.vpw.cs.csproj.pag.hm.md5.vbg.ara.cat.chs.cht.csy.dan.deu.ell.esn.eti.euq.fin.fra.heb.hrv.hun.ita.jpn.kor.lth.lvi.nor.plk.ptb.ptg.rom.rus.sky.slv.sve.trk.vit.ldt.html.dsn.java.vbr.tlh.tli.vsz.user.ida.idq.htx.smp.hpj.guid.asmx.lpk.gak.w16.vsh.x.vb.vbproj.h16.hxt.hid.ggx.rst.lng.stp.syx.std.cmp.thd.sequ.nsi.key.cws.grd.tag.tsk.pem.idc.idt.pat.exc.rh.mak.uns.ldf.src.sif.iss.ldi.nif.mif.scr.sdb.pdi.sp1.sp2.dep.adm.pkp.gpz.dbp.bad.plg.utf8.asd.ctx.pcp.pdm.lic.vip.dtd.am.in.py.selinux.fsdump.quick.plo.lai.magic.la.debian.core64.m4.notice.sh.man.file.isprint.64bit.corefile.conf.po.ld.menu.kdevelop.spec.gen.usbkey.filelist.tex.lis.old.org.
+0x80884b2 11 10 very short
+0x80884c7 11 10 WAVE audio
+0x80884d2 14 13 Microsoft ASF
+0x80884e4 26 25 RIFF (little-endian) data
+0x80884fe 14 13 MPEG sequence
+0x8088516 16 15 QuickTime movie
+0x8088526 23 22 Macromedia Flash Video
+0x808853d 22 21 Macromedia Flash data
+0x808855d 16 15 JPEG image data
+0x808856d 12 11 bitmap data
+0x8088579 16 15 TIFF image data
+0x8088589 15 14 GIF image data
+0x8088598 15 14 PNG image data
+0x80885b3 26 25 Microsoft Office Document
+0x80885cd 13 12 PDF document
+0x80885da 17 16 Windows HtmlHelp
+0x80885eb 11 10 DjVu Image
+0x80885f6 11 10 CAJ Viewer
+0x8088601 22 21 Microsoft Office 2007
+0x8088617 16 15 Hangul (Korean)
+0x8088627 11 10 PDG Viewer
+0x808864b 17 16 /usr/lib/magiccb
+0x808865c 23 22 magic file load fail!\n
+0x8088673 26 25 magic file load success!\n
+0x808868d 12 11 binary data
+0x80886a4 31 30 Microsoft Cabinet archive data
+0x80886c4 36 35 .caj.kdh.teb.nh.caa.docx.xlsx.pptx.
+0x80886e8 11 10 writable, 
+0x80886f3 13 12 executable, 
+0x8088700 15 14 regular file, 
+0x808870f 19 18 no read permission
+0x8088722 17 16 cannot read `%s'
+0x8088733 20 19 application/x-empty
+0x8088747 27 26 very short file (no magic)
+0x8088767 27 26 cannot happen: m->type=%d\n
+0x8088782 17 16 cannot stat `%s'
+0x8088793 23 22 file `%s' is too small
+0x80887aa 16 15 cannot map `%s'
+0x80887ba 18 17 bad magic in `%s'
+0x80887cc 24 23 invalid magic file name
+0x80887e4 28 27 cannot read magic file `%s'
+0x8088800 20 19 offset `%s' invalid
+0x8088868 11 10 bestring16
+0x8088873 11 10 lestring16
+0x8088885 18 17 type `%s' invalid
+0x8088897 30 29 string extension `%c' invalid
+0x80888b5 22 21 string too long: `%s'
+0x80888cb 28 27 cannot get string from `%s'
+0x80888ed 11 10 /etc/magic
+0x80888f8 30 29 using regular magic file `%s'
+0x8088a40 40 39 cont\toffset\ttype\topcode\tmask\tvalue\tdesc
+0x8088b32 38 37 \b\bversion mismatch (%d != %d) in `%s'
+0x8088b58 34 33 indirect offset type `%c' invalid
+0x8088b7c 31 30 missing ')' in indirect offset
+0x8088b9c 64 63 Internal error inconsistency between m->type and format strings
+0x8088bdc 48 47 No format string for `%s' with description `%s'
+0x8088c0c 66 65 Printf format `%c' is not valid for type `%s' in description `%s'
+0x8088c50 34 33 Invalid format `%s' for type `%s'
+0x8088c74 32 31 could not find any magic files!
+0x8088c94 27 26 , bad note name size 0x%lx
+0x8088cb3 11 10 , for GNU/
+0x8088ce5 13 12 , for NetBSD
+0x8088cfb 14 13 , for FreeBSD
+0x8088d1d 14 13 , for OpenBSD
+0x8088d2b 16 15 , for DragonFly
+0x8088d47 11 10 , %s-style
+0x8088d61 13 12  (signal %u)
+0x8088d81 11 10 statically
+0x8088d8c 12 11 dynamically
+0x8088d98 20 19  (uses shared libs)
+0x8088dac 14 13 , %s linked%s
+0x8088dbf 13 12 , %sstripped
+0x8088dd4 34 33 , bad note description size 0x%lx
+0x8088df8 32 31 , corrupted program header size
+0x8088e18 31 30 , invalid note alignment 0x%lx
+0x8088e38 32 31 , corrupted section header size
+0x8088e58 32 31 Cannot allocate memory for note
+0x8088e82 17 16 \b\b*Invalid time*
+0x8088e93 18 17 %s, %lu: Warning 
+0x8088f92 24 23 \b\bcannot open `%s' (%s)
+0x8088fcc 28 27 character special (%ld/%ld)
+0x8088fe8 24 23 block special (%ld/%ld)
+0x8089000 18 17 fifo (named pipe)
+0x8089012 24 23 unreadable symlink `%s'
+0x808902a 29 28 unreadable symlink `%s' (%s)
+0x8089047 29 28 broken symbolic link to `%s'
+0x8089064 20 19 path too long: `%s'
+0x808907f 17 16 invalid mode 0%o
+0x8089090 31 30 application/x-not-regular-file
+0x80890af 22 21 no magic files loaded
+0x80890c5 14 13 error reading
+0x80890d3 14 13 error seeking
+0x80890e1 23 22 cannot allocate memory
+0x80890f8 25 24 application/octet-stream
+0x8089111 28 27 invalid type %d in mcheck()
+0x80891cf 30 29 Cannot allocate search buffer
+0x80891ed 30 29 invalid type %d in mconvert()
+0x8089210 37 36 cannot happen: invalid relation `%c'
+0x8089238 33 32 invalid m->type (%d) in mprint()
+0x808958a 11 10 \a\bus-ascii
+0x8089595 11 10 iso-8859-1
+0x80895af 14 13 UTF-8 Unicode
+0x80895bd 15 14 character data
+0x80895d3 26 25 Big-endian UTF-16 Unicode
+0x80895ed 29 28 Little-endian UTF-16 Unicode
+0x8089612 23 22 Non-ISO extended-ASCII
+0x8089630 21 20 International EBCDIC
+0x8089645 11 10 text/plain
+0x8089650 11 10 ; charset=
+0x8089666 18 17  line terminators
+0x8089811 11 10 jklmnopqr^
+0x808988f 19 18 cannot create pipe
+0x80898a2 15 14 could not fork
+0x80898c1 11 10 uncompress
+0x80898f0 43 42 cannot create temporary file for pipe copy
+0x808991c 37 36 error copying from pipe to temp file
+0x8089944 33 32 error while writing to temp file
+0x8089968 39 38 could not dup descriptor for temp file
+0x8090be0 14 13 /usr/lib/1025
+0x8090ce4 17 16 /usr/lib/pattern
+0x8090cf5 16 15 /usr/lib/recent
+0x8090d16 19 18 \a\bwwwwwwwwwwwwvwww
